@@ -21,7 +21,7 @@ import os
 import sys
 import random
 import time
-
+import datetime
 
 def check_args(file_args):
     """
@@ -90,13 +90,29 @@ def estimate_file_size(weather_station_names, num_rows_to_create):
     # avg_temp_bytes = sum(len(str(n / 10.0)) for n in range(-999, 1000)) / 1999
     avg_temp_bytes = 4.400200100050025
 
-    # add 2 for separator and newline
-    avg_line_length = avg_name_bytes + avg_temp_bytes + 2
-
+    # timestamp length 
+    datetime_length = len('2024-03-24 06:53:27')
+    # add 3 for separators and newline
+    avg_line_length = avg_name_bytes + avg_temp_bytes + 3 + datetime_length
+    
     human_file_size = convert_bytes(num_rows_to_create * avg_line_length)
 
     return f"Estimated max file size is:  {human_file_size}."
 
+def count_rows_in_file(file_path):
+    with open(file_path, 'r') as file:
+        row_count = sum(1 for line in file)
+    return row_count
+
+def memoize_increment(station, starttime):
+    current_time = starttime
+    def wrapper():
+        nonlocal current_time
+        coldest_temp = -99.9
+        hottest_temp = 99.9
+        current_time += datetime.timedelta(seconds=100)
+        return f"{station};{current_time};{random.uniform(coldest_temp, hottest_temp):.1f}"
+    return wrapper
 
 def build_test_data(weather_station_names, num_rows_to_create):
     """
@@ -106,34 +122,44 @@ def build_test_data(weather_station_names, num_rows_to_create):
     coldest_temp = -99.9
     hottest_temp = 99.9
     station_names_10k_max = random.choices(weather_station_names, k=10_000)
-    batch_size = 10000 # instead of writing line by line to file, process a batch of stations and put it to disk
+    batch_size = 1000000 # instead of writing line by line to file, process a batch of stations and put it to disk
     chunks = num_rows_to_create // batch_size
     print('Building test data...')
+    seconds_between_values = 100
+    measurements = len(weather_station_names)
+    seconds_since_start = int(num_rows_to_create*seconds_between_values/measurements)
+    start_datetime = datetime.datetime.now() - datetime.timedelta(seconds=seconds_since_start)
+    start_datetime = start_datetime.replace(microsecond=0)
+    stations = [memoize_increment(station=station, starttime=start_datetime) for station in station_names_10k_max]
 
-    try:
-        with open("../../../data/measurements.txt", 'w') as file:
-            progress = 0
-            for chunk in range(chunks):
-                
-                batch = random.choices(station_names_10k_max, k=batch_size)
-                prepped_deviated_batch = '\n'.join([f"{station};{random.uniform(coldest_temp, hottest_temp):.1f}" for station in batch]) # :.1f should quicker than round on a large scale, because round utilizes mathematical operation
+    print("Data start time: ", start_datetime)
+    file_count = 0
+    progress = 0
+    for chunk in range(chunks):
+        #batch = random.choices(station_names_10k_max, k=batch_size)
+        batch = random.choices(stations, k=batch_size)
+        #prepped_deviated_batch = '\n'.join([f"{station};{random.uniform(coldest_temp, hottest_temp):.1f}" for station in batch]) # :.1f should quicker than round on a large scale, because round utilizes mathematical operation
+        prepped_deviated_batch = '\n'.join(station() for station in batch)
+        try:
+            with open(f"../../../data/measurements_{file_count}.txt", 'w') as file:
                 file.write(prepped_deviated_batch + '\n')
-                
-                # Update progress bar every 1%
-                if (chunk + 1) * 100 // chunks != progress:
-                    progress = (chunk + 1) * 100 // chunks
-                    bars = '=' * (progress // 2)
-                    sys.stdout.write(f"\r[{bars:<50}] {progress}%")
-                    sys.stdout.flush()
-        sys.stdout.write('\n')
-    except Exception as e:
-        print("Something went wrong. Printing error info and exiting...")
-        print(e)
-        exit()
+            file_count += 1
+        except Exception as e:
+            print("Something went wrong. Printing error info and exiting...")
+            print(e)
+            exit()
+        # Update progress bar every 1%
+        if (chunk + 1) * 100 // chunks != progress:
+            progress = (chunk + 1) * 100 // chunks
+            bars = '=' * (progress // 2)
+            
+            sys.stdout.write(f"\r[{bars:<50}] {progress}%")
+            sys.stdout.flush()
+    sys.stdout.write('\n')
     
     end_time = time.time()
     elapsed_time = end_time - start_time
-    file_size = os.path.getsize("../../../data/measurements.txt")
+    file_size = os.path.getsize("../../../data/measurements_0.txt")
     human_file_size = convert_bytes(file_size)
  
     print("Test data successfully written to 1brc/data/measurements.txt")
