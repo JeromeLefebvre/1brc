@@ -122,7 +122,7 @@ def build_test_data(weather_station_names, num_rows_to_create):
     coldest_temp = -99.9
     hottest_temp = 99.9
     station_names_10k_max = random.choices(weather_station_names, k=10_000)
-    batch_size = 1000000 # instead of writing line by line to file, process a batch of stations and put it to disk
+    batch_size = 1000 # instead of writing line by line to file, process a batch of stations and put it to disk
     chunks = num_rows_to_create // batch_size
     print('Building test data...')
     seconds_between_values = 100
