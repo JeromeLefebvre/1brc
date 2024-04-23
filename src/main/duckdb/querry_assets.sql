@@ -1,0 +1,5 @@
+select split_part(filename[3:],'.', 1), unnest(results).geometry.lat as results from read_json('./*.json', filename=true);
+
+select split_part(split_part(filename,'/', -1), '.', 1) as city, results[1].components.country as country, results[1].annotations.flag as flag, results[1].geometry.lat as latitude, results[1].geometry.lng as longitude, results[1].annotations.what3words.words threeWords from read_json('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', filename=true) where country = 'Japan' order by threeWords;
+
+select first(split_part(split_part(filename,'/', -1), '.', 1)) as city, any_Value(results[1].components.country) as country, results[1].annotations.what3words.words threeWords from read_json('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', filename=true)  where country = 'Japan' group by country, threeWords;
