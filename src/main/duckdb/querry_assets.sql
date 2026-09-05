@@ -1,5 +1,37 @@
-select split_part(filename[3:],'.', 1), unnest(results).geometry.lat as results from read_json('./*.json', filename=true);
+/* Each file is made up of a JSON object */
+select filename, results from read_json('../../../asset data/*.json', filename=true, ignore_errors=true) limit 6;
 
-select split_part(split_part(filename,'/', -1), '.', 1) as city, results[1].components.country as country, results[1].annotations.flag as flag, results[1].geometry.lat as latitude, results[1].geometry.lng as longitude, results[1].annotations.what3words.words threeWords from read_json('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', filename=true) where country = 'Japan' order by threeWords;
+select filename, results[1]->'geometry' from read_json('../../../asset data/*.json', filename=true, ignore_errors=true) limit 6;
 
-select first(split_part(split_part(filename,'/', -1), '.', 1)) as city, any_Value(results[1].components.country) as country, results[1].annotations.what3words.words threeWords from read_json('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', filename=true)  where country = 'Japan' group by country, threeWords;
+CREATE TABLE cities AS
+SELECT  split_part(split_part(filename,'/',-1),'.',1) AS city
+       ,results[1].components.country                 AS country
+       ,results[1].geometry.lat                       AS latitude
+       ,results[1].geometry.lng                       AS longitude
+       ,results[1].components.state state
+FROM read_json
+('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', filename = true)
+WHERE country = 'Japan'
+AND state LIKE 'Hokkaido%';
+
+load 'h3ext';
+
+select h3_latlng_to_cell(43.1954132, 140.7835618, 1);
+
+select *, h3_latlng_to_cell(latitude, longitude,1) as cell from cities;
+
+select any_value(city), h3_latlng_to_cell(latitude, longitude, 2) as cell from cities group by cell;
+
+CREATE TABLE allcities AS
+SELECT  split_part(split_part(filename,'/',-1),'.',1) AS city
+       ,results[1].components.country                 AS country
+       ,results[1].geometry.lat                       AS latitude
+       ,results[1].geometry.lng                       AS longitude
+       ,results[1].components.state state
+FROM read_json
+('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', filename = true)
+
+CREATE or replace TABLE allcities AS
+SELECT *
+FROM read_json
+('/Users/jeromelefebvre/GitHub/python-1brc/asset data/*.json', ignore_errors= true, filename = true);
