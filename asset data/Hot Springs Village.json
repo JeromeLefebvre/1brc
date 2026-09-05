@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1516,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 40' 19.32816'' N",
+                    "lng": "92\u00b0 59' 55.63896'' W"
+                },
+                "FIPS": {
+                    "county": "05051",
+                    "state": "05"
+                },
+                "MGRS": "15SWU0011036674",
+                "Maidenhead": "EM34mq01dg",
+                "Mercator": {
+                    "x": -10352577.791,
+                    "y": 4095093.59
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=33068277#map=17/34.67204/-92.99879",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.67204/-92.99879&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.67204&mlon=-92.99879#map=17/34.67204/-92.99879"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yjv5zb75pvhsg587gq8",
+                "qibla": 45.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714735200,
+                        "astronomical": 1714729560,
+                        "civil": 1714733580,
+                        "nautical": 1714731600
+                    },
+                    "set": {
+                        "apparent": 1714697880,
+                        "astronomical": 1714703520,
+                        "civil": 1714699500,
+                        "nautical": 1714701480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "discerning.constructing.alarmed"
+                },
+                "wikidata": "Q2586340"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.712649,
+                    "lng": -92.923818
+                },
+                "southwest": {
+                    "lat": 34.618089,
+                    "lng": -93.07291
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hot Springs Village",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Garland County",
+                "locality": "Hot Springs Village",
+                "postcode": "71909",
+                "state": "Arkansas",
+                "state_code": "AR"
+            },
+            "confidence": 6,
+            "formatted": "Hot Springs Village, Garland County, AR 71909, United States of America",
+            "geometry": {
+                "lat": 34.6720356,
+                "lng": -92.9987886
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:47:30 GMT",
+        "created_unix": 1714697250
+    },
+    "total_results": 1
+}

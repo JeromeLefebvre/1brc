@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1903,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 4' 23.81520'' N",
+                    "lng": "131\u00b0 52' 22.39320'' E"
+                },
+                "MGRS": "52SGB6819663082",
+                "Maidenhead": "PM53wb47ro",
+                "Mercator": {
+                    "x": 14680022.63,
+                    "y": 3881718.864
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8720030656#map=17/33.07328/131.87289",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.07328/131.87289&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.07328&mlon=131.87289#map=17/33.07328/131.87289"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvvu0ufcufxeckt0jw4j",
+                "qibla": 289.21,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714163520,
+                        "astronomical": 1714158120,
+                        "civil": 1714161960,
+                        "nautical": 1714160100
+                    },
+                    "set": {
+                        "apparent": 1714125000,
+                        "astronomical": 1714130340,
+                        "civil": 1714126560,
+                        "nautical": 1714128420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "bulb.bands.founding"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.083282,
+                    "lng": 131.882887
+                },
+                "southwest": {
+                    "lat": 33.063282,
+                    "lng": 131.862887
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-44"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tsukumi",
+                "_type": "neighbourhood",
+                "city": "Tsukumi",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "postcode": "879-2435",
+                "province": "Oita Prefecture",
+                "quarter": "Tsukumiura",
+                "state": "Oita Prefecture"
+            },
+            "confidence": 7,
+            "formatted": "Tsukumiura, Tsukumi, Oita Prefecture 879-2435, Japan",
+            "geometry": {
+                "lat": 33.073282,
+                "lng": 131.872887
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:17:51 GMT",
+        "created_unix": 1714169871
+    },
+    "total_results": 1
+}

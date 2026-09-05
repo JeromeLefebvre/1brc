@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1438,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 16' 38.18352'' N",
+                    "lng": "72\u00b0 24' 2.86776'' W"
+                },
+                "FIPS": {
+                    "county": "25015",
+                    "state": "25"
+                },
+                "MGRS": "18TYM1432983833",
+                "Maidenhead": "FN32tg16vn",
+                "Mercator": {
+                    "x": -8059619.811,
+                    "y": 5173851.943
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1839151#map=17/42.27727/-72.40080",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.27727/-72.40080&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.27727&mlon=-72.40080#map=17/42.27727/-72.40080"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drs882r6gnvjypyv5zs6",
+                "qibla": 59.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714902000,
+                        "astronomical": 1714895340,
+                        "civil": 1714900140,
+                        "nautical": 1714897860
+                    },
+                    "set": {
+                        "apparent": 1714953180,
+                        "astronomical": 1714873500,
+                        "civil": 1714868640,
+                        "nautical": 1714870980
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "jetliner.enveloped.engines"
+                },
+                "wikidata": "Q2414308"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.3587507,
+                    "lng": -72.3315354
+                },
+                "southwest": {
+                    "lat": 42.1857368,
+                    "lng": -72.4722887
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Belchertown",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hampshire County",
+                "postcode": "01007",
+                "state": "Massachusetts",
+                "state_code": "MA",
+                "town": "Belchertown"
+            },
+            "confidence": 5,
+            "formatted": "Belchertown, MA 01007, United States of America",
+            "geometry": {
+                "lat": 42.2772732,
+                "lng": -72.4007966
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:28:41 GMT",
+        "created_unix": 1714901321
+    },
+    "total_results": 1
+}

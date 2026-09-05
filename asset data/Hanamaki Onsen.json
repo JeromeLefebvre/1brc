@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1492,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 27' 13.75200'' N",
+                    "lng": "141\u00b0 4' 9.73200'' E"
+                },
+                "MGRS": "54SWJ0596867141",
+                "Maidenhead": "QM09mk88hw",
+                "Mercator": {
+                    "x": 15703770.435,
+                    "y": 4759730.465
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.45382/141.06937&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.45382&mlon=141.06937#map=17/39.45382/141.06937"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xph26n7e4t4795wth24x",
+                "qibla": 293.52,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713470160,
+                        "astronomical": 1713464400,
+                        "civil": 1713468480,
+                        "nautical": 1713466500
+                    },
+                    "set": {
+                        "apparent": 1713431700,
+                        "astronomical": 1713437520,
+                        "civil": 1713433380,
+                        "nautical": 1713435420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "offside.sector.bathing"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Hanamaki Onsen",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "state": "Iwate",
+                "town": "Hanamaki Onsen"
+            },
+            "confidence": 9,
+            "formatted": "Hanamaki Onsen, Iwate, Japan",
+            "geometry": {
+                "lat": 39.45382,
+                "lng": 141.06937
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:49:14 GMT",
+        "created_unix": 1713440954
+    },
+    "total_results": 1
+}

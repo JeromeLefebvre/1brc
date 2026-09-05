@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1210,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "5\u00b0 0' 0.00000'' S",
+                    "lng": "80\u00b0 19' 59.99880'' W"
+                },
+                "MGRS": "17MNQ7390447298",
+                "Maidenhead": "EI95ua00aa",
+                "Mercator": {
+                    "x": -8942665.723,
+                    "y": -553583.847
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1986151#map=17/-5.00000/-80.33333",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-5.00000/-80.33333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-5.00000&mlon=-80.33333#map=17/-5.00000/-80.33333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "LATIN_AMERICA": "419",
+                        "PE": "604",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 51,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "S/",
+                    "iso_code": "PEN",
+                    "iso_numeric": "604",
+                    "name": "Peruvian Sol",
+                    "smallest_denomination": 1,
+                    "subunit": "C\u00e9ntimo",
+                    "subunit_to_unit": 100,
+                    "symbol": "S/",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddea",
+                "geohash": "6pngecz0csmq5p15ecyb",
+                "qibla": 68.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714648860,
+                        "astronomical": 1714644600,
+                        "civil": 1714647600,
+                        "nautical": 1714646100
+                    },
+                    "set": {
+                        "apparent": 1714691700,
+                        "astronomical": 1714609560,
+                        "civil": 1714692960,
+                        "nautical": 1714608060
+                    }
+                },
+                "timezone": {
+                    "name": "America/Lima",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "slapdash.hooded.trial"
+                },
+                "wikidata": "Q208183"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -4.0793275,
+                    "lng": -79.2103311
+                },
+                "southwest": {
+                    "lat": -6.3720882,
+                    "lng": -81.3282305
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PE",
+                "ISO_3166-1_alpha-3": "PER",
+                "ISO_3166-2": [
+                    "PE-PIU"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "South America",
+                "country": "Peru",
+                "country_code": "pe",
+                "state": "Piura",
+                "state_code": "PIU"
+            },
+            "confidence": 1,
+            "formatted": "Piura, Peru",
+            "geometry": {
+                "lat": -5.0,
+                "lng": -80.333333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:48:35 GMT",
+        "created_unix": 1714693715
+    },
+    "total_results": 1
+}

@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 909,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 43' 55.35444'' N",
+                    "lng": "73\u00b0 11' 8.41308'' W"
+                },
+                "FIPS": {
+                    "county": "36103",
+                    "state": "36"
+                },
+                "MGRS": "18TXL5320810595",
+                "Maidenhead": "FN30jr75rq",
+                "Mercator": {
+                    "x": -8146991.551,
+                    "y": 4945010.332
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175733#map=16/40.73204/-73.18567",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.73204/-73.18567&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.73204&mlon=-73.18567#map=16/40.73204/-73.18567"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5zwx5c670unqbh5g8q",
+                "qibla": 59.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714643400,
+                        "astronomical": 1714637100,
+                        "civil": 1714641660,
+                        "nautical": 1714639440
+                    },
+                    "set": {
+                        "apparent": 1714693800,
+                        "astronomical": 1714613760,
+                        "civil": 1714609200,
+                        "nautical": 1714611360
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "crowned.wheels.detect"
+                },
+                "wikidata": "Q3469029"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.747345,
+                    "lng": -73.163579
+                },
+                "southwest": {
+                    "lat": 40.698402,
+                    "lng": -73.204789
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Islip",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Suffolk County",
+                "locality": "East Islip",
+                "postcode": "11730",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Islip"
+            },
+            "confidence": 7,
+            "formatted": "East Islip, Islip, NY 11730, United States of America",
+            "geometry": {
+                "lat": 40.7320429,
+                "lng": -73.1856703
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:59:28 GMT",
+        "created_unix": 1714694368
+    },
+    "total_results": 1
+}

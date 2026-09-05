@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 631,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 56' 47.32800'' N",
+                    "lng": "2\u00b0 0' 11.48400'' W"
+                },
+                "MGRS": "30SWC9211256669",
+                "Maidenhead": "IM83xw97od",
+                "Mercator": {
+                    "x": -222994.091,
+                    "y": 3997758.088
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.94648/-2.00319&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.94648&mlon=-2.00319#map=17/33.94648/-2.00319"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "eyn947v2d692bg339wm9",
+                "qibla": 97.74,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713418440,
+                        "astronomical": 1713413160,
+                        "civil": 1713416880,
+                        "nautical": 1713415080
+                    },
+                    "set": {
+                        "apparent": 1713465660,
+                        "astronomical": 1713470940,
+                        "civil": 1713467220,
+                        "nautical": 1713469020
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "salon.expensively.watcher"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Bni Mathar",
+                "_type": "municipality",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "Jerada",
+                "local_administrative_area": "Bni Mathar",
+                "state": "Oriental"
+            },
+            "confidence": 9,
+            "formatted": "Bni Mathar, Jerada, Morocco",
+            "geometry": {
+                "lat": 33.94648,
+                "lng": -2.00319
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:17:48 GMT",
+        "created_unix": 1713442668
+    },
+    "total_results": 1
+}

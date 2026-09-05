@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 150,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 52' 42.42720'' N",
+                    "lng": "16\u00b0 22' 21.11880'' W"
+                },
+                "MGRS": "28PCA5168834709",
+                "Maidenhead": "IK13tv50ht",
+                "Mercator": {
+                    "x": -1822582.037,
+                    "y": 1550032.435
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=12995348#map=16/13.87845/-16.37253",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/13.87845/-16.37253&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.87845&mlon=-16.37253#map=16/13.87845/-16.37253"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SN": "686",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 221,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf3",
+                "geohash": "edkqgqmzu6fwct7cquxh",
+                "qibla": 73.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713768540,
+                        "astronomical": 1713764160,
+                        "civil": 1713767220,
+                        "nautical": 1713765720
+                    },
+                    "set": {
+                        "apparent": 1713813540,
+                        "astronomical": 1713817920,
+                        "civil": 1713814860,
+                        "nautical": 1713816360
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Dakar",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "gets.sidekick.objected"
+                },
+                "wikidata": "Q3489051"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.8927923,
+                    "lng": -16.3486819
+                },
+                "southwest": {
+                    "lat": 13.8622734,
+                    "lng": -16.3818439
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SN",
+                "ISO_3166-1_alpha-3": "SEN",
+                "ISO_3166-2": [
+                    "SN-FK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sokone",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Senegal",
+                "country_code": "sn",
+                "postcode": "24016",
+                "state": "Fatick Region",
+                "state_district": "D\u00e9partement de Foundiougne",
+                "town": "Sokone"
+            },
+            "confidence": 7,
+            "formatted": "24016 Sokone, Senegal",
+            "geometry": {
+                "lat": 13.878452,
+                "lng": -16.372533
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:45:13 GMT",
+        "created_unix": 1713782713
+    },
+    "total_results": 1
+}

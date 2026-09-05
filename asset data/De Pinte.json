@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1164,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 59' 32.71380'' N",
+                    "lng": "3\u00b0 38' 58.54488'' E"
+                },
+                "MGRS": "31UES4558949182",
+                "Maidenhead": "JO10tx78we",
+                "Mercator": {
+                    "x": 406271.146,
+                    "y": 6586729.523
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE23"
+                    },
+                    "NUTS3": {
+                        "code": "BE234"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=571891#map=17/50.99242/3.64960",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.99242/3.64960&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.99242&mlon=3.64960#map=17/50.99242/3.64960"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u14d54cs3spueucwqtp0",
+                "qibla": 122.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796040,
+                        "astronomical": 1714787040,
+                        "civil": 1714793760,
+                        "nautical": 1714790760
+                    },
+                    "set": {
+                        "apparent": 1714849860,
+                        "astronomical": 1714859040,
+                        "civil": 1714852200,
+                        "nautical": 1714855200
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "fear.roadwork.lodged"
+                },
+                "wikidata": "Q842454"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.0143512,
+                    "lng": 3.7110963
+                },
+                "southwest": {
+                    "lat": 50.9540024,
+                    "lng": 3.623631
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VOV"
+                ],
+                "_category": "place",
+                "_normalized_city": "De Pinte",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Gent",
+                "political_union": "European Union",
+                "postcode": "9840",
+                "region": "Flanders",
+                "state": "East Flanders",
+                "state_code": "VOV",
+                "town": "De Pinte"
+            },
+            "confidence": 7,
+            "formatted": "9840 De Pinte, Belgium",
+            "geometry": {
+                "lat": 50.9924205,
+                "lng": 3.6495958
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:06:46 GMT",
+        "created_unix": 1714788406
+    },
+    "total_results": 1
+}

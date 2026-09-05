@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2090,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 17' 45.55392'' N",
+                    "lng": "16\u00b0 33' 24.64272'' E"
+                },
+                "MGRS": "33UXP1546650370",
+                "Maidenhead": "JN88gh61ta",
+                "Mercator": {
+                    "x": 1843099.577,
+                    "y": 6124321.118
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "AT"
+                    },
+                    "NUTS1": {
+                        "code": "AT1"
+                    },
+                    "NUTS2": {
+                        "code": "AT12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=103662#map=17/48.29599/16.55685",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.29599/16.55685&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.29599&mlon=16.55685#map=17/48.29599/16.55685"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AT": "040",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 43,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf9",
+                "geohash": "u2efbb02d2w96z8swmkr",
+                "qibla": 137.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714448220,
+                        "astronomical": 1714440480,
+                        "civil": 1714446180,
+                        "nautical": 1714443540
+                    },
+                    "set": {
+                        "apparent": 1714500360,
+                        "astronomical": 1714508160,
+                        "civil": 1714502460,
+                        "nautical": 1714505100
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Vienna",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "turkeys.shot.general"
+                },
+                "wikidata": "Q660921"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.3319982,
+                    "lng": 16.6144794
+                },
+                "southwest": {
+                    "lat": 48.266665,
+                    "lng": 16.5022558
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AT",
+                "ISO_3166-1_alpha-3": "AUT",
+                "ISO_3166-2": [
+                    "AT-3"
+                ],
+                "_category": "place",
+                "_normalized_city": "Deutsch-Wagram",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Austria",
+                "country_code": "at",
+                "county": "Bezirk G\u00e4nserndorf",
+                "political_union": "European Union",
+                "postcode": "2232",
+                "state": "Lower Austria",
+                "state_code": "3",
+                "town": "Deutsch-Wagram"
+            },
+            "confidence": 7,
+            "formatted": "2232 Deutsch-Wagram, Austria",
+            "geometry": {
+                "lat": 48.2959872,
+                "lng": 16.5568452
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:04:25 GMT",
+        "created_unix": 1714518265
+    },
+    "total_results": 1
+}

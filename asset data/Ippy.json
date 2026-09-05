@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2345,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "6\u00b0 15' 38.03076'' N",
+                    "lng": "21\u00b0 12' 0.13284'' E"
+                },
+                "MGRS": "34NEM2212792012",
+                "Maidenhead": "KJ06og42am",
+                "Mercator": {
+                    "x": 2359977.313,
+                    "y": 693657.454
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=264012514#map=17/6.26056/21.20004",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/6.26056/21.20004&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=6.26056&mlon=21.20004#map=17/6.26056/21.20004"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "CF": "140",
+                        "MIDDLE_AFRICA": "017",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 236,
+                "currency": {
+                    "alternate_symbols": [
+                        "FCFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "FCFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XAF",
+                    "iso_numeric": "950",
+                    "name": "Central African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "CFA",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddeb",
+                "geohash": "s3p5d7tqkttr81p40sv9",
+                "qibla": 48.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714710120,
+                        "astronomical": 1714705800,
+                        "civil": 1714708860,
+                        "nautical": 1714707360
+                    },
+                    "set": {
+                        "apparent": 1714754520,
+                        "astronomical": 1714758840,
+                        "civil": 1714755780,
+                        "nautical": 1714757340
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Bangui",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "regulars.dunked.properly"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 6.3005641,
+                    "lng": 21.2400369
+                },
+                "southwest": {
+                    "lat": 6.2205641,
+                    "lng": 21.1600369
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CF",
+                "ISO_3166-1_alpha-3": "CAF",
+                "ISO_3166-2": [
+                    "CF-UK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ippy",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Central African Republic",
+                "country_code": "cf",
+                "state": "Ouaka",
+                "state_code": "UK",
+                "town": "Ippy"
+            },
+            "confidence": 7,
+            "formatted": "Ippy, Ouaka, Central African Republic",
+            "geometry": {
+                "lat": 6.2605641,
+                "lng": 21.2000369
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:17:12 GMT",
+        "created_unix": 1714695432
+    },
+    "total_results": 1
+}

@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 32,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 49' 47.38620'' N",
+                    "lng": "106\u00b0 45' 42.44364'' E"
+                },
+                "MGRS": "48PXS9260297720",
+                "Maidenhead": "OK30jt19jd",
+                "Mercator": {
+                    "x": 11884668.088,
+                    "y": 1204791.28
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11721235#map=16/10.82983/106.76179",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/10.82983/106.76179&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.82983&mlon=106.76179#map=16/10.82983/106.76179"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "SOUTHEAST_ASIA": "035",
+                        "VN": "704",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 84,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20AB;",
+                    "iso_code": "VND",
+                    "iso_numeric": "704",
+                    "name": "Vietnamese \u0110\u1ed3ng",
+                    "smallest_denomination": 100,
+                    "subunit": "H\u00e0o",
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20ab",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddfb\ud83c\uddf3",
+                "geohash": "w3gvt7t86483mfc6tjd7",
+                "qibla": 288.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714602960,
+                        "astronomical": 1714598580,
+                        "civil": 1714601640,
+                        "nautical": 1714600080
+                    },
+                    "set": {
+                        "apparent": 1714561440,
+                        "astronomical": 1714565880,
+                        "civil": 1714562760,
+                        "nautical": 1714564320
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Ho_Chi_Minh",
+                    "now_in_dst": 0,
+                    "offset_sec": 25200,
+                    "offset_string": "+0700",
+                    "short_name": "+07"
+                },
+                "what3words": {
+                    "words": "former.helpfully.reap"
+                },
+                "wikidata": "Q104050371"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.8988461,
+                    "lng": 106.8817591
+                },
+                "southwest": {
+                    "lat": 10.742096,
+                    "lng": 106.6978347
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "VN",
+                "ISO_3166-1_alpha-3": "VNM",
+                "ISO_3166-2": [
+                    "VN-SG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Th\u1ee7 \u0110\u1ee9c",
+                "_type": "city",
+                "city": "Th\u1ee7 \u0110\u1ee9c",
+                "continent": "Asia",
+                "country": "Vietnam",
+                "country_code": "vn"
+            },
+            "confidence": 5,
+            "formatted": "Th\u1ee7 \u0110\u1ee9c, Vietnam",
+            "geometry": {
+                "lat": 10.8298295,
+                "lng": 106.7617899
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:40:15 GMT",
+        "created_unix": 1714545615
+    },
+    "total_results": 1
+}

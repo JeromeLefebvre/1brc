@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 950,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 47' 27.97872'' N",
+                    "lng": "2\u00b0 17' 13.33428'' E"
+                },
+                "MGRS": "31UDQ4763404479",
+                "Maidenhead": "JN18ds49ku",
+                "Mercator": {
+                    "x": 254591.828,
+                    "y": 6207327.702
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR105"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=37021#map=17/48.79111/2.28704",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.79111/2.28704&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.79111&mlon=2.28704#map=17/48.79111/2.28704"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09ts41kgc4x7sghp8r5",
+                "qibla": 119.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714624200,
+                        "astronomical": 1714616160,
+                        "civil": 1714622040,
+                        "nautical": 1714619340
+                    },
+                    "set": {
+                        "apparent": 1714676820,
+                        "astronomical": 1714684920,
+                        "civil": 1714678980,
+                        "nautical": 1714681680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "leafing.corded.cars"
+                },
+                "wikidata": "Q269166"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.7965686,
+                    "lng": 2.3032383
+                },
+                "southwest": {
+                    "lat": 48.7824491,
+                    "lng": 2.2716701
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-92"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fontenay-aux-Roses",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Hauts-de-Seine",
+                "municipality": "Antony",
+                "political_union": "European Union",
+                "postcode": "92260",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Fontenay-aux-Roses"
+            },
+            "confidence": 8,
+            "formatted": "92260 Fontenay-aux-Roses, France",
+            "geometry": {
+                "lat": 48.7911052,
+                "lng": 2.2870373
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:57:58 GMT",
+        "created_unix": 1714694278
+    },
+    "total_results": 1
+}

@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2448,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 32' 50.97336'' S",
+                    "lng": "27\u00b0 51' 36.15192'' E"
+                },
+                "MGRS": "35LNG9343312752",
+                "Maidenhead": "KH37wk38eo",
+                "Mercator": {
+                    "x": 3101365.711,
+                    "y": -1398803.907
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=435533865#map=17/-12.54749/27.86004",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-12.54749/27.86004&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-12.54749&mlon=27.86004#map=17/-12.54749/27.86004"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZM": "894"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 260,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ZMK",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ZMK",
+                    "iso_numeric": "894",
+                    "name": "Zambian Kwacha",
+                    "smallest_denomination": 5,
+                    "subunit": "Ngwee",
+                    "subunit_to_unit": 100,
+                    "symbol": "ZK",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddff\ud83c\uddf2",
+                "geohash": "ktgb9gz1d1c5hthm383c",
+                "qibla": 19.2,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714104960,
+                        "astronomical": 1714100640,
+                        "civil": 1714103640,
+                        "nautical": 1714102140
+                    },
+                    "set": {
+                        "apparent": 1714146960,
+                        "astronomical": 1714151280,
+                        "civil": 1714148280,
+                        "nautical": 1714149780
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Lusaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "level.mainland.severe"
+                },
+                "wikidata": "Q431533"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -12.5074926,
+                    "lng": 27.9000422
+                },
+                "southwest": {
+                    "lat": -12.5874926,
+                    "lng": 27.8200422
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZM",
+                "ISO_3166-1_alpha-3": "ZMB",
+                "ISO_3166-2": [
+                    "ZM-08"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chingola",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Zambia",
+                "country_code": "zm",
+                "state": "Copperbelt Province",
+                "state_district": "Chingola District",
+                "town": "Chingola"
+            },
+            "confidence": 7,
+            "formatted": "Chingola, Chingola District, Zambia",
+            "geometry": {
+                "lat": -12.5474926,
+                "lng": 27.8600422
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 21:56:53 GMT",
+        "created_unix": 1714168613
+    },
+    "total_results": 1
+}

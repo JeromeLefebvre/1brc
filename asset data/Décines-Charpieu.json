@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2321,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 46' 24.98160'' N",
+                    "lng": "4\u00b0 57' 47.99304'' E"
+                },
+                "MGRS": "31TFL5264370768",
+                "Maidenhead": "JN25ls55op",
+                "Mercator": {
+                    "x": 552515.524,
+                    "y": 5713511.52
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRK"
+                    },
+                    "NUTS2": {
+                        "code": "FRK2"
+                    },
+                    "NUTS3": {
+                        "code": "FRK26"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=121827#map=17/45.77361/4.96333",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.77361/4.96333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.77361&mlon=4.96333#map=17/45.77361/4.96333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u05s2uy4w485s1rd8hu5",
+                "qibla": 118.81,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713588360,
+                        "astronomical": 1713581640,
+                        "civil": 1713586500,
+                        "nautical": 1713584160
+                    },
+                    "set": {
+                        "apparent": 1713637980,
+                        "astronomical": 1713644760,
+                        "civil": 1713639840,
+                        "nautical": 1713642180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "state.busy.nervy"
+                },
+                "wikidata": "Q1056120"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.8076569,
+                    "lng": 4.9854684
+                },
+                "southwest": {
+                    "lat": 45.7442244,
+                    "lng": 4.9325798
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-ARA",
+                    "FR-69M"
+                ],
+                "_category": "place",
+                "_normalized_city": "D\u00e9cines-Charpieu",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "M\u00e9tropole de Lyon",
+                "municipality": "Lyon",
+                "political_union": "European Union",
+                "postcode": "69150",
+                "region": "Metropolitan France",
+                "state": "Auvergne-Rh\u00f4ne-Alpes",
+                "state_code": "ARA",
+                "state_district": "Rh\u00f4ne",
+                "town": "D\u00e9cines-Charpieu"
+            },
+            "confidence": 7,
+            "formatted": "69150 D\u00e9cines-Charpieu, France",
+            "geometry": {
+                "lat": 45.773606,
+                "lng": 4.9633314
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 10:27:09 GMT",
+        "created_unix": 1713608829
+    },
+    "total_results": 1
+}

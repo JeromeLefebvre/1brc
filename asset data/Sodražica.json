@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 838,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 45' 43.09524'' N",
+                    "lng": "14\u00b0 38' 4.71912'' E"
+                },
+                "MGRS": "33TVL7158867666",
+                "Maidenhead": "JN75hs62du",
+                "Mercator": {
+                    "x": 1629121.14,
+                    "y": 5711660.834
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "SI"
+                    },
+                    "NUTS1": {
+                        "code": "SI0"
+                    },
+                    "NUTS2": {
+                        "code": "SI03"
+                    },
+                    "NUTS3": {
+                        "code": "SI037"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1681537#map=17/45.76197/14.63464",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.76197/14.63464&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.76197&mlon=14.63464#map=17/45.76197/14.63464"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "SI": "705",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 386,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddee",
+                "geohash": "u24km48wgcttkqujbeck",
+                "qibla": 131.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714103880,
+                        "astronomical": 1714096920,
+                        "civil": 1714101900,
+                        "nautical": 1714099560
+                    },
+                    "set": {
+                        "apparent": 1714154520,
+                        "astronomical": 1714161480,
+                        "civil": 1714156440,
+                        "nautical": 1714158840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Ljubljana",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "traversing.raggedly.sleepers"
+                },
+                "wikidata": "Q1008079"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.7956494,
+                    "lng": 14.6834139
+                },
+                "southwest": {
+                    "lat": 45.7140028,
+                    "lng": 14.545971
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SI",
+                "ISO_3166-1_alpha-3": "SVN",
+                "ISO_3166-2": [
+                    "SI-179"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sodra\u017eica",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Slovenia",
+                "country_code": "si",
+                "municipality": "Sodra\u017eica",
+                "political_union": "European Union",
+                "postcode": "1317"
+            },
+            "confidence": 7,
+            "formatted": "1317 Sodra\u017eica, Slovenia",
+            "geometry": {
+                "lat": 45.7619709,
+                "lng": 14.6346442
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:59:03 GMT",
+        "created_unix": 1714172343
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1340,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 35' 55.82400'' N",
+                    "lng": "132\u00b0 49' 33.34800'' E"
+                },
+                "MGRS": "53TLK2745740687",
+                "Maidenhead": "PN64jo93cr",
+                "Mercator": {
+                    "x": 14786114.892,
+                    "y": 5528573.874
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.59884/132.82593&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.59884&mlon=132.82593#map=17/44.59884/132.82593"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "wzymwwbzh6rgmhmmx4h2",
+                "qibla": 287.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714679940,
+                        "astronomical": 1714672980,
+                        "civil": 1714678020,
+                        "nautical": 1714675620
+                    },
+                    "set": {
+                        "apparent": 1714644780,
+                        "astronomical": 1714651800,
+                        "civil": 1714646700,
+                        "nautical": 1714649100
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Vladivostok",
+                    "now_in_dst": 0,
+                    "offset_sec": 36000,
+                    "offset_string": "+1000",
+                    "short_name": "+10"
+                },
+                "what3words": {
+                    "words": "desire.coiling.soaks"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.6338615,
+                    "lng": 132.8648071
+                },
+                "southwest": {
+                    "lat": 44.5511932,
+                    "lng": 132.7613068
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Spassk-Dal\u2019niy",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Primorskiy Kray",
+                "town": "Spassk-Dal\u2019niy"
+            },
+            "confidence": 7,
+            "formatted": "Spassk-Dal\u2019niy, Primorskiy Kray, Russia",
+            "geometry": {
+                "lat": 44.59884,
+                "lng": 132.82593
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:43:54 GMT",
+        "created_unix": 1714693434
+    },
+    "total_results": 1
+}

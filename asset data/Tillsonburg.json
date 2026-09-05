@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 989,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 51' 34.17840'' N",
+                    "lng": "80\u00b0 43' 35.40540'' W"
+                },
+                "MGRS": "17TNH2234345248",
+                "Maidenhead": "EN92pu26tg",
+                "Mercator": {
+                    "x": -8986433.041,
+                    "y": 5261536.677
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7496359#map=17/42.85949/-80.72650",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.85949/-80.72650&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.85949&mlon=-80.72650#map=17/42.85949/-80.72650"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "dpweg42f8hv8m5nxfx0x",
+                "qibla": 53.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713695520,
+                        "astronomical": 1713689160,
+                        "civil": 1713693720,
+                        "nautical": 1713691500
+                    },
+                    "set": {
+                        "apparent": 1713658320,
+                        "astronomical": 1713664680,
+                        "civil": 1713660120,
+                        "nautical": 1713662340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "aspect.prongs.balanced"
+                },
+                "wikidata": "Q2415848"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.8891008,
+                    "lng": -80.7004446
+                },
+                "southwest": {
+                    "lat": 42.8239513,
+                    "lng": -80.7618263
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-ON"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tillsonburg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Oxford County",
+                "state": "Ontario",
+                "state_code": "ON",
+                "town": "Tillsonburg"
+            },
+            "confidence": 7,
+            "formatted": "Tillsonburg, ON, Canada",
+            "geometry": {
+                "lat": 42.859494,
+                "lng": -80.7265015
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:10:46 GMT",
+        "created_unix": 1713665446
+    },
+    "total_results": 1
+}

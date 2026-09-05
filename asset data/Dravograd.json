@@ -1,0 +1,152 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1295,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 35' 22.65936'' N",
+                    "lng": "15\u00b0 1' 24.76416'' E"
+                },
+                "MGRS": "33TWM0180359562",
+                "Maidenhead": "JN76mo21tm",
+                "Mercator": {
+                    "x": 1672413.446,
+                    "y": 5844291.873
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "SI"
+                    },
+                    "NUTS1": {
+                        "code": "SI0"
+                    },
+                    "NUTS2": {
+                        "code": "SI03"
+                    },
+                    "NUTS3": {
+                        "code": "SI033"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1676290#map=17/46.58963/15.02355",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.58963/15.02355&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.58963&mlon=15.02355#map=17/46.58963/15.02355"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "SI": "705",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 386,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddee",
+                "geohash": "u269jc7u3bp9cpz2wspq",
+                "qibla": 132.9,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714103640,
+                        "astronomical": 1714096500,
+                        "civil": 1714101660,
+                        "nautical": 1714099260
+                    },
+                    "set": {
+                        "apparent": 1714154520,
+                        "astronomical": 1714161720,
+                        "civil": 1714156500,
+                        "nautical": 1714158960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Ljubljana",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "foreclosure.plot.yelled"
+                },
+                "wikidata": "Q3503123"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.6521565,
+                    "lng": 15.1277999
+                },
+                "southwest": {
+                    "lat": 46.5305174,
+                    "lng": 14.920418
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SI",
+                "ISO_3166-1_alpha-3": "SVN",
+                "ISO_3166-2": [
+                    "SI-025"
+                ],
+                "_category": "place",
+                "_normalized_city": "Dravograd",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Slovenia",
+                "country_code": "si",
+                "municipality": "Dravograd",
+                "political_union": "European Union"
+            },
+            "confidence": 6,
+            "formatted": "Dravograd, Slovenia",
+            "geometry": {
+                "lat": 46.5896276,
+                "lng": 15.0235456
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:41:23 GMT",
+        "created_unix": 1714171283
+    },
+    "total_results": 1
+}

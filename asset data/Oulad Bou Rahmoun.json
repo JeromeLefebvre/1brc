@@ -1,0 +1,124 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 27,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 18' 7.34400'' N",
+                    "lng": "6\u00b0 38' 10.78800'' W"
+                },
+                "MGRS": "29SQR2255376369",
+                "Maidenhead": "IM62qh32pl",
+                "Mercator": {
+                    "x": -738752.876,
+                    "y": 3780192.256
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.30204/-6.63633&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.30204&mlon=-6.63633#map=16/32.30204/-6.63633"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "everbbrt429wnjpfm25d",
+                "qibla": 92.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713419700,
+                        "astronomical": 1713414480,
+                        "civil": 1713418140,
+                        "nautical": 1713416340
+                    },
+                    "set": {
+                        "apparent": 1713466620,
+                        "astronomical": 1713471840,
+                        "civil": 1713468180,
+                        "nautical": 1713469980
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "crackle.blogged.measurement"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Oulad Bou Rahmoun",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "Tadla-Azilal",
+                "town": "Oulad Bou Rahmoun"
+            },
+            "confidence": 9,
+            "formatted": "Oulad Bou Rahmoun, Tadla-Azilal, Morocco",
+            "geometry": {
+                "lat": 32.30204,
+                "lng": -6.63633
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:37:33 GMT",
+        "created_unix": 1713443853
+    },
+    "total_results": 1
+}

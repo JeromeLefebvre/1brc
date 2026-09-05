@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2156,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 52' 3.45756'' S",
+                    "lng": "59\u00b0 1' 37.26264'' W"
+                },
+                "MGRS": "21JUE0824472445",
+                "Maidenhead": "GF08ld61ss",
+                "Mercator": {
+                    "x": -6570857.52,
+                    "y": -3723390.503
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2857432#map=17/-31.86763/-59.02702",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-31.86763/-59.02702&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-31.86763&mlon=-59.02702#map=17/-31.86763/-59.02702"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "AR": "032",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 54,
+                "currency": {
+                    "alternate_symbols": [
+                        "$m/n",
+                        "m$n"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "$m/n",
+                    "html_entity": "$",
+                    "iso_code": "ARS",
+                    "iso_numeric": "032",
+                    "name": "Argentine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf7",
+                "geohash": "6dq48y9vdg9xxz61cbgw",
+                "qibla": 75.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714645800,
+                        "astronomical": 1714640820,
+                        "civil": 1714644300,
+                        "nautical": 1714642560
+                    },
+                    "set": {
+                        "apparent": 1714684560,
+                        "astronomical": 1714689540,
+                        "civil": 1714686060,
+                        "nautical": 1714687800
+                    }
+                },
+                "timezone": {
+                    "name": "America/Argentina/Cordoba",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "-03"
+                },
+                "what3words": {
+                    "words": "coolest.topmost.topic"
+                },
+                "wikidata": "Q2297707"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -31.7728234,
+                    "lng": -58.9607481
+                },
+                "southwest": {
+                    "lat": -31.929601,
+                    "lng": -59.0746826
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AR",
+                "ISO_3166-1_alpha-3": "ARG",
+                "ISO_3166-2": [
+                    "AR-E"
+                ],
+                "_category": "place",
+                "_normalized_city": "Villaguay",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Argentina",
+                "country_code": "ar",
+                "county": "Distrito Lucas al Sud",
+                "postcode": "3240",
+                "state": "Entre R\u00edos Province",
+                "state_code": "E",
+                "state_district": "Departamento Villaguay",
+                "town": "Villaguay"
+            },
+            "confidence": 6,
+            "formatted": "Departamento Villaguay, 3240 Villaguay, Argentina",
+            "geometry": {
+                "lat": -31.8676271,
+                "lng": -59.0270174
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:14:20 GMT",
+        "created_unix": 1714691660
+    },
+    "total_results": 1
+}

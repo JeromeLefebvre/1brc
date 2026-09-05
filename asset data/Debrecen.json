@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2008,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 31' 53.03640'' N",
+                    "lng": "21\u00b0 37' 33.52152'' E"
+                },
+                "MGRS": "34TET4711664409",
+                "Maidenhead": "KN07tm57cm",
+                "Mercator": {
+                    "x": 2407392.881,
+                    "y": 5997713.241
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "HU"
+                    },
+                    "NUTS1": {
+                        "code": "HU3"
+                    },
+                    "NUTS2": {
+                        "code": "HU32"
+                    },
+                    "NUTS3": {
+                        "code": "HU321"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1444234#map=17/47.53140/21.62598",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.53140/21.62598&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.53140&mlon=21.62598#map=17/47.53140/21.62598"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "HU": "348",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 36,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "HUF",
+                    "iso_numeric": "348",
+                    "name": "Hungarian Forint",
+                    "smallest_denomination": 5,
+                    "subunit": "",
+                    "subunit_to_unit": 1,
+                    "symbol": "Ft",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udded\ud83c\uddfa",
+                "geohash": "u2rqkhgd3yfp5x08chec",
+                "qibla": 144.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714619760,
+                        "astronomical": 1714612080,
+                        "civil": 1714617660,
+                        "nautical": 1714615080
+                    },
+                    "set": {
+                        "apparent": 1714671960,
+                        "astronomical": 1714679700,
+                        "civil": 1714674060,
+                        "nautical": 1714676640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Budapest",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "thinking.decide.daylight"
+                },
+                "wikidata": "Q79880"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.6369818,
+                    "lng": 21.8833085
+                },
+                "southwest": {
+                    "lat": 47.4250466,
+                    "lng": 21.4365308
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "HU",
+                "ISO_3166-1_alpha-3": "HUN",
+                "ISO_3166-2": [
+                    "HU-HB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Debrecen",
+                "_type": "city",
+                "city": "Debrecen",
+                "continent": "Europe",
+                "country": "Hungary",
+                "country_code": "hu",
+                "county": "Hajd\u00fa-Bihar",
+                "municipality": "Debreceni j\u00e1r\u00e1s",
+                "political_union": "European Union",
+                "region": "North Great Plain"
+            },
+            "confidence": 4,
+            "formatted": "Debrecen, Hajd\u00fa-Bihar, Hungary",
+            "geometry": {
+                "lat": 47.531399,
+                "lng": 21.6259782
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:19:41 GMT",
+        "created_unix": 1714691981
+    },
+    "total_results": 1
+}

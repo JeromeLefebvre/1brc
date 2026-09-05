@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1750,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 23' 3.03252'' N",
+                    "lng": "6\u00b0 33' 6.33456'' W"
+                },
+                "MGRS": "29SQB1675140304",
+                "Maidenhead": "IM67rj32se",
+                "Mercator": {
+                    "x": -729338.542,
+                    "y": 4466846.547
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES6"
+                    },
+                    "NUTS2": {
+                        "code": "ES61"
+                    },
+                    "NUTS3": {
+                        "code": "ES615"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=343184#map=17/37.38418/-6.55176",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.38418/-6.55176&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.38418&mlon=-6.55176#map=17/37.38418/-6.55176"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "eyekdvt4sgmyqx4fxr29",
+                "qibla": 98.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714455180,
+                        "astronomical": 1714449360,
+                        "civil": 1714453500,
+                        "nautical": 1714451460
+                    },
+                    "set": {
+                        "apparent": 1714504440,
+                        "astronomical": 1714510320,
+                        "civil": 1714506120,
+                        "nautical": 1714508160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "piano.special.nowadays"
+                },
+                "wikidata": "Q904245"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.4599766,
+                    "lng": -6.503723
+                },
+                "southwest": {
+                    "lat": 37.3553775,
+                    "lng": -6.6046366
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-AN",
+                    "ES-H"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Palma del Condado",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "county": "El Condado",
+                "political_union": "European Union",
+                "postcode": "21700",
+                "province": "Huelva",
+                "state": "Andalusia",
+                "state_code": "AN",
+                "town": "La Palma del Condado"
+            },
+            "confidence": 6,
+            "formatted": "21700 La Palma del Condado, Spain",
+            "geometry": {
+                "lat": 37.3841757,
+                "lng": -6.5517596
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:18:58 GMT",
+        "created_unix": 1714519138
+    },
+    "total_results": 1
+}

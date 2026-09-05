@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1360,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 52' 15.47796'' N",
+                    "lng": "8\u00b0 59' 15.10548'' E"
+                },
+                "MGRS": "32TMR9903279711",
+                "Maidenhead": "JN45lu89ma",
+                "Mercator": {
+                    "x": 1000487.185,
+                    "y": 5729012.936
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH07"
+                    },
+                    "NUTS3": {
+                        "code": "CH070"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2888450#map=17/45.87097/8.98753",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.87097/8.98753&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.87097&mlon=8.98753#map=17/45.87097/8.98753"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0nkuw898xge4m1u4v4e",
+                "qibla": 123.8,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714450440,
+                        "astronomical": 1714443240,
+                        "civil": 1714448460,
+                        "nautical": 1714446000
+                    },
+                    "set": {
+                        "apparent": 1714501800,
+                        "astronomical": 1714509000,
+                        "civil": 1714503780,
+                        "nautical": 1714506240
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "thousands.cookie.quintet"
+                },
+                "wikidata": "Q69041"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.9203779,
+                    "lng": 9.0168388
+                },
+                "southwest": {
+                    "lat": 45.8416826,
+                    "lng": 8.9202454
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-TI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mendrisio",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "county": "Distretto di Mendrisio",
+                "local_administrative_area": "Mendrisio",
+                "municipality": "Circolo di Mendrisio",
+                "state": "Ticino",
+                "state_code": "TI",
+                "town": "Mendrisio"
+            },
+            "confidence": 7,
+            "formatted": "Mendrisio, Distretto di Mendrisio, Switzerland",
+            "geometry": {
+                "lat": 45.8709661,
+                "lng": 8.9875293
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:53:28 GMT",
+        "created_unix": 1714521208
+    },
+    "total_results": 1
+}

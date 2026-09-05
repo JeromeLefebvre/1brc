@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1501,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 6' 39.52800'' N",
+                    "lng": "12\u00b0 5' 49.75620'' E"
+                },
+                "MGRS": "33TTM7567910475",
+                "Maidenhead": "JN66bc16pp",
+                "Mercator": {
+                    "x": 1346649.079,
+                    "y": 5767344.447
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH33"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=46853#map=16/46.11098/12.09715",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/46.11098/12.09715&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.11098&mlon=12.09715#map=16/46.11098/12.09715"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u20w760zujsjvdzqxffy",
+                "qibla": 128.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713586620,
+                        "astronomical": 1713579840,
+                        "civil": 1713584700,
+                        "nautical": 1713582360
+                    },
+                    "set": {
+                        "apparent": 1713636300,
+                        "astronomical": 1713643140,
+                        "civil": 1713638220,
+                        "nautical": 1713640560
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "oven.ended.highways"
+                },
+                "wikidata": "Q40316"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.2663635,
+                    "lng": 12.1918136
+                },
+                "southwest": {
+                    "lat": 46.0748595,
+                    "lng": 12.0556443
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-BL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sedico",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Belluno",
+                "county_code": "BL",
+                "political_union": "European Union",
+                "postcode": "32036",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "Sedico"
+            },
+            "confidence": 5,
+            "formatted": "32036 Sedico BL, Italy",
+            "geometry": {
+                "lat": 46.11098,
+                "lng": 12.0971545
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 11:54:33 GMT",
+        "created_unix": 1713614073
+    },
+    "total_results": 1
+}

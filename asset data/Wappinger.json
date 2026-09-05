@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 909,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 35' 9.99960'' N",
+                    "lng": "73\u00b0 55' 0.99840'' W"
+                },
+                "FIPS": {
+                    "county": "36027",
+                    "state": "36"
+                },
+                "MGRS": "18TWM9027504390",
+                "Maidenhead": "FN31ao90xq",
+                "Mercator": {
+                    "x": -8228396.567,
+                    "y": 5070812.828
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3235459#map=17/41.58611/-73.91694",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.58611/-73.91694&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.58611&mlon=-73.91694#map=17/41.58611/-73.91694"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr7ktfx2dkgybh5s028g",
+                "qibla": 58.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714125540,
+                        "astronomical": 1714119300,
+                        "civil": 1714123800,
+                        "nautical": 1714121640
+                    },
+                    "set": {
+                        "apparent": 1714175280,
+                        "astronomical": 1714095180,
+                        "civil": 1714090680,
+                        "nautical": 1714092840
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "incomplete.insecurity.swelled"
+                },
+                "wikidata": "Q1001679"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.643419,
+                    "lng": -73.809269
+                },
+                "southwest": {
+                    "lat": 41.542777,
+                    "lng": -73.98792
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Wappinger",
+                "_type": "municipality",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dutchess County",
+                "municipality": "Town of Wappinger",
+                "state": "New York",
+                "state_code": "NY"
+            },
+            "confidence": 6,
+            "formatted": "Wappinger, New York, United States of America",
+            "geometry": {
+                "lat": 41.586111,
+                "lng": -73.916944
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:56:19 GMT",
+        "created_unix": 1714172179
+    },
+    "total_results": 1
+}

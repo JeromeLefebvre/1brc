@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 138,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 23' 7.72800'' N",
+                    "lng": "72\u00b0 4' 7.57200'' W"
+                },
+                "FIPS": {
+                    "county": "09011",
+                    "state": "09"
+                },
+                "MGRS": "18TYL4509285697",
+                "Maidenhead": "FN31xj12rm",
+                "Mercator": {
+                    "x": -8022658.778,
+                    "y": 5041111.285
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.38548/-72.06877&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.38548&mlon=-72.06877#map=17/41.38548/-72.06877"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drkg2jcpguwhm7p6x0pw",
+                "qibla": 59.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714902060,
+                        "astronomical": 1714895520,
+                        "civil": 1714900200,
+                        "nautical": 1714897980
+                    },
+                    "set": {
+                        "apparent": 1714953000,
+                        "astronomical": 1714873140,
+                        "civil": 1714868400,
+                        "nautical": 1714870680
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "losers.riverside.convey"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.400398,
+                    "lng": -72.034759
+                },
+                "southwest": {
+                    "lat": 41.364275,
+                    "lng": -72.097221
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Conning Towers-Nautilus Park",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "New London County",
+                "state": "Connecticut",
+                "state_code": "CT",
+                "town": "Conning Towers-Nautilus Park"
+            },
+            "confidence": 7,
+            "formatted": "Conning Towers-Nautilus Park, Connecticut, United States of America",
+            "geometry": {
+                "lat": 41.38548,
+                "lng": -72.06877
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:57:51 GMT",
+        "created_unix": 1714949871
+    },
+    "total_results": 1
+}

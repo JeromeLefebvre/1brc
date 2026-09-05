@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2017,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 18' 1.24920'' N",
+                    "lng": "122\u00b0 58' 21.90360'' W"
+                },
+                "FIPS": {
+                    "county": "41071",
+                    "state": "41"
+                },
+                "MGRS": "10TER0213616316",
+                "Maidenhead": "CN85mh32gc",
+                "Mercator": {
+                    "x": -13689264.023,
+                    "y": 5638545.606
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=186668#map=17/45.30035/-122.97275",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.30035/-122.97275&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.30035&mlon=-122.97275#map=17/45.30035/-122.97275"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c2099wtvxhwzes919q8w",
+                "qibla": 17.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714136880,
+                        "astronomical": 1714129980,
+                        "civil": 1714134960,
+                        "nautical": 1714132560
+                    },
+                    "set": {
+                        "apparent": 1714101120,
+                        "astronomical": 1714108080,
+                        "civil": 1714103040,
+                        "nautical": 1714105440
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "gears.complains.script"
+                },
+                "wikidata": "Q932637"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.3301088,
+                    "lng": -122.925624
+                },
+                "southwest": {
+                    "lat": 45.280879,
+                    "lng": -122.9897827
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Newberg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Yamhill County",
+                "state": "Oregon",
+                "state_code": "OR",
+                "town": "Newberg"
+            },
+            "confidence": 7,
+            "formatted": "Newberg, Oregon, United States of America",
+            "geometry": {
+                "lat": 45.300347,
+                "lng": -122.972751
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:13:30 GMT",
+        "created_unix": 1714169610
+    },
+    "total_results": 1
+}

@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 879,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 24' 12.99600'' N",
+                    "lng": "16\u00b0 41' 7.00800'' W"
+                },
+                "MGRS": "28PCV1752282392",
+                "Maidenhead": "IK13pj76su",
+                "Mercator": {
+                    "x": -1857396.873,
+                    "y": 1495982.785
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.40361/-16.68528&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.40361&mlon=-16.68528#map=17/13.40361/-16.68528"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "GM": "270",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 220,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "GMD",
+                    "iso_numeric": "270",
+                    "name": "Gambian Dalasi",
+                    "smallest_denomination": 1,
+                    "subunit": "Butut",
+                    "subunit_to_unit": 100,
+                    "symbol": "D",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\uddf2",
+                "geohash": "edkhk241sy12p98yw8yd",
+                "qibla": 73.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713941400,
+                        "astronomical": 1713936960,
+                        "civil": 1713940080,
+                        "nautical": 1713938520
+                    },
+                    "set": {
+                        "apparent": 1713986400,
+                        "astronomical": 1713990780,
+                        "civil": 1713987720,
+                        "nautical": 1713989280
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Banjul",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "captions.tracking.remind"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GM",
+                "ISO_3166-1_alpha-3": "GMB",
+                "_category": "place",
+                "_normalized_city": "Sareh Mowndeh",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Gambia",
+                "country_code": "gm",
+                "state": "Western Division",
+                "town": "Sareh Mowndeh"
+            },
+            "confidence": 9,
+            "formatted": "Sareh Mowndeh, Western Division, Gambia",
+            "geometry": {
+                "lat": 13.40361,
+                "lng": -16.68528
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:04:58 GMT",
+        "created_unix": 1713996298
+    },
+    "total_results": 1
+}

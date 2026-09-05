@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2063,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 4' 13.03284'' N",
+                    "lng": "88\u00b0 28' 20.52336'' E"
+                },
+                "MGRS": "45RXK4599995074",
+                "Maidenhead": "NL47fb66qu",
+                "Mercator": {
+                    "x": 9848698.911,
+                    "y": 3112815.936
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8599315953#map=17/27.07029/88.47237",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.07029/88.47237&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.07029&mlon=88.47237#map=17/27.07029/88.47237"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tuycvpzxge4xr17c52kt",
+                "qibla": 273.71,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713742620,
+                        "astronomical": 1713737760,
+                        "civil": 1713741180,
+                        "nautical": 1713739500
+                    },
+                    "set": {
+                        "apparent": 1713702780,
+                        "astronomical": 1713707640,
+                        "civil": 1713704220,
+                        "nautical": 1713705900
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "arrivals.mods.lads"
+                },
+                "wikidata": "Q500877"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.1102869,
+                    "lng": 88.5123676
+                },
+                "southwest": {
+                    "lat": 27.0302869,
+                    "lng": 88.4323676
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-WB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kalimpong",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Kalimpong -I",
+                "postcode": "734316",
+                "state": "West Bengal",
+                "state_code": "WB",
+                "state_district": "Kalimpong District",
+                "town": "Kalimpong"
+            },
+            "confidence": 7,
+            "formatted": "Kalimpong District, Kalimpong - 734316, West Bengal, India",
+            "geometry": {
+                "lat": 27.0702869,
+                "lng": 88.4723676
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:27:50 GMT",
+        "created_unix": 1713662870
+    },
+    "total_results": 1
+}

@@ -1,0 +1,132 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 378,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 8' 9.99600'' N",
+                    "lng": "128\u00b0 12' 42.98400'' E"
+                },
+                "MGRS": "52SDG3000610262",
+                "Maidenhead": "PM47cd52kp",
+                "Mercator": {
+                    "x": 14272487.874,
+                    "y": 4432297.755
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.13611/128.21194&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.13611&mlon=128.21194#map=17/37.13611/128.21194"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wye5m83jd8xsgmv9u6mm",
+                "qibla": 286.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714768320,
+                        "astronomical": 1714762440,
+                        "civil": 1714766640,
+                        "nautical": 1714764600
+                    },
+                    "set": {
+                        "apparent": 1714731420,
+                        "astronomical": 1714737300,
+                        "civil": 1714733100,
+                        "nautical": 1714735140
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "dairies.wink.barks"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.1934037,
+                    "lng": 128.282139
+                },
+                "southwest": {
+                    "lat": 37.0943706,
+                    "lng": 128.14975
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "_category": "place",
+                "_normalized_city": "Teisen",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr",
+                "state": "Chungcheongbuk-do",
+                "town": "Teisen"
+            },
+            "confidence": 6,
+            "formatted": "Teisen, Chungcheongbuk-do, South Korea",
+            "geometry": {
+                "lat": 37.13611,
+                "lng": 128.21194
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:29:51 GMT",
+        "created_unix": 1714699791
+    },
+    "total_results": 1
+}

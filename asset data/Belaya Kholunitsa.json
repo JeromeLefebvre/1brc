@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2126,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "58\u00b0 50' 24.00000'' N",
+                    "lng": "50\u00b0 51' 10.00800'' E"
+                },
+                "MGRS": "39VVF9150222245",
+                "Maidenhead": "LO58ku21io",
+                "Mercator": {
+                    "x": 5660905.575,
+                    "y": 8109287.439
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/58.84000/50.85278&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=58.84000&mlon=50.85278#map=17/58.84000/50.85278"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v4kntpmzgdvpf98h5gs2",
+                "qibla": 196.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714092840,
+                        "astronomical": 0,
+                        "civil": 1714089960,
+                        "nautical": 1714172340
+                    },
+                    "set": {
+                        "apparent": 1714148160,
+                        "astronomical": 0,
+                        "civil": 1714151040,
+                        "nautical": 1714155180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kirov",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "experiencing.resembled.misnamed"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 58.8603325,
+                    "lng": 50.8803062
+                },
+                "southwest": {
+                    "lat": 58.8286095,
+                    "lng": 50.8221092
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Belaya Kholunitsa",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Kirovskaya Oblast\u2019",
+                "town": "Belaya Kholunitsa"
+            },
+            "confidence": 7,
+            "formatted": "Belaya Kholunitsa, Kirovskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 58.84,
+                "lng": 50.85278
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:09:21 GMT",
+        "created_unix": 1714169361
+    },
+    "total_results": 1
+}

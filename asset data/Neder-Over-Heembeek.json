@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 80,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 53' 33.27972'' N",
+                    "lng": "4\u00b0 22' 36.81408'' E"
+                },
+                "MGRS": "31UES9683738782",
+                "Maidenhead": "JO20ev54ff",
+                "Mercator": {
+                    "x": 487233.478,
+                    "y": 6569137.403
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE1"
+                    },
+                    "NUTS2": {
+                        "code": "BE10"
+                    },
+                    "NUTS3": {
+                        "code": "BE100"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2404024#map=16/50.89258/4.37689",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/50.89258/4.37689&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.89258&mlon=4.37689#map=16/50.89258/4.37689"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u151e8enubpg4hyj3gr3",
+                "qibla": 123.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711776180,
+                        "astronomical": 1711769280,
+                        "civil": 1711774200,
+                        "nautical": 1711771800
+                    },
+                    "set": {
+                        "apparent": 1711822320,
+                        "astronomical": 1711829280,
+                        "civil": 1711824300,
+                        "nautical": 1711826700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "repeated.plants.tragedy"
+                },
+                "wikidata": "Q2645721"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.9139045,
+                    "lng": 4.413643
+                },
+                "southwest": {
+                    "lat": 50.8827151,
+                    "lng": 4.365153
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-BRU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Neder-Over-Heembeek",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Brussels-Capital",
+                "municipality": "Brussels",
+                "political_union": "European Union",
+                "region": "Brussels-Capital",
+                "village": "Neder-Over-Heembeek"
+            },
+            "confidence": 7,
+            "formatted": "Neder-Over-Heembeek, Brussels-Capital, Belgium",
+            "geometry": {
+                "lat": 50.8925777,
+                "lng": 4.3768928
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:48:46 GMT",
+        "created_unix": 1711835326
+    },
+    "total_results": 1
+}

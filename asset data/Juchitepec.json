@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2495,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 5' 56.69700'' N",
+                    "lng": "98\u00b0 54' 9.24336'' W"
+                },
+                "MGRS": "14QNG1024811793",
+                "Maidenhead": "EK09nc13qs",
+                "Mercator": {
+                    "x": -11009783.469,
+                    "y": 2152630.624
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5605945#map=17/19.09908/-98.90257",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.09908/-98.90257&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.09908&mlon=-98.90257#map=17/19.09908/-98.90257"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g3stkvk5ph3jwj90qcu",
+                "qibla": 46.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714565280,
+                        "astronomical": 1714560660,
+                        "civil": 1714563900,
+                        "nautical": 1714562280
+                    },
+                    "set": {
+                        "apparent": 1714525020,
+                        "astronomical": 1714529700,
+                        "civil": 1714526400,
+                        "nautical": 1714528020
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "blushes.kitten.muffin"
+                },
+                "wikidata": "Q2393522"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.1743835,
+                    "lng": -98.8323636
+                },
+                "southwest": {
+                    "lat": 19.0238686,
+                    "lng": -98.9789954
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Juchitepec",
+                "state": "State of Mexico",
+                "state_code": "MEX"
+            },
+            "confidence": 5,
+            "formatted": "Juchitepec, Mexico",
+            "geometry": {
+                "lat": 19.0990825,
+                "lng": -98.9025676
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:00:10 GMT",
+        "created_unix": 1714521610
+    },
+    "total_results": 1
+}

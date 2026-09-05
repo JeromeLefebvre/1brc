@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2118,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 30' 48.20688'' N",
+                    "lng": "14\u00b0 58' 1.45776'' E"
+                },
+                "MGRS": "33SVB9708951827",
+                "Maidenhead": "JM77lm63bf",
+                "Mercator": {
+                    "x": 1666126.789,
+                    "y": 4484888.335
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITG"
+                    },
+                    "NUTS2": {
+                        "code": "ITG1"
+                    },
+                    "NUTS3": {
+                        "code": "ITG17"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=39246#map=17/37.51339/14.96707",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.51339/14.96707&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.51339&mlon=14.96707#map=17/37.51339/14.96707"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sqdtkt4eq4ckx45k77wg",
+                "qibla": 119.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932040,
+                        "astronomical": 1713926340,
+                        "civil": 1713930420,
+                        "nautical": 1713928440
+                    },
+                    "set": {
+                        "apparent": 1713980580,
+                        "astronomical": 1713986340,
+                        "civil": 1713982200,
+                        "nautical": 1713984240
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "bouncing.basket.chimp"
+                },
+                "wikidata": "Q478703"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.5366545,
+                    "lng": 15.0023872
+                },
+                "southwest": {
+                    "lat": 37.4302934,
+                    "lng": 14.9334886
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-82",
+                    "IT-CT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Motta Sant'Anastasia",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Catania",
+                "county_code": "CT",
+                "political_union": "European Union",
+                "postcode": "95040",
+                "state": "Sicily",
+                "town": "Motta Sant'Anastasia"
+            },
+            "confidence": 7,
+            "formatted": "95040 Motta Sant'Anastasia CT, Italy",
+            "geometry": {
+                "lat": 37.5133908,
+                "lng": 14.9670716
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:22:26 GMT",
+        "created_unix": 1713993746
+    },
+    "total_results": 1
+}

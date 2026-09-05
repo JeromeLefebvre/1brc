@@ -1,0 +1,129 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 30,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 58' 59.98800'' S",
+                    "lng": "171\u00b0 54' 0.00000'' W"
+                },
+                "MGRS": "2LMK0279753932",
+                "Maidenhead": "AH46ba24aa",
+                "Mercator": {
+                    "x": -19135820.467,
+                    "y": -1561985.32
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-13.98333/-171.90000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-13.98333&mlon=-171.90000#map=16/-13.98333/-171.90000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "OCEANIA": "009",
+                        "POLYNESIA": "061",
+                        "WORLD": "001",
+                        "WS": "882"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 685,
+                "currency": {
+                    "alternate_symbols": [
+                        "WS$",
+                        "SAT",
+                        "ST"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "WS$",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "WST",
+                    "iso_numeric": "882",
+                    "name": "Samoan Tala",
+                    "smallest_denomination": 10,
+                    "subunit": "Sene",
+                    "subunit_to_unit": 100,
+                    "symbol": "T",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfc\ud83c\uddf8",
+                "geohash": "2jtb2q6jpwmg2q60r9jf",
+                "qibla": 288.43,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713548160,
+                        "astronomical": 1713543840,
+                        "civil": 1713546840,
+                        "nautical": 1713545340
+                    },
+                    "set": {
+                        "apparent": 1713503820,
+                        "astronomical": 1713508140,
+                        "civil": 1713505140,
+                        "nautical": 1713506640
+                    }
+                },
+                "timezone": {
+                    "name": "Pacific/Apia",
+                    "now_in_dst": 0,
+                    "offset_sec": 46800,
+                    "offset_string": "+1300",
+                    "short_name": "+13"
+                },
+                "what3words": {
+                    "words": "matted.alleviates.banish"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "WS",
+                "ISO_3166-1_alpha-3": "WSM",
+                "_category": "place",
+                "_normalized_city": "Saleaula",
+                "_type": "municipality",
+                "continent": "Oceania",
+                "country": "Samoa",
+                "country_code": "ws",
+                "local_administrative_area": "Saleaula"
+            },
+            "confidence": 9,
+            "formatted": "Saleaula, Samoa",
+            "geometry": {
+                "lat": -13.98333,
+                "lng": -171.9
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:40:26 GMT",
+        "created_unix": 1713523226
+    },
+    "total_results": 1
+}

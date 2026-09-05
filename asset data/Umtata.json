@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1243,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 35' 20.67000'' S",
+                    "lng": "28\u00b0 47' 20.92200'' E"
+                },
+                "MGRS": "35JPF6975603722",
+                "Maidenhead": "KF48jj48qo",
+                "Mercator": {
+                    "x": 3204792.962,
+                    "y": -3687110.63
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262722333#map=17/-31.58908/28.78915",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-31.58908/28.78915&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-31.58908&mlon=28.78915#map=17/-31.58908/28.78915"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "kdkkr17s79w7szr16kv8",
+                "qibla": 12.72,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714624680,
+                        "astronomical": 1714619700,
+                        "civil": 1714623180,
+                        "nautical": 1714621440
+                    },
+                    "set": {
+                        "apparent": 1714663500,
+                        "astronomical": 1714668480,
+                        "civil": 1714665060,
+                        "nautical": 1714666740
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "shaver.coughed.buckets"
+                },
+                "wikidata": "Q1020914"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -31.429075,
+                    "lng": 28.949145
+                },
+                "southwest": {
+                    "lat": -31.749075,
+                    "lng": 28.629145
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-EC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mthatha",
+                "_type": "city",
+                "city": "Mthatha",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "O.R. Tambo District Municipality",
+                "postcode": "5100",
+                "state": "Eastern Cape",
+                "state_code": "EC"
+            },
+            "confidence": 3,
+            "formatted": "Mthatha, O.R. Tambo District Municipality, South Africa",
+            "geometry": {
+                "lat": -31.589075,
+                "lng": 28.789145
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:47:25 GMT",
+        "created_unix": 1714693645
+    },
+    "total_results": 1
+}

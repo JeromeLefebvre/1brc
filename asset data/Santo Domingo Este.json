@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1121,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 29' 37.14540'' N",
+                    "lng": "69\u00b0 50' 18.13308'' W"
+                },
+                "MGRS": "19QDA1149545008",
+                "Maidenhead": "FK58bl98jl",
+                "Mercator": {
+                    "x": -7774371.82,
+                    "y": 2081864.604
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7407685#map=17/18.49365/-69.83837",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.49365/-69.83837&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.49365&mlon=-69.83837#map=17/18.49365/-69.83837"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7q34y9m2488r39gk5fv",
+                "qibla": 63.05,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714558380,
+                        "astronomical": 1714553760,
+                        "civil": 1714557000,
+                        "nautical": 1714555380
+                    },
+                    "set": {
+                        "apparent": 1714604400,
+                        "astronomical": 1714522620,
+                        "civil": 1714605780,
+                        "nautical": 1714607400
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "reports.belt.variety"
+                },
+                "wikidata": "Q2713354"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.598232,
+                    "lng": -69.7026103
+                },
+                "southwest": {
+                    "lat": 18.4546796,
+                    "lng": -69.8979393
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-32"
+                ],
+                "_category": "place",
+                "_normalized_city": "Santo Domingo Este",
+                "_type": "city",
+                "city": "Santo Domingo Este",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Santo Domingo"
+            },
+            "confidence": 5,
+            "formatted": "Santo Domingo Este, Santo Domingo, Dominican Republic",
+            "geometry": {
+                "lat": 18.4936515,
+                "lng": -69.8383703
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:21:26 GMT",
+        "created_unix": 1714533686
+    },
+    "total_results": 1
+}

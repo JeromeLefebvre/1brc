@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 799,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "4\u00b0 46' 8.76612'' N",
+                    "lng": "33\u00b0 35' 23.89200'' E"
+                },
+                "MGRS": "36NWL6542427169",
+                "Maidenhead": "KJ64ts04to",
+                "Mercator": {
+                    "x": 3739218.356,
+                    "y": 527958.112
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=205418847#map=17/4.76910/33.58997",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/4.76910/33.58997&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=4.76910&mlon=33.58997#map=17/4.76910/33.58997"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NORTHERN_AFRICA": "015",
+                        "SS": "728",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 211,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "SSP",
+                    "format": "%n %u",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "SSP",
+                    "iso_numeric": "728",
+                    "name": "South Sudanese Pound",
+                    "smallest_denomination": 5,
+                    "subunit": "piaster",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf8",
+                "geohash": "s8zghk5qp0bzz2wf5wqy",
+                "qibla": 19.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713670680,
+                        "astronomical": 1713666420,
+                        "civil": 1713669420,
+                        "nautical": 1713667920
+                    },
+                    "set": {
+                        "apparent": 1713714660,
+                        "astronomical": 1713718860,
+                        "civil": 1713715920,
+                        "nautical": 1713717420
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Juba",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "dimension.muddy.capers"
+                },
+                "wikidata": "Q1018945"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 4.8091017,
+                    "lng": 33.62997
+                },
+                "southwest": {
+                    "lat": 4.7291017,
+                    "lng": 33.54997
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SS",
+                "ISO_3166-1_alpha-3": "SSD",
+                "ISO_3166-2": [
+                    "SS-EE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kapoeta",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "South Sudan",
+                "country_code": "ss",
+                "county": "Kapoeta South",
+                "state": "Eastern Equatoria",
+                "state_code": "EE",
+                "town": "Kapoeta"
+            },
+            "confidence": 7,
+            "formatted": "Kapoeta, Kapoeta South, South Sudan",
+            "geometry": {
+                "lat": 4.7691017,
+                "lng": 33.58997
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:20:13 GMT",
+        "created_unix": 1713666013
+    },
+    "total_results": 1
+}

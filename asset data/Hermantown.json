@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1167,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 48' 24.78672'' N",
+                    "lng": "92\u00b0 14' 17.68704'' W"
+                },
+                "FIPS": {
+                    "county": "27137",
+                    "state": "27"
+                },
+                "MGRS": "15TWM5812083986",
+                "Maidenhead": "EN36vt13jp",
+                "Mercator": {
+                    "x": -10267914.621,
+                    "y": 5879443.815
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=136650#map=17/46.80689/-92.23825",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.80689/-92.23825&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.80689&mlon=-92.23825#map=17/46.80689/-92.23825"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "cbq6m0fjv5fd09gg4yqn",
+                "qibla": 44.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714560840,
+                        "astronomical": 1714553340,
+                        "civil": 1714558800,
+                        "nautical": 1714556280
+                    },
+                    "set": {
+                        "apparent": 1714526340,
+                        "astronomical": 1714533840,
+                        "civil": 1714528380,
+                        "nautical": 1714530900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "haven.sweep.limes"
+                },
+                "wikidata": "Q1924152"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.8515697,
+                    "lng": -92.1746841
+                },
+                "southwest": {
+                    "lat": 46.7640779,
+                    "lng": -92.301898
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hermantown",
+                "_type": "city",
+                "city": "Hermantown",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Louis County",
+                "state": "Minnesota",
+                "state_code": "MN"
+            },
+            "confidence": 7,
+            "formatted": "Hermantown, Minnesota, United States of America",
+            "geometry": {
+                "lat": 46.8068852,
+                "lng": -92.2382464
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:19:33 GMT",
+        "created_unix": 1714533573
+    },
+    "total_results": 1
+}

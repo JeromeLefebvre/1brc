@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1805,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 48' 37.00080'' S",
+                    "lng": "27\u00b0 49' 17.00040'' E"
+                },
+                "MGRS": "35JNL8163234314",
+                "Maidenhead": "KG33ve85nm",
+                "Mercator": {
+                    "x": 3097062.857,
+                    "y": -3080521.415
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262722138#map=16/-26.81028/27.82139",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-26.81028/27.82139&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-26.81028&mlon=27.82139#map=16/-26.81028/27.82139"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "ke5z3p6fv3gnpqg6jf23",
+                "qibla": 14.73,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714105920,
+                        "astronomical": 1714101240,
+                        "civil": 1714104480,
+                        "nautical": 1714102860
+                    },
+                    "set": {
+                        "apparent": 1714146060,
+                        "astronomical": 1714150740,
+                        "civil": 1714147500,
+                        "nautical": 1714149120
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "thus.protest.port"
+                },
+                "wikidata": "Q963786"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -26.770278,
+                    "lng": 27.861389
+                },
+                "southwest": {
+                    "lat": -26.850278,
+                    "lng": 27.781389
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-FS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Metsimaholo Local Municipality",
+                "_type": "city",
+                "city": "Metsimaholo Local Municipality",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Fezile Dabi District Municipality",
+                "postcode": "1947",
+                "state": "Free State",
+                "state_code": "FS",
+                "town": "Sasolburg"
+            },
+            "confidence": 7,
+            "formatted": "Metsimaholo Local Municipality, Fezile Dabi District Municipality, South Africa",
+            "geometry": {
+                "lat": -26.810278,
+                "lng": 27.821389
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:21:35 GMT",
+        "created_unix": 1714170095
+    },
+    "total_results": 1
+}

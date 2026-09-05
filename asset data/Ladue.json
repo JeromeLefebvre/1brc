@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1966,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 38' 59.18748'' N",
+                    "lng": "90\u00b0 22' 50.42100'' W"
+                },
+                "FIPS": {
+                    "county": "29189",
+                    "state": "29"
+                },
+                "MGRS": "15SYC2794381168",
+                "Maidenhead": "EM48tp45hw",
+                "Mercator": {
+                    "x": -10061130.44,
+                    "y": 4644937.753
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=140010#map=17/38.64977/-90.38067",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.64977/-90.38067&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.64977&mlon=-90.38067#map=17/38.64977/-90.38067"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzez7fz38nh0q51bf34",
+                "qibla": 47.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714561440,
+                        "astronomical": 1714555440,
+                        "civil": 1714559760,
+                        "nautical": 1714557660
+                    },
+                    "set": {
+                        "apparent": 1714524780,
+                        "astronomical": 1714530840,
+                        "civil": 1714526520,
+                        "nautical": 1714528620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "squint.newsworthy.logical"
+                },
+                "wikidata": "Q955498"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.661217,
+                    "lng": -90.34877
+                },
+                "southwest": {
+                    "lat": 38.609655,
+                    "lng": -90.40603
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ladue",
+                "_type": "city",
+                "city": "Ladue",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Louis County",
+                "postcode": "63124",
+                "state": "Missouri",
+                "state_code": "MO"
+            },
+            "confidence": 7,
+            "formatted": "Ladue, Missouri, United States of America",
+            "geometry": {
+                "lat": 38.6497743,
+                "lng": -90.3806725
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:45:55 GMT",
+        "created_unix": 1714531555
+    },
+    "total_results": 1
+}

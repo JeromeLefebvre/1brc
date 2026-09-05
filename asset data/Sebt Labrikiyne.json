@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 406,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 17' 47.40000'' N",
+                    "lng": "8\u00b0 4' 49.94400'' W"
+                },
+                "MGRS": "29SNR8656873672",
+                "Maidenhead": "IM52xh01id",
+                "Mercator": {
+                    "x": -899521.598,
+                    "y": 3779466.15
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.29650/-8.08054&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.29650&mlon=-8.08054#map=16/32.29650/-8.08054"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evdr8p7utzbwv2etxqem",
+                "qibla": 92.05,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713765360,
+                        "astronomical": 1713760140,
+                        "civil": 1713763800,
+                        "nautical": 1713762000
+                    },
+                    "set": {
+                        "apparent": 1713812760,
+                        "astronomical": 1713818040,
+                        "civil": 1713814320,
+                        "nautical": 1713816120
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "peepholes.refrigerator.wangled"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Labrikiyne",
+                "_type": "municipality",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "Kelaa-Des-Sraghna",
+                "local_administrative_area": "Labrikiyne",
+                "state": "Marrakech-Tensift-Al Haouz"
+            },
+            "confidence": 9,
+            "formatted": "Labrikiyne, Kelaa-Des-Sraghna, Morocco",
+            "geometry": {
+                "lat": 32.2965,
+                "lng": -8.08054
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:35:31 GMT",
+        "created_unix": 1713782131
+    },
+    "total_results": 1
+}

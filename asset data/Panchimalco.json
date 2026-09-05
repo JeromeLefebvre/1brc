@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 401,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 36' 41.18292'' N",
+                    "lng": "89\u00b0 10' 45.99156'' W"
+                },
+                "MGRS": "16PBA6419905809",
+                "Maidenhead": "EK53jo86lr",
+                "Mercator": {
+                    "x": -9927410.084,
+                    "y": 1519625.797
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=13298479#map=17/13.61144/-89.17944",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.61144/-89.17944&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.61144&mlon=-89.17944#map=17/13.61144/-89.17944"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "SV": "222",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 503,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfb",
+                "geohash": "d42t6tvs2kk2d0hknp6q",
+                "qibla": 55.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714822500,
+                        "astronomical": 1714818000,
+                        "civil": 1714821120,
+                        "nautical": 1714819560
+                    },
+                    "set": {
+                        "apparent": 1714781520,
+                        "astronomical": 1714786020,
+                        "civil": 1714782900,
+                        "nautical": 1714784460
+                    }
+                },
+                "timezone": {
+                    "name": "America/El_Salvador",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "rashers.tank.soldiers"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.6459963,
+                    "lng": -89.1341891
+                },
+                "southwest": {
+                    "lat": 13.475534,
+                    "lng": -89.2316384
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SV",
+                "ISO_3166-1_alpha-3": "SLV",
+                "ISO_3166-2": [
+                    "SV-SS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Municipio de Panchimalco",
+                "_type": "city",
+                "continent": "North America",
+                "country": "El Salvador",
+                "country_code": "sv",
+                "state": "Departamento de San Salvador",
+                "state_code": "SS",
+                "town": "Municipio de Panchimalco"
+            },
+            "confidence": 5,
+            "formatted": "Municipio de Panchimalco, Departamento de San Salvador, El Salvador",
+            "geometry": {
+                "lat": 13.6114397,
+                "lng": -89.1794421
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:02:30 GMT",
+        "created_unix": 1714795350
+    },
+    "total_results": 1
+}

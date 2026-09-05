@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1099,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 45' 5.17788'' N",
+                    "lng": "21\u00b0 55' 16.30164'' E"
+                },
+                "MGRS": "34UEV6771200234",
+                "Maidenhead": "KN08xs00ni",
+                "Mercator": {
+                    "x": 2440256.254,
+                    "y": 6200647.33
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "SK"
+                    },
+                    "NUTS1": {
+                        "code": "SK0"
+                    },
+                    "NUTS2": {
+                        "code": "SK04"
+                    },
+                    "NUTS3": {
+                        "code": "SK042"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2386541#map=17/48.75144/21.92119",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.75144/21.92119&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.75144&mlon=21.92119#map=17/48.75144/21.92119"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "SK": "703",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 421,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf0",
+                "geohash": "u2xt6fft8yg9hk5d069b",
+                "qibla": 146.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714533180,
+                        "astronomical": 1714525260,
+                        "civil": 1714531080,
+                        "nautical": 1714528380
+                    },
+                    "set": {
+                        "apparent": 1714585620,
+                        "astronomical": 1714593600,
+                        "civil": 1714587720,
+                        "nautical": 1714590420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Bratislava",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "heeding.themes.pile"
+                },
+                "wikidata": "Q460925"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.7975758,
+                    "lng": 21.9788742
+                },
+                "southwest": {
+                    "lat": 48.7090927,
+                    "lng": 21.8534133
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SK",
+                "ISO_3166-1_alpha-3": "SVK",
+                "ISO_3166-2": [
+                    "SK-04",
+                    "SK-KI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Michalovce",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Slovakia",
+                "country_code": "sk",
+                "county": "District of Michalovce",
+                "political_union": "European Union",
+                "postcode": "071 01",
+                "region": "Eastern Slovakia",
+                "state": "Ko\u0161ice",
+                "town": "Michalovce"
+            },
+            "confidence": 7,
+            "formatted": "071 01 Michalovce, Slovakia",
+            "geometry": {
+                "lat": 48.7514383,
+                "lng": 21.9211949
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:22:22 GMT",
+        "created_unix": 1714533742
+    },
+    "total_results": 1
+}

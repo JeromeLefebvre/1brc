@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 506,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 15' 44.23320'' N",
+                    "lng": "111\u00b0 46' 34.19760'' W"
+                },
+                "MGRS": "12RVN2184294216",
+                "Maidenhead": "DL45cg62uw",
+                "Mercator": {
+                    "x": -12442865.882,
+                    "y": 2889766.035
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=278812053#map=17/25.26229/-111.77617",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/25.26229/-111.77617&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.26229&mlon=-111.77617#map=17/25.26229/-111.77617"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9s2x8qz56x9ezcpweh77",
+                "qibla": 33.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713445320,
+                        "astronomical": 1713440580,
+                        "civil": 1713443940,
+                        "nautical": 1713442260
+                    },
+                    "set": {
+                        "apparent": 1713405060,
+                        "astronomical": 1713409800,
+                        "civil": 1713406440,
+                        "nautical": 1713408120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mazatlan",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "lordship.newsgroup.amongst"
+                },
+                "wikidata": "Q539151"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 25.302287,
+                    "lng": -111.736166
+                },
+                "southwest": {
+                    "lat": 25.222287,
+                    "lng": -111.816166
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-BCS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ciudad Insurgentes",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Municipio de Comond\u00fa",
+                "state": "Baja California Sur",
+                "state_code": "BCS",
+                "town": "Ciudad Insurgentes"
+            },
+            "confidence": 7,
+            "formatted": "Ciudad Insurgentes, Municipio de Comond\u00fa, Mexico",
+            "geometry": {
+                "lat": 25.262287,
+                "lng": -111.776166
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:22:06 GMT",
+        "created_unix": 1713442926
+    },
+    "total_results": 1
+}

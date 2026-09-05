@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1948,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 41' 33.40356'' N",
+                    "lng": "106\u00b0 12' 26.92440'' W"
+                },
+                "FIPS": {
+                    "county": "48141",
+                    "state": "48"
+                },
+                "MGRS": "13RCR8556406998",
+                "Maidenhead": "DM61vq56cf",
+                "Mercator": {
+                    "x": -11822962.481,
+                    "y": 3700582.915
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6587593#map=16/31.69261/-106.20748",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/31.69261/-106.20748&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.69261&mlon=-106.20748#map=16/31.69261/-106.20748"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9tskr1qnf75epkpn0h76",
+                "qibla": 35.98,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714911360,
+                        "astronomical": 1714905960,
+                        "civil": 1714909800,
+                        "nautical": 1714907940
+                    },
+                    "set": {
+                        "apparent": 1714873620,
+                        "astronomical": 1714879080,
+                        "civil": 1714875180,
+                        "nautical": 1714877100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "resting.amuses.lays"
+                },
+                "wikidata": "Q979346"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.7115283,
+                    "lng": -106.1477396
+                },
+                "southwest": {
+                    "lat": 31.63948,
+                    "lng": -106.2200465
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Horizon City",
+                "_type": "city",
+                "city": "Horizon City",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "El Paso County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 7,
+            "formatted": "Horizon City, Texas, United States of America",
+            "geometry": {
+                "lat": 31.6926121,
+                "lng": -106.207479
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:08:46 GMT",
+        "created_unix": 1714892926
+    },
+    "total_results": 1
+}

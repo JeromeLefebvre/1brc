@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1256,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 34' 12.60120'' S",
+                    "lng": "153\u00b0 7' 36.86520'' E"
+                },
+                "MGRS": "56JNQ1252650404",
+                "Maidenhead": "QG62nk53fd",
+                "Mercator": {
+                    "x": 17046009.311,
+                    "y": -3175117.561
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11677810#map=16/-27.57017/153.12691",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-27.57017/153.12691&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-27.57017&mlon=153.12691#map=16/-27.57017/153.12691"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AU": "036",
+                        "AUSTRALASIA": "053",
+                        "OCEANIA": "009",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 61,
+                "currency": {
+                    "alternate_symbols": [
+                        "A$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "A$",
+                    "html_entity": "$",
+                    "iso_code": "AUD",
+                    "iso_numeric": "036",
+                    "name": "Australian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde6\ud83c\uddfa",
+                "geohash": "r7hghmp85s37zbqtbgq7",
+                "qibla": 280.17,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714940160,
+                        "astronomical": 1714935360,
+                        "civil": 1714938720,
+                        "nautical": 1714937040
+                    },
+                    "set": {
+                        "apparent": 1714893120,
+                        "astronomical": 1714897920,
+                        "civil": 1714894560,
+                        "nautical": 1714896240
+                    }
+                },
+                "timezone": {
+                    "name": "Australia/Brisbane",
+                    "now_in_dst": 0,
+                    "offset_sec": 36000,
+                    "offset_string": "+1000",
+                    "short_name": "AEST"
+                },
+                "what3words": {
+                    "words": "fonts.latter.scale"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -27.545049,
+                    "lng": 153.147049
+                },
+                "southwest": {
+                    "lat": -27.595351,
+                    "lng": 153.100328
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AU",
+                "ISO_3166-1_alpha-3": "AUS",
+                "ISO_3166-2": [
+                    "AU-QLD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rochedale",
+                "_type": "neighbourhood",
+                "city_district": "Rochedale",
+                "continent": "Oceania",
+                "country": "Australia",
+                "country_code": "au",
+                "district": "Greater Brisbane",
+                "state": "Queensland",
+                "state_code": "QLD"
+            },
+            "confidence": 7,
+            "formatted": "Rochedale, Greater Brisbane, Australia",
+            "geometry": {
+                "lat": -27.570167,
+                "lng": 153.126907
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:35:39 GMT",
+        "created_unix": 1714901739
+    },
+    "total_results": 1
+}

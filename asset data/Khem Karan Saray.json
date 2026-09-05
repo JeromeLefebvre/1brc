@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2301,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 1' 3.57600'' N",
+                    "lng": "28\u00b0 58' 27.76800'' E"
+                },
+                "MGRS": "35TPF6600842595",
+                "Maidenhead": "KN41la64wf",
+                "Mercator": {
+                    "x": 3225413.228,
+                    "y": 4986897.754
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.01766/28.97438&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.01766&mlon=28.97438#map=17/41.01766/28.97438"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "TR": "792",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 90,
+                "currency": {
+                    "alternate_symbols": [
+                        "TL"
+                    ],
+                    "decimal_mark": ",",
+                    "html_entity": "&#8378;",
+                    "iso_code": "TRY",
+                    "iso_numeric": "949",
+                    "name": "Turkish Lira",
+                    "smallest_denomination": 1,
+                    "subunit": "kuru\u015f",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ba",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf7",
+                "geohash": "sxk97743pyp8s4x7nhp2",
+                "qibla": 151.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714446240,
+                        "astronomical": 1714439940,
+                        "civil": 1714444500,
+                        "nautical": 1714442280
+                    },
+                    "set": {
+                        "apparent": 1714496340,
+                        "astronomical": 1714502700,
+                        "civil": 1714498140,
+                        "nautical": 1714500300
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Istanbul",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "stardom.pool.animated"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.0200577,
+                    "lng": 28.9830914
+                },
+                "southwest": {
+                    "lat": 40.9879494,
+                    "lng": 28.9666996
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TR",
+                "ISO_3166-1_alpha-3": "TUR",
+                "_category": "place",
+                "_normalized_city": "Emin\u00f6n\u00fc",
+                "_type": "neighbourhood",
+                "continent": "Europe",
+                "country": "Turkey",
+                "country_code": "tr",
+                "state": "Istanbul",
+                "suburb": "Emin\u00f6n\u00fc"
+            },
+            "confidence": 7,
+            "formatted": "Emin\u00f6n\u00fc, Istanbul, Turkey",
+            "geometry": {
+                "lat": 41.01766,
+                "lng": 28.97438
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:55:29 GMT",
+        "created_unix": 1714517729
+    },
+    "total_results": 1
+}

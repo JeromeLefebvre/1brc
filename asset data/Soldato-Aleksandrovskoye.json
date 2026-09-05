@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 247,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 15' 55.00800'' N",
+                    "lng": "43\u00b0 45' 21.99600'' E"
+                },
+                "MGRS": "38TMQ0071702089",
+                "Maidenhead": "LN14vg03rq",
+                "Mercator": {
+                    "x": 4870907.884,
+                    "y": 5476752.426
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.26528/43.75611&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.26528&mlon=43.75611#map=17/44.26528/43.75611"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "szz5gdnpzq22kx2p348x",
+                "qibla": 189.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714873860,
+                        "astronomical": 1714953240,
+                        "civil": 1714871940,
+                        "nautical": 1714869540
+                    },
+                    "set": {
+                        "apparent": 1714925580,
+                        "astronomical": 1714932660,
+                        "civil": 1714927500,
+                        "nautical": 1714929900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "outermost.tramps.realigned"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.2864151,
+                    "lng": 43.7951927
+                },
+                "southwest": {
+                    "lat": 44.2516098,
+                    "lng": 43.7206955
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Soldato-Aleksandrovskoye",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Stavropol\u2019skiy Kray",
+                "town": "Soldato-Aleksandrovskoye"
+            },
+            "confidence": 7,
+            "formatted": "Soldato-Aleksandrovskoye, Stavropol\u2019skiy Kray, Russia",
+            "geometry": {
+                "lat": 44.26528,
+                "lng": 43.75611
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:53:22 GMT",
+        "created_unix": 1714949602
+    },
+    "total_results": 1
+}

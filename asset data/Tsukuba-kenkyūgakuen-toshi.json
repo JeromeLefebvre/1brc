@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1029,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 4' 59.98800'' N",
+                    "lng": "140\u00b0 7' 0.01200'' E"
+                },
+                "MGRS": "54SVE2047093552",
+                "Maidenhead": "QM06bb49ax",
+                "Mercator": {
+                    "x": 15597716.356,
+                    "y": 4286926.751
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.08333/140.11667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.08333&mlon=140.11667#map=17/36.08333/140.11667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn7tk2vbeh1xtexfuspn",
+                "qibla": 293.23,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711916940,
+                        "astronomical": 1711911720,
+                        "civil": 1711915380,
+                        "nautical": 1711913580
+                    },
+                    "set": {
+                        "apparent": 1711875540,
+                        "astronomical": 1711880760,
+                        "civil": 1711877100,
+                        "nautical": 1711878900
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "muddying.diplodocus.repaint"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.1247047,
+                    "lng": 140.1581976
+                },
+                "southwest": {
+                    "lat": 36.0445252,
+                    "lng": 140.0810529
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Tsukuba",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "state": "Ibaraki",
+                "town": "Tsukuba"
+            },
+            "confidence": 7,
+            "formatted": "Tsukuba, Ibaraki, Japan",
+            "geometry": {
+                "lat": 36.08333,
+                "lng": 140.11667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:15:32 GMT",
+        "created_unix": 1711919732
+    },
+    "total_results": 1
+}

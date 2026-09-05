@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 258,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 28' 27.46668'' N",
+                    "lng": "96\u00b0 24' 48.92724'' W"
+                },
+                "FIPS": {
+                    "county": "31043",
+                    "state": "31"
+                },
+                "MGRS": "14TQN1260805680",
+                "Maidenhead": "EN12tl03it",
+                "Mercator": {
+                    "x": -10732711.845,
+                    "y": 5203432.255
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=169255#map=17/42.47430/-96.41359",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.47430/-96.41359&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.47430&mlon=-96.41359#map=17/42.47430/-96.41359"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ze3wh1y8w8n84njuenx",
+                "qibla": 41.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713526680,
+                        "astronomical": 1713520500,
+                        "civil": 1713524880,
+                        "nautical": 1713522780
+                    },
+                    "set": {
+                        "apparent": 1713489120,
+                        "astronomical": 1713495360,
+                        "civil": 1713490920,
+                        "nautical": 1713493020
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "manliness.focal.guides"
+                },
+                "wikidata": "Q966911"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4893495,
+                    "lng": -96.3848523
+                },
+                "southwest": {
+                    "lat": 42.429695,
+                    "lng": -96.440184
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NE"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Sioux City",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dakota County",
+                "postcode": "68776",
+                "state": "Nebraska",
+                "state_code": "NE",
+                "town": "South Sioux City"
+            },
+            "confidence": 7,
+            "formatted": "South Sioux City, NE 68776, United States of America",
+            "geometry": {
+                "lat": 42.4742963,
+                "lng": -96.4135909
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:33:13 GMT",
+        "created_unix": 1713522793
+    },
+    "total_results": 1
+}

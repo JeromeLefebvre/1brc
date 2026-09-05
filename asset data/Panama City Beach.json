@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 52,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 10' 35.72904'' N",
+                    "lng": "85\u00b0 48' 19.38960'' W"
+                },
+                "FIPS": {
+                    "county": "12005",
+                    "state": "12"
+                },
+                "MGRS": "16RFU1501738956",
+                "Maidenhead": "EM70ce32ij",
+                "Mercator": {
+                    "x": -9551811.877,
+                    "y": 3504794.461
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=118843#map=16/30.17659/-85.80539",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.17659/-85.80539&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.17659&mlon=-85.80539#map=16/30.17659/-85.80539"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj6gxmqrms6gksg3q013",
+                "qibla": 52.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713956820,
+                        "astronomical": 1713951720,
+                        "civil": 1713955320,
+                        "nautical": 1713953520
+                    },
+                    "set": {
+                        "apparent": 1713917760,
+                        "astronomical": 1713922860,
+                        "civil": 1713919260,
+                        "nautical": 1713921060
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "superego.unsuited.circulate"
+                },
+                "wikidata": "Q1075852"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.2967949,
+                    "lng": -85.7859018
+                },
+                "southwest": {
+                    "lat": 30.1650872,
+                    "lng": -85.957996
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Panama City Beach",
+                "_type": "city",
+                "city": "Panama City Beach",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Bay County",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 5,
+            "formatted": "Panama City Beach, Florida, United States of America",
+            "geometry": {
+                "lat": 30.1765914,
+                "lng": -85.805386
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:34:12 GMT",
+        "created_unix": 1713998052
+    },
+    "total_results": 1
+}

@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1084,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 21' 6.33780'' N",
+                    "lng": "12\u00b0 34' 38.26524'' E"
+                },
+                "MGRS": "33TUJ0365602728",
+                "Maidenhead": "JN63gi94gk",
+                "Mercator": {
+                    "x": 1400098.175,
+                    "y": 5336325.784
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI2"
+                    },
+                    "NUTS3": {
+                        "code": "ITI21"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42390#map=17/43.35176/12.57730",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.35176/12.57730&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.35176&mlon=12.57730#map=17/43.35176/12.57730"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr8yw5yw21zs3ucqe7d5",
+                "qibla": 125.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018320,
+                        "astronomical": 1714011840,
+                        "civil": 1714016520,
+                        "nautical": 1714014240
+                    },
+                    "set": {
+                        "apparent": 1714068240,
+                        "astronomical": 1714074780,
+                        "civil": 1714070040,
+                        "nautical": 1714072320
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "swing.fewest.avocado"
+                },
+                "wikidata": "Q20458"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.5018787,
+                    "lng": 12.7096221
+                },
+                "southwest": {
+                    "lat": 43.1939663,
+                    "lng": 12.373873
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-55",
+                    "IT-PG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gubbio",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Perugia",
+                "county_code": "PG",
+                "political_union": "European Union",
+                "postcode": "06024",
+                "state": "Umbria",
+                "state_code": "UMB",
+                "town": "Gubbio"
+            },
+            "confidence": 3,
+            "formatted": "06024 Gubbio PG, Italy",
+            "geometry": {
+                "lat": 43.3517605,
+                "lng": 12.5772959
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:03:37 GMT",
+        "created_unix": 1714007017
+    },
+    "total_results": 1
+}

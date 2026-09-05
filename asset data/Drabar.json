@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1169,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 24' 11.21832'' N",
+                    "lng": "75\u00b0 15' 27.17748'' E"
+                },
+                "MGRS": "43SES2394996007",
+                "Maidenhead": "MM73pj06vr",
+                "Mercator": {
+                    "x": 8377632.066,
+                    "y": 3925411.85
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7964772684#map=17/33.40312/75.25755",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.40312/75.25755&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.40312&mlon=75.25755#map=17/33.40312/75.25755"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "ttvw08bgk00j834c2ucq",
+                "qibla": 258.21,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714867680,
+                        "astronomical": 1714948560,
+                        "civil": 1714952520,
+                        "nautical": 1714950600
+                    },
+                    "set": {
+                        "apparent": 1714916640,
+                        "astronomical": 1714922160,
+                        "civil": 1714918200,
+                        "nautical": 1714920120
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "confusion.eastward.treehouse"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.4031662,
+                    "lng": 75.2575993
+                },
+                "southwest": {
+                    "lat": 33.4030662,
+                    "lng": 75.2574993
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-JK"
+                ],
+                "_category": "building",
+                "_normalized_city": "zamandu",
+                "_type": "building",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Banihal",
+                "isolated_dwelling": "Drabar",
+                "state": "Jammu and Kashmir",
+                "state_code": "JK",
+                "state_district": "Ramban District",
+                "village": "zamandu"
+            },
+            "confidence": 10,
+            "formatted": "Drabar, zamandu, Banihal, India",
+            "geometry": {
+                "lat": 33.4031162,
+                "lng": 75.2575493
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:12:33 GMT",
+        "created_unix": 1714947153
+    },
+    "total_results": 1
+}

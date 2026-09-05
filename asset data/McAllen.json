@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1252,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 12' 14.81040'' N",
+                    "lng": "98\u00b0 13' 48.21780'' W"
+                },
+                "FIPS": {
+                    "county": "48215",
+                    "state": "48"
+                },
+                "MGRS": "14RNP7692198516",
+                "Maidenhead": "EL06ve28jx",
+                "Mercator": {
+                    "x": -10934920.315,
+                    "y": 3005521.145
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=113786#map=17/26.20411/-98.23006",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.20411/-98.23006&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.20411&mlon=-98.23006#map=17/26.20411/-98.23006"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9udjhdr418yhemb9g669",
+                "qibla": 44.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713873720,
+                        "astronomical": 1713868860,
+                        "civil": 1713872340,
+                        "nautical": 1713870600
+                    },
+                    "set": {
+                        "apparent": 1713834000,
+                        "astronomical": 1713838860,
+                        "civil": 1713835440,
+                        "nautical": 1713837120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "kipper.oils.saves"
+                },
+                "wikidata": "Q51698"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.4666626,
+                    "lng": -98.195385
+                },
+                "southwest": {
+                    "lat": 26.1021346,
+                    "lng": -98.3180607
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "McAllen",
+                "_type": "city",
+                "city": "McAllen",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hidalgo County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 4,
+            "formatted": "McAllen, Texas, United States of America",
+            "geometry": {
+                "lat": 26.204114,
+                "lng": -98.2300605
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:25:39 GMT",
+        "created_unix": 1713842739
+    },
+    "total_results": 1
+}

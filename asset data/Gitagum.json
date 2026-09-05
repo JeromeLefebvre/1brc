@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 26,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "8\u00b0 35' 39.89004'' N",
+                    "lng": "124\u00b0 24' 20.71368'' E"
+                },
+                "MGRS": "51PXK5469550295",
+                "Maidenhead": "PJ28eo82qp",
+                "Mercator": {
+                    "x": 13848785.165,
+                    "y": 953952.841
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198513301#map=16/8.59441/124.40575",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/8.59441/124.40575&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=8.59441&mlon=124.40575#map=16/8.59441/124.40575"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wc82yutd04v7z5uqr8bd",
+                "qibla": 290.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714080600,
+                        "astronomical": 1714076280,
+                        "civil": 1714079280,
+                        "nautical": 1714077780
+                    },
+                    "set": {
+                        "apparent": 1714038660,
+                        "astronomical": 1714042980,
+                        "civil": 1714039920,
+                        "nautical": 1714041480
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "basher.warplanes.twists"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 8.6344139,
+                    "lng": 124.4457538
+                },
+                "southwest": {
+                    "lat": 8.5544139,
+                    "lng": 124.3657538
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-10",
+                    "PH-MSR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gitagum",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "9020",
+                "region": "Northern Mindanao",
+                "state": "Misamis Oriental",
+                "state_code": "MSR",
+                "town": "Gitagum"
+            },
+            "confidence": 7,
+            "formatted": "Gitagum, 9020 Northern Mindanao Misamis Oriental, Philippines",
+            "geometry": {
+                "lat": 8.5944139,
+                "lng": 124.4057538
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:25:11 GMT",
+        "created_unix": 1714011911
+    },
+    "total_results": 1
+}

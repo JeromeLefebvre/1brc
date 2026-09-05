@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2010,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 54' 40.87656'' S",
+                    "lng": "39\u00b0 40' 1.75296'' E"
+                },
+                "MGRS": "37MEM7353725443",
+                "Maidenhead": "KI92uc01bg",
+                "Mercator": {
+                    "x": 4415727.34,
+                    "y": -877622.699
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=608071188#map=16/-7.91135/39.66715",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-7.91135/39.66715&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-7.91135&mlon=39.66715#map=16/-7.91135/39.66715"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "TZ": "834",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 255,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "TZS",
+                    "iso_numeric": "834",
+                    "name": "Tanzanian Shilling",
+                    "smallest_denomination": 5000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "Sh",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddff",
+                "geohash": "kys4yxu9p8te86jc26gf",
+                "qibla": 0.3,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713929040,
+                        "astronomical": 1713924840,
+                        "civil": 1713927780,
+                        "nautical": 1713926280
+                    },
+                    "set": {
+                        "apparent": 1713971640,
+                        "astronomical": 1713975900,
+                        "civil": 1713972960,
+                        "nautical": 1713974400
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Dar_es_Salaam",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "threat.engage.wrench"
+                },
+                "wikidata": "Q3366013"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -7.8713546,
+                    "lng": 39.7071536
+                },
+                "southwest": {
+                    "lat": -7.9513546,
+                    "lng": 39.6271536
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TZ",
+                "ISO_3166-1_alpha-3": "TZA",
+                "ISO_3166-2": [
+                    "TZ-19"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kilindoni",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Tanzania",
+                "country_code": "tz",
+                "region": "Coastal Zone",
+                "state": "Pwani Region",
+                "state_district": "Mafia",
+                "town": "Kilindoni"
+            },
+            "confidence": 7,
+            "formatted": "Kilindoni, Pwani Region, Tanzania",
+            "geometry": {
+                "lat": -7.9113546,
+                "lng": 39.6671536
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:26:07 GMT",
+        "created_unix": 1713993967
+    },
+    "total_results": 1
+}

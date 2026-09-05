@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1455,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 36' 53.98848'' N",
+                    "lng": "96\u00b0 37' 33.92112'' W"
+                },
+                "FIPS": {
+                    "county": "48057",
+                    "state": "48"
+                },
+                "MGRS": "14RQS3210667635",
+                "Maidenhead": "EL18qo47uo",
+                "Mercator": {
+                    "x": -10756367.047,
+                    "y": 3306275.106
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6587500#map=16/28.61500/-96.62609",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/28.61500/-96.62609&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=28.61500&mlon=-96.62609#map=16/28.61500/-96.62609"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9v56c1pn2yjbc22pge1n",
+                "qibla": 44.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714132200,
+                        "astronomical": 1714127160,
+                        "civil": 1714130760,
+                        "nautical": 1714129020
+                    },
+                    "set": {
+                        "apparent": 1714093080,
+                        "astronomical": 1714098180,
+                        "civil": 1714094580,
+                        "nautical": 1714096320
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "maturity.inspire.someone"
+                },
+                "wikidata": "Q982477"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 28.659578,
+                    "lng": -96.6001234
+                },
+                "southwest": {
+                    "lat": 28.5775369,
+                    "lng": -96.6623914
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Port Lavaca",
+                "_type": "city",
+                "city": "Port Lavaca",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Calhoun County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 7,
+            "formatted": "Port Lavaca, Texas, United States of America",
+            "geometry": {
+                "lat": 28.6149968,
+                "lng": -96.6260892
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:35:13 GMT",
+        "created_unix": 1714170913
+    },
+    "total_results": 1
+}

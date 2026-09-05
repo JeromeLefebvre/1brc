@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 147,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 42' 25.99920'' N",
+                    "lng": "73\u00b0 23' 9.48480'' W"
+                },
+                "FIPS": {
+                    "county": "36103",
+                    "state": "36"
+                },
+                "MGRS": "18TXL3634407509",
+                "Maidenhead": "FN30hq39qr",
+                "Mercator": {
+                    "x": -8169288.589,
+                    "y": 4941378.778
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175728#map=17/40.70722/-73.38597",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.70722/-73.38597&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.70722&mlon=-73.38597#map=17/40.70722/-73.38597"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5zd49bz00jubzjcu68",
+                "qibla": 58.9,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713521340,
+                        "astronomical": 1713515340,
+                        "civil": 1713519600,
+                        "nautical": 1713517560
+                    },
+                    "set": {
+                        "apparent": 1713569820,
+                        "astronomical": 1713489420,
+                        "civil": 1713485160,
+                        "nautical": 1713487200
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "heavy.moving.clips"
+                },
+                "wikidata": "Q3461804"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.717816,
+                    "lng": -73.363726
+                },
+                "southwest": {
+                    "lat": 40.695482,
+                    "lng": -73.405979
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Lindenhurst",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Suffolk County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "North Lindenhurst"
+            },
+            "confidence": 7,
+            "formatted": "North Lindenhurst, New York, United States of America",
+            "geometry": {
+                "lat": 40.707222,
+                "lng": -73.385968
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:36:44 GMT",
+        "created_unix": 1713523004
+    },
+    "total_results": 1
+}

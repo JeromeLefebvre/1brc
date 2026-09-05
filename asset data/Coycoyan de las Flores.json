@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1637,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 16' 22.58400'' N",
+                    "lng": "98\u00b0 16' 27.48000'' W"
+                },
+                "MGRS": "14QNE7713409894",
+                "Maidenhead": "EK07ug75cm",
+                "Mercator": {
+                    "x": -10939845.034,
+                    "y": 1939939.683
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/17.27294/-98.27430&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.27294&mlon=-98.27430#map=17/17.27294/-98.27430"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g4478qy4v6sxdjc4541",
+                "qibla": 48.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713528900,
+                        "astronomical": 1713524460,
+                        "civil": 1713527580,
+                        "nautical": 1713526020
+                    },
+                    "set": {
+                        "apparent": 1713487740,
+                        "astronomical": 1713492240,
+                        "civil": 1713489060,
+                        "nautical": 1713490620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "nosed.rhino.redesigns"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Coycoyan de las Flores",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Guerrero",
+                "state_code": "GRO",
+                "town": "Coycoyan de las Flores"
+            },
+            "confidence": 9,
+            "formatted": "Coycoyan de las Flores, Guerrero, Mexico",
+            "geometry": {
+                "lat": 17.27294,
+                "lng": -98.2743
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 07:07:20 GMT",
+        "created_unix": 1713510440
+    },
+    "total_results": 1
+}

@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1735,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 32' 5.58780'' N",
+                    "lng": "28\u00b0 38' 42.68400'' E"
+                },
+                "MGRS": "35UPB0383055544",
+                "Maidenhead": "KO45hm78ki",
+                "Mercator": {
+                    "x": 3188767.964,
+                    "y": 7431119.722
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6825778#map=17/55.53489/28.64519",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.53489/28.64519&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.53489&mlon=28.64519#map=17/55.53489/28.64519"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u9u7gvff1kczbgh4cpv9",
+                "qibla": 161.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714616520,
+                        "astronomical": 1714690920,
+                        "civil": 1714613880,
+                        "nautical": 1714610280
+                    },
+                    "set": {
+                        "apparent": 1714671840,
+                        "astronomical": 1714684260,
+                        "civil": 1714674540,
+                        "nautical": 1714678200
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "richest.caged.descended"
+                },
+                "wikidata": "Q750424"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.6045307,
+                    "lng": 28.7205646
+                },
+                "southwest": {
+                    "lat": 55.4857674,
+                    "lng": 28.4940663
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "ISO_3166-2": [
+                    "BY-VI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Navapolatsk",
+                "_type": "city",
+                "city": "Navapolatsk",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "state": "Vitsebsk Region",
+                "state_code": "VI"
+            },
+            "confidence": 6,
+            "formatted": "Navapolatsk, Vitsebsk Region, Belarus",
+            "geometry": {
+                "lat": 55.5348855,
+                "lng": 28.64519
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:29:34 GMT",
+        "created_unix": 1714692574
+    },
+    "total_results": 1
+}

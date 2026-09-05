@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1829,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 47' 46.86936'' N",
+                    "lng": "92\u00b0 18' 24.77880'' W"
+                },
+                "MGRS": "15QWU7385857155",
+                "Maidenhead": "EK36ut31ec",
+                "Mercator": {
+                    "x": -10275555.216,
+                    "y": 1884791.425
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5999654#map=17/16.79635/-92.30688",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.79635/-92.30688&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.79635&mlon=-92.30688#map=17/16.79635/-92.30688"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9fyre98jvep3fxx8rppp",
+                "qibla": 52.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713959280,
+                        "astronomical": 1713954840,
+                        "civil": 1713957960,
+                        "nautical": 1713956400
+                    },
+                    "set": {
+                        "apparent": 1713918360,
+                        "astronomical": 1713922860,
+                        "civil": 1713919680,
+                        "nautical": 1713921300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "flyovers.nation.undefined"
+                },
+                "wikidata": "Q1953078"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 16.9056855,
+                    "lng": -92.0686606
+                },
+                "southwest": {
+                    "lat": 16.6869354,
+                    "lng": -92.4566323
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-CHP"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Oxchuc",
+                "state": "Chiapas",
+                "state_code": "CHP"
+            },
+            "confidence": 3,
+            "formatted": "Oxchuc, Mexico",
+            "geometry": {
+                "lat": 16.7963526,
+                "lng": -92.306883
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:32:24 GMT",
+        "created_unix": 1713994344
+    },
+    "total_results": 1
+}

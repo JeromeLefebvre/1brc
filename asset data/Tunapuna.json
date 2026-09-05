@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2424,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 38' 37.02516'' N",
+                    "lng": "61\u00b0 23' 26.59416'' W"
+                },
+                "MGRS": "20PPS7603377031",
+                "Maidenhead": "FK90hp34cl",
+                "Mercator": {
+                    "x": -6833983.757,
+                    "y": 1183829.326
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=477483943#map=16/10.64362/-61.39072",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/10.64362/-61.39072&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.64362&mlon=-61.39072#map=16/10.64362/-61.39072"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "LATIN_AMERICA": "419",
+                        "TT": "780",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "TT$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "TT$",
+                    "format": "%n %u",
+                    "html_entity": "$",
+                    "iso_code": "TTD",
+                    "iso_numeric": "780",
+                    "name": "Trinidad and Tobago Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf9",
+                "geohash": "d9uke18esd0zhd4xyp3x",
+                "qibla": 66.75,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713434040,
+                        "astronomical": 1713429720,
+                        "civil": 1713432720,
+                        "nautical": 1713431220
+                    },
+                    "set": {
+                        "apparent": 1713478560,
+                        "astronomical": 1713482820,
+                        "civil": 1713479820,
+                        "nautical": 1713481320
+                    }
+                },
+                "timezone": {
+                    "name": "America/Port_of_Spain",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "evaded.initial.winter"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.6836181,
+                    "lng": -61.3507206
+                },
+                "southwest": {
+                    "lat": 10.6036181,
+                    "lng": -61.4307206
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TT",
+                "ISO_3166-1_alpha-3": "TTO",
+                "ISO_3166-2": [
+                    "TT-TUP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tunapuna",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Trinidad and Tobago",
+                "country_code": "tt",
+                "postcode": "310401",
+                "state": "Tunapuna-Piarco",
+                "state_code": "TUP",
+                "town": "Tunapuna"
+            },
+            "confidence": 7,
+            "formatted": "Tunapuna, 310401, Trinidad and Tobago",
+            "geometry": {
+                "lat": 10.6436181,
+                "lng": -61.3907206
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:19:05 GMT",
+        "created_unix": 1713439145
+    },
+    "total_results": 1
+}

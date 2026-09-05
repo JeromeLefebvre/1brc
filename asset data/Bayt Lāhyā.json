@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2414,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 32' 59.17200'' N",
+                    "lng": "34\u00b0 30' 8.89092'' E"
+                },
+                "MGRS": "36RXV4261291511",
+                "Maidenhead": "KM71gn01hw",
+                "Mercator": {
+                    "x": 3840797.358,
+                    "y": 3682000.21
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=10521481#map=16/31.54977/34.50247",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/31.54977/34.50247&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.54977&mlon=34.50247#map=16/31.54977/34.50247"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PS": "275",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 970,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf8",
+                "geohash": "sv8e3p7ytz6hf6hcvu0m",
+                "qibla": 153.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714445940,
+                        "astronomical": 1714440600,
+                        "civil": 1714444380,
+                        "nautical": 1714442520
+                    },
+                    "set": {
+                        "apparent": 1714494000,
+                        "astronomical": 1714499340,
+                        "civil": 1714495560,
+                        "nautical": 1714497420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Gaza",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "smirking.pulsing.warping"
+                },
+                "wikidata": "Q803986"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.5968541,
+                    "lng": 34.5239738
+                },
+                "southwest": {
+                    "lat": 31.5289636,
+                    "lng": 34.4606541
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PS",
+                "ISO_3166-1_alpha-3": "PSE",
+                "ISO_3166-2": [
+                    "PS-NGZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Beit Lahiya",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Palestinian Territory",
+                "country_code": "ps",
+                "postcode": "500",
+                "region": "Gaza Strip",
+                "state_district": "North Gaza Governorate",
+                "town": "Beit Lahiya"
+            },
+            "confidence": 7,
+            "formatted": "500 Beit Lahiya, Palestinian Territory",
+            "geometry": {
+                "lat": 31.54977,
+                "lng": 34.5024697
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:50:44 GMT",
+        "created_unix": 1714517444
+    },
+    "total_results": 1
+}

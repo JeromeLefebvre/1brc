@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2100,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 38' 57.99552'' N",
+                    "lng": "102\u00b0 59' 24.09936'' W"
+                },
+                "MGRS": "13QGF0654306109",
+                "Maidenhead": "DL82mp15eu",
+                "Mercator": {
+                    "x": -11464797.429,
+                    "y": 2573231.444
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=320858898#map=17/22.64944/-102.99003",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/22.64944/-102.99003&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=22.64944&mlon=-102.99003#map=17/22.64944/-102.99003"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9snbb7hyw6jrkjpvce0c",
+                "qibla": 42.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714047840,
+                        "astronomical": 1714043100,
+                        "civil": 1714046460,
+                        "nautical": 1714044780
+                    },
+                    "set": {
+                        "apparent": 1714007760,
+                        "astronomical": 1714012500,
+                        "civil": 1714009140,
+                        "nautical": 1714010820
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "saves.bakers.output"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 22.6894432,
+                    "lng": -102.9500276
+                },
+                "southwest": {
+                    "lat": 22.6094432,
+                    "lng": -103.0300276
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-ZAC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jerez",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Jerez",
+                "postcode": "99300",
+                "state": "Zacatecas",
+                "state_code": "ZAC",
+                "town": "Jerez"
+            },
+            "confidence": 7,
+            "formatted": "99300 Jerez, ZAC, Mexico",
+            "geometry": {
+                "lat": 22.6494432,
+                "lng": -102.9900276
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:18:19 GMT",
+        "created_unix": 1714004299
+    },
+    "total_results": 1
+}

@@ -1,0 +1,132 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1112,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 26' 26.01600'' N",
+                    "lng": "129\u00b0 10' 14.98800'' E"
+                },
+                "MGRS": "52SEG1511143760",
+                "Maidenhead": "PM47ok05lr",
+                "Mercator": {
+                    "x": 14379231.021,
+                    "y": 4474715.397
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.44056/129.17083&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.44056&mlon=129.17083#map=17/37.44056/129.17083"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wyeugrg746pzfj920zfr",
+                "qibla": 286.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714854360,
+                        "astronomical": 1714848480,
+                        "civil": 1714852680,
+                        "nautical": 1714850640
+                    },
+                    "set": {
+                        "apparent": 1714817640,
+                        "astronomical": 1714823640,
+                        "civil": 1714819380,
+                        "nautical": 1714821420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "eagles.rich.refutes"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.444626,
+                    "lng": 129.1830567
+                },
+                "southwest": {
+                    "lat": 37.4265985,
+                    "lng": 129.1604492
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "_category": "place",
+                "_normalized_city": "Santyoku",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr",
+                "state": "Gangwon-do",
+                "town": "Santyoku"
+            },
+            "confidence": 7,
+            "formatted": "Santyoku, Gangwon-do, South Korea",
+            "geometry": {
+                "lat": 37.44056,
+                "lng": 129.17083
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:08:28 GMT",
+        "created_unix": 1714788508
+    },
+    "total_results": 1
+}

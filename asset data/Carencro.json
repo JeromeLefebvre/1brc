@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 876,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 19' 1.71840'' N",
+                    "lng": "92\u00b0 2' 56.43456'' W"
+                },
+                "FIPS": {
+                    "county": "22055",
+                    "state": "22"
+                },
+                "MGRS": "15RWP9142954311",
+                "Maidenhead": "EM30xh46cc",
+                "Mercator": {
+                    "x": -10246848.877,
+                    "y": 3522815.782
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=131950#map=17/30.31714/-92.04901",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.31714/-92.04901&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.31714&mlon=-92.04901#map=17/30.31714/-92.04901"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vqs3r5fnt78qd1s6n5g",
+                "qibla": 47.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714131000,
+                        "astronomical": 1714125840,
+                        "civil": 1714129500,
+                        "nautical": 1714127700
+                    },
+                    "set": {
+                        "apparent": 1714092120,
+                        "astronomical": 1714097340,
+                        "civil": 1714093680,
+                        "nautical": 1714095420
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "dorm.tailspin.dairy"
+                },
+                "wikidata": "Q729559"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.3397654,
+                    "lng": -91.990122
+                },
+                "southwest": {
+                    "lat": 30.2830484,
+                    "lng": -92.074735
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-LA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Carencro",
+                "_type": "city",
+                "city": "Carencro",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lafayette Parish",
+                "postcode": "70520",
+                "state": "Louisiana",
+                "state_code": "LA"
+            },
+            "confidence": 7,
+            "formatted": "Carencro, Louisiana, United States of America",
+            "geometry": {
+                "lat": 30.317144,
+                "lng": -92.0490096
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:57:36 GMT",
+        "created_unix": 1714172256
+    },
+    "total_results": 1
+}

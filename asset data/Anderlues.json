@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 11,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 24' 13.90788'' N",
+                    "lng": "4\u00b0 15' 51.49512'' E"
+                },
+                "MGRS": "31UER8984684299",
+                "Maidenhead": "JO20dj16rw",
+                "Mercator": {
+                    "x": 474700.175,
+                    "y": 6483569.198
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE3"
+                    },
+                    "NUTS2": {
+                        "code": "BE32"
+                    },
+                    "NUTS3": {
+                        "code": "BE32D"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2075616#map=17/50.40386/4.26430",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.40386/4.26430&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.40386&mlon=4.26430#map=17/50.40386/4.26430"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u0gn9p9pv3peyhuj9dzv",
+                "qibla": 122.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795980,
+                        "astronomical": 1714787220,
+                        "civil": 1714793760,
+                        "nautical": 1714790820
+                    },
+                    "set": {
+                        "apparent": 1714849620,
+                        "astronomical": 1714858500,
+                        "civil": 1714851900,
+                        "nautical": 1714854840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "racked.inform.awaited"
+                },
+                "wikidata": "Q95005"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.4280481,
+                    "lng": 4.293997
+                },
+                "southwest": {
+                    "lat": 50.3796072,
+                    "lng": 4.2278155
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-WAL",
+                    "BE-WHT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Anderlues",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Thuin",
+                "municipality": "Anderlues",
+                "political_union": "European Union",
+                "postcode": "6150",
+                "region": "Wallonia",
+                "state": "Hainaut",
+                "state_code": "WHT"
+            },
+            "confidence": 7,
+            "formatted": "6150 Anderlues, Belgium",
+            "geometry": {
+                "lat": 50.4038633,
+                "lng": 4.2643042
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:17:08 GMT",
+        "created_unix": 1714796228
+    },
+    "total_results": 1
+}

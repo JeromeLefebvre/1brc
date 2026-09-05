@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1203,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 41' 17.25828'' N",
+                    "lng": "16\u00b0 33' 13.02084'' E"
+                },
+                "MGRS": "33SXC3512283313",
+                "Maidenhead": "JM88gq65kd",
+                "Mercator": {
+                    "x": 1842740.204,
+                    "y": 4650383.624
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF6"
+                    },
+                    "NUTS3": {
+                        "code": "ITF63"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=6368932268#map=17/38.68813/16.55362",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.68813/16.55362&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.68813&mlon=16.55362#map=17/38.68813/16.55362"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sqgu0dvyxjxksxc5dny8",
+                "qibla": 124.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713499980,
+                        "astronomical": 1713494220,
+                        "civil": 1713498300,
+                        "nautical": 1713496320
+                    },
+                    "set": {
+                        "apparent": 1713548040,
+                        "astronomical": 1713553800,
+                        "civil": 1713549660,
+                        "nautical": 1713551700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "dosage.anchoring.interim"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.6981273,
+                    "lng": 16.5636169
+                },
+                "southwest": {
+                    "lat": 38.6781273,
+                    "lng": 16.5436169
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-78",
+                    "IT-CZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Soverato",
+                "_type": "neighbourhood",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Catanzaro",
+                "county_code": "CZ",
+                "neighbourhood": "Soverato Marina",
+                "political_union": "European Union",
+                "postcode": "88068",
+                "state": "Calabria",
+                "state_code": "CAL",
+                "town": "Soverato"
+            },
+            "confidence": 8,
+            "formatted": "88068 Soverato CZ, Italy",
+            "geometry": {
+                "lat": 38.6881273,
+                "lng": 16.5536169
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 07:24:44 GMT",
+        "created_unix": 1713511484
+    },
+    "total_results": 1
+}

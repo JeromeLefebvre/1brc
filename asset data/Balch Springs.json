@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2433,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 43' 43.46868'' N",
+                    "lng": "96\u00b0 37' 21.97704'' W"
+                },
+                "FIPS": {
+                    "county": "48113",
+                    "state": "48"
+                },
+                "MGRS": "14SQB2277423715",
+                "Maidenhead": "EM12qr54gv",
+                "Mercator": {
+                    "x": -10755997.711,
+                    "y": 3836253.909
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6571605#map=16/32.72874/-96.62277",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.72874/-96.62277&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.72874&mlon=-96.62277#map=16/32.72874/-96.62277"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vg61q16wpxdx1cky1m7",
+                "qibla": 43.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713441180,
+                        "astronomical": 1713436020,
+                        "civil": 1713439680,
+                        "nautical": 1713437880
+                    },
+                    "set": {
+                        "apparent": 1713401880,
+                        "astronomical": 1713407100,
+                        "civil": 1713403440,
+                        "nautical": 1713405240
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "gather.rests.shortage"
+                },
+                "wikidata": "Q804712"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.748604,
+                    "lng": -96.5750717
+                },
+                "southwest": {
+                    "lat": 32.69034,
+                    "lng": -96.6392
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Balch Springs",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dallas County",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "Balch Springs"
+            },
+            "confidence": 7,
+            "formatted": "Balch Springs, Texas, United States of America",
+            "geometry": {
+                "lat": 32.7287413,
+                "lng": -96.6227714
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:18:48 GMT",
+        "created_unix": 1713439128
+    },
+    "total_results": 1
+}

@@ -1,0 +1,124 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1560,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 7' 0.01200'' S",
+                    "lng": "47\u00b0 4' 59.98800'' E"
+                },
+                "MGRS": "38KQC1780374245",
+                "Maidenhead": "LG39mv91xx",
+                "Mercator": {
+                    "x": 5241292.32,
+                    "y": -2272168.211
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-20.11667/47.08333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-20.11667&mlon=47.08333#map=17/-20.11667/47.08333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "MG": "450",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 261,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "MGA",
+                    "iso_numeric": "969",
+                    "name": "Malagasy Ariary",
+                    "smallest_denomination": 1,
+                    "subunit": "Iraimbilanja",
+                    "subunit_to_unit": 5,
+                    "symbol": "Ar",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddec",
+                "geohash": "mh3mx3v5chgmnp6grrtc",
+                "qibla": 349.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714100820,
+                        "astronomical": 1714096380,
+                        "civil": 1714099500,
+                        "nautical": 1714097940
+                    },
+                    "set": {
+                        "apparent": 1714141920,
+                        "astronomical": 1714146360,
+                        "civil": 1714143240,
+                        "nautical": 1714144800
+                    }
+                },
+                "timezone": {
+                    "name": "Indian/Antananarivo",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "debit.salience.juices"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MG",
+                "ISO_3166-1_alpha-3": "MDG",
+                "_category": "place",
+                "_normalized_city": "Sahanivotry-Manandona",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Madagascar",
+                "country_code": "mg",
+                "town": "Sahanivotry-Manandona"
+            },
+            "confidence": 9,
+            "formatted": "Sahanivotry-Manandona, Madagascar",
+            "geometry": {
+                "lat": -20.11667,
+                "lng": 47.08333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:31:15 GMT",
+        "created_unix": 1714170675
+    },
+    "total_results": 1
+}

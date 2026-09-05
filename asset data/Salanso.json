@@ -1,0 +1,131 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2249,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 10' 27.22800'' N",
+                    "lng": "4\u00b0 5' 5.17200'' W"
+                },
+                "MGRS": "30PUU8198246055",
+                "Maidenhead": "IK72we91tt",
+                "Mercator": {
+                    "x": -454714.516,
+                    "y": 1356538.146
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/12.17423/-4.08477&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.17423&mlon=-4.08477#map=16/12.17423/-4.08477"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BF": "854",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 226,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddeb",
+                "geohash": "efjj70381bywxq6kgbb3",
+                "qibla": 71.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713938400,
+                        "astronomical": 1713934080,
+                        "civil": 1713937140,
+                        "nautical": 1713935580
+                    },
+                    "set": {
+                        "apparent": 1713983280,
+                        "astronomical": 1713987660,
+                        "civil": 1713984600,
+                        "nautical": 1713986160
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Ouagadougou",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "confusedly.spurious.giver"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BF",
+                "ISO_3166-1_alpha-3": "BFA",
+                "_category": "place",
+                "_normalized_city": "Salanso",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Burkina Faso",
+                "country_code": "bf",
+                "county": "des Banwa",
+                "state": "Boucle du Mouhoun",
+                "town": "Salanso"
+            },
+            "confidence": 9,
+            "formatted": "Salanso, des Banwa, Burkina Faso",
+            "geometry": {
+                "lat": 12.17423,
+                "lng": -4.08477
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:17:58 GMT",
+        "created_unix": 1713993478
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2458,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 51' 0.35892'' N",
+                    "lng": "71\u00b0 27' 58.21308'' W"
+                },
+                "FIPS": {
+                    "county": "44007",
+                    "state": "44"
+                },
+                "MGRS": "19TBG9527136073",
+                "Maidenhead": "FN41gu44ba",
+                "Mercator": {
+                    "x": -7955577.687,
+                    "y": 5110035.933
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=191209#map=17/41.85010/-71.46617",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.85010/-71.46617&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.85010&mlon=-71.46617#map=17/41.85010/-71.46617"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drmnjdxft810f6h9hwjq",
+                "qibla": 60.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713434460,
+                        "astronomical": 1713428340,
+                        "civil": 1713432720,
+                        "nautical": 1713430620
+                    },
+                    "set": {
+                        "apparent": 1713483000,
+                        "astronomical": 1713402720,
+                        "civil": 1713484740,
+                        "nautical": 1713400440
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "making.thick.dash"
+                },
+                "wikidata": "Q1625652"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.8786752,
+                    "lng": -71.4168267
+                },
+                "southwest": {
+                    "lat": 41.837111,
+                    "lng": -71.4966202
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-RI"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Providence",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Providence County",
+                "postcode": "02911",
+                "state": "Rhode Island",
+                "state_code": "RI",
+                "town": "North Providence"
+            },
+            "confidence": 7,
+            "formatted": "North Providence, RI 02911, United States of America",
+            "geometry": {
+                "lat": 41.8500997,
+                "lng": -71.4661703
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:18:02 GMT",
+        "created_unix": 1713439082
+    },
+    "total_results": 1
+}

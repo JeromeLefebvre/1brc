@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 140,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 20' 26.38284'' N",
+                    "lng": "76\u00b0 43' 19.89984'' W"
+                },
+                "FIPS": {
+                    "county": "24005",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ5158555995",
+                "Maidenhead": "FM19pi31is",
+                "Mercator": {
+                    "x": -8540675.613,
+                    "y": 4743494.963
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158307227#map=16/39.34066/-76.72219",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/39.34066/-76.72219&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.34066&mlon=-76.72219#map=16/39.34066/-76.72219"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcry1sxgqcmq21syygz",
+                "qibla": 56.74,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713953820,
+                        "astronomical": 1713947880,
+                        "civil": 1713952140,
+                        "nautical": 1713950100
+                    },
+                    "set": {
+                        "apparent": 1714002780,
+                        "astronomical": 1713922380,
+                        "civil": 1713918120,
+                        "nautical": 1713920160
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "amuse.trout.loose"
+                },
+                "wikidata": "Q517396"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.3806619,
+                    "lng": -76.6821944
+                },
+                "southwest": {
+                    "lat": 39.3006619,
+                    "lng": -76.7621944
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lochearn",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Baltimore County",
+                "postcode": "21207",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "Lochearn"
+            },
+            "confidence": 7,
+            "formatted": "Lochearn, MD 21207, United States of America",
+            "geometry": {
+                "lat": 39.3406619,
+                "lng": -76.7221944
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:31:05 GMT",
+        "created_unix": 1713997865
+    },
+    "total_results": 1
+}

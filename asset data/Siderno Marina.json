@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2150,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 41' 3.84000'' N",
+                    "lng": "121\u00b0 48' 7.81200'' W"
+                },
+                "FIPS": {
+                    "county": "06053",
+                    "state": "06"
+                },
+                "MGRS": "10SFF0701960531",
+                "Maidenhead": "CM96cq34rg",
+                "Mercator": {
+                    "x": -13558955.542,
+                    "y": 4369678.817
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.68440/-121.80217&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.68440&mlon=-121.80217#map=17/36.68440/-121.80217"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q92sq4q5ez3f4m5bjrz",
+                "qibla": 19.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714569180,
+                        "astronomical": 1714563420,
+                        "civil": 1714567560,
+                        "nautical": 1714565520
+                    },
+                    "set": {
+                        "apparent": 1714532100,
+                        "astronomical": 1714537980,
+                        "civil": 1714533780,
+                        "nautical": 1714535820
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "stow.burn.potato"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.726957,
+                    "lng": -121.745083
+                },
+                "southwest": {
+                    "lat": 36.652274,
+                    "lng": -121.820762
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Marina",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Monterey County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Marina"
+            },
+            "confidence": 7,
+            "formatted": "Marina, California, United States of America",
+            "geometry": {
+                "lat": 36.6844,
+                "lng": -121.80217
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:14:54 GMT",
+        "created_unix": 1714522494
+    },
+    "total_results": 1
+}

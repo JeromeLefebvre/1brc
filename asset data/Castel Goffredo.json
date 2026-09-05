@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 120,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 17' 43.00224'' N",
+                    "lng": "10\u00b0 28' 22.73340'' E"
+                },
+                "MGRS": "32TPR1549516808",
+                "Maidenhead": "JN55fh60su",
+                "Mercator": {
+                    "x": 1165846.968,
+                    "y": 5637746.145
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC4B"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44609#map=17/45.29528/10.47298",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.29528/10.47298&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.29528&mlon=10.47298#map=17/45.29528/10.47298"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0p3wmf0n5vh22mpvw7v",
+                "qibla": 125.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713759720,
+                        "astronomical": 1713753000,
+                        "civil": 1713757800,
+                        "nautical": 1713755520
+                    },
+                    "set": {
+                        "apparent": 1713809520,
+                        "astronomical": 1713816300,
+                        "civil": 1713811440,
+                        "nautical": 1713813780
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "help.bath.emphasis"
+                },
+                "wikidata": "Q43034"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.3347884,
+                    "lng": 10.5460898
+                },
+                "southwest": {
+                    "lat": 45.2665961,
+                    "lng": 10.4241522
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Castel Goffredo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Mantua",
+                "political_union": "European Union",
+                "postcode": "46042",
+                "state": "Lombardy",
+                "town": "Castel Goffredo"
+            },
+            "confidence": 7,
+            "formatted": "46042 Castel Goffredo Mantua, Italy",
+            "geometry": {
+                "lat": 45.2952784,
+                "lng": 10.4729815
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:46:21 GMT",
+        "created_unix": 1713782781
+    },
+    "total_results": 1
+}

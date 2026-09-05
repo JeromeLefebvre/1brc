@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 589,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 38' 8.74860'' N",
+                    "lng": "70\u00b0 26' 50.46720'' W"
+                },
+                "MGRS": "19QCB4824171819",
+                "Maidenhead": "FK49sp62ho",
+                "Mercator": {
+                    "x": -7842163.352,
+                    "y": 2215579.943
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7366308#map=17/19.63576/-70.44735",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.63576/-70.44735&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.63576&mlon=-70.44735#map=17/19.63576/-70.44735"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7mzsytf9ex5cbnq2hrg",
+                "qibla": 62.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714558440,
+                        "astronomical": 1714553760,
+                        "civil": 1714557060,
+                        "nautical": 1714555440
+                    },
+                    "set": {
+                        "apparent": 1714604640,
+                        "astronomical": 1714522920,
+                        "civil": 1714606020,
+                        "nautical": 1714607640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "action.habitable.championships"
+                },
+                "wikidata": "Q3806431"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.668899,
+                    "lng": -70.3667608
+                },
+                "southwest": {
+                    "lat": 19.5248054,
+                    "lng": -70.5074584
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-09"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jamao al Norte",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Espaillat",
+                "village": "Jamao al Norte"
+            },
+            "confidence": 5,
+            "formatted": "Jamao al Norte, Espaillat, Dominican Republic",
+            "geometry": {
+                "lat": 19.6357635,
+                "lng": -70.447352
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:16:20 GMT",
+        "created_unix": 1714544180
+    },
+    "total_results": 1
+}

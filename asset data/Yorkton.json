@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1487,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 12' 43.36200'' N",
+                    "lng": "102\u00b0 27' 40.47480'' W"
+                },
+                "MGRS": "13UFS7731776468",
+                "Maidenhead": "DO81sf40pv",
+                "Mercator": {
+                    "x": -11405933.397,
+                    "y": 6625561.313
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5256132#map=17/51.21205/-102.46124",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.21205/-102.46124&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.21205&mlon=-102.46124#map=17/51.21205/-102.46124"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c9p5k6vgzcpgb682n1mk",
+                "qibla": 35.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714648800,
+                        "astronomical": 1714639860,
+                        "civil": 1714646520,
+                        "nautical": 1714643580
+                    },
+                    "set": {
+                        "apparent": 1714616040,
+                        "astronomical": 1714625160,
+                        "civil": 1714618380,
+                        "nautical": 1714621380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Regina",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "bags.lawn.typical"
+                },
+                "wikidata": "Q1639696"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.2744061,
+                    "lng": -102.4043736
+                },
+                "southwest": {
+                    "lat": 51.1805245,
+                    "lng": -102.5213941
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-SK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Yorkton",
+                "_type": "city",
+                "city": "Yorkton",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Division No. 9",
+                "state": "Saskatchewan",
+                "state_code": "SK"
+            },
+            "confidence": 7,
+            "formatted": "Yorkton, SK, Canada",
+            "geometry": {
+                "lat": 51.212045,
+                "lng": -102.461243
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:38:34 GMT",
+        "created_unix": 1714693114
+    },
+    "total_results": 1
+}

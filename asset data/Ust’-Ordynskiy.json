@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1808,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 48' 18.00000'' N",
+                    "lng": "104\u00b0 45' 2.98800'' E"
+                },
+                "MGRS": "48UVD8320250607",
+                "Maidenhead": "OO22jt03ce",
+                "Mercator": {
+                    "x": 11660809.056,
+                    "y": 6912948.829
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.80500/104.75083&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.80500&mlon=104.75083#map=17/52.80500/104.75083"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "y36krsv5rm2n991efqs0",
+                "qibla": 263.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714081320,
+                        "astronomical": 1714072500,
+                        "civil": 1714079040,
+                        "nautical": 1714076100
+                    },
+                    "set": {
+                        "apparent": 1714047420,
+                        "astronomical": 1714056300,
+                        "civil": 1714049700,
+                        "nautical": 1714052700
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Irkutsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "+08"
+                },
+                "what3words": {
+                    "words": "basic.curtail.toning"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.8310432,
+                    "lng": 104.7739944
+                },
+                "southwest": {
+                    "lat": 52.7903023,
+                    "lng": 104.7312622
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Ust\u2019-Ordynskiy",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Irkutskaya Oblast\u2019",
+                "town": "Ust\u2019-Ordynskiy"
+            },
+            "confidence": 7,
+            "formatted": "Ust\u2019-Ordynskiy, Irkutskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 52.805,
+                "lng": 104.75083
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:31:12 GMT",
+        "created_unix": 1714005072
+    },
+    "total_results": 1
+}

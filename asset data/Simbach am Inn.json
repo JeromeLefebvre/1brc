@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1145,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 15' 58.72068'' N",
+                    "lng": "13\u00b0 1' 40.78992'' E"
+                },
+                "MGRS": "33UUP5365947779",
+                "Maidenhead": "JN68mg33iv",
+                "Mercator": {
+                    "x": 1450270.014,
+                    "y": 6119371.765
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE22"
+                    },
+                    "NUTS3": {
+                        "code": "DE22A"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=957049#map=17/48.26631/13.02800",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.26631/13.02800&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.26631&mlon=13.02800#map=17/48.26631/13.02800"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u29686wewkdccenqqzqd",
+                "qibla": 131.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714708020,
+                        "astronomical": 1714700040,
+                        "civil": 1714705860,
+                        "nautical": 1714703220
+                    },
+                    "set": {
+                        "apparent": 1714760640,
+                        "astronomical": 1714768620,
+                        "civil": 1714762740,
+                        "nautical": 1714765440
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "jacuzzi.install.delay"
+                },
+                "wikidata": "Q253236"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.3208088,
+                    "lng": 13.081121
+                },
+                "southwest": {
+                    "lat": 48.2530489,
+                    "lng": 12.941497
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Simbach",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Rottal-Inn",
+                "political_union": "European Union",
+                "postcode": "84359",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Simbach"
+            },
+            "confidence": 7,
+            "formatted": "84359 Simbach, Germany",
+            "geometry": {
+                "lat": 48.2663113,
+                "lng": 13.0279972
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:01:27 GMT",
+        "created_unix": 1714698087
+    },
+    "total_results": 1
+}

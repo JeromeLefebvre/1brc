@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2222,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 27' 45.66996'' S",
+                    "lng": "42\u00b0 39' 12.38904'' W"
+                },
+                "MGRS": "23KQR4146814068",
+                "Maidenhead": "GG87qm18ow",
+                "Mercator": {
+                    "x": -4748159.377,
+                    "y": -2550848.335
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2219086#map=17/-22.46269/-42.65344",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-22.46269/-42.65344&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-22.46269&mlon=-42.65344#map=17/-22.46269/-42.65344"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "BR": "076",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 55,
+                "currency": {
+                    "decimal_mark": ",",
+                    "html_entity": "R$",
+                    "iso_code": "BRL",
+                    "iso_numeric": "986",
+                    "name": "Brazilian Real",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "R$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddf7",
+                "geohash": "7h18jqu9qgbfj4smx51u",
+                "qibla": 67.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714554660,
+                        "astronomical": 1714550100,
+                        "civil": 1714553280,
+                        "nautical": 1714551660
+                    },
+                    "set": {
+                        "apparent": 1714595040,
+                        "astronomical": 1714599600,
+                        "civil": 1714596420,
+                        "nautical": 1714598040
+                    }
+                },
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "BRT"
+                },
+                "what3words": {
+                    "words": "kilobyte.ripper.motivator"
+                },
+                "wikidata": "Q1983181"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -22.3552637,
+                    "lng": -42.550467
+                },
+                "southwest": {
+                    "lat": -22.6865326,
+                    "lng": -42.9229916
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BR",
+                "ISO_3166-1_alpha-3": "BRA",
+                "ISO_3166-2": [
+                    "BR-RJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cachoeiras de Macacu",
+                "_type": "municipality",
+                "continent": "South America",
+                "country": "Brazil",
+                "country_code": "br",
+                "county": "Regi\u00e3o Metropolitana do Rio de Janeiro",
+                "municipality": "Cachoeiras de Macacu",
+                "region": "Southeast Region",
+                "state": "Rio de Janeiro",
+                "state_code": "RJ",
+                "state_district": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Rio de Janeiro"
+            },
+            "confidence": 3,
+            "formatted": "Cachoeiras de Macacu, Regi\u00e3o Metropolitana do Rio de Janeiro, Brazil",
+            "geometry": {
+                "lat": -22.4626861,
+                "lng": -42.6534414
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:11:54 GMT",
+        "created_unix": 1714522314
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1124,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 35' 13.84152'' N",
+                    "lng": "105\u00b0 4' 37.24068'' W"
+                },
+                "FIPS": {
+                    "county": "08069",
+                    "state": "08"
+                },
+                "MGRS": "13TDE9348292934",
+                "Maidenhead": "DN70lo00sw",
+                "Mercator": {
+                    "x": -11697119.392,
+                    "y": 4923834.344
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=112524#map=16/40.58718/-105.07701",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.58718/-105.07701&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.58718&mlon=-105.07701#map=16/40.58718/-105.07701"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9xjqbutm2nms97z45yxb",
+                "qibla": 34.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714910040,
+                        "astronomical": 1714903620,
+                        "civil": 1714908240,
+                        "nautical": 1714906080
+                    },
+                    "set": {
+                        "apparent": 1714874400,
+                        "astronomical": 1714880880,
+                        "civil": 1714876200,
+                        "nautical": 1714878420
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "upgrading.feast.follow"
+                },
+                "wikidata": "Q490732"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.639352,
+                    "lng": -104.9820005
+                },
+                "southwest": {
+                    "lat": 40.4726063,
+                    "lng": -105.1573564
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fort Collins",
+                "_type": "city",
+                "city": "Fort Collins",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Larimer County",
+                "state": "Colorado",
+                "state_code": "CO"
+            },
+            "confidence": 5,
+            "formatted": "Fort Collins, Colorado, United States of America",
+            "geometry": {
+                "lat": 40.5871782,
+                "lng": -105.0770113
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:14:24 GMT",
+        "created_unix": 1714947264
+    },
+    "total_results": 1
+}

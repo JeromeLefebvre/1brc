@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 941,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 48' 39.60180'' N",
+                    "lng": "6\u00b0 3' 56.63628'' E"
+                },
+                "MGRS": "32UKB9328632911",
+                "Maidenhead": "JO30at74vp",
+                "Mercator": {
+                    "x": 675234.231,
+                    "y": 6554791.771
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA2"
+                    },
+                    "NUTS3": {
+                        "code": "DEA2D"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=21919#map=17/50.81100/6.06573",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.81100/6.06573&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.81100&mlon=6.06573#map=17/50.81100/6.06573"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1h341bgtc1b4q3txdnm",
+                "qibla": 125.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932640,
+                        "astronomical": 1713924540,
+                        "civil": 1713930420,
+                        "nautical": 1713927720
+                    },
+                    "set": {
+                        "apparent": 1713984300,
+                        "astronomical": 1713992460,
+                        "civil": 1713986460,
+                        "nautical": 1713989220
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "prongs.cookers.lorry"
+                },
+                "wikidata": "Q2151315"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.8572449,
+                    "lng": 6.0769746
+                },
+                "southwest": {
+                    "lat": 50.8035388,
+                    "lng": 6.0159425
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Aachen",
+                "_type": "neighbourhood",
+                "city": "Aachen",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "St\u00e4dteregion Aachen",
+                "political_union": "European Union",
+                "postcode": "52072",
+                "state": "North Rhine \u2013 Westphalia",
+                "suburb": "Richterich"
+            },
+            "confidence": 7,
+            "formatted": "52072 Aachen, Germany",
+            "geometry": {
+                "lat": 50.8110005,
+                "lng": 6.0657323
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:02:52 GMT",
+        "created_unix": 1713996172
+    },
+    "total_results": 1
+}

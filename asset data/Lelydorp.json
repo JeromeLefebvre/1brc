@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 512,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "5\u00b0 41' 36.08988'' N",
+                    "lng": "55\u00b0 12' 50.81112'' W"
+                },
+                "MGRS": "21NXG9778229613",
+                "Maidenhead": "GJ25jq46hj",
+                "Mercator": {
+                    "x": -6146407.077,
+                    "y": 630591.429
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=13025491#map=17/5.69336/-55.21411",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/5.69336/-55.21411&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=5.69336&mlon=-55.21411#map=17/5.69336/-55.21411"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "SR": "740",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 597,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "SRD",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "SRD",
+                    "iso_numeric": "968",
+                    "name": "Surinamese Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf7",
+                "geohash": "dc08rs6q1yumjuwf67sc",
+                "qibla": 68.17,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714901280,
+                        "astronomical": 1714896960,
+                        "civil": 1714900020,
+                        "nautical": 1714898460
+                    },
+                    "set": {
+                        "apparent": 1714945620,
+                        "astronomical": 1714949940,
+                        "civil": 1714946880,
+                        "nautical": 1714948440
+                    }
+                },
+                "timezone": {
+                    "name": "America/Paramaribo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "-03"
+                },
+                "what3words": {
+                    "words": "upheld.clasps.lock"
+                },
+                "wikidata": "Q935545"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 5.7604285,
+                    "lng": -55.1677147
+                },
+                "southwest": {
+                    "lat": 5.6552916,
+                    "lng": -55.3585406
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SR",
+                "ISO_3166-1_alpha-3": "SUR",
+                "ISO_3166-2": [
+                    "SR-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lelydorp",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Suriname",
+                "country_code": "sr",
+                "county": "Wanica",
+                "state": "Wanica",
+                "state_code": "WA",
+                "town": "Lelydorp"
+            },
+            "confidence": 5,
+            "formatted": "Lelydorp, Wanica, Suriname",
+            "geometry": {
+                "lat": 5.6933583,
+                "lng": -55.2141142
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:40:10 GMT",
+        "created_unix": 1714948810
+    },
+    "total_results": 1
+}

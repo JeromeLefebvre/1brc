@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2087,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 59' 0.67920'' N",
+                    "lng": "7\u00b0 47' 5.49240'' E"
+                },
+                "MGRS": "32UMC1655059902",
+                "Maidenhead": "JO31vx46eb",
+                "Mercator": {
+                    "x": 866606.54,
+                    "y": 6763461.198
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA3"
+                    },
+                    "NUTS3": {
+                        "code": "DEA38"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=152290#map=17/51.98352/7.78486",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.98352/7.78486&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.98352&mlon=7.78486#map=17/51.98352/7.78486"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1jx9pkcbqge7hmpkzfj",
+                "qibla": 128.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536000,
+                        "astronomical": 1714526820,
+                        "civil": 1714533660,
+                        "nautical": 1714530660
+                    },
+                    "set": {
+                        "apparent": 1714589580,
+                        "astronomical": 1714598880,
+                        "civil": 1714591920,
+                        "nautical": 1714594980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "desks.prefix.bound"
+                },
+                "wikidata": "Q2789"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.064341,
+                    "lng": 7.8964019
+                },
+                "southwest": {
+                    "lat": 51.930381,
+                    "lng": 7.703818
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Telgte",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Kreis Warendorf",
+                "political_union": "European Union",
+                "postcode": "48291",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Telgte"
+            },
+            "confidence": 6,
+            "formatted": "48291 Telgte, Germany",
+            "geometry": {
+                "lat": 51.983522,
+                "lng": 7.784859
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:17:34 GMT",
+        "created_unix": 1714522654
+    },
+    "total_results": 1
+}

@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1128,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 43' 33.99600'' S",
+                    "lng": "34\u00b0 45' 57.99600'' E"
+                },
+                "MGRS": "36JXT7862964227",
+                "Maidenhead": "KG75jg15wr",
+                "Mercator": {
+                    "x": 3870145.662,
+                    "y": -2824274.116
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-24.72611/34.76611&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-24.72611&mlon=34.76611#map=17/-24.72611/34.76611"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "MZ": "508",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 258,
+                "currency": {
+                    "alternate_symbols": [
+                        "MZN"
+                    ],
+                    "decimal_mark": ",",
+                    "html_entity": "",
+                    "iso_code": "MZN",
+                    "iso_numeric": "943",
+                    "name": "Mozambican Metical",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "MTn",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddff",
+                "geohash": "kg8er4ezvp488gpz7hep",
+                "qibla": 6.51,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713585540,
+                        "astronomical": 1713580920,
+                        "civil": 1713584160,
+                        "nautical": 1713582540
+                    },
+                    "set": {
+                        "apparent": 1713626400,
+                        "astronomical": 1713631020,
+                        "civil": 1713627840,
+                        "nautical": 1713629400
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Maputo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "stomping.reinsurance.platoons"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -24.711983,
+                    "lng": 34.760399
+                },
+                "southwest": {
+                    "lat": -24.719078,
+                    "lng": 34.73877
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MZ",
+                "ISO_3166-1_alpha-3": "MOZ",
+                "_category": "place",
+                "_normalized_city": "Regedor Quissico",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Mozambique",
+                "country_code": "mz",
+                "state": "Inhambane",
+                "state_code": "I",
+                "town": "Regedor Quissico"
+            },
+            "confidence": 8,
+            "formatted": "Regedor Quissico, Inhambane, Mozambique",
+            "geometry": {
+                "lat": -24.72611,
+                "lng": 34.76611
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:19:42 GMT",
+        "created_unix": 1713647982
+    },
+    "total_results": 1
+}

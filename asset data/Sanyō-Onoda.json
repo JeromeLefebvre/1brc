@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1250,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 0' 10.81620'' N",
+                    "lng": "131\u00b0 10' 54.94404'' E"
+                },
+                "MGRS": "52SGC0150764635",
+                "Maidenhead": "PM54oa10tr",
+                "Mercator": {
+                    "x": 14603105.526,
+                    "y": 4005310.687
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4018267#map=17/34.00300/131.18193",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.00300/131.18193&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.00300&mlon=131.18193#map=17/34.00300/131.18193"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wyj33n5cb7ryduns8g2x",
+                "qibla": 288.71,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714508940,
+                        "astronomical": 1714503420,
+                        "civil": 1714507320,
+                        "nautical": 1714505400
+                    },
+                    "set": {
+                        "apparent": 1714471020,
+                        "astronomical": 1714476540,
+                        "civil": 1714472580,
+                        "nautical": 1714474500
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "footballs.fuzzily.colleague"
+                },
+                "wikidata": "Q861239"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.119607,
+                    "lng": 131.226875
+                },
+                "southwest": {
+                    "lat": 33.8029173,
+                    "lng": 131.0612453
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-35"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sanyo-Onoda",
+                "_type": "city",
+                "city": "Sanyo-Onoda",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Yamaguchi Prefecture",
+                "state": "Yamaguchi Prefecture"
+            },
+            "confidence": 4,
+            "formatted": "Sanyo-Onoda, Yamaguchi Prefecture, Japan",
+            "geometry": {
+                "lat": 34.0030045,
+                "lng": 131.1819289
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:58:03 GMT",
+        "created_unix": 1714521483
+    },
+    "total_results": 1
+}

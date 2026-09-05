@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1295,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 44' 43.41264'' N",
+                    "lng": "11\u00b0 39' 24.81768'' E"
+                },
+                "MGRS": "32TQR0666969192",
+                "Maidenhead": "JN55tr88tv",
+                "Mercator": {
+                    "x": 1297639.482,
+                    "y": 5709024.518
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH32"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45820#map=17/45.74539/11.65689",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.74539/11.65689&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.74539&mlon=11.65689#map=17/45.74539/11.65689"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u20k1r8q1r4nb5xfcbpu",
+                "qibla": 127.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795020,
+                        "astronomical": 1714787700,
+                        "civil": 1714793040,
+                        "nautical": 1714790520
+                    },
+                    "set": {
+                        "apparent": 1714847040,
+                        "astronomical": 1714854420,
+                        "civil": 1714849020,
+                        "nautical": 1714851540
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "reminders.undergrowth.beliefs"
+                },
+                "wikidata": "Q48090"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.7987675,
+                    "lng": 11.6953389
+                },
+                "southwest": {
+                    "lat": 45.7016035,
+                    "lng": 11.5873185
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-VI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Marostica",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Vicenza",
+                "county_code": "VI",
+                "political_union": "European Union",
+                "postcode": "36063",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "Marostica"
+            },
+            "confidence": 7,
+            "formatted": "36063 Marostica VI, Italy",
+            "geometry": {
+                "lat": 45.7453924,
+                "lng": 11.6568938
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:02:31 GMT",
+        "created_unix": 1714788151
+    },
+    "total_results": 1
+}

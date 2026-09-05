@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 962,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 24' 40.64544'' N",
+                    "lng": "88\u00b0 49' 40.49940'' W"
+                },
+                "FIPS": {
+                    "county": "28059",
+                    "state": "28"
+                },
+                "MGRS": "16RCU2441865779",
+                "Maidenhead": "EM50oj08pr",
+                "Mercator": {
+                    "x": -9888278.433,
+                    "y": 3534901.611
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=13687554#map=17/30.41129/-88.82792",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.41129/-88.82792&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.41129&mlon=-88.82792#map=17/30.41129/-88.82792"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj2v48jqxe2v3wvrw83r",
+                "qibla": 50.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713525840,
+                        "astronomical": 1713520800,
+                        "civil": 1713524340,
+                        "nautical": 1713522600
+                    },
+                    "set": {
+                        "apparent": 1713486300,
+                        "astronomical": 1713491400,
+                        "civil": 1713487800,
+                        "nautical": 1713489540
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "stunning.inaccurate.linseed"
+                },
+                "wikidata": "Q1769542"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.4270149,
+                    "lng": -88.7194064
+                },
+                "southwest": {
+                    "lat": 30.3817287,
+                    "lng": -88.8599541
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ocean Springs",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Jackson County",
+                "postcode": "39564",
+                "state": "Mississippi",
+                "state_code": "MS",
+                "town": "Ocean Springs"
+            },
+            "confidence": 6,
+            "formatted": "Ocean Springs, MS 39564, United States of America",
+            "geometry": {
+                "lat": 30.4112904,
+                "lng": -88.8279165
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:11:03 GMT",
+        "created_unix": 1713521463
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2102,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 18' 41.15304'' N",
+                    "lng": "30\u00b0 58' 19.93548'' E"
+                },
+                "MGRS": "36RTR9934422559",
+                "Maidenhead": "KL57lh64pr",
+                "Mercator": {
+                    "x": 3447810.011,
+                    "y": 3142835.11
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=332014748#map=17/27.31143/30.97220",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.31143/30.97220&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.31143&mlon=30.97220#map=17/27.31143/30.97220"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "ssy52gck8ev6kb7q1ktr",
+                "qibla": 124.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714878900,
+                        "astronomical": 1714873800,
+                        "civil": 1714877400,
+                        "nautical": 1714875660
+                    },
+                    "set": {
+                        "apparent": 1714926660,
+                        "astronomical": 1714931760,
+                        "civil": 1714928160,
+                        "nautical": 1714929900
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "whiplash.bunk.equity"
+                },
+                "wikidata": "Q556095"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.3514314,
+                    "lng": 31.0122043
+                },
+                "southwest": {
+                    "lat": 27.2714314,
+                    "lng": 30.9322043
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-AST"
+                ],
+                "_category": "place",
+                "_normalized_city": "Manfalut",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "postcode": "71621",
+                "state": "Asyut",
+                "town": "Manfalut"
+            },
+            "confidence": 7,
+            "formatted": "Manfalut, 71621, Egypt",
+            "geometry": {
+                "lat": 27.3114314,
+                "lng": 30.9722043
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:03:00 GMT",
+        "created_unix": 1714892580
+    },
+    "total_results": 1
+}

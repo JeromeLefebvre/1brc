@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2093,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 22' 59.99880'' N",
+                    "lng": "113\u00b0 47' 60.00000'' W"
+                },
+                "MGRS": "12UUD0944307364",
+                "Maidenhead": "DO32cj42aa",
+                "Mercator": {
+                    "x": -12668158.052,
+                    "y": 6835867.157
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4166849#map=17/52.38333/-113.80000",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.38333/-113.80000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.38333&mlon=-113.80000#map=17/52.38333/-113.80000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c3r442j75c18zubj15uq",
+                "qibla": 25.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714651320,
+                        "astronomical": 1714641720,
+                        "civil": 1714648920,
+                        "nautical": 1714645800
+                    },
+                    "set": {
+                        "apparent": 1714619040,
+                        "astronomical": 1714628700,
+                        "civil": 1714621440,
+                        "nautical": 1714624560
+                    }
+                },
+                "timezone": {
+                    "name": "America/Edmonton",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "searchable.flaunting.grandstand"
+                },
+                "wikidata": "Q2747793"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.4049748,
+                    "lng": -113.747493
+                },
+                "southwest": {
+                    "lat": 52.3682547,
+                    "lng": -113.8187535
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-AB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Blackfalds",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Division No. 8",
+                "state": "Alberta",
+                "state_code": "AB",
+                "town": "Blackfalds"
+            },
+            "confidence": 7,
+            "formatted": "Blackfalds, AB, Canada",
+            "geometry": {
+                "lat": 52.383333,
+                "lng": -113.8
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:16:36 GMT",
+        "created_unix": 1714691796
+    },
+    "total_results": 1
+}

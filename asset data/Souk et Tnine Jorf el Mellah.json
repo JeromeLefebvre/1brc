@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1206,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 29' 26.08800'' N",
+                    "lng": "5\u00b0 30' 40.46400'' W"
+                },
+                "MGRS": "30STD6940719415",
+                "Maidenhead": "IM74fl87pr",
+                "Mercator": {
+                    "x": -613508.43,
+                    "y": 4070670.933
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.49058/-5.51124&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.49058&mlon=-5.51124#map=17/34.49058/-5.51124"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "eyhh4wff4y1eg2fse12x",
+                "qibla": 95.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713419280,
+                        "astronomical": 1713413940,
+                        "civil": 1713417720,
+                        "nautical": 1713415860
+                    },
+                    "set": {
+                        "apparent": 1713466560,
+                        "astronomical": 1713471900,
+                        "civil": 1713468120,
+                        "nautical": 1713469980
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "restrooms.canoes.destroyer"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.489323,
+                    "lng": -5.515439
+                },
+                "southwest": {
+                    "lat": 34.489128,
+                    "lng": -5.515684
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Souk et Tnine Jorf el Mellah",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "Gharb-Chrarda-Beni Hssen",
+                "town": "Souk et Tnine Jorf el Mellah"
+            },
+            "confidence": 9,
+            "formatted": "Souk et Tnine Jorf el Mellah, Gharb-Chrarda-Beni Hssen, Morocco",
+            "geometry": {
+                "lat": 34.49058,
+                "lng": -5.51124
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:58:16 GMT",
+        "created_unix": 1713441496
+    },
+    "total_results": 1
+}

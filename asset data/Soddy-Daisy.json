@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2140,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 14' 9.24900'' N",
+                    "lng": "85\u00b0 11' 26.84544'' W"
+                },
+                "FIPS": {
+                    "county": "47065",
+                    "state": "47"
+                },
+                "MGRS": "16SFE6462700704",
+                "Maidenhead": "EM75jf76co",
+                "Mercator": {
+                    "x": -9483395.408,
+                    "y": 4171333.244
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=196128#map=16/35.23590/-85.19079",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.23590/-85.19079&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.23590&mlon=-85.19079#map=16/35.23590/-85.19079"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn72mqtbn8q9dv6yq3ps",
+                "qibla": 51.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713783600,
+                        "astronomical": 1713778140,
+                        "civil": 1713781980,
+                        "nautical": 1713780120
+                    },
+                    "set": {
+                        "apparent": 1713745140,
+                        "astronomical": 1713750600,
+                        "civil": 1713746700,
+                        "nautical": 1713748620
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "ruler.hoax.storeroom"
+                },
+                "wikidata": "Q3287278"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.333583,
+                    "lng": -85.119304
+                },
+                "southwest": {
+                    "lat": 35.185103,
+                    "lng": -85.253956
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Soddy-Daisy",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hamilton County",
+                "region": "East Tennessee",
+                "state": "Tennessee",
+                "state_code": "TN",
+                "town": "Soddy-Daisy"
+            },
+            "confidence": 6,
+            "formatted": "Soddy-Daisy, Tennessee, United States of America",
+            "geometry": {
+                "lat": 35.2359025,
+                "lng": -85.1907904
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:22:47 GMT",
+        "created_unix": 1713745367
+    },
+    "total_results": 1
+}

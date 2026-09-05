@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2278,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 36' 54.19008'' N",
+                    "lng": "38\u00b0 31' 44.55048'' E"
+                },
+                "MGRS": "37UDU6811329553",
+                "Maidenhead": "KO92go37lo",
+                "Mercator": {
+                    "x": 4289033.31,
+                    "y": 6878133.744
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3515980#map=17/52.61505/38.52904",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.61505/38.52904&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.61505&mlon=38.52904#map=17/52.61505/38.52904"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "uc77kdrbzsxz6768r2wf",
+                "qibla": 177.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714614780,
+                        "astronomical": 1714691640,
+                        "civil": 1714612380,
+                        "nautical": 1714609260
+                    },
+                    "set": {
+                        "apparent": 1714668840,
+                        "astronomical": 1714678560,
+                        "civil": 1714671240,
+                        "nautical": 1714674360
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "kind.headset.terminal"
+                },
+                "wikidata": "Q27588355"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.656256,
+                    "lng": 38.6143707
+                },
+                "southwest": {
+                    "lat": 52.5742127,
+                    "lng": 38.4300312
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-LIP"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Yelets",
+                "region": "Central Federal District",
+                "state": "Lipetsk Oblast"
+            },
+            "confidence": 6,
+            "formatted": "Yelets, Russia",
+            "geometry": {
+                "lat": 52.6150528,
+                "lng": 38.5290418
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:09:58 GMT",
+        "created_unix": 1714691398
+    },
+    "total_results": 1
+}

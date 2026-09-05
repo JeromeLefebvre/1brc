@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2325,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 39' 47.07828'' N",
+                    "lng": "71\u00b0 30' 29.11104'' W"
+                },
+                "MGRS": "19QBB3702176135",
+                "Maidenhead": "FK49fp99ad",
+                "Mercator": {
+                    "x": -7960243.766,
+                    "y": 2218789.324
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7187306#map=17/19.66308/-71.50809",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.66308/-71.50809&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.66308&mlon=-71.50809#map=17/19.66308/-71.50809"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7mpug93sz60vm3mf6me",
+                "qibla": 62.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040520,
+                        "astronomical": 1714035900,
+                        "civil": 1714039140,
+                        "nautical": 1714037520
+                    },
+                    "set": {
+                        "apparent": 1714086360,
+                        "astronomical": 1714004580,
+                        "civil": 1714087740,
+                        "nautical": 1714089360
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "cheaply.muggy.unheard"
+                },
+                "wikidata": "Q3827245"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.6894834,
+                    "lng": -71.4367228
+                },
+                "southwest": {
+                    "lat": 19.5620522,
+                    "lng": -71.527146
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-15"
+                ],
+                "_category": "place",
+                "_normalized_city": "Las Matas de Santa Cruz",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Monte Cristi",
+                "town": "Las Matas de Santa Cruz"
+            },
+            "confidence": 6,
+            "formatted": "Las Matas de Santa Cruz, Monte Cristi, Dominican Republic",
+            "geometry": {
+                "lat": 19.6630773,
+                "lng": -71.5080864
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:08:09 GMT",
+        "created_unix": 1714003689
+    },
+    "total_results": 1
+}

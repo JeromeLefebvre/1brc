@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1888,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 37' 1.64028'' N",
+                    "lng": "111\u00b0 54' 51.90840'' W"
+                },
+                "FIPS": {
+                    "county": "30049",
+                    "state": "30"
+                },
+                "MGRS": "12TVS2998563023",
+                "Maidenhead": "DN46bo08gc",
+                "Mercator": {
+                    "x": -12458256.136,
+                    "y": 5848732.617
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7084876674#map=17/46.61712/-111.91442",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.61712/-111.91442&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.61712&mlon=-111.91442#map=17/46.61712/-111.91442"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c823jq6kmj2y6bt1mbhh",
+                "qibla": 27.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714134060,
+                        "astronomical": 1714126860,
+                        "civil": 1714132080,
+                        "nautical": 1714129620
+                    },
+                    "set": {
+                        "apparent": 1714098660,
+                        "astronomical": 1714105860,
+                        "civil": 1714100640,
+                        "nautical": 1714103100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "doors.anymore.likeability"
+                },
+                "wikidata": "Q959729"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.6371223,
+                    "lng": -111.894419
+                },
+                "southwest": {
+                    "lat": 46.5971223,
+                    "lng": -111.934419
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Helena Valley Southeast",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lewis and Clark County",
+                "postcode": "56902",
+                "state": "Montana",
+                "state_code": "MT",
+                "suburb": "Helena Valley Southeast"
+            },
+            "confidence": 7,
+            "formatted": "Helena Valley Southeast, MT 56902, United States of America",
+            "geometry": {
+                "lat": 46.6171223,
+                "lng": -111.914419
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:18:26 GMT",
+        "created_unix": 1714169906
+    },
+    "total_results": 1
+}

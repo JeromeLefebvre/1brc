@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2498,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 59' 27.54060'' N",
+                    "lng": "5\u00b0 22' 3.96588'' E"
+                },
+                "MGRS": "31UFS6616751490",
+                "Maidenhead": "JO20qx47du",
+                "Mercator": {
+                    "x": 597537.234,
+                    "y": 6586476.057
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE22"
+                    },
+                    "NUTS3": {
+                        "code": "BE224"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1245637#map=17/50.99098/5.36777",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.99098/5.36777&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.99098&mlon=5.36777#map=17/50.99098/5.36777"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u15f44ssn060se9ywde2",
+                "qibla": 124.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536780,
+                        "astronomical": 1714528020,
+                        "civil": 1714534500,
+                        "nautical": 1714531560
+                    },
+                    "set": {
+                        "apparent": 1714590000,
+                        "astronomical": 1714598820,
+                        "civil": 1714592280,
+                        "nautical": 1714595160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "hips.inviting.cookery"
+                },
+                "wikidata": "Q133769"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.0124922,
+                    "lng": 5.4659656
+                },
+                "southwest": {
+                    "lat": 50.9628304,
+                    "lng": 5.3010416
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VLI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Zonhoven",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Hasselt",
+                "political_union": "European Union",
+                "postcode": "3520",
+                "region": "Flanders",
+                "state": "Limburg",
+                "state_code": "VLI",
+                "town": "Zonhoven"
+            },
+            "confidence": 7,
+            "formatted": "3520 Zonhoven, Belgium",
+            "geometry": {
+                "lat": 50.9909835,
+                "lng": 5.3677683
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:00:02 GMT",
+        "created_unix": 1714521602
+    },
+    "total_results": 1
+}

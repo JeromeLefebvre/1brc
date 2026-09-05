@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1652,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 1' 9.35076'' N",
+                    "lng": "73\u00b0 41' 0.46356'' W"
+                },
+                "FIPS": {
+                    "county": "36119",
+                    "state": "36"
+                },
+                "MGRS": "18TXL1069141730",
+                "Maidenhead": "FN31da74xo",
+                "Mercator": {
+                    "x": -8202405.481,
+                    "y": 4987133.521
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175808#map=17/41.01926/-73.68346",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.01926/-73.68346&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.01926&mlon=-73.68346#map=17/41.01926/-73.68346"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr797736dch3rjpuhzfv",
+                "qibla": 58.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713866640,
+                        "astronomical": 1713860520,
+                        "civil": 1713864900,
+                        "nautical": 1713862740
+                    },
+                    "set": {
+                        "apparent": 1713915780,
+                        "astronomical": 1713835500,
+                        "civil": 1713831120,
+                        "nautical": 1713833220
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "plants.skins.agenda"
+                },
+                "wikidata": "Q3453021"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.073785,
+                    "lng": -73.665942
+                },
+                "southwest": {
+                    "lat": 40.994602,
+                    "lng": -73.706731
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Village of Rye Brook",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Westchester County",
+                "municipality": "Town of Rye",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Village of Rye Brook"
+            },
+            "confidence": 7,
+            "formatted": "Village of Rye Brook, New York, United States of America",
+            "geometry": {
+                "lat": 41.0192641,
+                "lng": -73.6834621
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:09:37 GMT",
+        "created_unix": 1713841777
+    },
+    "total_results": 1
+}

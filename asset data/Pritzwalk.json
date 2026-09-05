@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2005,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 8' 57.44256'' N",
+                    "lng": "12\u00b0 10' 34.28508'' E"
+                },
+                "MGRS": "33UUU1116892602",
+                "Maidenhead": "JO63cd15dt",
+                "Mercator": {
+                    "x": 1355447.304,
+                    "y": 6976444.679
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE4"
+                    },
+                    "NUTS2": {
+                        "code": "DE40"
+                    },
+                    "NUTS3": {
+                        "code": "DE40F"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1289799#map=17/53.14929/12.17619",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.14929/12.17619&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.14929&mlon=12.17619#map=17/53.14929/12.17619"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u32wm5d3jc9tcruhsuqb",
+                "qibla": 135.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714103340,
+                        "astronomical": 1714094160,
+                        "civil": 1714101000,
+                        "nautical": 1714097940
+                    },
+                    "set": {
+                        "apparent": 1714156260,
+                        "astronomical": 1714165500,
+                        "civil": 1714158600,
+                        "nautical": 1714161660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "remarry.messing.backpack"
+                },
+                "wikidata": "Q509952"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.2308018,
+                    "lng": 12.3320908
+                },
+                "southwest": {
+                    "lat": 53.0725081,
+                    "lng": 12.0827707
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pritzwalk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Prignitz",
+                "political_union": "European Union",
+                "postcode": "16928",
+                "state": "Brandenburg",
+                "state_code": "BB",
+                "town": "Pritzwalk"
+            },
+            "confidence": 5,
+            "formatted": "16928 Pritzwalk, Germany",
+            "geometry": {
+                "lat": 53.1492896,
+                "lng": 12.1761903
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:13:58 GMT",
+        "created_unix": 1714169638
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1558,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 0' 45.38448'' N",
+                    "lng": "74\u00b0 59' 56.80320'' W"
+                },
+                "FIPS": {
+                    "county": "36043",
+                    "state": "36"
+                },
+                "MGRS": "18TWN0007262214",
+                "Maidenhead": "FN23ma03ca",
+                "Mercator": {
+                    "x": -8348862.958,
+                    "y": 5284734.013
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3157111#map=17/43.01261/-74.99911",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.01261/-74.99911&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.01261&mlon=-74.99911#map=17/43.01261/-74.99911"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drdstq5qd50ccbfyfgcj",
+                "qibla": 57.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713866700,
+                        "astronomical": 1713860340,
+                        "civil": 1713864900,
+                        "nautical": 1713862680
+                    },
+                    "set": {
+                        "apparent": 1713916320,
+                        "astronomical": 1713836340,
+                        "civil": 1713831720,
+                        "nautical": 1713833940
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "sadly.spill.plants"
+                },
+                "wikidata": "Q3708266"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.026689,
+                    "lng": -74.90058
+                },
+                "southwest": {
+                    "lat": 42.940177,
+                    "lng": -75.076433
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of German Flatts",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Herkimer County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of German Flatts"
+            },
+            "confidence": 6,
+            "formatted": "German Flatts, New York, United States of America",
+            "geometry": {
+                "lat": 43.0126068,
+                "lng": -74.999112
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:13:23 GMT",
+        "created_unix": 1713842003
+    },
+    "total_results": 1
+}

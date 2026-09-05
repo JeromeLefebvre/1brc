@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1214,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 33' 42.08364'' N",
+                    "lng": "69\u00b0 46' 13.89432'' E"
+                },
+                "MGRS": "42TWM6424901399",
+                "Maidenhead": "MN41vn24lt",
+                "Mercator": {
+                    "x": 7766819.445,
+                    "y": 5067192.546
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=222721643#map=17/41.56169/69.77053",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.56169/69.77053&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.56169&mlon=69.77053#map=17/41.56169/69.77053"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "UZ": "860",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 998,
+                "currency": {
+                    "alternate_symbols": [
+                        "so\u2018m",
+                        "\u0441\u045e\u043c",
+                        "\u0441\u0443\u043c",
+                        "s",
+                        "\u0441"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UZS",
+                    "iso_numeric": "860",
+                    "name": "Uzbekistan Som",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyin",
+                    "subunit_to_unit": 100,
+                    "symbol": "so'm",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddff",
+                "geohash": "tx3s7wj67he109kmz5e2",
+                "qibla": 240.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714522740,
+                        "astronomical": 1714602720,
+                        "civil": 1714607340,
+                        "nautical": 1714605120
+                    },
+                    "set": {
+                        "apparent": 1714573080,
+                        "astronomical": 1714579500,
+                        "civil": 1714574880,
+                        "nautical": 1714577100
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tashkent",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "cheese.incensed.drifters"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.577748,
+                    "lng": 69.8116247
+                },
+                "southwest": {
+                    "lat": 41.5440794,
+                    "lng": 69.7466025
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UZ",
+                "ISO_3166-1_alpha-3": "UZB",
+                "ISO_3166-2": [
+                    "UZ-TO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gazalkent",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Uzbekistan",
+                "country_code": "uz",
+                "county": "Bostanlik district",
+                "postcode": "110701",
+                "state": "Tashkent Region",
+                "state_code": "TO",
+                "town": "Gazalkent"
+            },
+            "confidence": 7,
+            "formatted": "Gazalkent, Tashkent Region, Uzbekistan, 110701",
+            "geometry": {
+                "lat": 41.5616899,
+                "lng": 69.7705262
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:17:32 GMT",
+        "created_unix": 1714533452
+    },
+    "total_results": 1
+}

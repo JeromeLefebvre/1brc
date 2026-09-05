@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 255,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 1' 39.18864'' N",
+                    "lng": "120\u00b0 44' 39.70932'' E"
+                },
+                "MGRS": "51QTT5864573295",
+                "Maidenhead": "PK06ia96ho",
+                "Mercator": {
+                    "x": 13441201.083,
+                    "y": 1796122.893
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=13156639#map=17/16.02755/120.74436",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.02755/120.74436&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.02755&mlon=120.74436#map=17/16.02755/120.74436"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdvg5ter7874hmh09g7u",
+                "qibla": 288.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714944720,
+                        "astronomical": 1714940160,
+                        "civil": 1714943340,
+                        "nautical": 1714941780
+                    },
+                    "set": {
+                        "apparent": 1714904160,
+                        "astronomical": 1714908720,
+                        "civil": 1714905480,
+                        "nautical": 1714907100
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "nervous.twilight.exactitude"
+                },
+                "wikidata": "Q43148"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 16.059176,
+                    "lng": 120.7807302
+                },
+                "southwest": {
+                    "lat": 15.9631343,
+                    "lng": 120.7034048
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-01",
+                    "PH-PAN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tayug",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "2445",
+                "region": "Ilocos Region",
+                "state": "Pangasinan",
+                "state_code": "PAN",
+                "town": "Tayug"
+            },
+            "confidence": 7,
+            "formatted": "Tayug, 2445 Ilocos Region Pangasinan, Philippines",
+            "geometry": {
+                "lat": 16.0275524,
+                "lng": 120.7443637
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:53:02 GMT",
+        "created_unix": 1714949582
+    },
+    "total_results": 1
+}

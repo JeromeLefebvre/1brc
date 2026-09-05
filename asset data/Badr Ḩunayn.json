@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 512,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23\u00b0 46' 48.00000'' N",
+                    "lng": "38\u00b0 47' 26.66724'' E"
+                },
+                "MGRS": "37QDG7867929885",
+                "Maidenhead": "KL93js47ve",
+                "Mercator": {
+                    "x": 4318165.524,
+                    "y": 2709399.917
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=87175609#map=17/23.78000/38.79074",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/23.78000/38.79074&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=23.78000&mlon=38.79074#map=17/23.78000/38.79074"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "SA": "682",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 966,
+                "currency": {
+                    "alternate_symbols": [
+                        "SR",
+                        "\ufdfc"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "SAR",
+                    "iso_numeric": "682",
+                    "name": "Saudi Riyal",
+                    "smallest_denomination": 5,
+                    "subunit": "Hallallah",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0631.\u0633",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\udde6",
+                "geohash": "su5x69n89c2c6v71p42g",
+                "qibla": 157.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714791000,
+                        "astronomical": 1714786140,
+                        "civil": 1714789560,
+                        "nautical": 1714787880
+                    },
+                    "set": {
+                        "apparent": 1714838040,
+                        "astronomical": 1714842900,
+                        "civil": 1714839480,
+                        "nautical": 1714841160
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Riyadh",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "recycling.tidally.easily"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 23.8018544,
+                    "lng": 38.8088854
+                },
+                "southwest": {
+                    "lat": 23.7583175,
+                    "lng": 38.771083
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SA",
+                "ISO_3166-1_alpha-3": "SAU",
+                "ISO_3166-2": [
+                    "SA-03"
+                ],
+                "_category": "place",
+                "_normalized_city": "Badr",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Saudi Arabia",
+                "country_code": "sa",
+                "province": "Badr",
+                "state": "Medina Province",
+                "town": "Badr"
+            },
+            "confidence": 7,
+            "formatted": "Badr, Medina Province, Saudi Arabia",
+            "geometry": {
+                "lat": 23.78,
+                "lng": 38.7907409
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:58:20 GMT",
+        "created_unix": 1714795100
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1532,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "57\u00b0 51' 5.68800'' N",
+                    "lng": "61\u00b0 41' 46.57200'' E"
+                },
+                "MGRS": "41VME2262112931",
+                "Maidenhead": "MO07uu34nj",
+                "Mercator": {
+                    "x": 6867997.36,
+                    "y": 7899994.598
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/57.85158/61.69627&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=57.85158&mlon=61.69627#map=17/57.85158/61.69627"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v67c5gtcgk1kb4f8n6ks",
+                "qibla": 212.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711675860,
+                        "astronomical": 1711753740,
+                        "civil": 1711673460,
+                        "nautical": 1711670580
+                    },
+                    "set": {
+                        "apparent": 1711722360,
+                        "astronomical": 1711730940,
+                        "civil": 1711724760,
+                        "nautical": 1711727700
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "router.cones.clearly"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 57.8773041,
+                    "lng": 61.7369728
+                },
+                "southwest": {
+                    "lat": 57.8261681,
+                    "lng": 61.6404724
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Alapayevsk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Sverdlovskaya Oblast\u2019",
+                "town": "Alapayevsk"
+            },
+            "confidence": 7,
+            "formatted": "Alapayevsk, Sverdlovskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 57.85158,
+                "lng": 61.69627
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:21:29 GMT",
+        "created_unix": 1711750889
+    },
+    "total_results": 1
+}

@@ -1,0 +1,151 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 128,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 47' 20.25708'' N",
+                    "lng": "64\u00b0 25' 18.67152'' E"
+                },
+                "MGRS": "41SPE2174405301",
+                "Maidenhead": "MM29fs09oi",
+                "Mercator": {
+                    "x": 7171407.894,
+                    "y": 4807971.904
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=411720457#map=17/39.78896/64.42185",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.78896/64.42185&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.78896&mlon=64.42185#map=17/39.78896/64.42185"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "UZ": "860",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 998,
+                "currency": {
+                    "alternate_symbols": [
+                        "so\u2018m",
+                        "\u0441\u045e\u043c",
+                        "\u0441\u0443\u043c",
+                        "s",
+                        "\u0441"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UZS",
+                    "iso_numeric": "860",
+                    "name": "Uzbekistan Som",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyin",
+                    "subunit_to_unit": 100,
+                    "symbol": "so'm",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddff",
+                "geohash": "trjf3gqe3zz3kkn82ze6",
+                "qibla": 236.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Shofirkon ko\u02bbchasi",
+                    "road_type": "service",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711762260,
+                        "astronomical": 1711843140,
+                        "civil": 1711760640,
+                        "nautical": 1711758720
+                    },
+                    "set": {
+                        "apparent": 1711807380,
+                        "astronomical": 1711812900,
+                        "civil": 1711809060,
+                        "nautical": 1711810980
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Samarkand",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "curtains.cross.reassured"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.7905365,
+                    "lng": 64.4220169
+                },
+                "southwest": {
+                    "lat": 39.7879689,
+                    "lng": 64.4214815
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UZ",
+                "ISO_3166-1_alpha-3": "UZB",
+                "ISO_3166-2": [
+                    "UZ-BU"
+                ],
+                "_category": "road",
+                "_normalized_city": "Bukhara City",
+                "_type": "road",
+                "city": "Bukhara City",
+                "continent": "Asia",
+                "country": "Uzbekistan",
+                "country_code": "uz",
+                "postcode": "200100",
+                "road": "Shofirkon ko\u02bbchasi",
+                "road_type": "service",
+                "state": "Bukhara Region",
+                "state_code": "BU"
+            },
+            "confidence": 9,
+            "formatted": "Shofirkon ko\u02bbchasi, Bukhara City, Bukhara Region, Uzbekistan, 200100",
+            "geometry": {
+                "lat": 39.7889603,
+                "lng": 64.4218532
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:47:17 GMT",
+        "created_unix": 1711835237
+    },
+    "total_results": 1
+}

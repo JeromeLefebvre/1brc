@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1259,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 30' 57.19320'' N",
+                    "lng": "93\u00b0 44' 1.15296'' W"
+                },
+                "FIPS": {
+                    "county": "22015",
+                    "state": "22"
+                },
+                "MGRS": "15SVR3109297857",
+                "Maidenhead": "EM32dm13xt",
+                "Mercator": {
+                    "x": -10434382.589,
+                    "y": 3808254.71
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=132145#map=16/32.51589/-93.73365",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.51589/-93.73365&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.51589&mlon=-93.73365#map=16/32.51589/-93.73365"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vv2gp34z8dj4yqyf6zb",
+                "qibla": 45.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711800360,
+                        "astronomical": 1711795380,
+                        "civil": 1711798860,
+                        "nautical": 1711797120
+                    },
+                    "set": {
+                        "apparent": 1711758780,
+                        "astronomical": 1711763760,
+                        "civil": 1711760280,
+                        "nautical": 1711762020
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "recruited.cups.guides"
+                },
+                "wikidata": "Q877897"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.5939542,
+                    "lng": -93.5843314
+                },
+                "southwest": {
+                    "lat": 32.4197922,
+                    "lng": -93.7492794
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-LA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bossier City",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Bossier Parish",
+                "state": "Louisiana",
+                "state_code": "LA",
+                "town": "Bossier City"
+            },
+            "confidence": 5,
+            "formatted": "Bossier City, Louisiana, United States of America",
+            "geometry": {
+                "lat": 32.515887,
+                "lng": -93.7336536
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:11:32 GMT",
+        "created_unix": 1711833092
+    },
+    "total_results": 1
+}

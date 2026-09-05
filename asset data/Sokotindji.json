@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 105,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 50' 55.39596'' N",
+                    "lng": "3\u00b0 25' 41.94948'' E"
+                },
+                "MGRS": "31PEM4681599285",
+                "Maidenhead": "JK10ru13jq",
+                "Mercator": {
+                    "x": 381638.759,
+                    "y": 1206918.655
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3796845391#map=17/10.84872/3.42832",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.84872/3.42832&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.84872&mlon=3.42832#map=17/10.84872/3.42832"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BJ": "204",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 229,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddef",
+                "geohash": "s1fmwnbqmshnhggm49sd",
+                "qibla": 68.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713936720,
+                        "astronomical": 1713932340,
+                        "civil": 1713935400,
+                        "nautical": 1713933900
+                    },
+                    "set": {
+                        "apparent": 1713981420,
+                        "astronomical": 1713985740,
+                        "civil": 1713982740,
+                        "nautical": 1713984240
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Porto-Novo",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "leads.watermelon.replanted"
+                },
+                "wikidata": "Q3964158"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.8887211,
+                    "lng": 3.4683193
+                },
+                "southwest": {
+                    "lat": 10.8087211,
+                    "lng": 3.3883193
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BJ",
+                "ISO_3166-1_alpha-3": "BEN",
+                "ISO_3166-2": [
+                    "BJ-AL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sokotindji",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Benin",
+                "country_code": "bj",
+                "county": "Segbana",
+                "state": "Alibori Department",
+                "town": "Sokotindji"
+            },
+            "confidence": 7,
+            "formatted": "Sokotindji, Segbana, Benin",
+            "geometry": {
+                "lat": 10.8487211,
+                "lng": 3.4283193
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:32:19 GMT",
+        "created_unix": 1713997939
+    },
+    "total_results": 1
+}

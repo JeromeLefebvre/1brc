@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2237,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "21\u00b0 12' 2.01600'' N",
+                    "lng": "94\u00b0 54' 29.77200'' E"
+                },
+                "MGRS": "46QFJ9808545537",
+                "Maidenhead": "NL71ke88xd",
+                "Mercator": {
+                    "x": 10565140.288,
+                    "y": 2400363.93
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/21.20056/94.90827&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=21.20056&mlon=94.90827#map=17/21.20056/94.90827"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "MM": "104",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 95,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MMK",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MMK",
+                    "iso_numeric": "104",
+                    "name": "Myanmar Kyat",
+                    "smallest_denomination": 50,
+                    "subunit": "Pya",
+                    "subunit_to_unit": 100,
+                    "symbol": "K",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddf2",
+                "geohash": "w5g2xeqn4yz6kncz0s11",
+                "qibla": 280.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713741480,
+                        "astronomical": 1713736860,
+                        "civil": 1713740100,
+                        "nautical": 1713738480
+                    },
+                    "set": {
+                        "apparent": 1713700860,
+                        "astronomical": 1713705480,
+                        "civil": 1713702180,
+                        "nautical": 1713703800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yangon",
+                    "now_in_dst": 0,
+                    "offset_sec": 23400,
+                    "offset_string": "+0630",
+                    "short_name": "+0630"
+                },
+                "what3words": {
+                    "words": "pinning.boomers.renounce"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 21.233381,
+                    "lng": 94.950714
+                },
+                "southwest": {
+                    "lat": 21.135744,
+                    "lng": 94.836212
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MM",
+                "ISO_3166-1_alpha-3": "MMR",
+                "_category": "place",
+                "_normalized_city": "Nyaung-U",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Myanmar",
+                "country_code": "mm",
+                "state": "Mandalay Region",
+                "town": "Nyaung-U"
+            },
+            "confidence": 6,
+            "formatted": "Nyaung-U, Mandalay Region, Myanmar",
+            "geometry": {
+                "lat": 21.20056,
+                "lng": 94.90827
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:20:47 GMT",
+        "created_unix": 1713662447
+    },
+    "total_results": 1
+}

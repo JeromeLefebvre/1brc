@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 711,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 16' 34.18752'' N",
+                    "lng": "50\u00b0 0' 56.18700'' E"
+                },
+                "MGRS": "39SVA1158815029",
+                "Maidenhead": "LM56ag16ug",
+                "Mercator": {
+                    "x": 5567711.959,
+                    "y": 4313404.812
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=872940854#map=17/36.27616/50.01561",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.27616/50.01561&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.27616&mlon=50.01561#map=17/36.27616/50.01561"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IR": "364",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 98,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "IRR",
+                    "iso_numeric": "364",
+                    "name": "Iranian Rial",
+                    "smallest_denomination": 5000,
+                    "subunit_to_unit": 100,
+                    "symbol": "\ufdfc",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf7",
+                "geohash": "tn7w65u7bnun2wd4uxvx",
+                "qibla": 213.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Darvish Zahed",
+                    "road_type": "residential",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714010100,
+                        "astronomical": 1714004460,
+                        "civil": 1714008480,
+                        "nautical": 1714006500
+                    },
+                    "set": {
+                        "apparent": 1714058460,
+                        "astronomical": 1714064100,
+                        "civil": 1714060140,
+                        "nautical": 1714062060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tehran",
+                    "now_in_dst": 0,
+                    "offset_sec": 12600,
+                    "offset_string": "+0330",
+                    "short_name": "+0330"
+                },
+                "what3words": {
+                    "words": "lightly.span.offhand"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.2767687,
+                    "lng": 50.0156075
+                },
+                "southwest": {
+                    "lat": 36.2761632,
+                    "lng": 50.0144234
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IR",
+                "ISO_3166-1_alpha-3": "IRN",
+                "ISO_3166-2": [
+                    "IR-26"
+                ],
+                "_category": "road",
+                "_normalized_city": "Qazvin",
+                "_type": "road",
+                "city": "Qazvin",
+                "continent": "Asia",
+                "country": "Iran",
+                "country_code": "ir",
+                "county": "Qazvin County",
+                "district": "Qazvin Central District",
+                "neighbourhood": "padegan",
+                "postcode": "3416618183",
+                "road": "Darvish Zahed",
+                "road_type": "residential",
+                "state": "Qazvin Province",
+                "suburb": "TOHID"
+            },
+            "confidence": 9,
+            "formatted": "Qazvin, TOHID, Darvish Zahed, Qazvin Province, 3416618183, Iran",
+            "geometry": {
+                "lat": 36.2761632,
+                "lng": 50.0156075
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:20:21 GMT",
+        "created_unix": 1714008021
+    },
+    "total_results": 1
+}

@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1729,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 56' 21.55632'' N",
+                    "lng": "4\u00b0 1' 12.54936'' W"
+                },
+                "MGRS": "30SVK1284221520",
+                "Maidenhead": "IM79xw75nk",
+                "Mercator": {
+                    "x": -447521.34,
+                    "y": 4829692.385
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES4"
+                    },
+                    "NUTS2": {
+                        "code": "ES42"
+                    },
+                    "NUTS3": {
+                        "code": "ES425"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=345240#map=16/39.93932/-4.02015",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/39.93932/-4.02015&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.93932&mlon=-4.02015#map=16/39.93932/-4.02015"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezj5hw8x7thgnd97jgth",
+                "qibla": 103.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714454280,
+                        "astronomical": 1714448160,
+                        "civil": 1714452540,
+                        "nautical": 1714450440
+                    },
+                    "set": {
+                        "apparent": 1714504140,
+                        "astronomical": 1714510320,
+                        "civil": 1714505880,
+                        "nautical": 1714508040
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "lunching.uneasy.limps"
+                },
+                "wikidata": "Q1628628"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.0353255,
+                    "lng": -4.0087818
+                },
+                "southwest": {
+                    "lat": 39.9031861,
+                    "lng": -4.170169
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-CM",
+                    "ES-TO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bargas",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "45593",
+                "province": "Toledo",
+                "state": "Castile-La Mancha",
+                "state_code": "CM",
+                "town": "Bargas"
+            },
+            "confidence": 6,
+            "formatted": "45593 Bargas, Spain",
+            "geometry": {
+                "lat": 39.9393212,
+                "lng": -4.0201526
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:19:52 GMT",
+        "created_unix": 1714519192
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1107,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 7' 9.12396'' N",
+                    "lng": "0\u00b0 29' 34.85544'' E"
+                },
+                "MGRS": "30UXC7163477260",
+                "Maidenhead": "IO92sc08uo",
+                "Mercator": {
+                    "x": -54882.223,
+                    "y": 6787959.496
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5306917#map=17/52.11920/-0.49302",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.11920/-0.49302&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.11920&mlon=-0.49302#map=17/52.11920/-0.49302"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcr8sb0brgm0drfv2eem",
+                "qibla": 119.15,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714020240,
+                        "astronomical": 1714011660,
+                        "civil": 1714018020,
+                        "nautical": 1714015080
+                    },
+                    "set": {
+                        "apparent": 1714072620,
+                        "astronomical": 1714081320,
+                        "civil": 1714074900,
+                        "nautical": 1714077780
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "admiral.hurry.issued"
+                },
+                "wikidata": "Q165486"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.1308462,
+                    "lng": -0.4772355
+                },
+                "southwest": {
+                    "lat": 52.1027486,
+                    "lng": -0.5218658
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-BDF"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kempston",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Bedford",
+                "county_code": "BDF",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Kempston"
+            },
+            "confidence": 7,
+            "formatted": "Kempston, Bedford, England, United Kingdom",
+            "geometry": {
+                "lat": 52.1192011,
+                "lng": -0.4930154
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:02:34 GMT",
+        "created_unix": 1714006954
+    },
+    "total_results": 1
+}

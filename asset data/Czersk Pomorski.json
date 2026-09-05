@@ -1,0 +1,152 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1068,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 47' 45.20400'' N",
+                    "lng": "17\u00b0 58' 35.29200'' E"
+                },
+                "MGRS": "33UXV9603264922",
+                "Maidenhead": "JO83xt71ea",
+                "Mercator": {
+                    "x": 2001131.487,
+                    "y": 7097090.974
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "PL"
+                    },
+                    "NUTS1": {
+                        "code": "PL6"
+                    },
+                    "NUTS2": {
+                        "code": "PL63"
+                    },
+                    "NUTS3": {
+                        "code": "PL637"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.79589/17.97647&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.79589&mlon=17.97647#map=17/53.79589/17.97647"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "PL": "616",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 48,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "z&#322;",
+                    "iso_code": "PLN",
+                    "iso_numeric": "985",
+                    "name": "Polish Z\u0142oty",
+                    "smallest_denomination": 1,
+                    "subunit": "Grosz",
+                    "subunit_to_unit": 100,
+                    "symbol": "z\u0142",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf1",
+                "geohash": "u3sf114pf0ex9gvych1n",
+                "qibla": 144.26,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711772760,
+                        "astronomical": 1711765260,
+                        "civil": 1711770660,
+                        "nautical": 1711768080
+                    },
+                    "set": {
+                        "apparent": 1711819200,
+                        "astronomical": 1711826700,
+                        "civil": 1711821300,
+                        "nautical": 1711823940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Warsaw",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "flamenco.unearths.pegged"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.8100811,
+                    "lng": 18.0025124
+                },
+                "southwest": {
+                    "lat": 53.7804424,
+                    "lng": 17.9493241
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PL",
+                "ISO_3166-1_alpha-3": "POL",
+                "_category": "place",
+                "_normalized_city": "Czersk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Poland",
+                "country_code": "pl",
+                "county": "Powiat chojnicki",
+                "local_administrative_area": "Czersk",
+                "political_union": "European Union",
+                "state": "Wojew\u00f3dztwo Pomorskie",
+                "state_code": "22",
+                "town": "Czersk"
+            },
+            "confidence": 7,
+            "formatted": "Czersk, Powiat chojnicki, Poland",
+            "geometry": {
+                "lat": 53.79589,
+                "lng": 17.97647
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:17:35 GMT",
+        "created_unix": 1711833455
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 487,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 53' 36.67524'' N",
+                    "lng": "99\u00b0 10' 1.61904'' W"
+                },
+                "MGRS": "14QMG8250799707",
+                "Maidenhead": "EK09jv94wk",
+                "Mercator": {
+                    "x": -11039232.905,
+                    "y": 2245888.643
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5606488#map=17/19.89352/-99.16712",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.89352/-99.16712&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.89352&mlon=-99.16712#map=17/19.89352/-99.16712"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g93pms8ntnd99ppw8ue",
+                "qibla": 46.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713960780,
+                        "astronomical": 1713956160,
+                        "civil": 1713959400,
+                        "nautical": 1713957780
+                    },
+                    "set": {
+                        "apparent": 1713920220,
+                        "astronomical": 1713924840,
+                        "civil": 1713921600,
+                        "nautical": 1713923160
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "nuance.sparks.keen"
+                },
+                "wikidata": "Q34828"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.9644387,
+                    "lng": -99.0586051
+                },
+                "southwest": {
+                    "lat": 19.8228196,
+                    "lng": -99.227761
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Tequixquiac",
+                "state": "State of Mexico",
+                "state_code": "MEX"
+            },
+            "confidence": 5,
+            "formatted": "Tequixquiac, Mexico",
+            "geometry": {
+                "lat": 19.8935209,
+                "lng": -99.1671164
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:18:25 GMT",
+        "created_unix": 1713997105
+    },
+    "total_results": 1
+}

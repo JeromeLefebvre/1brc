@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 672,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 35' 5.15436'' N",
+                    "lng": "2\u00b0 7' 39.24120'' W"
+                },
+                "MGRS": "30UWD5910826438",
+                "Maidenhead": "IO82wo40qi",
+                "Mercator": {
+                    "x": -236839.675,
+                    "y": 6872596.411
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=173722#map=16/52.58477/-2.12757",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/52.58477/-2.12757&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.58477&mlon=-2.12757#map=16/52.58477/-2.12757"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcq7psfb2nen1vzh5r0c",
+                "qibla": 117.79,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714538220,
+                        "astronomical": 1714528800,
+                        "civil": 1714535880,
+                        "nautical": 1714532760
+                    },
+                    "set": {
+                        "apparent": 1714592100,
+                        "astronomical": 1714601700,
+                        "civil": 1714594500,
+                        "nautical": 1714597620
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "toys.ritual.else"
+                },
+                "wikidata": "Q126269"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.6378947,
+                    "lng": -2.0482121
+                },
+                "southwest": {
+                    "lat": 52.5439132,
+                    "lng": -2.2068817
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-WLV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Wolverhampton",
+                "_type": "city",
+                "city": "Wolverhampton",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Wolverhampton",
+                "county_code": "WLV",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "West Midlands Combined Authority"
+            },
+            "confidence": 6,
+            "formatted": "Wolverhampton, England, United Kingdom",
+            "geometry": {
+                "lat": 52.5847651,
+                "lng": -2.127567
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:12:50 GMT",
+        "created_unix": 1714543970
+    },
+    "total_results": 1
+}

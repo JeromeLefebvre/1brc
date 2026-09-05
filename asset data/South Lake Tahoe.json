@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2462,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 55' 59.66796'' N",
+                    "lng": "119\u00b0 59' 3.65352'' W"
+                },
+                "FIPS": {
+                    "county": "06017",
+                    "state": "06"
+                },
+                "MGRS": "11SKD4131213604",
+                "Maidenhead": "DM08aw13vx",
+                "Mercator": {
+                    "x": -13356596.545,
+                    "y": 4685257.922
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2421460#map=17/38.93324/-119.98435",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.93324/-119.98435&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.93324&mlon=-119.98435#map=17/38.93324/-119.98435"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qftmxw4d41mxbd8b270",
+                "qibla": 21.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713618960,
+                        "astronomical": 1713613140,
+                        "civil": 1713617280,
+                        "nautical": 1713615300
+                    },
+                    "set": {
+                        "apparent": 1713580920,
+                        "astronomical": 1713586740,
+                        "civil": 1713582600,
+                        "nautical": 1713584580
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "rust.snow.metro"
+                },
+                "wikidata": "Q983602"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.9764031,
+                    "lng": -119.929902
+                },
+                "southwest": {
+                    "lat": 38.8815696,
+                    "lng": -120.0226588
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Lake Tahoe",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "El Dorado County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "South Lake Tahoe"
+            },
+            "confidence": 7,
+            "formatted": "South Lake Tahoe, California, United States of America",
+            "geometry": {
+                "lat": 38.9332411,
+                "lng": -119.9843482
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 10:13:08 GMT",
+        "created_unix": 1713607988
+    },
+    "total_results": 1
+}

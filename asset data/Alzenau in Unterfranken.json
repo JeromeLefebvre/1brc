@@ -1,0 +1,151 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 736,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 5' 19.68000'' N",
+                    "lng": "9\u00b0 3' 52.38000'' E"
+                },
+                "MGRS": "32UNA0461748505",
+                "Maidenhead": "JO40mc71rh",
+                "Mercator": {
+                    "x": 1009061.09,
+                    "y": 6428874.751
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE26"
+                    },
+                    "NUTS3": {
+                        "code": "DE264"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.08880/9.06455&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.08880&mlon=9.06455#map=17/50.08880/9.06455"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0ykyq2s7m467v1kv603",
+                "qibla": 128.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713759420,
+                        "astronomical": 1713751680,
+                        "civil": 1713757320,
+                        "nautical": 1713754680
+                    },
+                    "set": {
+                        "apparent": 1713810480,
+                        "astronomical": 1713818280,
+                        "civil": 1713812580,
+                        "nautical": 1713815280
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "forest.letter.jogging"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.0984468,
+                    "lng": 9.0876593
+                },
+                "southwest": {
+                    "lat": 50.0778269,
+                    "lng": 9.0385286
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "_category": "place",
+                "_normalized_city": "Alzenau in Unterfranken",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Lower Franconia",
+                "local_administrative_area": "Alzenau i.UFr.",
+                "political_union": "European Union",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Alzenau in Unterfranken"
+            },
+            "confidence": 7,
+            "formatted": "Alzenau in Unterfranken, Bavaria, Germany",
+            "geometry": {
+                "lat": 50.0888,
+                "lng": 9.06455
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:22:58 GMT",
+        "created_unix": 1713781378
+    },
+    "total_results": 1
+}

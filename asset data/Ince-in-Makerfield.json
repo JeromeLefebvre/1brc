@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1644,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 32' 13.47648'' N",
+                    "lng": "2\u00b0 37' 5.51100'' W"
+                },
+                "MGRS": "30UWE2530332086",
+                "Maidenhead": "IO83qm58tv",
+                "Mercator": {
+                    "x": -291456.412,
+                    "y": 7048578.2
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30416831#map=16/53.53708/-2.61820",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/53.53708/-2.61820&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.53708&mlon=-2.61820#map=16/53.53708/-2.61820"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcw0s6jkpd6qwpzxhy98",
+                "qibla": 118.1,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714106760,
+                        "astronomical": 1714097460,
+                        "civil": 1714104420,
+                        "nautical": 1714101360
+                    },
+                    "set": {
+                        "apparent": 1714159860,
+                        "astronomical": 1714169340,
+                        "civil": 1714162260,
+                        "nautical": 1714165380
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "taxi.limit.focal"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.5570768,
+                    "lng": -2.5981975
+                },
+                "southwest": {
+                    "lat": 53.5170768,
+                    "lng": -2.6381975
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-WGN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hindley",
+                "_type": "neighbourhood",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Wigan",
+                "county_code": "WGN",
+                "postcode": "WN3 4RX",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater Manchester",
+                "suburb": "Ince-in-Makerfield",
+                "town": "Hindley"
+            },
+            "confidence": 7,
+            "formatted": "Hindley, WN3 4RX, United Kingdom",
+            "geometry": {
+                "lat": 53.5370768,
+                "lng": -2.6181975
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:28:00 GMT",
+        "created_unix": 1714170480
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2020,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 37' 55.35840'' N",
+                    "lng": "88\u00b0 2' 21.63120'' W"
+                },
+                "FIPS": {
+                    "county": "55009",
+                    "state": "55"
+                },
+                "MGRS": "16TDQ1756142601",
+                "Maidenhead": "EN54xp51gq",
+                "Mercator": {
+                    "x": -9800494.721,
+                    "y": 5533748.758
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=242798#map=16/44.63204/-88.03934",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.63204/-88.03934&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.63204&mlon=-88.03934#map=16/44.63204/-88.03934"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpcmut58w8h8fnv4dbjb",
+                "qibla": 48.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711884840,
+                        "astronomical": 1711878840,
+                        "civil": 1711883100,
+                        "nautical": 1711881000
+                    },
+                    "set": {
+                        "apparent": 1711844280,
+                        "astronomical": 1711850340,
+                        "civil": 1711846080,
+                        "nautical": 1711848180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "sanitation.supplement.alert"
+                },
+                "wikidata": "Q2221968"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.6776397,
+                    "lng": -87.9774316
+                },
+                "southwest": {
+                    "lat": 44.5858876,
+                    "lng": -88.131412
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Suamico",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Brown County",
+                "postcode": "54173",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "Suamico"
+            },
+            "confidence": 6,
+            "formatted": "Suamico, WI 54173, United States of America",
+            "geometry": {
+                "lat": 44.632044,
+                "lng": -88.039342
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:43:23 GMT",
+        "created_unix": 1711917803
+    },
+    "total_results": 1
+}

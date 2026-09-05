@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1526,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 58' 18.11676'' N",
+                    "lng": "126\u00b0 33' 9.92628'' E"
+                },
+                "MGRS": "52SBH8504005500",
+                "Maidenhead": "PM37gx63he",
+                "Mercator": {
+                    "x": 14087788.501,
+                    "y": 4549135.701
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5455268#map=17/37.97170/126.55276",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.97170/126.55276&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.97170&mlon=126.55276#map=17/37.97170/126.55276"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KP": "408",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 850,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KPW",
+                    "iso_numeric": "408",
+                    "name": "North Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit": "Ch\u014fn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a9",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf5",
+                "geohash": "wycbpb8chvz2445umfgv",
+                "qibla": 285.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713991680,
+                        "astronomical": 1713985920,
+                        "civil": 1713990000,
+                        "nautical": 1713988020
+                    },
+                    "set": {
+                        "apparent": 1713953820,
+                        "astronomical": 1713959580,
+                        "civil": 1713955440,
+                        "nautical": 1713957480
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Pyongyang",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "mermaids.note.chairing"
+                },
+                "wikidata": "Q109079"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.2312782,
+                    "lng": 126.970031
+                },
+                "southwest": {
+                    "lat": 37.7619558,
+                    "lng": 126.383055
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KP",
+                "ISO_3166-1_alpha-3": "PRK",
+                "ISO_3166-2": [
+                    "KP-15"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kaesong",
+                "_type": "city",
+                "city": "Kaesong",
+                "continent": "Asia",
+                "country": "North Korea",
+                "country_code": "kp"
+            },
+            "confidence": 1,
+            "formatted": "Kaesong, North Korea",
+            "geometry": {
+                "lat": 37.9716991,
+                "lng": 126.5527573
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:42:46 GMT",
+        "created_unix": 1713994966
+    },
+    "total_results": 1
+}

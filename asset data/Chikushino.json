@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2039,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 29' 26.16936'' N",
+                    "lng": "130\u00b0 31' 13.18440'' E"
+                },
+                "MGRS": "52SFC4123806711",
+                "Maidenhead": "PM53gl27kr",
+                "Mercator": {
+                    "x": 14529456.562,
+                    "y": 3937029.168
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4008390#map=17/33.49060/130.52033",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.49060/130.52033&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.49060&mlon=130.52033#map=17/33.49060/130.52033"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvuyd0f0bhg4nrtfk8h8",
+                "qibla": 288.47,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711833000,
+                        "astronomical": 1711827960,
+                        "civil": 1711831500,
+                        "nautical": 1711829760
+                    },
+                    "set": {
+                        "apparent": 1711791360,
+                        "astronomical": 1711796400,
+                        "civil": 1711792860,
+                        "nautical": 1711794600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "prelude.chain.personal"
+                },
+                "wikidata": "Q844140"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.554682,
+                    "lng": 130.6217003
+                },
+                "southwest": {
+                    "lat": 33.4279241,
+                    "lng": 130.4536583
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-40"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chikushino",
+                "_type": "city",
+                "city": "Chikushino",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Fukuoka Prefecture",
+                "state": "Fukuoka Prefecture"
+            },
+            "confidence": 6,
+            "formatted": "Chikushino, Fukuoka Prefecture, Japan",
+            "geometry": {
+                "lat": 33.4906026,
+                "lng": 130.520329
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:46:47 GMT",
+        "created_unix": 1711831607
+    },
+    "total_results": 1
+}

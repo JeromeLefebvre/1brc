@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1405,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 10' 49.70136'' S",
+                    "lng": "44\u00b0 26' 57.73848'' E"
+                },
+                "MGRS": "38LMM4009853429",
+                "Maidenhead": "LH27ft36wq",
+                "Mercator": {
+                    "x": 4948081.435,
+                    "y": -1357244.516
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1229049872#map=17/-12.18047/44.44937",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-12.18047/44.44937&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-12.18047&mlon=44.44937#map=17/-12.18047/44.44937"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "KM": "174",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 269,
+                "currency": {
+                    "alternate_symbols": [
+                        "CF"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CF",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "KMF",
+                    "iso_numeric": "174",
+                    "name": "Comorian Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf2",
+                "geohash": "kvzdeqx597mfersnr16t",
+                "qibla": 352.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713668940,
+                        "astronomical": 1713664680,
+                        "civil": 1713667620,
+                        "nautical": 1713666120
+                    },
+                    "set": {
+                        "apparent": 1713711180,
+                        "astronomical": 1713715440,
+                        "civil": 1713712440,
+                        "nautical": 1713713940
+                    }
+                },
+                "timezone": {
+                    "name": "Indian/Comoro",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "inherits.simplify.crumbs"
+                },
+                "wikidata": "Q548071"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -12.1404726,
+                    "lng": 44.4893718
+                },
+                "southwest": {
+                    "lat": -12.2204726,
+                    "lng": 44.4093718
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KM",
+                "ISO_3166-1_alpha-3": "COM",
+                "ISO_3166-2": [
+                    "KM-A"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bazimini",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Comoros",
+                "country_code": "km",
+                "state": "Anjouan",
+                "state_code": "A",
+                "town": "Bazimini"
+            },
+            "confidence": 7,
+            "formatted": "Bazimini, Anjouan, Comoros",
+            "geometry": {
+                "lat": -12.1804726,
+                "lng": 44.4493718
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:54:08 GMT",
+        "created_unix": 1713664448
+    },
+    "total_results": 1
+}

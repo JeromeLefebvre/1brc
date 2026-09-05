@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1280,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 44' 3.47100'' N",
+                    "lng": "7\u00b0 12' 12.19248'' W"
+                },
+                "MGRS": "29SPS6834423259",
+                "Maidenhead": "IM62jr56of",
+                "Mercator": {
+                    "x": -801877.351,
+                    "y": 3836985.682
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2880002#map=17/32.73430/-7.20339",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.73430/-7.20339&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.73430&mlon=-7.20339#map=17/32.73430/-7.20339"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evffhp4ehgm6xfwv7k5z",
+                "qibla": 93.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714628520,
+                        "astronomical": 1714623060,
+                        "civil": 1714626900,
+                        "nautical": 1714625040
+                    },
+                    "set": {
+                        "apparent": 1714677000,
+                        "astronomical": 1714682460,
+                        "civil": 1714678620,
+                        "nautical": 1714680480
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "genotype.taken.league"
+                },
+                "wikidata": "Q12188727"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.7856235,
+                    "lng": -7.0502252
+                },
+                "southwest": {
+                    "lat": 32.6781153,
+                    "lng": -7.3250507
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "ISO_3166-2": [
+                    "MA-06",
+                    "MA-SET"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sgamna",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "cercle de Ben Ahmed",
+                "municipality": "ca\u00efdat de Sidi Hajjaj",
+                "region": "Casablanca-Settat",
+                "state_district": "Settat Province",
+                "village": "Sgamna"
+            },
+            "confidence": 4,
+            "formatted": "Sgamna, cercle de Ben Ahmed, Morocco",
+            "geometry": {
+                "lat": 32.7342975,
+                "lng": -7.2033868
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:46:03 GMT",
+        "created_unix": 1714693563
+    },
+    "total_results": 1
+}

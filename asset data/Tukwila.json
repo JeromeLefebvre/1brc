@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 970,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 27' 45.84816'' N",
+                    "lng": "122\u00b0 15' 21.29616'' W"
+                },
+                "FIPS": {
+                    "county": "53033",
+                    "state": "53"
+                },
+                "MGRS": "10TET5607956856",
+                "Maidenhead": "CN87ul91gb",
+                "Mercator": {
+                    "x": -13609466.271,
+                    "y": 5986434.646
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=237384#map=16/47.46274/-122.25592",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.46274/-122.25592&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.46274&mlon=-122.25592#map=16/47.46274/-122.25592"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c23n1brfqxnn46tqm63c",
+                "qibla": 17.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714136400,
+                        "astronomical": 1714129020,
+                        "civil": 1714134360,
+                        "nautical": 1714131900
+                    },
+                    "set": {
+                        "apparent": 1714101240,
+                        "astronomical": 1714108680,
+                        "civil": 1714103280,
+                        "nautical": 1714105800
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "retain.fats.alive"
+                },
+                "wikidata": "Q1510339"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.531774,
+                    "lng": -122.240356
+                },
+                "southwest": {
+                    "lat": 47.429547,
+                    "lng": -122.318354
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tukwila",
+                "_type": "city",
+                "city": "Tukwila",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "King County",
+                "state": "Washington",
+                "state_code": "WA"
+            },
+            "confidence": 7,
+            "formatted": "Tukwila, Washington, United States of America",
+            "geometry": {
+                "lat": 47.4627356,
+                "lng": -122.2559156
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:53:59 GMT",
+        "created_unix": 1714172039
+    },
+    "total_results": 1
+}

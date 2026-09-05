@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 375,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 48' 22.10364'' N",
+                    "lng": "88\u00b0 19' 38.26272'' W"
+                },
+                "FIPS": {
+                    "county": "17089",
+                    "state": "17"
+                },
+                "MGRS": "16TCM8974229103",
+                "Maidenhead": "EN51ut03rl",
+                "Mercator": {
+                    "x": -9832549.525,
+                    "y": 5103493.16
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=125803#map=17/41.80614/-88.32730",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.80614/-88.32730&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.80614&mlon=-88.32730#map=17/41.80614/-88.32730"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp3jy4d42v747ht9v2bm",
+                "qibla": 48.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711712460,
+                        "astronomical": 1711706760,
+                        "civil": 1711710780,
+                        "nautical": 1711708800
+                    },
+                    "set": {
+                        "apparent": 1711671300,
+                        "astronomical": 1711677060,
+                        "civil": 1711672980,
+                        "nautical": 1711674960
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "employ.listed.pays"
+                },
+                "wikidata": "Q2668907"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.825846,
+                    "lng": -88.298613
+                },
+                "southwest": {
+                    "lat": 41.788791,
+                    "lng": -88.400804
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Aurora",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Kane County",
+                "municipality": "Aurora Township",
+                "postcode": "60542",
+                "state": "Illinois",
+                "state_code": "IL",
+                "town": "North Aurora"
+            },
+            "confidence": 7,
+            "formatted": "North Aurora, IL 60542, United States of America",
+            "geometry": {
+                "lat": 41.8061399,
+                "lng": -88.3272952
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:59:12 GMT",
+        "created_unix": 1711753152
+    },
+    "total_results": 1
+}

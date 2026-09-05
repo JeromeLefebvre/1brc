@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 336,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 45' 57.82104'' N",
+                    "lng": "88\u00b0 16' 13.22760'' W"
+                },
+                "MGRS": "16PCA6266722216",
+                "Maidenhead": "EK53us73nu",
+                "Mercator": {
+                    "x": -9826209.412,
+                    "y": 1537229.418
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=307974414#map=17/13.76606/-88.27034",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.76606/-88.27034&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.76606&mlon=-88.27034#map=17/13.76606/-88.27034"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "SV": "222",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 503,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfb",
+                "geohash": "d43nr653pgz4z7fkg28g",
+                "qibla": 56.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713526680,
+                        "astronomical": 1713522300,
+                        "civil": 1713525360,
+                        "nautical": 1713523860
+                    },
+                    "set": {
+                        "apparent": 1713485160,
+                        "astronomical": 1713489540,
+                        "civil": 1713486480,
+                        "nautical": 1713487980
+                    }
+                },
+                "timezone": {
+                    "name": "America/El_Salvador",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "affronts.tracer.zookeepers"
+                },
+                "wikidata": "Q1157078"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.9260614,
+                    "lng": -88.110341
+                },
+                "southwest": {
+                    "lat": 13.6060614,
+                    "lng": -88.430341
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SV",
+                "ISO_3166-1_alpha-3": "SLV",
+                "ISO_3166-2": [
+                    "SV-SM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ciudad Barrios",
+                "_type": "city",
+                "city": "Ciudad Barrios",
+                "continent": "North America",
+                "country": "El Salvador",
+                "country_code": "sv",
+                "state": "Departamento de San Miguel",
+                "state_code": "SM"
+            },
+            "confidence": 3,
+            "formatted": "Ciudad Barrios, Departamento de San Miguel, El Salvador",
+            "geometry": {
+                "lat": 13.7660614,
+                "lng": -88.270341
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:30:45 GMT",
+        "created_unix": 1713522645
+    },
+    "total_results": 1
+}

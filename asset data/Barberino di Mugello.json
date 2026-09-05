@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1075,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 0' 1.94904'' N",
+                    "lng": "11\u00b0 14' 18.17088'' E"
+                },
+                "MGRS": "32TPP7946074368",
+                "Maidenhead": "JN54oa80od",
+                "Mercator": {
+                    "x": 1251050.828,
+                    "y": 5435833.38
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI14"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42772#map=16/44.00054/11.23838",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.00054/11.23838&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.00054&mlon=11.23838#map=16/44.00054/11.23838"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spzfrdp99r2j5p4fdcxs",
+                "qibla": 124.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536420,
+                        "astronomical": 1714529640,
+                        "civil": 1714534560,
+                        "nautical": 1714532220
+                    },
+                    "set": {
+                        "apparent": 1714587480,
+                        "astronomical": 1714594320,
+                        "civil": 1714589340,
+                        "nautical": 1714591740
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "squeaker.mimicking.mutates"
+                },
+                "wikidata": "Q82616"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.1044926,
+                    "lng": 11.3129184
+                },
+                "southwest": {
+                    "lat": 43.947703,
+                    "lng": 11.1693934
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-FI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Barberino di Mugello",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Florence",
+                "county_code": "FI",
+                "municipality": "Unione Montana dei Comuni del Mugello",
+                "political_union": "European Union",
+                "postcode": "50031",
+                "state": "Tuscany",
+                "town": "Barberino di Mugello"
+            },
+            "confidence": 6,
+            "formatted": "50031 Barberino di Mugello FI, Italy",
+            "geometry": {
+                "lat": 44.0005414,
+                "lng": 11.2383808
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:23:22 GMT",
+        "created_unix": 1714533802
+    },
+    "total_results": 1
+}

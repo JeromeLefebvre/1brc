@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1716,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 29' 40.68708'' N",
+                    "lng": "117\u00b0 8' 50.51760'' W"
+                },
+                "FIPS": {
+                    "county": "06065",
+                    "state": "06"
+                },
+                "MGRS": "11SMT8631106134",
+                "Maidenhead": "DM13kl28hr",
+                "Mercator": {
+                    "x": -13040785.131,
+                    "y": 3937564.956
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3866463#map=16/33.49464/-117.14737",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.49464/-117.14737&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.49464&mlon=-117.14737#map=16/33.49464/-117.14737"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9muww1xbks8dpz7fxfbm",
+                "qibla": 25.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050420,
+                        "astronomical": 1714045020,
+                        "civil": 1714048860,
+                        "nautical": 1714046940
+                    },
+                    "set": {
+                        "apparent": 1714012020,
+                        "astronomical": 1714017420,
+                        "civil": 1714013580,
+                        "nautical": 1714015440
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "eternity.panels.panning"
+                },
+                "wikidata": "Q838785"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.554625,
+                    "lng": -117.0548703
+                },
+                "southwest": {
+                    "lat": 33.4321253,
+                    "lng": -117.2066945
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Temecula",
+                "_type": "city",
+                "city": "Temecula",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Riverside County",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 6,
+            "formatted": "Temecula, California, United States of America",
+            "geometry": {
+                "lat": 33.4946353,
+                "lng": -117.147366
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:35:15 GMT",
+        "created_unix": 1714005315
+    },
+    "total_results": 1
+}

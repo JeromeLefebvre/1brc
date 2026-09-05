@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2256,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 21' 52.84620'' N",
+                    "lng": "88\u00b0 33' 30.95820'' W"
+                },
+                "FIPS": {
+                    "county": "28059",
+                    "state": "28"
+                },
+                "MGRS": "16RCU5022060225",
+                "Maidenhead": "EM50ri27xm",
+                "Mercator": {
+                    "x": -9858298.202,
+                    "y": 3528916.574
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3517356#map=16/30.36468/-88.55860",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.36468/-88.55860&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.36468&mlon=-88.55860#map=16/30.36468/-88.55860"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj3h8z9x54d0eeg4q4cw",
+                "qibla": 50.23,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714907280,
+                        "astronomical": 1714902000,
+                        "civil": 1714905720,
+                        "nautical": 1714903920
+                    },
+                    "set": {
+                        "apparent": 1714869240,
+                        "astronomical": 1714874580,
+                        "civil": 1714870800,
+                        "nautical": 1714872660
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "clerics.begin.nerve"
+                },
+                "wikidata": "Q913225"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.3941129,
+                    "lng": -88.5005286
+                },
+                "southwest": {
+                    "lat": 30.3172516,
+                    "lng": -88.6075494
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pascagoula",
+                "_type": "city",
+                "city": "Pascagoula",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Jackson County",
+                "state": "Mississippi",
+                "state_code": "MS"
+            },
+            "confidence": 7,
+            "formatted": "Pascagoula, Mississippi, United States of America",
+            "geometry": {
+                "lat": 30.3646795,
+                "lng": -88.5585995
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:57:06 GMT",
+        "created_unix": 1714892226
+    },
+    "total_results": 1
+}

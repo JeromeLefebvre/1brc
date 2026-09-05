@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2253,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 38' 30.08400'' N",
+                    "lng": "4\u00b0 20' 29.83200'' E"
+                },
+                "MGRS": "31SFA1993355963",
+                "Maidenhead": "JM26ep04xa",
+                "Mercator": {
+                    "x": 483306.928,
+                    "y": 4363777.35
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/36.64169/4.34162&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.64169&mlon=4.34162#map=16/36.64169/4.34162"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "DZ": "012",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 213,
+                "currency": {
+                    "alternate_symbols": [
+                        "DA"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DZD",
+                    "iso_numeric": "012",
+                    "name": "Algerian Dinar",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u062c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddff",
+                "geohash": "sne06y3mr44db2h8pxtp",
+                "qibla": 106.43,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713416760,
+                        "astronomical": 1713411180,
+                        "civil": 1713415140,
+                        "nautical": 1713413220
+                    },
+                    "set": {
+                        "apparent": 1713464340,
+                        "astronomical": 1713469860,
+                        "civil": 1713465960,
+                        "nautical": 1713467880
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Algiers",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "picketing.antidotes.bunkers"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DZ",
+                "ISO_3166-1_alpha-3": "DZA",
+                "_category": "place",
+                "_normalized_city": "Souama",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Algeria",
+                "country_code": "dz",
+                "state": "Wilaya de Tizi Ouzou",
+                "town": "Souama"
+            },
+            "confidence": 9,
+            "formatted": "Souama, Wilaya de Tizi Ouzou, Algeria",
+            "geometry": {
+                "lat": 36.64169,
+                "lng": 4.34162
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:24:27 GMT",
+        "created_unix": 1713439467
+    },
+    "total_results": 1
+}

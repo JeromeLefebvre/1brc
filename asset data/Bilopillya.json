@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 458,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 9' 0.57600'' N",
+                    "lng": "34\u00b0 18' 46.33200'' E"
+                },
+                "MGRS": "36UWB9182467342",
+                "Maidenhead": "KO71dd76na",
+                "Mercator": {
+                    "x": 3819691.216,
+                    "y": 6614600.647
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/51.15016/34.31287&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.15016&mlon=34.31287#map=16/51.15016/34.31287"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "uc06uz9g7bfm3me400s2",
+                "qibla": 169.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713408120,
+                        "astronomical": 1713400320,
+                        "civil": 1713406020,
+                        "nautical": 1713403380
+                    },
+                    "set": {
+                        "apparent": 1713458580,
+                        "astronomical": 1713466440,
+                        "civil": 1713460740,
+                        "nautical": 1713463380
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "ninja.redoubling.buzzard"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.188532,
+                    "lng": 34.3382293
+                },
+                "southwest": {
+                    "lat": 51.150022,
+                    "lng": 34.2997187
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "_category": "place",
+                "_normalized_city": "Bilopillya",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "state": "Sums\u2019ka Oblast\u2019",
+                "town": "Bilopillya"
+            },
+            "confidence": 7,
+            "formatted": "Bilopillya, Sums\u2019ka Oblast\u2019, Ukraine",
+            "geometry": {
+                "lat": 51.15016,
+                "lng": 34.31287
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:23:36 GMT",
+        "created_unix": 1713443016
+    },
+    "total_results": 1
+}

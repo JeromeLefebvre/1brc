@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 592,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 4' 58.40400'' N",
+                    "lng": "44\u00b0 37' 43.42800'' E"
+                },
+                "MGRS": "38SME6657393206",
+                "Maidenhead": "LM26hb59kv",
+                "Mercator": {
+                    "x": 4968047.498,
+                    "y": 4286866.409
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.08289/44.62873&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.08289&mlon=44.62873#map=17/36.08289/44.62873"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IQ": "368",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 964,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "IQD",
+                    "iso_numeric": "368",
+                    "name": "Iraqi Dinar",
+                    "smallest_denomination": 50000,
+                    "subunit": "Fils",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u0639.\u062f",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf6",
+                "geohash": "syrtr89whf1nbtp7z123",
+                "qibla": 197.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714874760,
+                        "astronomical": 1714868940,
+                        "civil": 1714873080,
+                        "nautical": 1714871040
+                    },
+                    "set": {
+                        "apparent": 1714924260,
+                        "astronomical": 1714930080,
+                        "civil": 1714925940,
+                        "nautical": 1714927980
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Baghdad",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "level.segregate.adoring"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.10088,
+                    "lng": 44.671158
+                },
+                "southwest": {
+                    "lat": 36.090515,
+                    "lng": 44.641743
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IQ",
+                "ISO_3166-1_alpha-3": "IRQ",
+                "_category": "place",
+                "_normalized_city": "Koysinceq",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Iraq",
+                "country_code": "iq",
+                "state": "Mu\u1e29\u0101faz\u0327at Arb\u012bl",
+                "town": "Koysinceq"
+            },
+            "confidence": 7,
+            "formatted": "Koysinceq, Mu\u1e29\u0101faz\u0327at Arb\u012bl, Iraq",
+            "geometry": {
+                "lat": 36.08289,
+                "lng": 44.62873
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:36:49 GMT",
+        "created_unix": 1714948609
+    },
+    "total_results": 1
+}

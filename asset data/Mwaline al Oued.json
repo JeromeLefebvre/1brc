@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 809,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 53' 52.00800'' N",
+                    "lng": "7\u00b0 54' 30.99600'' E"
+                },
+                "MGRS": "32QLD8376068568",
+                "Maidenhead": "JK36wv95al",
+                "Mercator": {
+                    "x": 880382.438,
+                    "y": 1896516.205
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.89778/7.90861&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.89778&mlon=7.90861#map=17/16.89778/7.90861"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NE": "562",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 227,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf3\ud83c\uddea",
+                "geohash": "s5j85unueyrpcpc0yu96",
+                "qibla": 76.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713762540,
+                        "astronomical": 1713758100,
+                        "civil": 1713761220,
+                        "nautical": 1713759660
+                    },
+                    "set": {
+                        "apparent": 1713807900,
+                        "astronomical": 1713812340,
+                        "civil": 1713809220,
+                        "nautical": 1713810780
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Niamey",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "wagering.robotically.tips"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NE",
+                "ISO_3166-1_alpha-3": "NER",
+                "_category": "place",
+                "_type": "state",
+                "continent": "Africa",
+                "country": "Niger",
+                "country_code": "ne",
+                "state": "Agadez"
+            },
+            "confidence": 9,
+            "formatted": "Agadez, Niger",
+            "geometry": {
+                "lat": 16.89778,
+                "lng": 7.90861
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:20:14 GMT",
+        "created_unix": 1713781214
+    },
+    "total_results": 1
+}

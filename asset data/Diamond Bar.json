@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 361,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 1' 43.04136'' N",
+                    "lng": "117\u00b0 48' 37.21212'' W"
+                },
+                "FIPS": {
+                    "county": "06037",
+                    "state": "06"
+                },
+                "MGRS": "11SMT2519165625",
+                "Maidenhead": "DM14ca26su",
+                "Mercator": {
+                    "x": -13114586.692,
+                    "y": 4008735.356
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7272641#map=17/34.02862/-117.81034",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.02862/-117.81034&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.02862&mlon=-117.81034#map=17/34.02862/-117.81034"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh1x4tph5jbwc93sje1",
+                "qibla": 24.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714913880,
+                        "astronomical": 1714908300,
+                        "civil": 1714912260,
+                        "nautical": 1714910340
+                    },
+                    "set": {
+                        "apparent": 1714876680,
+                        "astronomical": 1714882320,
+                        "civil": 1714878300,
+                        "nautical": 1714880220
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "sank.jumps.dabbing"
+                },
+                "wikidata": "Q768449"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.0429101,
+                    "lng": -117.7670557
+                },
+                "southwest": {
+                    "lat": 33.9606657,
+                    "lng": -117.8638931
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Diamond Bar",
+                "_type": "city",
+                "city": "Diamond Bar",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Los Angeles County",
+                "postcode": "91765",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "Diamond Bar, California, United States of America",
+            "geometry": {
+                "lat": 34.0286226,
+                "lng": -117.8103367
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:48:35 GMT",
+        "created_unix": 1714949315
+    },
+    "total_results": 1
+}

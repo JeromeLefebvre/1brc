@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2297,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 38' 13.02000'' N",
+                    "lng": "109\u00b0 19' 22.69200'' E"
+                },
+                "MGRS": "49UCB9443466949",
+                "Maidenhead": "OO45pp82su",
+                "Mercator": {
+                    "x": 12169777.352,
+                    "y": 7451179.835
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.63695/109.32297&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.63695&mlon=109.32297#map=17/55.63695/109.32297"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "y3vsx8qs9z4wr3sxxr2q",
+                "qibla": 265.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1715028660,
+                        "astronomical": 0,
+                        "civil": 1715025960,
+                        "nautical": 1715022120
+                    },
+                    "set": {
+                        "apparent": 1714998540,
+                        "astronomical": 0,
+                        "civil": 1715001300,
+                        "nautical": 1715005140
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Irkutsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "+08"
+                },
+                "what3words": {
+                    "words": "impaired.contain.incomes"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.649071,
+                    "lng": 109.355507
+                },
+                "southwest": {
+                    "lat": 55.61908,
+                    "lng": 109.325211
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Severobaykal\u2019sk",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Respublika Buryatiya",
+                "town": "Severobaykal\u2019sk"
+            },
+            "confidence": 7,
+            "formatted": "Severobaykal\u2019sk, Respublika Buryatiya, Russia",
+            "geometry": {
+                "lat": 55.63695,
+                "lng": 109.32297
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:18:53 GMT",
+        "created_unix": 1714954733
+    },
+    "total_results": 1
+}

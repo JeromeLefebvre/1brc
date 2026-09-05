@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1911,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 55' 53.61600'' N",
+                    "lng": "23\u00b0 34' 31.04400'' E"
+                },
+                "MGRS": "34UFA8481434200",
+                "Maidenhead": "KN19sw93an",
+                "Mercator": {
+                    "x": 2624389.278,
+                    "y": 6401713.354
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.93156/23.57529&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.93156&mlon=23.57529#map=17/49.93156/23.57529"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "u8bu03z02j6m6bc9cx4e",
+                "qibla": 149.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711857900,
+                        "astronomical": 1711851120,
+                        "civil": 1711855980,
+                        "nautical": 1711853640
+                    },
+                    "set": {
+                        "apparent": 1711904100,
+                        "astronomical": 1711910940,
+                        "civil": 1711906080,
+                        "nautical": 1711908420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "unfastened.decreased.madcap"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.9495207,
+                    "lng": 23.5837324
+                },
+                "southwest": {
+                    "lat": 49.9128353,
+                    "lng": 23.5470476
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "_category": "place",
+                "_normalized_city": "Novoyavorovske",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "state": "L\u2019vivs\u2019ka Oblast\u2019",
+                "town": "Novoyavorovske"
+            },
+            "confidence": 7,
+            "formatted": "Novoyavorovske, L\u2019vivs\u2019ka Oblast\u2019, Ukraine",
+            "geometry": {
+                "lat": 49.93156,
+                "lng": 23.57529
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:46:48 GMT",
+        "created_unix": 1711918008
+    },
+    "total_results": 1
+}

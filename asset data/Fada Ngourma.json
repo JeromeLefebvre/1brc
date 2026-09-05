@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2486,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 3' 41.65200'' N",
+                    "lng": "0\u00b0 21' 30.34800'' E"
+                },
+                "MGRS": "31PBP1241234747",
+                "Maidenhead": "JK02eb34as",
+                "Mercator": {
+                    "x": 39900.245,
+                    "y": 1343793.182
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/12.06157/0.35843&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.06157&mlon=0.35843#map=17/12.06157/0.35843"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BF": "854",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 226,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddeb",
+                "geohash": "s40k85tp8p8g8gvvepy5",
+                "qibla": 70.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711778220,
+                        "astronomical": 1711774020,
+                        "civil": 1711776960,
+                        "nautical": 1711775460
+                    },
+                    "set": {
+                        "apparent": 1711822140,
+                        "astronomical": 1711826340,
+                        "civil": 1711823400,
+                        "nautical": 1711824900
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Ouagadougou",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "spend.planet.nicely"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.074238,
+                    "lng": 0.378684
+                },
+                "southwest": {
+                    "lat": 12.048386,
+                    "lng": 0.329589
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BF",
+                "ISO_3166-1_alpha-3": "BFA",
+                "_category": "place",
+                "_normalized_city": "Fada N'gourma",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Burkina Faso",
+                "country_code": "bf",
+                "county": "Gourma",
+                "state": "Est",
+                "town": "Fada N'gourma"
+            },
+            "confidence": 7,
+            "formatted": "Fada N'gourma, Gourma, Burkina Faso",
+            "geometry": {
+                "lat": 12.06157,
+                "lng": 0.35843
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:32:34 GMT",
+        "created_unix": 1711830754
+    },
+    "total_results": 1
+}

@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 403,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 18' 55.83312'' N",
+                    "lng": "6\u00b0 16' 17.10156'' E"
+                },
+                "MGRS": "32ULB0985388447",
+                "Maidenhead": "JO31dh25nr",
+                "Mercator": {
+                    "x": 698130.958,
+                    "y": 6643919.338
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA1"
+                    },
+                    "NUTS3": {
+                        "code": "DEA1E"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=88686#map=17/51.31551/6.27142",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.31551/6.27142&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.31551&mlon=6.27142#map=17/51.31551/6.27142"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1h7ytwww85xbf397eu1",
+                "qibla": 126.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932460,
+                        "astronomical": 1713924240,
+                        "civil": 1713930300,
+                        "nautical": 1713927480
+                    },
+                    "set": {
+                        "apparent": 1713984360,
+                        "astronomical": 1713992700,
+                        "civil": 1713986520,
+                        "nautical": 1713989340
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "piglet.strut.sandals"
+                },
+                "wikidata": "Q14810"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.3659405,
+                    "lng": 6.3265566
+                },
+                "southwest": {
+                    "lat": 51.2527722,
+                    "lng": 6.1538213
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nettetal",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Kreis Viersen",
+                "political_union": "European Union",
+                "postcode": "41334",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Nettetal"
+            },
+            "confidence": 6,
+            "formatted": "41334 Nettetal, Germany",
+            "geometry": {
+                "lat": 51.3155092,
+                "lng": 6.2714171
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:21:20 GMT",
+        "created_unix": 1713997280
+    },
+    "total_results": 1
+}

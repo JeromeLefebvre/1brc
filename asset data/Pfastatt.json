@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 185,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 46' 11.07876'' N",
+                    "lng": "7\u00b0 18' 9.02700'' E"
+                },
+                "MGRS": "32TLT7281492103",
+                "Maidenhead": "JN37ps64hr",
+                "Mercator": {
+                    "x": 812911.416,
+                    "y": 6036979.339
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRF"
+                    },
+                    "NUTS2": {
+                        "code": "FRF1"
+                    },
+                    "NUTS3": {
+                        "code": "FRF12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=38291#map=17/47.76974/7.30251",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.76974/7.30251&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.76974&mlon=7.30251#map=17/47.76974/7.30251"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u0mpy0jwbv8r05fhb725",
+                "qibla": 123.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714019040,
+                        "astronomical": 1714011720,
+                        "civil": 1714017000,
+                        "nautical": 1714014540
+                    },
+                    "set": {
+                        "apparent": 1714070040,
+                        "astronomical": 1714077480,
+                        "civil": 1714072080,
+                        "nautical": 1714074600
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "adopts.basher.acting"
+                },
+                "wikidata": "Q148497"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.7813737,
+                    "lng": 7.318043
+                },
+                "southwest": {
+                    "lat": 47.7552273,
+                    "lng": 7.2526759
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-GES",
+                    "FR-6AE",
+                    "FR-68"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pfastatt",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Haut-Rhin",
+                "municipality": "Mulhouse",
+                "political_union": "European Union",
+                "postcode": "68120",
+                "region": "Metropolitan France",
+                "state": "Grand Est",
+                "state_code": "GES",
+                "town": "Pfastatt"
+            },
+            "confidence": 7,
+            "formatted": "68120 Pfastatt, France",
+            "geometry": {
+                "lat": 47.7697441,
+                "lng": 7.3025075
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:19:12 GMT",
+        "created_unix": 1714011552
+    },
+    "total_results": 1
+}

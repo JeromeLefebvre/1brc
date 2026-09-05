@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 42,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 55' 48.16344'' N",
+                    "lng": "4\u00b0 23' 11.22396'' E"
+                },
+                "MGRS": "31UET9532654165",
+                "Maidenhead": "JO21ew63if",
+                "Mercator": {
+                    "x": 488297.498,
+                    "y": 6753825.926
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "NL"
+                    },
+                    "NUTS1": {
+                        "code": "NL3"
+                    },
+                    "NUTS2": {
+                        "code": "NL33"
+                    },
+                    "NUTS3": {
+                        "code": "NL33C"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=149237#map=17/51.93005/4.38645",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.93005/4.38645&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.93005&mlon=4.38645#map=17/51.93005/4.38645"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "NL": "528",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 31,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf3\ud83c\uddf1",
+                "geohash": "u15p7vd47wngncrqsh91",
+                "qibla": 124.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536780,
+                        "astronomical": 1714527660,
+                        "civil": 1714534500,
+                        "nautical": 1714531500
+                    },
+                    "set": {
+                        "apparent": 1714590420,
+                        "astronomical": 1714599660,
+                        "civil": 1714592760,
+                        "nautical": 1714595760
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Amsterdam",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "minority.diamonds.credited"
+                },
+                "wikidata": "Q204709"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.9634066,
+                    "lng": 4.417713
+                },
+                "southwest": {
+                    "lat": 51.8966787,
+                    "lng": 4.3506714
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NL",
+                "ISO_3166-1_alpha-3": "NLD",
+                "ISO_3166-2": [
+                    "NL-ZH"
+                ],
+                "_category": "government",
+                "_normalized_city": "Schiedam",
+                "_type": "administrative",
+                "administrative": "Schiedam",
+                "continent": "Europe",
+                "country": "Netherlands",
+                "country_code": "nl",
+                "political_union": "European Union",
+                "state": "South Holland",
+                "state_code": "ZH",
+                "town": "Schiedam"
+            },
+            "confidence": 7,
+            "formatted": "Schiedam, South Holland, Netherlands",
+            "geometry": {
+                "lat": 51.9300454,
+                "lng": 4.3864511
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:39:50 GMT",
+        "created_unix": 1714545590
+    },
+    "total_results": 1
+}

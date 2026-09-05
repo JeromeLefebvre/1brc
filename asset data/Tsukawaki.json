@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 909,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 16' 25.08240'' N",
+                    "lng": "131\u00b0 9' 27.46800'' E"
+                },
+                "MGRS": "52SGB0095183699",
+                "Maidenhead": "PM53ng85vq",
+                "Mercator": {
+                    "x": 14600400.585,
+                    "y": 3908239.553
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8681823199#map=16/33.27363/131.15763",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.27363/131.15763&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.27363&mlon=131.15763#map=16/33.27363/131.15763"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvvm2960fqcq0egwwtz4",
+                "qibla": 288.82,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711832820,
+                        "astronomical": 1711827840,
+                        "civil": 1711831320,
+                        "nautical": 1711829580
+                    },
+                    "set": {
+                        "apparent": 1711791180,
+                        "astronomical": 1711796220,
+                        "civil": 1711792680,
+                        "nautical": 1711794420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "spell.history.fragment"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.283634,
+                    "lng": 131.16763
+                },
+                "southwest": {
+                    "lat": 33.263634,
+                    "lng": 131.14763
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-44"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kusu",
+                "_type": "neighbourhood",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Kusu County",
+                "province": "Oita Prefecture",
+                "quarter": "Tsukawaki",
+                "state": "Oita Prefecture",
+                "town": "Kusu"
+            },
+            "confidence": 7,
+            "formatted": "Tsukawaki, Kusu, Kusu County, Japan",
+            "geometry": {
+                "lat": 33.273634,
+                "lng": 131.15763
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:22:36 GMT",
+        "created_unix": 1711833756
+    },
+    "total_results": 1
+}

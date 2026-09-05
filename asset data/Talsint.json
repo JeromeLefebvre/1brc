@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1883,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 32' 7.84320'' N",
+                    "lng": "3\u00b0 26' 22.08120'' W"
+                },
+                "MGRS": "30SVA5873299880",
+                "Maidenhead": "IM82gm78gm",
+                "Mercator": {
+                    "x": -382879.715,
+                    "y": 3810833.405
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2527824#map=16/32.53551/-3.43947",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.53551/-3.43947&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.53551&mlon=-3.43947#map=16/32.53551/-3.43947"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evv91dzmne58bsmhqb55",
+                "qibla": 95.07,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714886640,
+                        "astronomical": 1714881180,
+                        "civil": 1714885080,
+                        "nautical": 1714883160
+                    },
+                    "set": {
+                        "apparent": 1714935420,
+                        "astronomical": 1714940940,
+                        "civil": 1714937040,
+                        "nautical": 1714938900
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "uncorking.sidecar.undivided"
+                },
+                "wikidata": "Q683959"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.8555841,
+                    "lng": -3.0121361
+                },
+                "southwest": {
+                    "lat": 32.4394702,
+                    "lng": -3.9395281
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "ISO_3166-2": [
+                    "MA-02",
+                    "MA-FIG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Talsint",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "cercle de Bni Tadjite \u062f\u0627\u0626\u0631\u0629 \u0628\u0646\u064a \u062a\u062c\u064a\u062a",
+                "municipality": "caidat de Talsint",
+                "postcode": "61252",
+                "region": "Oriental",
+                "state_district": "Figuig Province",
+                "town": "Talsint"
+            },
+            "confidence": 1,
+            "formatted": "61252 Talsint, Morocco",
+            "geometry": {
+                "lat": 32.535512,
+                "lng": -3.439467
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:11:14 GMT",
+        "created_unix": 1714893074
+    },
+    "total_results": 1
+}

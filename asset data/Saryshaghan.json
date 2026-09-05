@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2069,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 7' 9.01200'' N",
+                    "lng": "73\u00b0 37' 9.01200'' E"
+                },
+                "MGRS": "43TCM9330908214",
+                "Maidenhead": "MN66tc48ho",
+                "Mercator": {
+                    "x": 8195248.517,
+                    "y": 5768655.393
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.11917/73.61917&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.11917&mlon=73.61917#map=17/46.11917/73.61917"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "KZ": "398",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "KZT",
+                    "iso_numeric": "398",
+                    "name": "Kazakhstani Tenge",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b8",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddff",
+                "geohash": "v8hq75xzdurv57pc8kuz",
+                "qibla": 239.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713917100,
+                        "astronomical": 1713996540,
+                        "civil": 1714001520,
+                        "nautical": 1713999180
+                    },
+                    "set": {
+                        "apparent": 1713967380,
+                        "astronomical": 1713974400,
+                        "civil": 1713969360,
+                        "nautical": 1713971760
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Almaty",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "cowhide.pack.shatter"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KZ",
+                "ISO_3166-1_alpha-3": "KAZ",
+                "_category": "place",
+                "_normalized_city": "Saryshaghan",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Kazakhstan",
+                "country_code": "kz",
+                "state": "Qaraghandy Oblysy",
+                "town": "Saryshaghan"
+            },
+            "confidence": 9,
+            "formatted": "Saryshaghan, Qaraghandy Oblysy, Kazakhstan",
+            "geometry": {
+                "lat": 46.11917,
+                "lng": 73.61917
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:24:07 GMT",
+        "created_unix": 1713993847
+    },
+    "total_results": 1
+}

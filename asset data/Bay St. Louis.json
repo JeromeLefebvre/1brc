@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2062,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 18' 47.68308'' N",
+                    "lng": "89\u00b0 20' 3.56028'' W"
+                },
+                "FIPS": {
+                    "county": "28045",
+                    "state": "28"
+                },
+                "MGRS": "16RBU7553955804",
+                "Maidenhead": "EM50hh95ve",
+                "Mercator": {
+                    "x": -9944651.269,
+                    "y": 3522315.548
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7152104#map=17/30.31325/-89.33432",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.31325/-89.33432&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.31325&mlon=-89.33432#map=17/30.31325/-89.33432"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj2krnkerqmr8t7c2mx1",
+                "qibla": 49.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713957660,
+                        "astronomical": 1713952500,
+                        "civil": 1713956160,
+                        "nautical": 1713954360
+                    },
+                    "set": {
+                        "apparent": 1713918600,
+                        "astronomical": 1713923760,
+                        "civil": 1713920100,
+                        "nautical": 1713921900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "sloping.waxes.obeyed"
+                },
+                "wikidata": "Q1778775"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.366216,
+                    "lng": -89.306259
+                },
+                "southwest": {
+                    "lat": 30.239382,
+                    "lng": -89.434554
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bay Saint Louis",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hancock County",
+                "state": "Mississippi",
+                "state_code": "MS",
+                "town": "Bay Saint Louis"
+            },
+            "confidence": 6,
+            "formatted": "Bay Saint Louis, Mississippi, United States of America",
+            "geometry": {
+                "lat": 30.3132453,
+                "lng": -89.3343223
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:24:21 GMT",
+        "created_unix": 1713993861
+    },
+    "total_results": 1
+}

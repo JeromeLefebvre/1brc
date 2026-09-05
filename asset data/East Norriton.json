@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1505,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 9' 6.38676'' N",
+                    "lng": "75\u00b0 20' 11.65020'' W"
+                },
+                "FIPS": {
+                    "county": "42091",
+                    "state": "42"
+                },
+                "MGRS": "18TVK7133444657",
+                "Maidenhead": "FN20hd96ok",
+                "Mercator": {
+                    "x": -8386428.555,
+                    "y": 4860464.583
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158430617#map=17/40.15177/-75.33657",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.15177/-75.33657&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.15177&mlon=-75.33657#map=17/40.15177/-75.33657"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4kmtmt49nmbpzfnh7x",
+                "qibla": 57.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714039740,
+                        "astronomical": 1714033680,
+                        "civil": 1714038000,
+                        "nautical": 1714035900
+                    },
+                    "set": {
+                        "apparent": 1714089000,
+                        "astronomical": 1714008660,
+                        "civil": 1714004340,
+                        "nautical": 1714006440
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "earth.turned.envy"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.1717741,
+                    "lng": -75.3165695
+                },
+                "southwest": {
+                    "lat": 40.1317741,
+                    "lng": -75.3565695
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Norriton Township",
+                "_type": "neighbourhood",
+                "city": "East Norriton Township",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Montgomery County",
+                "postcode": "19401",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "suburb": "East Norriton"
+            },
+            "confidence": 7,
+            "formatted": "East Norriton Township, PA 19401, United States of America",
+            "geometry": {
+                "lat": 40.1517741,
+                "lng": -75.3365695
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:44:52 GMT",
+        "created_unix": 1714005892
+    },
+    "total_results": 1
+}

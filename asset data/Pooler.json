@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1110,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 6' 57.23388'' N",
+                    "lng": "81\u00b0 14' 58.24716'' W"
+                },
+                "FIPS": {
+                    "county": "13051",
+                    "state": "13"
+                },
+                "MGRS": "17SMR7646153309",
+                "Maidenhead": "EM92jc07bt",
+                "Mercator": {
+                    "x": -9044654.425,
+                    "y": 3755819.863
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=119868#map=16/32.11590/-81.24951",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.11590/-81.24951&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.11590&mlon=-81.24951#map=16/32.11590/-81.24951"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djwnxnebtj7gwm6dfutw",
+                "qibla": 54.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713869220,
+                        "astronomical": 1713864000,
+                        "civil": 1713867720,
+                        "nautical": 1713865860
+                    },
+                    "set": {
+                        "apparent": 1713830400,
+                        "astronomical": 1713835620,
+                        "civil": 1713831900,
+                        "nautical": 1713833760
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "huge.chilling.masks"
+                },
+                "wikidata": "Q2648622"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.172106,
+                    "lng": -81.195289
+                },
+                "southwest": {
+                    "lat": 32.02745,
+                    "lng": -81.311562
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-GA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pooler",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Chatham County",
+                "postcode": "31322",
+                "state": "Georgia",
+                "state_code": "GA",
+                "town": "Pooler"
+            },
+            "confidence": 6,
+            "formatted": "Pooler, GA 31322, United States of America",
+            "geometry": {
+                "lat": 32.1158983,
+                "lng": -81.2495131
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:31:20 GMT",
+        "created_unix": 1713843080
+    },
+    "total_results": 1
+}

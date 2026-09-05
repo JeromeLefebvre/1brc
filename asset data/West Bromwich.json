@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1202,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 31' 7.16844'' N",
+                    "lng": "1\u00b0 59' 32.32104'' W"
+                },
+                "MGRS": "30UWD6837519204",
+                "Maidenhead": "IO92am04wl",
+                "Mercator": {
+                    "x": -221783.091,
+                    "y": 6860523.737
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=27457923#map=17/52.51866/-1.99231",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.51866/-1.99231&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.51866&mlon=-1.99231#map=17/52.51866/-1.99231"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcqdf8tprg2vqk182why",
+                "qibla": 117.87,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714883340,
+                        "astronomical": 1714873380,
+                        "civil": 1714880940,
+                        "nautical": 1714877760
+                    },
+                    "set": {
+                        "apparent": 1714938060,
+                        "astronomical": 1714948200,
+                        "civil": 1714940520,
+                        "nautical": 1714943760
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "detail.pipes.scar"
+                },
+                "wikidata": "Q212826"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.5586579,
+                    "lng": -1.9523114
+                },
+                "southwest": {
+                    "lat": 52.4786579,
+                    "lng": -2.0323114
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SAW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sandwell",
+                "_type": "city",
+                "city": "Sandwell",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Sandwell",
+                "county_code": "SAW",
+                "postcode": "B70 7NG",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "West Midlands Combined Authority",
+                "town": "West Bromwich"
+            },
+            "confidence": 7,
+            "formatted": "West Bromwich, Sandwell, England, United Kingdom",
+            "geometry": {
+                "lat": 52.5186579,
+                "lng": -1.9923114
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:37:40 GMT",
+        "created_unix": 1714901860
+    },
+    "total_results": 1
+}

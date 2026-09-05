@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1538,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 41' 25.62792'' N",
+                    "lng": "2\u00b0 37' 0.02532'' E"
+                },
+                "MGRS": "31UDP7178993116",
+                "Maidenhead": "JN18hq45ar",
+                "Mercator": {
+                    "x": 291286.784,
+                    "y": 6190386.893
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR102"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=87136#map=17/48.69045/2.61667",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.69045/2.61667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.69045&mlon=2.61667#map=17/48.69045/2.61667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09ugxc6kyjkf7z6bnkp",
+                "qibla": 119.29,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713761160,
+                        "astronomical": 1713753780,
+                        "civil": 1713759120,
+                        "nautical": 1713756600
+                    },
+                    "set": {
+                        "apparent": 1713811860,
+                        "astronomical": 1713819300,
+                        "civil": 1713813900,
+                        "nautical": 1713816420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "hits.smaller.grow"
+                },
+                "wikidata": "Q250399"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.7166425,
+                    "lng": 2.6554563
+                },
+                "southwest": {
+                    "lat": 48.6642002,
+                    "lng": 2.5707179
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-77"
+                ],
+                "_category": "place",
+                "_normalized_city": "Brie-Comte-Robert",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Seine-et-Marne",
+                "municipality": "Torcy",
+                "political_union": "European Union",
+                "postcode": "77170",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Brie-Comte-Robert"
+            },
+            "confidence": 7,
+            "formatted": "77170 Brie-Comte-Robert, France",
+            "geometry": {
+                "lat": 48.6904522,
+                "lng": 2.6166737
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:46:09 GMT",
+        "created_unix": 1713746769
+    },
+    "total_results": 1
+}

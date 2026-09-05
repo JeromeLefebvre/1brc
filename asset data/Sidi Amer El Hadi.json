@@ -1,0 +1,123 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1319,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 53' 43.94400'' N",
+                    "lng": "36\u00b0 34' 44.90400'' E"
+                },
+                "MGRS": "37RBQ6860520536",
+                "Maidenhead": "KM80gv94lw",
+                "Mercator": {
+                    "x": 4071971.238,
+                    "y": 3597253.365
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.89554/36.57914&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.89554&mlon=36.57914#map=17/30.89554/36.57914"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "JO": "400",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 962,
+                "currency": {
+                    "alternate_symbols": [
+                        "JD"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "JOD",
+                    "iso_numeric": "400",
+                    "name": "Jordanian Dinar",
+                    "smallest_denomination": 5,
+                    "subunit": "Fils",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u062f.\u0627",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf4",
+                "geohash": "sv6pb2k5edpdvg5wy2es",
+                "qibla": 162.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714531800,
+                        "astronomical": 1714526580,
+                        "civil": 1714530300,
+                        "nautical": 1714528440
+                    },
+                    "set": {
+                        "apparent": 1714579860,
+                        "astronomical": 1714585140,
+                        "civil": 1714581420,
+                        "nautical": 1714583280
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Amman",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "distiller.belongs.shallowest"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JO",
+                "ISO_3166-1_alpha-3": "JOR",
+                "_category": "place",
+                "_type": "state",
+                "continent": "Asia",
+                "country": "Jordan",
+                "country_code": "jo",
+                "state": "Ma\u2019an"
+            },
+            "confidence": 9,
+            "formatted": "Ma\u2019an, Jordan",
+            "geometry": {
+                "lat": 30.89554,
+                "lng": 36.57914
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:13:08 GMT",
+        "created_unix": 1714533188
+    },
+    "total_results": 1
+}

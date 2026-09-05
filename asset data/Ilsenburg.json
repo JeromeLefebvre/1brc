@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1921,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 52' 0.24564'' N",
+                    "lng": "10\u00b0 40' 59.44260'' E"
+                },
+                "MGRS": "32UPC1588947555",
+                "Maidenhead": "JO51iu18xa",
+                "Mercator": {
+                    "x": 1189245.991,
+                    "y": 6742433.714
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEE"
+                    },
+                    "NUTS2": {
+                        "code": "DEE0"
+                    },
+                    "NUTS3": {
+                        "code": "DEE09"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1352970#map=16/51.86673/10.68318",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/51.86673/10.68318&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.86673&mlon=10.68318#map=16/51.86673/10.68318"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1px54538h5m0nqpq5se",
+                "qibla": 132.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714707900,
+                        "astronomical": 1714698540,
+                        "civil": 1714705560,
+                        "nautical": 1714702500
+                    },
+                    "set": {
+                        "apparent": 1714761840,
+                        "astronomical": 1714771320,
+                        "civil": 1714764240,
+                        "nautical": 1714767300
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "jurors.influxes.observer"
+                },
+                "wikidata": "Q529928"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.8876661,
+                    "lng": 10.7566186
+                },
+                "southwest": {
+                    "lat": 51.790246,
+                    "lng": 10.5762385
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-ST"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ilsenburg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Harz",
+                "political_union": "European Union",
+                "state": "Saxony-Anhalt",
+                "state_code": "ST",
+                "town": "Ilsenburg"
+            },
+            "confidence": 6,
+            "formatted": "Ilsenburg, Saxony-Anhalt, Germany",
+            "geometry": {
+                "lat": 51.8667349,
+                "lng": 10.6831785
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:32:44 GMT",
+        "created_unix": 1714696364
+    },
+    "total_results": 1
+}

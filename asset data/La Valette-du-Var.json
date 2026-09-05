@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 665,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 8' 16.16820'' N",
+                    "lng": "5\u00b0 59' 0.47544'' E"
+                },
+                "MGRS": "31TGH4264080441",
+                "Maidenhead": "JN23xd83ab",
+                "Mercator": {
+                    "x": 666076.322,
+                    "y": 5303748.436
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRL"
+                    },
+                    "NUTS2": {
+                        "code": "FRL0"
+                    },
+                    "NUTS3": {
+                        "code": "FRL05"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=76463#map=16/43.13782/5.98347",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.13782/5.98347&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.13782&mlon=5.98347#map=16/43.13782/5.98347"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "spsm2jj00c74mwed87du",
+                "qibla": 116.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713502080,
+                        "astronomical": 1713495840,
+                        "civil": 1713500280,
+                        "nautical": 1713498120
+                    },
+                    "set": {
+                        "apparent": 1713550980,
+                        "astronomical": 1713557280,
+                        "civil": 1713552780,
+                        "nautical": 1713554940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "volume.skins.mainland"
+                },
+                "wikidata": "Q321128"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.1743619,
+                    "lng": 6.0257629
+                },
+                "southwest": {
+                    "lat": 43.1232959,
+                    "lng": 5.952814
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-PAC",
+                    "FR-83"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Valette-du-Var",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Var",
+                "municipality": "Toulon",
+                "political_union": "European Union",
+                "postcode": "83160",
+                "region": "Metropolitan France",
+                "state": "Provence-Alpes-C\u00f4te d'Azur",
+                "state_code": "PAC",
+                "town": "La Valette-du-Var"
+            },
+            "confidence": 7,
+            "formatted": "83160 La Valette-du-Var, France",
+            "geometry": {
+                "lat": 43.1378245,
+                "lng": 5.9834654
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:20:23 GMT",
+        "created_unix": 1713522023
+    },
+    "total_results": 1
+}

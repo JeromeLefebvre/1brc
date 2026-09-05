@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 260,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 36' 23.97600'' N",
+                    "lng": "53\u00b0 42' 34.92000'' E"
+                },
+                "MGRS": "39UXA7500554396",
+                "Maidenhead": "LO64uo55do",
+                "Mercator": {
+                    "x": 5978936.455,
+                    "y": 7251039.359
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.60666/53.70970&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.60666&mlon=53.70970#map=17/54.60666/53.70970"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v1wnwhy4yepp0czwk2yx",
+                "qibla": 203.04,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714006860,
+                        "astronomical": 1714083540,
+                        "civil": 1714004400,
+                        "nautical": 1714087620
+                    },
+                    "set": {
+                        "apparent": 1714060020,
+                        "astronomical": 1714069860,
+                        "civil": 1714062480,
+                        "nautical": 1714065660
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "carver.vines.rocks"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.6199989,
+                    "lng": 53.76511
+                },
+                "southwest": {
+                    "lat": 54.5824432,
+                    "lng": 53.6738319
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Tuymazy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Bashkortostan",
+                "town": "Tuymazy"
+            },
+            "confidence": 7,
+            "formatted": "Tuymazy, Bashkortostan, Russia",
+            "geometry": {
+                "lat": 54.60666,
+                "lng": 53.7097
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:16:22 GMT",
+        "created_unix": 1714011382
+    },
+    "total_results": 1
+}

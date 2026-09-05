@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 350,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 27' 44.40888'' N",
+                    "lng": "7\u00b0 28' 54.16428'' E"
+                },
+                "MGRS": "32ULU8775968802",
+                "Maidenhead": "JN38rl70tx",
+                "Mercator": {
+                    "x": 832860.403,
+                    "y": 6152118.502
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRF"
+                    },
+                    "NUTS2": {
+                        "code": "FRF1"
+                    },
+                    "NUTS3": {
+                        "code": "FRF11"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=903831#map=16/48.46234/7.48171",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/48.46234/7.48171&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.46234&mlon=7.48171#map=16/48.46234/7.48171"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u0t7dq218d1j91k8zjqg",
+                "qibla": 124.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018920,
+                        "astronomical": 1714011420,
+                        "civil": 1714016880,
+                        "nautical": 1714014300
+                    },
+                    "set": {
+                        "apparent": 1714070100,
+                        "astronomical": 1714077660,
+                        "civil": 1714072200,
+                        "nautical": 1714074720
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "speared.thinks.cargo"
+                },
+                "wikidata": "Q22727"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.4851154,
+                    "lng": 7.5456661
+                },
+                "southwest": {
+                    "lat": 48.4242906,
+                    "lng": 7.4178509
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-GES",
+                    "FR-6AE",
+                    "FR-67"
+                ],
+                "_category": "place",
+                "_normalized_city": "Obernai",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Bas-Rhin",
+                "municipality": "S\u00e9lestat-Erstein",
+                "political_union": "European Union",
+                "postcode": "67210",
+                "region": "Metropolitan France",
+                "state": "Grand Est",
+                "state_code": "GES",
+                "town": "Obernai"
+            },
+            "confidence": 7,
+            "formatted": "67210 Obernai, France",
+            "geometry": {
+                "lat": 48.4623358,
+                "lng": 7.4817123
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:13:00 GMT",
+        "created_unix": 1714011180
+    },
+    "total_results": 1
+}

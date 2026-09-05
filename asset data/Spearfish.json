@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 629,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 29' 26.94120'' N",
+                    "lng": "103\u00b0 51' 33.73200'' W"
+                },
+                "FIPS": {
+                    "county": "46081",
+                    "state": "46"
+                },
+                "MGRS": "13TEK9069127021",
+                "Maidenhead": "DN84bl67vt",
+                "Mercator": {
+                    "x": -11561572.183,
+                    "y": 5511758.924
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=194803#map=16/44.49082/-103.85937",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.49082/-103.85937&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.49082&mlon=-103.85937#map=16/44.49082/-103.85937"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9xyjhe7cv32tndfzxzbg",
+                "qibla": 35.04,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711802340,
+                        "astronomical": 1711796340,
+                        "civil": 1711800600,
+                        "nautical": 1711798560
+                    },
+                    "set": {
+                        "apparent": 1711761600,
+                        "astronomical": 1711767660,
+                        "civil": 1711763400,
+                        "nautical": 1711765500
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "level.forks.solo"
+                },
+                "wikidata": "Q568764"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.5666143,
+                    "lng": -103.714127
+                },
+                "southwest": {
+                    "lat": 44.452816,
+                    "lng": -103.9054083
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-SD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Spearfish",
+                "_type": "city",
+                "city": "Spearfish",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lawrence County",
+                "state": "South Dakota",
+                "state_code": "SD"
+            },
+            "confidence": 6,
+            "formatted": "Spearfish, South Dakota, United States of America",
+            "geometry": {
+                "lat": 44.490817,
+                "lng": -103.85937
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:31:30 GMT",
+        "created_unix": 1711834290
+    },
+    "total_results": 1
+}

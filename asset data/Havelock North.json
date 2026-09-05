@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2408,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 40' 12.75888'' S",
+                    "lng": "176\u00b0 52' 37.69212'' E"
+                },
+                "MGRS": "60HVB8946208837",
+                "Maidenhead": "RF80kh59gd",
+                "Mercator": {
+                    "x": 19689872.79,
+                    "y": -4790851.667
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=178456122#map=17/-39.67021/176.87714",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-39.67021/176.87714&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-39.67021&mlon=176.87714#map=17/-39.67021/176.87714"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AUSTRALASIA": "053",
+                        "NZ": "554",
+                        "OCEANIA": "009",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 64,
+                "currency": {
+                    "alternate_symbols": [
+                        "NZ$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "NZ$",
+                    "html_entity": "$",
+                    "iso_code": "NZD",
+                    "iso_numeric": "554",
+                    "name": "New Zealand Dollar",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf3\ud83c\uddff",
+                "geohash": "rbvy2fq0208qgpqx8rfx",
+                "qibla": 256.37,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1715022120,
+                        "astronomical": 1715016600,
+                        "civil": 1715020440,
+                        "nautical": 1715018520
+                    },
+                    "set": {
+                        "apparent": 1714972560,
+                        "astronomical": 1714978080,
+                        "civil": 1714974240,
+                        "nautical": 1714976160
+                    }
+                },
+                "timezone": {
+                    "name": "Pacific/Auckland",
+                    "now_in_dst": 0,
+                    "offset_sec": 43200,
+                    "offset_string": "+1200",
+                    "short_name": "NZST"
+                },
+                "what3words": {
+                    "words": "data.unreasonably.fibbing"
+                },
+                "wikidata": "Q847452"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -39.6302108,
+                    "lng": 176.9171367
+                },
+                "southwest": {
+                    "lat": -39.7102108,
+                    "lng": 176.8371367
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NZ",
+                "ISO_3166-1_alpha-3": "NZL",
+                "ISO_3166-2": [
+                    "NZ-HKB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Havelock North",
+                "_type": "city",
+                "continent": "Oceania",
+                "country": "New Zealand",
+                "country_code": "nz",
+                "county": "Hastings District",
+                "postcode": "4130",
+                "state": "Hawke's Bay",
+                "town": "Havelock North"
+            },
+            "confidence": 7,
+            "formatted": "Havelock North 4130, New Zealand",
+            "geometry": {
+                "lat": -39.6702108,
+                "lng": 176.8771367
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:09:56 GMT",
+        "created_unix": 1714954196
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1524,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 6' 42.02316'' N",
+                    "lng": "88\u00b0 29' 57.35724'' W"
+                },
+                "FIPS": {
+                    "county": "55133",
+                    "state": "55"
+                },
+                "MGRS": "16TCN7801774306",
+                "Maidenhead": "EN53sc06ct",
+                "Mercator": {
+                    "x": -9851693.216,
+                    "y": 5299774.087
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=251876#map=16/43.11167/-88.49927",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.11167/-88.49927&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.11167&mlon=-88.49927#map=16/43.11167/-88.49927"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp9j60hz9wk7q2yhujz4",
+                "qibla": 47.84,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714128900,
+                        "astronomical": 1714122360,
+                        "civil": 1714127040,
+                        "nautical": 1714124820
+                    },
+                    "set": {
+                        "apparent": 1714092540,
+                        "astronomical": 1714099140,
+                        "civil": 1714094400,
+                        "nautical": 1714096680
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "season.intervals.common"
+                },
+                "wikidata": "Q51147"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.142984,
+                    "lng": -88.446079
+                },
+                "southwest": {
+                    "lat": 43.057239,
+                    "lng": -88.5401652
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Oconomowoc",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Waukesha County",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "Oconomowoc"
+            },
+            "confidence": 7,
+            "formatted": "Oconomowoc, Wisconsin, United States of America",
+            "geometry": {
+                "lat": 43.1116731,
+                "lng": -88.4992659
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:32:36 GMT",
+        "created_unix": 1714170756
+    },
+    "total_results": 1
+}

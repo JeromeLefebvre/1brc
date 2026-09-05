@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 59,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "8\u00b0 57' 11.93400'' N",
+                    "lng": "11\u00b0 58' 40.56600'' W"
+                },
+                "MGRS": "29PJK7250091016",
+                "Maidenhead": "IJ48aw28pt",
+                "Mercator": {
+                    "x": -1333377.625,
+                    "y": 994114.288
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=629093595#map=17/8.95331/-11.97794",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/8.95331/-11.97794&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=8.95331&mlon=-11.97794#map=17/8.95331/-11.97794"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SL": "694",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LDC"
+                    ]
+                },
+                "callingcode": 232,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "SLE",
+                    "iso_numeric": "925",
+                    "name": "New Leone",
+                    "smallest_denomination": 1000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "Le",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf1",
+                "geohash": "e9x6zmvuvfuk666zm4zh",
+                "qibla": 69.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713681360,
+                        "astronomical": 1713677100,
+                        "civil": 1713680100,
+                        "nautical": 1713678600
+                    },
+                    "set": {
+                        "apparent": 1713725820,
+                        "astronomical": 1713730080,
+                        "civil": 1713727080,
+                        "nautical": 1713728580
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Freetown",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "delta.geared.dedications"
+                },
+                "wikidata": "Q9298703"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 8.993315,
+                    "lng": -11.937935
+                },
+                "southwest": {
+                    "lat": 8.913315,
+                    "lng": -12.017935
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SL",
+                "ISO_3166-1_alpha-3": "SLE",
+                "_category": "place",
+                "_normalized_city": "Binkolo",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Sierra Leone",
+                "country_code": "sl",
+                "state": "Bombali District",
+                "town": "Binkolo"
+            },
+            "confidence": 7,
+            "formatted": "Binkolo, Bombali District, Sierra Leone",
+            "geometry": {
+                "lat": 8.953315,
+                "lng": -11.977935
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:50:08 GMT",
+        "created_unix": 1713667808
+    },
+    "total_results": 1
+}

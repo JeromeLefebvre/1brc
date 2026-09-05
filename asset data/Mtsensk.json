@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2416,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 16' 44.34240'' N",
+                    "lng": "36\u00b0 34' 33.87720'' E"
+                },
+                "MGRS": "37UCV3839306046",
+                "Maidenhead": "KO83gg96dw",
+                "Mercator": {
+                    "x": 4071630.267,
+                    "y": 7000496.275
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1461478#map=17/53.27898/36.57608",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.27898/36.57608&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.27898&mlon=36.57608#map=17/53.27898/36.57608"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "uc6p071us67xpz6c6usw",
+                "qibla": 174.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714011180,
+                        "astronomical": 1714088520,
+                        "civil": 1714008840,
+                        "nautical": 1714005840
+                    },
+                    "set": {
+                        "apparent": 1714063860,
+                        "astronomical": 1714073040,
+                        "civil": 1714066260,
+                        "nautical": 1714069260
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "interval.owns.proven"
+                },
+                "wikidata": "Q162698"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.3128528,
+                    "lng": 36.6175105
+                },
+                "southwest": {
+                    "lat": 53.2508126,
+                    "lng": 36.5071676
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-ORL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mtsensk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Central Federal District",
+                "state": "Oryol Oblast",
+                "town": "Mtsensk"
+            },
+            "confidence": 7,
+            "formatted": "Mtsensk, Oryol Oblast, Russia",
+            "geometry": {
+                "lat": 53.278984,
+                "lng": 36.576077
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:04:12 GMT",
+        "created_unix": 1714003452
+    },
+    "total_results": 1
+}

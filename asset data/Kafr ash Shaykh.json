@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1759,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 22' 53.31540'' N",
+                    "lng": "30\u00b0 51' 4.88376'' E"
+                },
+                "MGRS": "36RTV9567673875",
+                "Maidenhead": "KM51kj21dn",
+                "Mercator": {
+                    "x": 3434357.308,
+                    "y": 3660143.275
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4103405#map=17/31.38148/30.85136",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.38148/30.85136&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.38148&mlon=30.85136#map=17/31.38148/30.85136"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "sttfw0c62enyfxky2zye",
+                "qibla": 138.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713928740,
+                        "astronomical": 1713923580,
+                        "civil": 1713927240,
+                        "nautical": 1713925440
+                    },
+                    "set": {
+                        "apparent": 1713976200,
+                        "astronomical": 1713981420,
+                        "civil": 1713977760,
+                        "nautical": 1713979560
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "retain.holdouts.narrowing"
+                },
+                "wikidata": "Q30946"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.8004315,
+                    "lng": 31.4121374
+                },
+                "southwest": {
+                    "lat": 30.9628538,
+                    "lng": 30.2093855
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-KFS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kafr El Sheikh",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "town": "Kafr El Sheikh"
+            },
+            "confidence": 1,
+            "formatted": "Kafr El Sheikh, Egypt",
+            "geometry": {
+                "lat": 31.3814765,
+                "lng": 30.8513566
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:34:47 GMT",
+        "created_unix": 1713994487
+    },
+    "total_results": 1
+}

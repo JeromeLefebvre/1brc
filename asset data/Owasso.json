@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 787,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 15' 57.49128'' N",
+                    "lng": "95\u00b0 51' 17.48052'' W"
+                },
+                "FIPS": {
+                    "county": "40143",
+                    "state": "40"
+                },
+                "MGRS": "15STA4353317230",
+                "Maidenhead": "EM26bg73kt",
+                "Mercator": {
+                    "x": -10670513.727,
+                    "y": 4312003.501
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=184204#map=17/36.26597/-95.85486",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.26597/-95.85486&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.26597&mlon=-95.85486#map=17/36.26597/-95.85486"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9y7y6f08efz0mqeetb86",
+                "qibla": 43.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714908360,
+                        "astronomical": 1714902540,
+                        "civil": 1714906740,
+                        "nautical": 1714904700
+                    },
+                    "set": {
+                        "apparent": 1714871640,
+                        "astronomical": 1714877520,
+                        "civil": 1714873320,
+                        "nautical": 1714875360
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "secondary.stat.perky"
+                },
+                "wikidata": "Q2677698"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.3366803,
+                    "lng": -95.707735
+                },
+                "southwest": {
+                    "lat": 36.2488556,
+                    "lng": -95.902008
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Owasso",
+                "_type": "city",
+                "city": "Owasso",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Tulsa County",
+                "postcode": "74055",
+                "state": "Oklahoma",
+                "state_code": "OK"
+            },
+            "confidence": 6,
+            "formatted": "Owasso, Oklahoma, United States of America",
+            "geometry": {
+                "lat": 36.2659698,
+                "lng": -95.8548557
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:28:36 GMT",
+        "created_unix": 1714948116
+    },
+    "total_results": 1
+}

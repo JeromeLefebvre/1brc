@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 4,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 3' 34.88148'' N",
+                    "lng": "139\u00b0 24' 36.95688'' E"
+                },
+                "MGRS": "54SUH6053413630",
+                "Maidenhead": "PM98qb94fh",
+                "Mercator": {
+                    "x": 15519079.8,
+                    "y": 4561516.637
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4137071#map=17/38.05969/139.41027",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.05969/139.41027&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.05969&mlon=139.41027#map=17/38.05969/139.41027"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xng0s2e3y8kd0cz84dp7",
+                "qibla": 292.66,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713556980,
+                        "astronomical": 1713551340,
+                        "civil": 1713555360,
+                        "nautical": 1713553380
+                    },
+                    "set": {
+                        "apparent": 1713518460,
+                        "astronomical": 1713524100,
+                        "civil": 1713520080,
+                        "nautical": 1713522060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "maiden.karate.future"
+                },
+                "wikidata": "Q877266"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.2312564,
+                    "lng": 139.632023
+                },
+                "southwest": {
+                    "lat": 37.861278,
+                    "lng": 139.1335567
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-15"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tainai",
+                "_type": "city",
+                "city": "Tainai",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Niigata Prefecture",
+                "state": "Niigata Prefecture"
+            },
+            "confidence": 2,
+            "formatted": "Tainai, Niigata Prefecture, Japan",
+            "geometry": {
+                "lat": 38.0596893,
+                "lng": 139.4102658
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:41:16 GMT",
+        "created_unix": 1713523276
+    },
+    "total_results": 1
+}

@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2432,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "15\u00b0 24' 19.18800'' N",
+                    "lng": "91\u00b0 42' 50.37840'' W"
+                },
+                "MGRS": "15PXT3800103569",
+                "Maidenhead": "EK45dj47hg",
+                "Mercator": {
+                    "x": -10209555.111,
+                    "y": 1724613.446
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=605828523#map=17/15.40533/-91.71399",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/15.40533/-91.71399&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=15.40533&mlon=-91.71399#map=17/15.40533/-91.71399"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "GT": "320",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 502,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "GTQ",
+                    "iso_numeric": "320",
+                    "name": "Guatemalan Quetzal",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "Q",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\uddf9",
+                "geohash": "9fwz8uryt19kynu75hsy",
+                "qibla": 53.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714563840,
+                        "astronomical": 1714559340,
+                        "civil": 1714562520,
+                        "nautical": 1714560900
+                    },
+                    "set": {
+                        "apparent": 1714523040,
+                        "astronomical": 1714527540,
+                        "civil": 1714524360,
+                        "nautical": 1714525980
+                    }
+                },
+                "timezone": {
+                    "name": "America/Guatemala",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "storm.zone.boundless"
+                },
+                "wikidata": "Q2402611"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 15.44533,
+                    "lng": -91.673994
+                },
+                "southwest": {
+                    "lat": 15.36533,
+                    "lng": -91.753994
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GT",
+                "ISO_3166-1_alpha-3": "GTM",
+                "ISO_3166-2": [
+                    "GT-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Colotenango",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Guatemala",
+                "country_code": "gt",
+                "state": "Huehuetenango",
+                "state_code": "HU",
+                "town": "Colotenango"
+            },
+            "confidence": 7,
+            "formatted": "Colotenango, Huehuetenango, Guatemala",
+            "geometry": {
+                "lat": 15.40533,
+                "lng": -91.713994
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:02:51 GMT",
+        "created_unix": 1714521771
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 334,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 23' 29.08752'' N",
+                    "lng": "81\u00b0 45' 35.37252'' W"
+                },
+                "FIPS": {
+                    "county": "39035",
+                    "state": "39"
+                },
+                "MGRS": "17TMF3647682487",
+                "Maidenhead": "EN91cj83tw",
+                "Mercator": {
+                    "x": -9101462.164,
+                    "y": 5041988.313
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=182100#map=17/41.39141/-81.75983",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.39141/-81.75983&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.39141&mlon=-81.75983#map=17/41.39141/-81.75983"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpmg7x063yxm32kv0ewp",
+                "qibla": 53.05,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714731720,
+                        "astronomical": 1714725240,
+                        "civil": 1714729920,
+                        "nautical": 1714727700
+                    },
+                    "set": {
+                        "apparent": 1714695960,
+                        "astronomical": 1714702500,
+                        "civil": 1714697820,
+                        "nautical": 1714700040
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "verse.tolls.bride"
+                },
+                "wikidata": "Q998587"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.4050361,
+                    "lng": -81.744465
+                },
+                "southwest": {
+                    "lat": 41.37076,
+                    "lng": -81.784864
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Parma Heights",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Cuyahoga County",
+                "state": "Ohio",
+                "state_code": "OH",
+                "town": "Parma Heights"
+            },
+            "confidence": 7,
+            "formatted": "Parma Heights, Ohio, United States of America",
+            "geometry": {
+                "lat": 41.3914132,
+                "lng": -81.7598257
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:31:33 GMT",
+        "created_unix": 1714699893
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1473,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 59' 49.42860'' N",
+                    "lng": "120\u00b0 32' 42.43920'' W"
+                },
+                "FIPS": {
+                    "county": "53037",
+                    "state": "53"
+                },
+                "MGRS": "10TFT8663907762",
+                "Maidenhead": "CN96rx49oh",
+                "Mercator": {
+                    "x": -13419021.599,
+                    "y": 5910331.819
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7482975#map=17/46.99706/-120.54512",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.99706/-120.54512&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.99706&mlon=-120.54512#map=17/46.99706/-120.54512"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c2672gt9xpd5zcb3xhy1",
+                "qibla": 19.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714049760,
+                        "astronomical": 1714042560,
+                        "civil": 1714047780,
+                        "nautical": 1714045320
+                    },
+                    "set": {
+                        "apparent": 1714014300,
+                        "astronomical": 1714021560,
+                        "civil": 1714016280,
+                        "nautical": 1714018740
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "hard.suggestive.opening"
+                },
+                "wikidata": "Q868684"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.0290138,
+                    "lng": -120.5079735
+                },
+                "southwest": {
+                    "lat": 46.9669138,
+                    "lng": -120.5948834
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ellensburg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Kittitas County",
+                "postcode": "98926",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "Ellensburg"
+            },
+            "confidence": 7,
+            "formatted": "Ellensburg, WA 98926, United States of America",
+            "geometry": {
+                "lat": 46.9970635,
+                "lng": -120.545122
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:46:20 GMT",
+        "created_unix": 1714005980
+    },
+    "total_results": 1
+}

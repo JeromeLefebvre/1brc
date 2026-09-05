@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2108,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 44' 37.24476'' N",
+                    "lng": "87\u00b0 39' 11.74140'' W"
+                },
+                "FIPS": {
+                    "county": "01033",
+                    "state": "01"
+                },
+                "MGRS": "16SDD4020344812",
+                "Maidenhead": "EM64er18ol",
+                "Mercator": {
+                    "x": -9757516.437,
+                    "y": 4104751.161
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=110253#map=16/34.74368/-87.65326",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/34.74368/-87.65326&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.74368&mlon=-87.65326#map=16/34.74368/-87.65326"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn1ttkuudgpn9wzpd5ny",
+                "qibla": 49.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711798800,
+                        "astronomical": 1711793700,
+                        "civil": 1711797300,
+                        "nautical": 1711795500
+                    },
+                    "set": {
+                        "apparent": 1711757400,
+                        "astronomical": 1711762500,
+                        "civil": 1711758900,
+                        "nautical": 1711760700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "expanses.clearer.puddles"
+                },
+                "wikidata": "Q79245"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.7957924,
+                    "lng": -87.5612632
+                },
+                "southwest": {
+                    "lat": 34.6918174,
+                    "lng": -87.6802241
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Muscle Shoals",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Colbert County",
+                "postcode": "35661",
+                "state": "Alabama",
+                "state_code": "AL",
+                "town": "Muscle Shoals"
+            },
+            "confidence": 6,
+            "formatted": "Muscle Shoals, AL 35661, United States of America",
+            "geometry": {
+                "lat": 34.7436791,
+                "lng": -87.6532615
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:44:36 GMT",
+        "created_unix": 1711831476
+    },
+    "total_results": 1
+}

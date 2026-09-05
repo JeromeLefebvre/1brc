@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 59,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 21' 2.25720'' N",
+                    "lng": "114\u00b0 11' 5.69796'' E"
+                },
+                "MGRS": "50QKK1006074347",
+                "Maidenhead": "OL72ci24ed",
+                "Mercator": {
+                    "x": 12711006.717,
+                    "y": 2537432.546
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=913110#map=17/22.35063/114.18492",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/22.35063/114.18492&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=22.35063&mlon=114.18492#map=17/22.35063/114.18492"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "HK": "344",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 852,
+                "currency": {
+                    "alternate_symbols": [
+                        "HK$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "HK$",
+                    "html_entity": "$",
+                    "iso_code": "HKD",
+                    "iso_numeric": "344",
+                    "name": "Hong Kong Dollar",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udded\ud83c\uddf0",
+                "geohash": "wecpnkfcv6ue25heeyjf",
+                "qibla": 285.13,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714859400,
+                        "astronomical": 1714854660,
+                        "civil": 1714858020,
+                        "nautical": 1714856340
+                    },
+                    "set": {
+                        "apparent": 1714819800,
+                        "astronomical": 1714824600,
+                        "civil": 1714821240,
+                        "nautical": 1714822860
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Hong_Kong",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "HKT"
+                },
+                "what3words": {
+                    "words": "tribe.familiar.promising"
+                },
+                "wikidata": "Q8646"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 22.5683333,
+                    "lng": 114.5024867
+                },
+                "southwest": {
+                    "lat": 22.1367246,
+                    "lng": 113.8172408
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "HK",
+                "ISO_3166-1_alpha-3": "HKG",
+                "ISO_3166-2": [
+                    "CN-HK"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Hong Kong"
+            },
+            "confidence": 1,
+            "formatted": "Hong Kong, China",
+            "geometry": {
+                "lat": 22.350627,
+                "lng": 114.1849161
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:15:19 GMT",
+        "created_unix": 1714796119
+    },
+    "total_results": 1
+}

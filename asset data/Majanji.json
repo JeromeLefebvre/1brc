@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1180,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "0\u00b0 15' 36.32724'' N",
+                    "lng": "33\u00b0 59' 27.73032'' E"
+                },
+                "MGRS": "36NXF1028128752",
+                "Maidenhead": "KJ60xg82wk",
+                "Mercator": {
+                    "x": 3783864.841,
+                    "y": 28759.463
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2229119842#map=17/0.26009/33.99104",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/0.26009/33.99104&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=0.26009&mlon=33.99104#map=17/0.26009/33.99104"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "UG": "800",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 256,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UGX",
+                    "iso_numeric": "800",
+                    "name": "Ugandan Shilling",
+                    "smallest_denomination": 1000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 1,
+                    "symbol": "USh",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddec",
+                "geohash": "sb01mrre0s3weub5wwcs",
+                "qibla": 14.69,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714880280,
+                        "astronomical": 1714875960,
+                        "civil": 1714878960,
+                        "nautical": 1714877460
+                    },
+                    "set": {
+                        "apparent": 1714923780,
+                        "astronomical": 1714928100,
+                        "civil": 1714925100,
+                        "nautical": 1714926600
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Kampala",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "sesame.semiformal.fell"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 0.2800909,
+                    "lng": 34.0110362
+                },
+                "southwest": {
+                    "lat": 0.2400909,
+                    "lng": 33.9710362
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UG",
+                "ISO_3166-1_alpha-3": "UGA",
+                "ISO_3166-2": [
+                    "UG-E",
+                    "UG-202"
+                ],
+                "_category": "place",
+                "_normalized_city": "Majanji",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Uganda",
+                "country_code": "ug",
+                "region": "Eastern Region",
+                "state": "Busia",
+                "village": "Majanji"
+            },
+            "confidence": 7,
+            "formatted": "Majanji, Busia, Uganda",
+            "geometry": {
+                "lat": 0.2600909,
+                "lng": 33.9910362
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:12:05 GMT",
+        "created_unix": 1714947125
+    },
+    "total_results": 1
+}

@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2311,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 33' 46.66428'' N",
+                    "lng": "2\u00b0 0' 36.17712'' E"
+                },
+                "MGRS": "31TDG1745501727",
+                "Maidenhead": "JN11an15ec",
+                "Mercator": {
+                    "x": 223757.653,
+                    "y": 5067381.145
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES5"
+                    },
+                    "NUTS2": {
+                        "code": "ES51"
+                    },
+                    "NUTS3": {
+                        "code": "ES511"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=342210#map=17/41.56296/2.01005",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.56296/2.01005&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.56296&mlon=2.01005#map=17/41.56296/2.01005"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "sp3kmwr9v99rd05hf9ye",
+                "qibla": 110.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714539000,
+                        "astronomical": 1714532580,
+                        "civil": 1714537140,
+                        "nautical": 1714534980
+                    },
+                    "set": {
+                        "apparent": 1714589340,
+                        "astronomical": 1714595820,
+                        "civil": 1714591140,
+                        "nautical": 1714593360
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "skips.merit.touchy"
+                },
+                "wikidata": "Q13939"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.6487234,
+                    "lng": 2.0688191
+                },
+                "southwest": {
+                    "lat": 41.516298,
+                    "lng": 1.9435767
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-CT",
+                    "ES-B"
+                ],
+                "_category": "place",
+                "_normalized_city": "Terrassa",
+                "_type": "city",
+                "city": "Terrassa",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "county": "Vall\u00e8s Occidental",
+                "political_union": "European Union",
+                "postcode": "08221",
+                "province": "Barcelona",
+                "state": "Catalonia",
+                "state_code": "CT"
+            },
+            "confidence": 6,
+            "formatted": "Terrassa, Catalonia, Spain",
+            "geometry": {
+                "lat": 41.5629623,
+                "lng": 2.0100492
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:07:57 GMT",
+        "created_unix": 1714522077
+    },
+    "total_results": 1
+}

@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2343,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 36' 49.58424'' N",
+                    "lng": "2\u00b0 28' 54.51132'' E"
+                },
+                "MGRS": "31UDP6180684651",
+                "Maidenhead": "JN18fo77th",
+                "Mercator": {
+                    "x": 276273.681,
+                    "y": 6177504.005
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR104"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=149203#map=17/48.61377/2.48181",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.61377/2.48181&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.61377&mlon=2.48181#map=17/48.61377/2.48181"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09u83z5y24wn0r7eeju",
+                "qibla": 119.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714969380,
+                        "astronomical": 1714961100,
+                        "civil": 1714967220,
+                        "nautical": 1714964460
+                    },
+                    "set": {
+                        "apparent": 1715022660,
+                        "astronomical": 1715031000,
+                        "civil": 1715024880,
+                        "nautical": 1715027640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "prepares.bunch.trendy"
+                },
+                "wikidata": "Q208812"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.6253571,
+                    "lng": 2.4922688
+                },
+                "southwest": {
+                    "lat": 48.569074,
+                    "lng": 2.4366347
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-91"
+                ],
+                "_category": "place",
+                "_normalized_city": "Corbeil-Essonnes",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Essonne",
+                "municipality": "\u00c9vry",
+                "political_union": "European Union",
+                "postcode": "91100",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Corbeil-Essonnes"
+            },
+            "confidence": 7,
+            "formatted": "91100 Corbeil-Essonnes, France",
+            "geometry": {
+                "lat": 48.6137734,
+                "lng": 2.4818087
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:16:56 GMT",
+        "created_unix": 1714954616
+    },
+    "total_results": 1
+}

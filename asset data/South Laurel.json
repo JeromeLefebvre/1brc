@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2269,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 4' 11.39232'' N",
+                    "lng": "76\u00b0 51' 0.90144'' W"
+                },
+                "FIPS": {
+                    "county": "24033",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ3993526155",
+                "Maidenhead": "FM19nb76xs",
+                "Mercator": {
+                    "x": -8554930.742,
+                    "y": 4704744.404
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158621490#map=16/39.06983/-76.85025",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/39.06983/-76.85025&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.06983&mlon=-76.85025#map=16/39.06983/-76.85025"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcq70rq727vpnkj0s81",
+                "qibla": 56.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040220,
+                        "astronomical": 1714034280,
+                        "civil": 1714038540,
+                        "nautical": 1714036440
+                    },
+                    "set": {
+                        "apparent": 1714089240,
+                        "astronomical": 1714008780,
+                        "civil": 1714004580,
+                        "nautical": 1714006620
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "maps.credit.acid"
+                },
+                "wikidata": "Q754862"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.1098312,
+                    "lng": -76.8102504
+                },
+                "southwest": {
+                    "lat": 39.0298312,
+                    "lng": -76.8902504
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Laurel",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Prince George's County",
+                "postcode": "20811",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "South Laurel"
+            },
+            "confidence": 7,
+            "formatted": "South Laurel, MD 20811, United States of America",
+            "geometry": {
+                "lat": 39.0698312,
+                "lng": -76.8502504
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:10:33 GMT",
+        "created_unix": 1714003833
+    },
+    "total_results": 1
+}

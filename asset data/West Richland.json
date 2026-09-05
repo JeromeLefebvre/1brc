@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2463,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 18' 1.40940'' N",
+                    "lng": "119\u00b0 20' 50.32320'' W"
+                },
+                "FIPS": {
+                    "county": "53005",
+                    "state": "53"
+                },
+                "MGRS": "11TLM1923030101",
+                "Maidenhead": "DN06hh82hc",
+                "Mercator": {
+                    "x": -13285681.999,
+                    "y": 5797713.242
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=237654#map=16/46.30039/-119.34731",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/46.30039/-119.34731&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.30039&mlon=-119.34731#map=16/46.30039/-119.34731"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c25pkhtzq4d17wkme24w",
+                "qibla": 20.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714481100,
+                        "astronomical": 1714473780,
+                        "civil": 1714479120,
+                        "nautical": 1714476600
+                    },
+                    "set": {
+                        "apparent": 1714446300,
+                        "astronomical": 1714453620,
+                        "civil": 1714448280,
+                        "nautical": 1714450800
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "commercials.politicians.themes"
+                },
+                "wikidata": "Q917589"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.3660161,
+                    "lng": -119.3263052
+                },
+                "southwest": {
+                    "lat": 46.2563091,
+                    "lng": -119.4900617
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "West Richland",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Benton County",
+                "postcode": "99353",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "West Richland"
+            },
+            "confidence": 6,
+            "formatted": "West Richland, WA 99353, United States of America",
+            "geometry": {
+                "lat": 46.3003915,
+                "lng": -119.347312
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:48:37 GMT",
+        "created_unix": 1714517317
+    },
+    "total_results": 1
+}

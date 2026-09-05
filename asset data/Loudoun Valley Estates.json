@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 461,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 58' 50.91600'' N",
+                    "lng": "77\u00b0 30' 28.44000'' W"
+                },
+                "FIPS": {
+                    "county": "51107",
+                    "state": "51"
+                },
+                "MGRS": "18STJ8276317638",
+                "Maidenhead": "FM18fx95bj",
+                "Mercator": {
+                    "x": -8628139.96,
+                    "y": 4692039.986
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.98081/-77.50790&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.98081&mlon=-77.50790#map=17/38.98081/-77.50790"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqbvu20rxj8vh3vgjuc3",
+                "qibla": 56.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713867720,
+                        "astronomical": 1713861840,
+                        "civil": 1713866040,
+                        "nautical": 1713864000
+                    },
+                    "set": {
+                        "apparent": 1713916500,
+                        "astronomical": 1713835980,
+                        "civil": 1713831780,
+                        "nautical": 1713833820
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "intruders.doting.wealthy"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.994473,
+                    "lng": -77.487937
+                },
+                "southwest": {
+                    "lat": 38.961914,
+                    "lng": -77.522241
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-VA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Loudoun Valley Estates",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Loudoun County",
+                "state": "Virginia",
+                "state_code": "VA",
+                "town": "Loudoun Valley Estates"
+            },
+            "confidence": 7,
+            "formatted": "Loudoun Valley Estates, Virginia, United States of America",
+            "geometry": {
+                "lat": 38.98081,
+                "lng": -77.5079
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:25:58 GMT",
+        "created_unix": 1713853558
+    },
+    "total_results": 1
+}

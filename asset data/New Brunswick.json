@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1790,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 30' 1.01880'' N",
+                    "lng": "66\u00b0 45' 0.65880'' W"
+                },
+                "MGRS": "19TFM7262952093",
+                "Maidenhead": "FN66om90xb",
+                "Mercator": {
+                    "x": -7430596.382,
+                    "y": 5829877.211
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=68942#map=17/46.50028/-66.75018",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.50028/-66.75018&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.50028&mlon=-66.75018#map=17/46.50028/-66.75018"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f8289145b100dw0w8zzq",
+                "qibla": 63.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714727400,
+                        "astronomical": 1714719900,
+                        "civil": 1714725360,
+                        "nautical": 1714722840
+                    },
+                    "set": {
+                        "apparent": 1714779540,
+                        "astronomical": 1714700640,
+                        "civil": 1714695180,
+                        "nautical": 1714697700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Moncton",
+                    "now_in_dst": 1,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "ADT"
+                },
+                "what3words": {
+                    "words": "glanced.surveyed.unpaid"
+                },
+                "wikidata": "Q1965"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.2206848,
+                    "lng": -63.328871
+                },
+                "southwest": {
+                    "lat": 44.2836704,
+                    "lng": -69.0534663
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-NB"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "state": "New Brunswick",
+                "state_code": "NB"
+            },
+            "confidence": 1,
+            "formatted": "NB, Canada",
+            "geometry": {
+                "lat": 46.500283,
+                "lng": -66.750183
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:37:34 GMT",
+        "created_unix": 1714696654
+    },
+    "total_results": 1
+}

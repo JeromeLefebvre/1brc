@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1387,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 38' 14.19612'' N",
+                    "lng": "3\u00b0 14' 11.05764'' W"
+                },
+                "MGRS": "30TVK8000998519",
+                "Maidenhead": "IN80jp12pw",
+                "Mercator": {
+                    "x": -360274.945,
+                    "y": 4931152.388
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES4"
+                    },
+                    "NUTS2": {
+                        "code": "ES42"
+                    },
+                    "NUTS3": {
+                        "code": "ES424"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=341294#map=17/40.63728/-3.23640",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.63728/-3.23640&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.63728&mlon=-3.23640#map=17/40.63728/-3.23640"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezjxnmg3633tg450jb0h",
+                "qibla": 104.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711778400,
+                        "astronomical": 1711772820,
+                        "civil": 1711776780,
+                        "nautical": 1711774800
+                    },
+                    "set": {
+                        "apparent": 1711823700,
+                        "astronomical": 1711829280,
+                        "civil": 1711825320,
+                        "nautical": 1711827300
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "mash.hawked.flyover"
+                },
+                "wikidata": "Q1641907"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.6672214,
+                    "lng": -3.1989315
+                },
+                "southwest": {
+                    "lat": 40.5922026,
+                    "lng": -3.2939763
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-CM",
+                    "ES-GU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cabanillas del Campo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "19171",
+                "province": "Guadalajara",
+                "state": "Castile-La Mancha",
+                "state_code": "CM",
+                "town": "Cabanillas del Campo"
+            },
+            "confidence": 7,
+            "formatted": "19171 Cabanillas del Campo, Spain",
+            "geometry": {
+                "lat": 40.6372767,
+                "lng": -3.2364049
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:07:29 GMT",
+        "created_unix": 1711832849
+    },
+    "total_results": 1
+}

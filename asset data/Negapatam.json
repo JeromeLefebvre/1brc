@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1448,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 45' 50.14800'' N",
+                    "lng": "79\u00b0 50' 40.34400'' E"
+                },
+                "MGRS": "44PLS7366590115",
+                "Maidenhead": "MK90ws13ii",
+                "Mercator": {
+                    "x": 8888253.535,
+                    "y": 1197371.428
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.76393/79.84454&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.76393&mlon=79.84454#map=17/10.76393/79.84454"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tcbv0zt02tupt8q14kg3",
+                "qibla": 290.66,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713745620,
+                        "astronomical": 1713827700,
+                        "civil": 1713744360,
+                        "nautical": 1713829260
+                    },
+                    "set": {
+                        "apparent": 1713790260,
+                        "astronomical": 1713794580,
+                        "civil": 1713791580,
+                        "nautical": 1713793080
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "pulse.tramps.unpainted"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.7829944,
+                    "lng": 79.8522847
+                },
+                "southwest": {
+                    "lat": 10.7433238,
+                    "lng": 79.823009
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "_category": "place",
+                "_normalized_city": "Nagapattinam",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Nagapattinam",
+                "state": "Tamil N\u0101du",
+                "town": "Nagapattinam"
+            },
+            "confidence": 7,
+            "formatted": "Nagapattinam, India",
+            "geometry": {
+                "lat": 10.76393,
+                "lng": 79.84454
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:49:37 GMT",
+        "created_unix": 1713746977
+    },
+    "total_results": 1
+}

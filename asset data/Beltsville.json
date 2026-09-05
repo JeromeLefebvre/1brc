@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 453,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 1' 47.66916'' N",
+                    "lng": "76\u00b0 54' 53.83692'' W"
+                },
+                "FIPS": {
+                    "county": "24033",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ3424421840",
+                "Maidenhead": "FM19na07ee",
+                "Mercator": {
+                    "x": -8562133.592,
+                    "y": 4699044.893
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158227870#map=17/39.02991/-76.91495",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.02991/-76.91495&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.02991&mlon=-76.91495#map=17/39.02991/-76.91495"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcq1c0jxwhywkhrxjpe",
+                "qibla": 56.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713694980,
+                        "astronomical": 1713689100,
+                        "civil": 1713693300,
+                        "nautical": 1713691260
+                    },
+                    "set": {
+                        "apparent": 1713743400,
+                        "astronomical": 1713662880,
+                        "civil": 1713658740,
+                        "nautical": 1713660720
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "astonishing.episode.squeaking"
+                },
+                "wikidata": "Q753707"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.0699081,
+                    "lng": -76.8749547
+                },
+                "southwest": {
+                    "lat": 38.9899081,
+                    "lng": -76.9549547
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Beltsville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Prince George's County",
+                "postcode": "20705",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "Beltsville"
+            },
+            "confidence": 7,
+            "formatted": "Beltsville, MD 20705, United States of America",
+            "geometry": {
+                "lat": 39.0299081,
+                "lng": -76.9149547
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:34:02 GMT",
+        "created_unix": 1713666842
+    },
+    "total_results": 1
+}

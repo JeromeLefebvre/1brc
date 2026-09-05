@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2500,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 7' 26.62320'' N",
+                    "lng": "97\u00b0 54' 11.08260'' W"
+                },
+                "FIPS": {
+                    "county": "48099",
+                    "state": "48"
+                },
+                "MGRS": "14RPV0458543868",
+                "Maidenhead": "EM11bc19ps",
+                "Mercator": {
+                    "x": -10898520.846,
+                    "y": 3626788.163
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=114496#map=16/31.12406/-97.90308",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/31.12406/-97.90308&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.12406&mlon=-97.90308#map=16/31.12406/-97.90308"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vd3h1vnuctt9twpjb5q",
+                "qibla": 43.12,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714564020,
+                        "astronomical": 1714558740,
+                        "civil": 1714562520,
+                        "nautical": 1714560660
+                    },
+                    "set": {
+                        "apparent": 1714525800,
+                        "astronomical": 1714531140,
+                        "civil": 1714527360,
+                        "nautical": 1714529220
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "vast.item.widgets"
+                },
+                "wikidata": "Q974087"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.174517,
+                    "lng": -97.8048133
+                },
+                "southwest": {
+                    "lat": 31.058173,
+                    "lng": -97.9662312
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Copperas Cove",
+                "_type": "city",
+                "city": "Copperas Cove",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Coryell County",
+                "postcode": "76522",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 6,
+            "formatted": "Copperas Cove, Texas, United States of America",
+            "geometry": {
+                "lat": 31.124062,
+                "lng": -97.9030785
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:15:12 GMT",
+        "created_unix": 1714544112
+    },
+    "total_results": 1
+}

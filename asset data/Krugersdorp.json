@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 637,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 5' 44.00160'' S",
+                    "lng": "27\u00b0 46' 32.00160'' E"
+                },
+                "MGRS": "35JNM7755413502",
+                "Maidenhead": "KG33vv37bb",
+                "Mercator": {
+                    "x": 3091960.75,
+                    "y": -2992131.265
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=60034262#map=16/-26.09556/27.77556",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-26.09556/27.77556&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-26.09556&mlon=27.77556#map=16/-26.09556/27.77556"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "ke7g813w37g9j2khuh6r",
+                "qibla": 14.94,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714797300,
+                        "astronomical": 1714792620,
+                        "civil": 1714795860,
+                        "nautical": 1714794240
+                    },
+                    "set": {
+                        "apparent": 1714836960,
+                        "astronomical": 1714841640,
+                        "civil": 1714838400,
+                        "nautical": 1714840020
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "glides.tribe.chemistry"
+                },
+                "wikidata": "Q644506"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -25.935556,
+                    "lng": 27.935556
+                },
+                "southwest": {
+                    "lat": -26.255556,
+                    "lng": 27.615556
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-GP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Krugersdorp",
+                "_type": "city",
+                "city": "Krugersdorp",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "West Rand District Municipality",
+                "postcode": "1739",
+                "state": "Gauteng",
+                "state_code": "GT"
+            },
+            "confidence": 3,
+            "formatted": "Krugersdorp, West Rand District Municipality, South Africa",
+            "geometry": {
+                "lat": -26.095556,
+                "lng": 27.775556
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:53:42 GMT",
+        "created_unix": 1714794822
+    },
+    "total_results": 1
+}

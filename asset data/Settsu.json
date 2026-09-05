@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2344,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 46' 57.93960'' N",
+                    "lng": "135\u00b0 33' 12.90240'' E"
+                },
+                "MGRS": "53SNU5064849092",
+                "Maidenhead": "PM74ss67ku",
+                "Mercator": {
+                    "x": 15089755.946,
+                    "y": 4110022.978
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=358686#map=16/34.78276/135.55358",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/34.78276/135.55358&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.78276&mlon=135.55358#map=16/34.78276/135.55358"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn0mus5072w5kf8herep",
+                "qibla": 290.86,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714507800,
+                        "astronomical": 1714502220,
+                        "civil": 1714506180,
+                        "nautical": 1714504260
+                    },
+                    "set": {
+                        "apparent": 1714470060,
+                        "astronomical": 1714475640,
+                        "civil": 1714471680,
+                        "nautical": 1714473600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "dolphins.exit.spit"
+                },
+                "wikidata": "Q643878"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.7986632,
+                    "lng": 135.602275
+                },
+                "southwest": {
+                    "lat": 34.753992,
+                    "lng": 135.5366451
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-27"
+                ],
+                "_category": "place",
+                "_normalized_city": "Settsu",
+                "_type": "city",
+                "city": "Settsu",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "state": "Osaka Prefecture"
+            },
+            "confidence": 7,
+            "formatted": "Settsu, Osaka Prefecture, Japan",
+            "geometry": {
+                "lat": 34.782761,
+                "lng": 135.553584
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:53:38 GMT",
+        "created_unix": 1714517618
+    },
+    "total_results": 1
+}

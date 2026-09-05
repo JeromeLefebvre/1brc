@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1700,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 45' 39.80484'' S",
+                    "lng": "151\u00b0 44' 46.42764'' E"
+                },
+                "MGRS": "56HLJ8255974506",
+                "Maidenhead": "QF57uf97ni",
+                "Mercator": {
+                    "x": 16892313.042,
+                    "y": -3840510.645
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6002945#map=17/-32.76106/151.74623",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-32.76106/151.74623&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-32.76106&mlon=151.74623#map=17/-32.76106/151.74623"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AU": "036",
+                        "AUSTRALASIA": "053",
+                        "OCEANIA": "009",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 61,
+                "currency": {
+                    "alternate_symbols": [
+                        "A$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "A$",
+                    "html_entity": "$",
+                    "iso_code": "AUD",
+                    "iso_numeric": "036",
+                    "name": "Australian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde6\ud83c\uddfa",
+                "geohash": "r65vth41p2q53sp6vzbc",
+                "qibla": 277.85,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714854540,
+                        "astronomical": 1714849500,
+                        "civil": 1714852980,
+                        "nautical": 1714851240
+                    },
+                    "set": {
+                        "apparent": 1714806660,
+                        "astronomical": 1714811640,
+                        "civil": 1714808160,
+                        "nautical": 1714809900
+                    }
+                },
+                "timezone": {
+                    "name": "Australia/Sydney",
+                    "now_in_dst": 0,
+                    "offset_sec": 36000,
+                    "offset_string": "+1000",
+                    "short_name": "AEST"
+                },
+                "what3words": {
+                    "words": "skylights.swigs.lifeboat"
+                },
+                "wikidata": "Q595259"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -32.7071452,
+                    "lng": 151.8098366
+                },
+                "southwest": {
+                    "lat": -32.8035435,
+                    "lng": 151.724347
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AU",
+                "ISO_3166-1_alpha-3": "AUS",
+                "ISO_3166-2": [
+                    "AU-NSW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Newcastle-Maitland",
+                "_type": "neighbourhood",
+                "city": "Newcastle-Maitland",
+                "continent": "Oceania",
+                "country": "Australia",
+                "country_code": "au",
+                "municipality": "Port Stephens Council",
+                "postcode": "2324",
+                "state": "New South Wales",
+                "state_code": "NSW",
+                "suburb": "Raymond Terrace"
+            },
+            "confidence": 7,
+            "formatted": "Raymond Terrace NSW 2324, Australia",
+            "geometry": {
+                "lat": -32.7610569,
+                "lng": 151.7462299
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:49:19 GMT",
+        "created_unix": 1714787359
+    },
+    "total_results": 1
+}

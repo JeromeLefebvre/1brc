@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 25,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 31' 42.47328'' N",
+                    "lng": "123\u00b0 21' 53.41752'' E"
+                },
+                "MGRS": "51NWJ4024932186",
+                "Maidenhead": "PJ17qm36st",
+                "Mercator": {
+                    "x": 13732910.97,
+                    "y": 834892.457
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198528144#map=17/7.52846/123.36484",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/7.52846/123.36484&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.52846&mlon=123.36484#map=17/7.52846/123.36484"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "w9rdz4x83pd9c6p0j7yn",
+                "qibla": 290.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713649020,
+                        "astronomical": 1713644760,
+                        "civil": 1713647760,
+                        "nautical": 1713646260
+                    },
+                    "set": {
+                        "apparent": 1713606840,
+                        "astronomical": 1713611100,
+                        "civil": 1713608100,
+                        "nautical": 1713609600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "pounced.inhabited.exceeded"
+                },
+                "wikidata": "Q132057"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 7.5684648,
+                    "lng": 123.4048382
+                },
+                "southwest": {
+                    "lat": 7.4884648,
+                    "lng": 123.3248382
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-09",
+                    "PH-ZAS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Dimataling",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "region": "Zamboanga Peninsula",
+                "state": "Zamboanga del Sur",
+                "state_code": "ZAS",
+                "town": "Dimataling"
+            },
+            "confidence": 7,
+            "formatted": "Dimataling, Zamboanga del Sur, Philippines",
+            "geometry": {
+                "lat": 7.5284648,
+                "lng": 123.3648382
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:11:59 GMT",
+        "created_unix": 1713651119
+    },
+    "total_results": 1
+}

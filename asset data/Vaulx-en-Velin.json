@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1016,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 46' 42.33180'' N",
+                    "lng": "4\u00b0 55' 14.21508'' E"
+                },
+                "MGRS": "31TFL4930971223",
+                "Maidenhead": "JN25ls06lt",
+                "Mercator": {
+                    "x": 547760.39,
+                    "y": 5714278.227
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRK"
+                    },
+                    "NUTS2": {
+                        "code": "FRK2"
+                    },
+                    "NUTS3": {
+                        "code": "FRK26"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=112529#map=17/45.77843/4.92062",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.77843/4.92062&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.77843&mlon=4.92062#map=17/45.77843/4.92062"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u05krvxndth8yrk6krxb",
+                "qibla": 118.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714624020,
+                        "astronomical": 1714616760,
+                        "civil": 1714622040,
+                        "nautical": 1714619580
+                    },
+                    "set": {
+                        "apparent": 1714675680,
+                        "astronomical": 1714683000,
+                        "civil": 1714677720,
+                        "nautical": 1714680180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "nature.retract.museum"
+                },
+                "wikidata": "Q13596"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.8111651,
+                    "lng": 4.9703538
+                },
+                "southwest": {
+                    "lat": 45.7442244,
+                    "lng": 4.8793802
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-ARA",
+                    "FR-69M"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vaulx-en-Velin",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "M\u00e9tropole de Lyon",
+                "municipality": "Lyon",
+                "political_union": "European Union",
+                "postcode": "69120",
+                "region": "Metropolitan France",
+                "state": "Auvergne-Rh\u00f4ne-Alpes",
+                "state_code": "ARA",
+                "state_district": "Rh\u00f4ne",
+                "town": "Vaulx-en-Velin"
+            },
+            "confidence": 7,
+            "formatted": "69120 Vaulx-en-Velin, France",
+            "geometry": {
+                "lat": 45.7784255,
+                "lng": 4.9206153
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:55:36 GMT",
+        "created_unix": 1714694136
+    },
+    "total_results": 1
+}

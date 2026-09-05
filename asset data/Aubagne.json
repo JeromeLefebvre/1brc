@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1852,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 17' 32.77860'' N",
+                    "lng": "5\u00b0 34' 13.09116'' E"
+                },
+                "MGRS": "31TGH0850996498",
+                "Maidenhead": "JN23sh80ke",
+                "Mercator": {
+                    "x": 620083.305,
+                    "y": 5327280.904
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRL"
+                    },
+                    "NUTS2": {
+                        "code": "FRL0"
+                    },
+                    "NUTS3": {
+                        "code": "FRL04"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=74272#map=17/43.29244/5.57030",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.29244/5.57030&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.29244&mlon=5.57030#map=17/43.29244/5.57030"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "speyqc0htrrnchs0kxdc",
+                "qibla": 116.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714106340,
+                        "astronomical": 1714099800,
+                        "civil": 1714104480,
+                        "nautical": 1714102260
+                    },
+                    "set": {
+                        "apparent": 1714156380,
+                        "astronomical": 1714162920,
+                        "civil": 1714158240,
+                        "nautical": 1714160460
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "proofing.bonanza.leafy"
+                },
+                "wikidata": "Q184047"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.3364276,
+                    "lng": 5.6139271
+                },
+                "southwest": {
+                    "lat": 43.2443496,
+                    "lng": 5.5132215
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-PAC",
+                    "FR-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Aubagne",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Bouches-du-Rh\u00f4ne",
+                "municipality": "Marseille",
+                "political_union": "European Union",
+                "postcode": "13400",
+                "region": "Metropolitan France",
+                "state": "Provence-Alpes-C\u00f4te d'Azur",
+                "state_code": "PAC",
+                "town": "Aubagne"
+            },
+            "confidence": 7,
+            "formatted": "13400 Aubagne, France",
+            "geometry": {
+                "lat": 43.2924385,
+                "lng": 5.5703031
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:19:48 GMT",
+        "created_unix": 1714169988
+    },
+    "total_results": 1
+}

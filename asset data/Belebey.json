@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1984,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 7' 0.01200'' N",
+                    "lng": "54\u00b0 7' 0.01200'' E"
+                },
+                "MGRS": "40UCF1155200345",
+                "Maidenhead": "LO74bc48aa",
+                "Mercator": {
+                    "x": 6024240.148,
+                    "y": 7157638.248
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/54.11667/54.11667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.11667&mlon=54.11667#map=16/54.11667/54.11667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v1w7z7ws3y3yg7mzw1ht",
+                "qibla": 203.97,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713489240,
+                        "astronomical": 1713566820,
+                        "civil": 1713486900,
+                        "nautical": 1713570360
+                    },
+                    "set": {
+                        "apparent": 1713540720,
+                        "astronomical": 1713549660,
+                        "civil": 1713543060,
+                        "nautical": 1713546060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "chatted.crawled.sake"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.1259727,
+                    "lng": 54.1613884
+                },
+                "southwest": {
+                    "lat": 54.0885849,
+                    "lng": 54.0924149
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Belebey",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Bashkortostan",
+                "town": "Belebey"
+            },
+            "confidence": 7,
+            "formatted": "Belebey, Bashkortostan, Russia",
+            "geometry": {
+                "lat": 54.11667,
+                "lng": 54.11667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 06:53:21 GMT",
+        "created_unix": 1713509601
+    },
+    "total_results": 1
+}

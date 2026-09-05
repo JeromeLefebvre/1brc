@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1452,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 22' 15.31200'' N",
+                    "lng": "41\u00b0 42' 30.20400'' E"
+                },
+                "MGRS": "37TGL1207927724",
+                "Maidenhead": "LN05ui59aa",
+                "Mercator": {
+                    "x": 4642956.737,
+                    "y": 5649684.447
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.37092/41.70839&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.37092&mlon=41.70839#map=17/45.37092/41.70839"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ubjdj5e0gbmxype2gp0c",
+                "qibla": 184.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714874220,
+                        "astronomical": 1714953300,
+                        "civil": 1714872240,
+                        "nautical": 1714869720
+                    },
+                    "set": {
+                        "apparent": 1714926240,
+                        "astronomical": 1714933560,
+                        "civil": 1714928220,
+                        "nautical": 1714930680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "hesitate.ticked.jams"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.3813896,
+                    "lng": 41.7251396
+                },
+                "southwest": {
+                    "lat": 45.3530273,
+                    "lng": 41.675972
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Izobil\u2019nyy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Stavropol\u2019skiy Kray",
+                "town": "Izobil\u2019nyy"
+            },
+            "confidence": 7,
+            "formatted": "Izobil\u2019nyy, Stavropol\u2019skiy Kray, Russia",
+            "geometry": {
+                "lat": 45.37092,
+                "lng": 41.70839
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:28:01 GMT",
+        "created_unix": 1714901281
+    },
+    "total_results": 1
+}

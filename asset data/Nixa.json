@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2249,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 2' 38.16888'' N",
+                    "lng": "93\u00b0 18' 35.47224'' W"
+                },
+                "FIPS": {
+                    "county": "29043",
+                    "state": "29"
+                },
+                "MGRS": "15SVA7244699791",
+                "Maidenhead": "EM37ib20tn",
+                "Mercator": {
+                    "x": -10387205.366,
+                    "y": 4419489.539
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=141233#map=16/37.04394/-93.30985",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/37.04394/-93.30985&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.04394&mlon=-93.30985#map=16/37.04394/-93.30985"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ytdsxtudf4kmt5vpsyj",
+                "qibla": 45.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714907700,
+                        "astronomical": 1714901760,
+                        "civil": 1714906020,
+                        "nautical": 1714903920
+                    },
+                    "set": {
+                        "apparent": 1714871160,
+                        "astronomical": 1714877100,
+                        "civil": 1714872840,
+                        "nautical": 1714874880
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "waltzes.famines.floats"
+                },
+                "wikidata": "Q924239"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.0800113,
+                    "lng": -93.2557835
+                },
+                "southwest": {
+                    "lat": 37.0012901,
+                    "lng": -93.3317951
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nixa",
+                "_type": "city",
+                "city": "Nixa",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Christian County",
+                "postcode": "65714",
+                "state": "Missouri",
+                "state_code": "MO"
+            },
+            "confidence": 7,
+            "formatted": "Nixa, Missouri, United States of America",
+            "geometry": {
+                "lat": 37.0439358,
+                "lng": -93.3098534
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:57:21 GMT",
+        "created_unix": 1714892241
+    },
+    "total_results": 1
+}

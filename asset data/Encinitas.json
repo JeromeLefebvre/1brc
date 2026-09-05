@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1752,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 2' 13.15212'' N",
+                    "lng": "117\u00b0 17' 31.13448'' W"
+                },
+                "FIPS": {
+                    "county": "06073",
+                    "state": "06"
+                },
+                "MGRS": "11SMS7273555425",
+                "Maidenhead": "DM13ia48xv",
+                "Mercator": {
+                    "x": -13056883.688,
+                    "y": 3876920.971
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2297811#map=17/33.03699/-117.29198",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.03699/-117.29198&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.03699&mlon=-117.29198#map=17/33.03699/-117.29198"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9muefynw6sxmurz29p6c",
+                "qibla": 25.07,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050480,
+                        "astronomical": 1714045140,
+                        "civil": 1714048920,
+                        "nautical": 1714047060
+                    },
+                    "set": {
+                        "apparent": 1714012020,
+                        "astronomical": 1714017360,
+                        "civil": 1714013580,
+                        "nautical": 1714015440
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "toolkit.alignment.ruled"
+                },
+                "wikidata": "Q532711"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.0889653,
+                    "lng": -117.1957023
+                },
+                "southwest": {
+                    "lat": 32.995991,
+                    "lng": -117.3682912
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Encinitas",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Diego County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Encinitas"
+            },
+            "confidence": 6,
+            "formatted": "Encinitas, California, United States of America",
+            "geometry": {
+                "lat": 33.0369867,
+                "lng": -117.2919818
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:33:39 GMT",
+        "created_unix": 1714005219
+    },
+    "total_results": 1
+}

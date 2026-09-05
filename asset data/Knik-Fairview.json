@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 660,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "61\u00b0 30' 45.43200'' N",
+                    "lng": "149\u00b0 36' 0.43200'' W"
+                },
+                "FIPS": {
+                    "state": "02"
+                },
+                "MGRS": "6VUP6166822646",
+                "Maidenhead": "BP51em73xa",
+                "Mercator": {
+                    "x": -16653409.181,
+                    "y": 8706897.411
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/61.51262/-149.60012&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=61.51262&mlon=-149.60012#map=17/61.51262/-149.60012"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "bdvtgy08bx3rp55vr5b4",
+                "qibla": 351.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711726080,
+                        "astronomical": 1711716120,
+                        "civil": 1711723380,
+                        "nautical": 1711720080
+                    },
+                    "set": {
+                        "apparent": 1711687140,
+                        "astronomical": 1711697220,
+                        "civil": 1711689840,
+                        "nautical": 1711693200
+                    }
+                },
+                "timezone": {
+                    "name": "America/Anchorage",
+                    "now_in_dst": 1,
+                    "offset_sec": -28800,
+                    "offset_string": "-0800",
+                    "short_name": "AKDT"
+                },
+                "what3words": {
+                    "words": "beans.prime.fires"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 61.566482,
+                    "lng": -149.32917
+                },
+                "southwest": {
+                    "lat": 61.37444,
+                    "lng": -149.937716
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Knik-Fairview",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Matanuska-Susitna Borough",
+                "state": "Alaska",
+                "state_code": "AK",
+                "town": "Knik-Fairview"
+            },
+            "confidence": 4,
+            "formatted": "Knik-Fairview, Alaska, United States of America",
+            "geometry": {
+                "lat": 61.51262,
+                "lng": -149.60012
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:50:07 GMT",
+        "created_unix": 1711752607
+    },
+    "total_results": 1
+}

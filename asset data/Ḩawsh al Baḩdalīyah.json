@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1516,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 25' 59.99988'' N",
+                    "lng": "36\u00b0 21' 0.00000'' E"
+                },
+                "MGRS": "37SBT5363002468",
+                "Maidenhead": "KM83ek24aa",
+                "Mercator": {
+                    "x": 4046463.49,
+                    "y": 3929423.042
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=567121569#map=17/33.43333/36.35000",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.43333/36.35000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.43333&mlon=36.35000#map=17/33.43333/36.35000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "SY": "760",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 963,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u00a3",
+                        "\u0644.\u0633",
+                        "LS",
+                        "\u0627\u0644\u0644\u064a\u0631\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "SYP",
+                    "iso_numeric": "760",
+                    "name": "Syrian Pound",
+                    "smallest_denomination": 100,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3S",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfe",
+                "geohash": "svcy5nm723h983zbt9zh",
+                "qibla": 164.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713668280,
+                        "astronomical": 1713663000,
+                        "civil": 1713666720,
+                        "nautical": 1713664920
+                    },
+                    "set": {
+                        "apparent": 1713715740,
+                        "astronomical": 1713721080,
+                        "civil": 1713717300,
+                        "nautical": 1713719160
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Damascus",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "apprehend.weeknight.animate"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.4533333,
+                    "lng": 36.37
+                },
+                "southwest": {
+                    "lat": 33.4133333,
+                    "lng": 36.33
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SY",
+                "ISO_3166-1_alpha-3": "SYR",
+                "ISO_3166-2": [
+                    "SY-RD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Babbila Sudsitrict",
+                "_type": "village",
+                "continent": "Asia",
+                "country": "Syria",
+                "country_code": "sy",
+                "district": "Markaz Rif Dimashq District",
+                "state": "Rif Dimashq Governorate",
+                "state_code": "RD",
+                "subdistrict": "Babbila Sudsitrict",
+                "village": "Hawsh al Bahdaliyah"
+            },
+            "confidence": 7,
+            "formatted": "Babbila Sudsitrict, Hawsh al Bahdaliyah, Markaz Rif Dimashq District, Syria",
+            "geometry": {
+                "lat": 33.4333333,
+                "lng": 36.35
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:49:44 GMT",
+        "created_unix": 1713664184
+    },
+    "total_results": 1
+}

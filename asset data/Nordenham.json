@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1234,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 29' 50.50896'' N",
+                    "lng": "8\u00b0 28' 55.28172'' E"
+                },
+                "MGRS": "32UME6563927725",
+                "Maidenhead": "JO43fl79ui",
+                "Mercator": {
+                    "x": 944214.448,
+                    "y": 7041160.633
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE94"
+                    },
+                    "NUTS3": {
+                        "code": "DE94G"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=548617#map=17/53.49736/8.48202",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.49736/8.48202&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.49736&mlon=8.48202#map=17/53.49736/8.48202"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1w034bktrqs31046qq4",
+                "qibla": 131.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714880640,
+                        "astronomical": 1714869960,
+                        "civil": 1714878120,
+                        "nautical": 1714874760
+                    },
+                    "set": {
+                        "apparent": 1714935780,
+                        "astronomical": 1714946640,
+                        "civil": 1714938300,
+                        "nautical": 1714941660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "publication.blush.retakes"
+                },
+                "wikidata": "Q503711"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.5762798,
+                    "lng": 8.5567002
+                },
+                "southwest": {
+                    "lat": 53.4330107,
+                    "lng": 8.3625814
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nordenham",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Wesermarsch",
+                "political_union": "European Union",
+                "postcode": "26954",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Nordenham"
+            },
+            "confidence": 6,
+            "formatted": "26954 Nordenham, Germany",
+            "geometry": {
+                "lat": 53.4973636,
+                "lng": 8.4820227
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:36:28 GMT",
+        "created_unix": 1714901788
+    },
+    "total_results": 1
+}

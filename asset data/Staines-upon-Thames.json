@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 24,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 26' 2.44320'' N",
+                    "lng": "0\u00b0 30' 39.75840'' E"
+                },
+                "MGRS": "30UXC7300201029",
+                "Maidenhead": "IO91rk84qd",
+                "Mercator": {
+                    "x": -56889.158,
+                    "y": 6664996.921
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=9274280#map=17/51.43401/-0.51104",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.43401/-0.51104&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.43401&mlon=-0.51104#map=17/51.43401/-0.51104"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpss77bgfcbx1vguf8z",
+                "qibla": 118.5,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711691040,
+                        "astronomical": 1711684080,
+                        "civil": 1711689060,
+                        "nautical": 1711686660
+                    },
+                    "set": {
+                        "apparent": 1711737000,
+                        "astronomical": 1711744020,
+                        "civil": 1711739040,
+                        "nautical": 1711741440
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "rarely.credit.divisions"
+                },
+                "wikidata": "Q285323"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.4409531,
+                    "lng": -0.4734314
+                },
+                "southwest": {
+                    "lat": 51.4106204,
+                    "lng": -0.5300018
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SRY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Staines-upon-Thames",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Surrey",
+                "county_code": "SRY",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Staines-upon-Thames"
+            },
+            "confidence": 7,
+            "formatted": "Staines-upon-Thames, Surrey, England, United Kingdom",
+            "geometry": {
+                "lat": 51.434012,
+                "lng": -0.511044
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:10:17 GMT",
+        "created_unix": 1711753817
+    },
+    "total_results": 1
+}

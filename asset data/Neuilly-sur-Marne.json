@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1337,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 51' 23.60052'' N",
+                    "lng": "2\u00b0 31' 44.41620'' E"
+                },
+                "MGRS": "31UDQ6545111616",
+                "Maidenhead": "JN18gu35ln",
+                "Mercator": {
+                    "x": 281527.493,
+                    "y": 6218361.96
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR106"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=162562#map=17/48.85656/2.52900",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.85656/2.52900&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.85656&mlon=2.52900#map=17/48.85656/2.52900"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09vcw1d4446vfuqb5tw",
+                "qibla": 119.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714882980,
+                        "astronomical": 1714874760,
+                        "civil": 1714880820,
+                        "nautical": 1714878060
+                    },
+                    "set": {
+                        "apparent": 1714936260,
+                        "astronomical": 1714944600,
+                        "civil": 1714938420,
+                        "nautical": 1714941180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "central.conga.dreaming"
+                },
+                "wikidata": "Q220906"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.8766595,
+                    "lng": 2.5677584
+                },
+                "southwest": {
+                    "lat": 48.8522196,
+                    "lng": 2.5161675
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-93"
+                ],
+                "_category": "place",
+                "_normalized_city": "Neuilly-sur-Marne",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Seine-Saint-Denis",
+                "municipality": "Le Raincy",
+                "political_union": "European Union",
+                "postcode": "93330",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Neuilly-sur-Marne"
+            },
+            "confidence": 7,
+            "formatted": "93330 Neuilly-sur-Marne, France",
+            "geometry": {
+                "lat": 48.8565557,
+                "lng": 2.5290045
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:32:37 GMT",
+        "created_unix": 1714901557
+    },
+    "total_results": 1
+}

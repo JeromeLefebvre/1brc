@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1369,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 11' 31.70400'' N",
+                    "lng": "79\u00b0 56' 30.94800'' E"
+                },
+                "MGRS": "44PLU8489548024",
+                "Maidenhead": "MK92xe36ac",
+                "Mercator": {
+                    "x": 8899094.941,
+                    "y": 1358564.765
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/12.19214/79.94193&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.19214&mlon=79.94193#map=17/12.19214/79.94193"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tf0v75ebmgxkj877sz8g",
+                "qibla": 289.01,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714695660,
+                        "astronomical": 1714777620,
+                        "civil": 1714780740,
+                        "nautical": 1714779180
+                    },
+                    "set": {
+                        "apparent": 1714740840,
+                        "astronomical": 1714745280,
+                        "civil": 1714742160,
+                        "nautical": 1714743720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "seashell.bedroom.drape"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.236345,
+                    "lng": 79.981155
+                },
+                "southwest": {
+                    "lat": 12.192388,
+                    "lng": 79.955917
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "_category": "place",
+                "_normalized_city": "Marakkanam",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Villupuram",
+                "state": "Tamil N\u0101du",
+                "town": "Marakkanam"
+            },
+            "confidence": 7,
+            "formatted": "Marakkanam, Villupuram, India",
+            "geometry": {
+                "lat": 12.19214,
+                "lng": 79.94193
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:52:56 GMT",
+        "created_unix": 1714697576
+    },
+    "total_results": 1
+}

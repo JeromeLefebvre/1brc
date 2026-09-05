@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1625,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 46' 31.00800'' N",
+                    "lng": "121\u00b0 4' 45.01200'' E"
+                },
+                "MGRS": "51RUH0579441429",
+                "Maidenhead": "PL04ms96mb",
+                "Mercator": {
+                    "x": 13478471.55,
+                    "y": 2830268.055
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/24.77528/121.07917&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=24.77528&mlon=121.07917#map=17/24.77528/121.07917"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "TW": "158",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 886,
+                "currency": {
+                    "alternate_symbols": [
+                        "NT$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "NT$",
+                    "html_entity": "$",
+                    "iso_code": "TWD",
+                    "iso_numeric": "901",
+                    "name": "New Taiwan Dollar",
+                    "smallest_denomination": 50,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddfc",
+                "geohash": "wsqhgnpnmnuvcggyujt1",
+                "qibla": 286.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711921800,
+                        "astronomical": 1711917180,
+                        "civil": 1711920420,
+                        "nautical": 1711918800
+                    },
+                    "set": {
+                        "apparent": 1711879800,
+                        "astronomical": 1711884420,
+                        "civil": 1711881180,
+                        "nautical": 1711882800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Taipei",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "offshore.transmit.period"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 24.776951,
+                    "lng": 121.101326
+                },
+                "southwest": {
+                    "lat": 24.765265,
+                    "lng": 121.076797
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TW",
+                "ISO_3166-1_alpha-3": "TWN",
+                "_category": "place",
+                "_normalized_city": "Xionglin",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Taiwan",
+                "country_code": "tw",
+                "state": "Taiwan",
+                "town": "Xionglin"
+            },
+            "confidence": 8,
+            "formatted": "Xionglin, Taiwan",
+            "geometry": {
+                "lat": 24.77528,
+                "lng": 121.07917
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:55:49 GMT",
+        "created_unix": 1711918549
+    },
+    "total_results": 1
+}

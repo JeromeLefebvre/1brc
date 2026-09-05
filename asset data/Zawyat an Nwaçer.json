@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2214,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 22' 48.72000'' N",
+                    "lng": "7\u00b0 37' 15.78000'' W"
+                },
+                "MGRS": "29SPS2826594286",
+                "Maidenhead": "IM63ej51lf",
+                "Mercator": {
+                    "x": -848371.405,
+                    "y": 3922370.76
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.38020/-7.62105&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.38020&mlon=-7.62105#map=16/33.38020/-7.62105"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evftfsdtb8m1pf6kwwgd",
+                "qibla": 93.45,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711693380,
+                        "astronomical": 1711688340,
+                        "civil": 1711691880,
+                        "nautical": 1711690140
+                    },
+                    "set": {
+                        "apparent": 1711738080,
+                        "astronomical": 1711743120,
+                        "civil": 1711739580,
+                        "nautical": 1711741320
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 1,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "+00"
+                },
+                "what3words": {
+                    "words": "card.poet.conveys"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.395,
+                    "lng": -7.577133
+                },
+                "southwest": {
+                    "lat": 33.3605,
+                    "lng": -7.623998
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Nouaseur",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "Chaouia-Ouardigha",
+                "town": "Nouaseur"
+            },
+            "confidence": 7,
+            "formatted": "Nouaseur, Chaouia-Ouardigha, Morocco",
+            "geometry": {
+                "lat": 33.3802,
+                "lng": -7.62105
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 21:59:08 GMT",
+        "created_unix": 1711749548
+    },
+    "total_results": 1
+}

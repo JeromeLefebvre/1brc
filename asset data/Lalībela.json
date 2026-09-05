@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1945,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 2' 9.83004'' N",
+                    "lng": "39\u00b0 2' 44.46420'' E"
+                },
+                "MGRS": "37PEP0497230541",
+                "Maidenhead": "KK92ma58lp",
+                "Mercator": {
+                    "x": 4346545.716,
+                    "y": 1340908.491
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=71464974#map=16/12.03606/39.04568",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/12.03606/39.04568&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.03606&mlon=39.04568#map=16/12.03606/39.04568"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "sf5u2x05nkutf1gj5pvz",
+                "qibla": 4.45,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714532700,
+                        "astronomical": 1714528320,
+                        "civil": 1714531380,
+                        "nautical": 1714529880
+                    },
+                    "set": {
+                        "apparent": 1714577820,
+                        "astronomical": 1714582200,
+                        "civil": 1714579140,
+                        "nautical": 1714580640
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "stomping.designer.fest"
+                },
+                "wikidata": "Q207590"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.0760639,
+                    "lng": 39.0856845
+                },
+                "southwest": {
+                    "lat": 11.9960639,
+                    "lng": 39.0056845
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "ISO_3166-2": [
+                    "ET-AM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lalibela",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "postcode": "6500",
+                "state": "Amhara Region",
+                "state_district": "North Wollo Zone",
+                "town": "Lalibela"
+            },
+            "confidence": 7,
+            "formatted": "6500 Lalibela, Ethiopia",
+            "geometry": {
+                "lat": 12.0360639,
+                "lng": 39.0456845
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:46:49 GMT",
+        "created_unix": 1714531609
+    },
+    "total_results": 1
+}

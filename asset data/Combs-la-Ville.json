@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1276,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 39' 52.91784'' N",
+                    "lng": "2\u00b0 33' 53.55720'' E"
+                },
+                "MGRS": "31UDP6796090274",
+                "Maidenhead": "JN18gp79sm",
+                "Mercator": {
+                    "x": 285520.802,
+                    "y": 6186057.939
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR102"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=80407#map=17/48.66470/2.56488",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.66470/2.56488&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.66470&mlon=2.56488#map=17/48.66470/2.56488"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09uf75smvqzmjfkemyr",
+                "qibla": 119.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714020060,
+                        "astronomical": 1714012500,
+                        "civil": 1714018020,
+                        "nautical": 1714015440
+                    },
+                    "set": {
+                        "apparent": 1714071300,
+                        "astronomical": 1714078920,
+                        "civil": 1714073400,
+                        "nautical": 1714075980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "snap.month.braved"
+                },
+                "wikidata": "Q275375"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.6779132,
+                    "lng": 2.6196154
+                },
+                "southwest": {
+                    "lat": 48.6425454,
+                    "lng": 2.5334074
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-77"
+                ],
+                "_category": "place",
+                "_normalized_city": "Combs-la-Ville",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Seine-et-Marne",
+                "municipality": "Melun",
+                "political_union": "European Union",
+                "postcode": "77380",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Combs-la-Ville"
+            },
+            "confidence": 7,
+            "formatted": "77380 Combs-la-Ville, France",
+            "geometry": {
+                "lat": 48.6646994,
+                "lng": 2.564877
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:55:02 GMT",
+        "created_unix": 1714006502
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 627,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 43' 31.23588'' N",
+                    "lng": "89\u00b0 39' 41.56344'' W"
+                },
+                "MGRS": "16PBA1214718938",
+                "Maidenhead": "EK53er04ob",
+                "Mercator": {
+                    "x": -9981077.578,
+                    "y": 1532592.54
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2861310427#map=17/13.72534/-89.66155",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.72534/-89.66155&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.72534&mlon=-89.66155#map=17/13.72534/-89.66155"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "SV": "222",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 503,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfb",
+                "geohash": "d42npdw7yt6jcq4qfvz2",
+                "qibla": 55.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711799760,
+                        "astronomical": 1711795500,
+                        "civil": 1711798500,
+                        "nautical": 1711797000
+                    },
+                    "set": {
+                        "apparent": 1711757340,
+                        "astronomical": 1711761600,
+                        "civil": 1711758660,
+                        "nautical": 1711760160
+                    }
+                },
+                "timezone": {
+                    "name": "America/El_Salvador",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "balloon.ogre.northland"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.7653433,
+                    "lng": -89.6215454
+                },
+                "southwest": {
+                    "lat": 13.6853433,
+                    "lng": -89.7015454
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SV",
+                "ISO_3166-1_alpha-3": "SLV",
+                "ISO_3166-2": [
+                    "SV-SO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Caluco",
+                "_type": "city",
+                "continent": "North America",
+                "country": "El Salvador",
+                "country_code": "sv",
+                "county": "Municipio de Caluco",
+                "state": "Departamento de Sonsonate",
+                "state_code": "SO",
+                "town": "Caluco"
+            },
+            "confidence": 7,
+            "formatted": "Caluco, Municipio de Caluco, El Salvador",
+            "geometry": {
+                "lat": 13.7253433,
+                "lng": -89.6615454
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:31:34 GMT",
+        "created_unix": 1711834294
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2107,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 44' 47.02884'' N",
+                    "lng": "46\u00b0 48' 9.86616'' E"
+                },
+                "MGRS": "38RPN8230538067",
+                "Maidenhead": "LL34jr69hd",
+                "Mercator": {
+                    "x": 5210057.251,
+                    "y": 2826746.846
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=785402412#map=17/24.74640/46.80274",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/24.74640/46.80274&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=24.74640&mlon=46.80274#map=17/24.74640/46.80274"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "SA": "682",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 966,
+                "currency": {
+                    "alternate_symbols": [
+                        "SR",
+                        "\ufdfc"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "SAR",
+                    "iso_numeric": "682",
+                    "name": "Saudi Riyal",
+                    "smallest_denomination": 5,
+                    "subunit": "Hallallah",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0631.\u0633",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\udde6",
+                "geohash": "th3kc0bwnysz6pp4se8c",
+                "qibla": 244.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Safaja",
+                    "road_type": "residential",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713752760,
+                        "astronomical": 1713747960,
+                        "civil": 1713751320,
+                        "nautical": 1713749640
+                    },
+                    "set": {
+                        "apparent": 1713799020,
+                        "astronomical": 1713803820,
+                        "civil": 1713800460,
+                        "nautical": 1713802140
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Riyadh",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "rungs.rocker.admits"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 24.747317,
+                    "lng": 46.803132
+                },
+                "southwest": {
+                    "lat": 24.7458807,
+                    "lng": 46.802043
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SA",
+                "ISO_3166-1_alpha-3": "SAU",
+                "ISO_3166-2": [
+                    "SA-01"
+                ],
+                "_category": "road",
+                "_normalized_city": "Al Rawda Muncipality",
+                "_type": "road",
+                "city_district": "Al Rawda Muncipality",
+                "continent": "Asia",
+                "country": "Saudi Arabia",
+                "country_code": "sa",
+                "municipality": "Al Malaz",
+                "postcode": "10011",
+                "province": "Riyadh governorate",
+                "road": "Safaja",
+                "road_type": "residential",
+                "state": "Riyadh Region"
+            },
+            "confidence": 9,
+            "formatted": "Safaja, Al Rawda Muncipality, 10011, Saudi Arabia",
+            "geometry": {
+                "lat": 24.7463969,
+                "lng": 46.8027406
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:24:04 GMT",
+        "created_unix": 1713745444
+    },
+    "total_results": 1
+}

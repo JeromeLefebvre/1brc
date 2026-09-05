@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 266,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 17' 27.94056'' N",
+                    "lng": "13\u00b0 31' 49.52568'' E"
+                },
+                "MGRS": "33TUF7694972113",
+                "Maidenhead": "JN61sg39pu",
+                "Mercator": {
+                    "x": 1506199.888,
+                    "y": 5027170.355
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI4"
+                    },
+                    "NUTS3": {
+                        "code": "ITI44"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=41175#map=16/41.29109/13.53042",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/41.29109/13.53042&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.29109&mlon=13.53042#map=16/41.29109/13.53042"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr3dguud19zjx25h2f6q",
+                "qibla": 123.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932040,
+                        "astronomical": 1713925860,
+                        "civil": 1713930240,
+                        "nautical": 1713928140
+                    },
+                    "set": {
+                        "apparent": 1713981300,
+                        "astronomical": 1713987480,
+                        "civil": 1713983040,
+                        "nautical": 1713985200
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "propulsion.sponsoring.spacings"
+                },
+                "wikidata": "Q128092"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.3697366,
+                    "lng": 13.6031202
+                },
+                "southwest": {
+                    "lat": 41.2376071,
+                    "lng": 13.4526575
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-62",
+                    "IT-LT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Itri",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Latina",
+                "county_code": "LT",
+                "political_union": "European Union",
+                "state": "Lazio",
+                "state_code": "LAZ",
+                "town": "Itri"
+            },
+            "confidence": 6,
+            "formatted": "Itri, Latina, Italy",
+            "geometry": {
+                "lat": 41.2910946,
+                "lng": 13.5304238
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:26:00 GMT",
+        "created_unix": 1713997560
+    },
+    "total_results": 1
+}

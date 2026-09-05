@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2452,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 49' 40.09296'' N",
+                    "lng": "73\u00b0 57' 54.16920'' W"
+                },
+                "FIPS": {
+                    "county": "36111",
+                    "state": "36"
+                },
+                "MGRS": "18TWM8594331175",
+                "Maidenhead": "FN31at48eq",
+                "Mercator": {
+                    "x": -8233751.369,
+                    "y": 5106716.919
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3177653#map=17/41.82780/-73.96505",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.82780/-73.96505&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.82780&mlon=-73.96505#map=17/41.82780/-73.96505"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr7muys297xx3udq13gv",
+                "qibla": 58.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714902420,
+                        "astronomical": 1714895820,
+                        "civil": 1714900620,
+                        "nautical": 1714898340
+                    },
+                    "set": {
+                        "apparent": 1714953480,
+                        "astronomical": 1714873740,
+                        "civil": 1714868940,
+                        "nautical": 1714871220
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "connect.balloon.pines"
+                },
+                "wikidata": "Q3709827"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.922066,
+                    "lng": -73.93933
+                },
+                "southwest": {
+                    "lat": 41.766354,
+                    "lng": -74.072789
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Esopus",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Ulster County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Esopus"
+            },
+            "confidence": 6,
+            "formatted": "Esopus, New York, United States of America",
+            "geometry": {
+                "lat": 41.8278036,
+                "lng": -73.965047
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:49:45 GMT",
+        "created_unix": 1714891785
+    },
+    "total_results": 1
+}

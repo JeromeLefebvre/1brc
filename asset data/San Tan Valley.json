@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2480,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 10' 39.08388'' N",
+                    "lng": "111\u00b0 32' 52.41120'' W"
+                },
+                "FIPS": {
+                    "county": "04021",
+                    "state": "04"
+                },
+                "MGRS": "12SVB4892071101",
+                "Maidenhead": "DM43fe42go",
+                "Mercator": {
+                    "x": -12417454.537,
+                    "y": 3895509.697
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=4305311177#map=17/33.17752/-111.54789",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.17752/-111.54789&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.17752&mlon=-111.54789#map=17/33.17752/-111.54789"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9tbstxv31dx5mycm939s",
+                "qibla": 30.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714480800,
+                        "astronomical": 1714475340,
+                        "civil": 1714479180,
+                        "nautical": 1714477320
+                    },
+                    "set": {
+                        "apparent": 1714442880,
+                        "astronomical": 1714448340,
+                        "civil": 1714444440,
+                        "nautical": 1714446300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Phoenix",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "leopards.hallmarks.breathed"
+                },
+                "wikidata": "Q5241708"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.2175233,
+                    "lng": -111.507892
+                },
+                "southwest": {
+                    "lat": 33.1375233,
+                    "lng": -111.587892
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Tan Valley",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pinal County",
+                "postcode": "85143",
+                "state": "Arizona",
+                "state_code": "AZ",
+                "town": "San Tan Valley"
+            },
+            "confidence": 7,
+            "formatted": "San Tan Valley, AZ 85143, United States of America",
+            "geometry": {
+                "lat": 33.1775233,
+                "lng": -111.547892
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:47:53 GMT",
+        "created_unix": 1714517273
+    },
+    "total_results": 1
+}

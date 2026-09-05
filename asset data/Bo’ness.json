@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2490,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 1' 3.67212'' N",
+                    "lng": "3\u00b0 36' 26.49636'' W"
+                },
+                "MGRS": "30VVH6213708214",
+                "Maidenhead": "IO86ea74cf",
+                "Mercator": {
+                    "x": -401569.489,
+                    "y": 7526477.566
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=29338194#map=17/56.01769/-3.60736",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/56.01769/-3.60736&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.01769&mlon=-3.60736#map=17/56.01769/-3.60736"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcvqtvtnwmtm5mbnemy5",
+                "qibla": 119.11,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714537860,
+                        "astronomical": 1714525440,
+                        "civil": 1714535160,
+                        "nautical": 1714531500
+                    },
+                    "set": {
+                        "apparent": 1714593240,
+                        "astronomical": 1714606080,
+                        "civil": 1714595880,
+                        "nautical": 1714599660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "twin.loss.plodding"
+                },
+                "wikidata": "Q896424"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.0576867,
+                    "lng": -3.5673601
+                },
+                "southwest": {
+                    "lat": 55.9776867,
+                    "lng": -3.6473601
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-FAL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bo'ness",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Falkirk",
+                "county_code": "FAL",
+                "postcode": "EH51 9AB",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Bo'ness"
+            },
+            "confidence": 7,
+            "formatted": "Bo'ness, EH51 9AB, United Kingdom",
+            "geometry": {
+                "lat": 56.0176867,
+                "lng": -3.6073601
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:00:22 GMT",
+        "created_unix": 1714521622
+    },
+    "total_results": 1
+}

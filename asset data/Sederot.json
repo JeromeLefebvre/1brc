@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1063,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 31' 35.30640'' N",
+                    "lng": "34\u00b0 35' 49.09056'' E"
+                },
+                "MGRS": "36RXV5162189055",
+                "Maidenhead": "KM71hm16pi",
+                "Mercator": {
+                    "x": 3851317.039,
+                    "y": 3678972.299
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1380001#map=17/31.52647/34.59697",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.52647/34.59697&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.52647&mlon=34.59697#map=17/31.52647/34.59697"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IL": "376",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 972,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf1",
+                "geohash": "sv8e770xpbdqcb75sszm",
+                "qibla": 153.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714877640,
+                        "astronomical": 1714872240,
+                        "civil": 1714876080,
+                        "nautical": 1714874220
+                    },
+                    "set": {
+                        "apparent": 1714926180,
+                        "astronomical": 1714931580,
+                        "civil": 1714927740,
+                        "nautical": 1714929600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "organ.bleach.revision"
+                },
+                "wikidata": "Q123196"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.5537667,
+                    "lng": 34.6202454
+                },
+                "southwest": {
+                    "lat": 31.5119817,
+                    "lng": 34.5796178
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IL",
+                "ISO_3166-1_alpha-3": "ISR",
+                "ISO_3166-2": [
+                    "IL-D"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sderot",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Israel",
+                "country_code": "il",
+                "postcode": "8720178",
+                "state": "South District",
+                "state_district": "Ashkelon Subdistrict",
+                "town": "Sderot"
+            },
+            "confidence": 7,
+            "formatted": "8720178 Sderot, Israel",
+            "geometry": {
+                "lat": 31.526474,
+                "lng": 34.5969696
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:17:00 GMT",
+        "created_unix": 1714947420
+    },
+    "total_results": 1
+}

@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 518,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 49' 59.99880'' S",
+                    "lng": "70\u00b0 55' 0.00120'' W"
+                },
+                "MGRS": "19KBB9577237892",
+                "Maidenhead": "FH43ne00aa",
+                "Mercator": {
+                    "x": -7894407.259,
+                    "y": -1889065.539
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1875889#map=17/-16.83333/-70.91667",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-16.83333/-70.91667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-16.83333&mlon=-70.91667#map=17/-16.83333/-70.91667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "LATIN_AMERICA": "419",
+                        "PE": "604",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 51,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "S/",
+                    "iso_code": "PEN",
+                    "iso_numeric": "604",
+                    "name": "Peruvian Sol",
+                    "smallest_denomination": 1,
+                    "subunit": "C\u00e9ntimo",
+                    "subunit_to_unit": 100,
+                    "symbol": "S/",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddea",
+                "geohash": "6mj84r849zk3mfg2dk25",
+                "qibla": 73.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714733880,
+                        "astronomical": 1714729440,
+                        "civil": 1714732500,
+                        "nautical": 1714730940
+                    },
+                    "set": {
+                        "apparent": 1714774980,
+                        "astronomical": 1714779420,
+                        "civil": 1714776300,
+                        "nautical": 1714777860
+                    }
+                },
+                "timezone": {
+                    "name": "America/Lima",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "strolls.conflicted.handshake"
+                },
+                "wikidata": "Q208182"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -15.9759636,
+                    "lng": -69.9950521
+                },
+                "southwest": {
+                    "lat": -17.8214824,
+                    "lng": -71.490799
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PE",
+                "ISO_3166-1_alpha-3": "PER",
+                "ISO_3166-2": [
+                    "PE-MOQ"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "South America",
+                "country": "Peru",
+                "country_code": "pe",
+                "state": "Moquegua",
+                "state_code": "MOQ"
+            },
+            "confidence": 1,
+            "formatted": "Moquegua, Peru",
+            "geometry": {
+                "lat": -16.833333,
+                "lng": -70.916667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:24:41 GMT",
+        "created_unix": 1714699481
+    },
+    "total_results": 1
+}

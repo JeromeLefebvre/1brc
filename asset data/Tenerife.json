@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 556,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 13' 1.20000'' N",
+                    "lng": "16\u00b0 35' 20.40000'' W"
+                },
+                "MGRS": "28RCS4406822263",
+                "Maidenhead": "IL18qf92hb",
+                "Mercator": {
+                    "x": -1846679.033,
+                    "y": 3256162.113
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES7"
+                    },
+                    "NUTS2": {
+                        "code": "ES70"
+                    },
+                    "NUTS3": {
+                        "code": "ES709"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/28.21700/-16.58900&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=28.21700&mlon=-16.58900#map=17/28.21700/-16.58900"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "eth0w88rbq113u41f21f",
+                "qibla": 84.23,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714026720,
+                        "astronomical": 1714021740,
+                        "civil": 1714025280,
+                        "nautical": 1714023540
+                    },
+                    "set": {
+                        "apparent": 1714073820,
+                        "astronomical": 1714078800,
+                        "civil": 1714075260,
+                        "nautical": 1714077000
+                    }
+                },
+                "timezone": {
+                    "name": "Atlantic/Canary",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WEST"
+                },
+                "what3words": {
+                    "words": "untaxed.prestigious.groups"
+                },
+                "wikidata": "Q40846"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 28.59589,
+                    "lng": -16.10046
+                },
+                "southwest": {
+                    "lat": 27.98385,
+                    "lng": -16.94641
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-TF",
+                    "ES-CN"
+                ],
+                "_category": "natural/water",
+                "_normalized_city": "Tenerife",
+                "_type": "island",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "county": "Santa Cruz de Tenerife",
+                "county_code": "TF",
+                "island": "Tenerife",
+                "political_union": "European Union",
+                "state": "Canary Islands",
+                "state_code": "CN"
+            },
+            "confidence": 1,
+            "formatted": "Tenerife, Canary Islands, Spain",
+            "geometry": {
+                "lat": 28.217,
+                "lng": -16.589
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:26:57 GMT",
+        "created_unix": 1714008417
+    },
+    "total_results": 1
+}

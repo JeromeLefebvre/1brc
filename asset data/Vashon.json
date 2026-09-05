@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2213,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 26' 52.97856'' N",
+                    "lng": "122\u00b0 27' 38.41200'' W"
+                },
+                "FIPS": {
+                    "county": "53033",
+                    "state": "53"
+                },
+                "MGRS": "10TET4065855097",
+                "Maidenhead": "CN87sk47rm",
+                "Mercator": {
+                    "x": -13632259.427,
+                    "y": 5984024.26
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=150933908#map=17/47.44805/-122.46067",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.44805/-122.46067&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.44805&mlon=-122.46067#map=17/47.44805/-122.46067"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c22vvmdugtd0sju4r17f",
+                "qibla": 17.46,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050180,
+                        "astronomical": 1714042860,
+                        "civil": 1714048140,
+                        "nautical": 1714045680
+                    },
+                    "set": {
+                        "apparent": 1714014840,
+                        "astronomical": 1714022160,
+                        "civil": 1714016820,
+                        "nautical": 1714019340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "wishful.pillow.subscribed"
+                },
+                "wikidata": "Q1505272"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.4880496,
+                    "lng": -122.42067
+                },
+                "southwest": {
+                    "lat": 47.4080496,
+                    "lng": -122.50067
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vashon",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "King County",
+                "postcode": "98070",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "Vashon"
+            },
+            "confidence": 7,
+            "formatted": "Vashon, WA 98070, United States of America",
+            "geometry": {
+                "lat": 47.4480496,
+                "lng": -122.46067
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:12:57 GMT",
+        "created_unix": 1714003977
+    },
+    "total_results": 1
+}

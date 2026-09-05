@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 179,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "1\u00b0 13' 20.44488'' N",
+                    "lng": "77\u00b0 40' 35.89284'' W"
+                },
+                "MGRS": "18NTG0211535254",
+                "Maidenhead": "FJ11df83ti",
+                "Mercator": {
+                    "x": -8646923.666,
+                    "y": 135170.393
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=703167852#map=17/1.22235/-77.67664",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/1.22235/-77.67664&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=1.22235&mlon=-77.67664#map=17/1.22235/-77.67664"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CO": "170",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 57,
+                "currency": {
+                    "alternate_symbols": [
+                        "COL$"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "COL$",
+                    "html_entity": "&#36;",
+                    "iso_code": "COP",
+                    "iso_numeric": "170",
+                    "name": "Colombian Peso",
+                    "smallest_denomination": 20,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf4",
+                "geohash": "d20ybqt8ejv89nvt18tc",
+                "qibla": 65.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713870300,
+                        "astronomical": 1713866100,
+                        "civil": 1713869040,
+                        "nautical": 1713867600
+                    },
+                    "set": {
+                        "apparent": 1713913920,
+                        "astronomical": 1713831780,
+                        "civil": 1713915240,
+                        "nautical": 1713916680
+                    }
+                },
+                "timezone": {
+                    "name": "America/Bogota",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "spotlight.aggravates.magnolias"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 1.2623458,
+                    "lng": -77.6366369
+                },
+                "southwest": {
+                    "lat": 1.1823458,
+                    "lng": -77.7166369
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CO",
+                "ISO_3166-1_alpha-3": "COL",
+                "ISO_3166-2": [
+                    "CO-NAR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Guachav\u00e9s (Santacruz)",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Colombia",
+                "country_code": "co",
+                "county": "Santacruz",
+                "region": "RAP Pac\u00edfico",
+                "state": "Nari\u00f1o",
+                "state_code": "NAR",
+                "state_district": "Los Abades",
+                "town": "Guachav\u00e9s (Santacruz)"
+            },
+            "confidence": 7,
+            "formatted": "Guachav\u00e9s (Santacruz), Santacruz, Colombia",
+            "geometry": {
+                "lat": 1.2223458,
+                "lng": -77.6766369
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:37:07 GMT",
+        "created_unix": 1713854227
+    },
+    "total_results": 1
+}

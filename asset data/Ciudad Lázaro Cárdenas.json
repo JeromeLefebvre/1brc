@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 812,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 57' 34.11684'' N",
+                    "lng": "102\u00b0 11' 55.17240'' W"
+                },
+                "MGRS": "13QGV9672187940",
+                "Maidenhead": "DK87vx60dg",
+                "Mercator": {
+                    "x": -11376702.68,
+                    "y": 2019637.555
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=293980795#map=16/17.95948/-102.19866",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/17.95948/-102.19866&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.95948&mlon=-102.19866#map=16/17.95948/-102.19866"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9epq4mmjw9hsdw1v2e6n",
+                "qibla": 44.95,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713529800,
+                        "astronomical": 1713525300,
+                        "civil": 1713528480,
+                        "nautical": 1713526920
+                    },
+                    "set": {
+                        "apparent": 1713488760,
+                        "astronomical": 1713493260,
+                        "civil": 1713490080,
+                        "nautical": 1713491640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "guarded.blues.grace"
+                },
+                "wikidata": "Q1785340"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.1194769,
+                    "lng": -102.038659
+                },
+                "southwest": {
+                    "lat": 17.7994769,
+                    "lng": -102.358659
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MIC"
+                ],
+                "_category": "place",
+                "_normalized_city": "L\u00e1zaro C\u00e1rdenas",
+                "_type": "city",
+                "city": "L\u00e1zaro C\u00e1rdenas",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "L\u00e1zaro C\u00e1rdenas",
+                "postcode": "60950",
+                "state": "Michoac\u00e1n",
+                "state_code": "MIC"
+            },
+            "confidence": 3,
+            "formatted": "L\u00e1zaro C\u00e1rdenas, Mexico",
+            "geometry": {
+                "lat": 17.9594769,
+                "lng": -102.198659
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:15:46 GMT",
+        "created_unix": 1713521746
+    },
+    "total_results": 1
+}

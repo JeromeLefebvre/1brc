@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 40,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 27' 29.73420'' S",
+                    "lng": "25\u00b0 49' 53.34852'' E"
+                },
+                "MGRS": "35LLF7351311885",
+                "Maidenhead": "KH26vn90sa",
+                "Mercator": {
+                    "x": 2875547.835,
+                    "y": -1502197.773
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1239485431#map=17/-13.45826/25.83149",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-13.45826/25.83149&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-13.45826&mlon=25.83149#map=17/-13.45826/25.83149"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZM": "894"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 260,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ZMK",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ZMK",
+                    "iso_numeric": "894",
+                    "name": "Zambian Kwacha",
+                    "smallest_denomination": 5,
+                    "subunit": "Ngwee",
+                    "subunit_to_unit": 100,
+                    "symbol": "ZK",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddff\ud83c\uddf2",
+                "geohash": "ktd77vczvnxfcpmhdtuu",
+                "qibla": 21.71,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713673440,
+                        "astronomical": 1713669180,
+                        "civil": 1713672180,
+                        "nautical": 1713670680
+                    },
+                    "set": {
+                        "apparent": 1713715560,
+                        "astronomical": 1713719880,
+                        "civil": 1713716880,
+                        "nautical": 1713718380
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Lusaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "consumables.proofed.unhelpful"
+                },
+                "wikidata": "Q1734917"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -13.4182595,
+                    "lng": 25.8714857
+                },
+                "southwest": {
+                    "lat": -13.4982595,
+                    "lng": 25.7914857
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZM",
+                "ISO_3166-1_alpha-3": "ZMB",
+                "ISO_3166-2": [
+                    "ZM-06"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kasempa",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Zambia",
+                "country_code": "zm",
+                "state": "North-Western Province",
+                "state_district": "Kasempa District",
+                "town": "Kasempa"
+            },
+            "confidence": 7,
+            "formatted": "Kasempa, Kasempa District, Zambia",
+            "geometry": {
+                "lat": -13.4582595,
+                "lng": 25.8314857
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:50:54 GMT",
+        "created_unix": 1713667854
+    },
+    "total_results": 1
+}

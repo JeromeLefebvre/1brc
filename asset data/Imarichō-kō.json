@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2108,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 16' 26.74812'' N",
+                    "lng": "129\u00b0 52' 38.60832'' E"
+                },
+                "MGRS": "52SEB8170982017",
+                "Maidenhead": "PM43wg55gs",
+                "Mercator": {
+                    "x": 14457885.054,
+                    "y": 3908300.872
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7626187703#map=16/33.27410/129.87739",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.27410/129.87739&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.27410&mlon=129.87739#map=16/33.27410/129.87739"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvum73mgdt4n0zwfkszp",
+                "qibla": 288.19,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713904980,
+                        "astronomical": 1713899640,
+                        "civil": 1713903420,
+                        "nautical": 1713901560
+                    },
+                    "set": {
+                        "apparent": 1713866160,
+                        "astronomical": 1713871440,
+                        "civil": 1713867720,
+                        "nautical": 1713869520
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "keener.snaps.form"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.2840967,
+                    "lng": 129.8873912
+                },
+                "southwest": {
+                    "lat": 33.2640967,
+                    "lng": 129.8673912
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-41"
+                ],
+                "_category": "place",
+                "_normalized_city": "Imari",
+                "_type": "neighbourhood",
+                "city": "Imari",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "postcode": "848-0027",
+                "province": "Saga Prefecture",
+                "quarter": "Imaricho-Ko",
+                "state": "Saga Prefecture"
+            },
+            "confidence": 7,
+            "formatted": "Imaricho-Ko, Imari, Saga Prefecture 848-0027, Japan",
+            "geometry": {
+                "lat": 33.2740967,
+                "lng": 129.8773912
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 02:47:43 GMT",
+        "created_unix": 1713840463
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 446,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 59' 28.95000'' N",
+                    "lng": "73\u00b0 22' 17.50440'' E"
+                },
+                "MGRS": "43UCA9581195044",
+                "Maidenhead": "MO64qx47ow",
+                "Mercator": {
+                    "x": 8167681.247,
+                    "y": 7325167.662
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1558108#map=17/54.99137/73.37153",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.99137/73.37153&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.99137&mlon=73.37153#map=17/54.99137/73.37153"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v9u0vdgebx337jdhxpnq",
+                "qibla": 230.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714951140,
+                        "astronomical": 1714938900,
+                        "civil": 1714948500,
+                        "nautical": 1714944900
+                    },
+                    "set": {
+                        "apparent": 1714920480,
+                        "astronomical": 1714933260,
+                        "civil": 1714923180,
+                        "nautical": 1714926840
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Omsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "deeply.chatted.digs"
+                },
+                "wikidata": "Q898"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.4265654,
+                    "lng": 73.6599421
+                },
+                "southwest": {
+                    "lat": 54.8240406,
+                    "lng": 73.0975262
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-OMS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Omsk",
+                "_type": "city",
+                "city": "Omsk",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Siberian Federal District",
+                "state": "Omsk Oblast"
+            },
+            "confidence": 1,
+            "formatted": "Omsk, Omsk Oblast, Russia",
+            "geometry": {
+                "lat": 54.991375,
+                "lng": 73.371529
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:42:57 GMT",
+        "created_unix": 1714948977
+    },
+    "total_results": 1
+}

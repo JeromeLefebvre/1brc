@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1860,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 1' 19.54920'' N",
+                    "lng": "7\u00b0 34' 45.83064'' E"
+                },
+                "MGRS": "32TLQ8807786386",
+                "Maidenhead": "JN35sa95mh",
+                "Mercator": {
+                    "x": 843734.659,
+                    "y": 5594763.629
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC1"
+                    },
+                    "NUTS3": {
+                        "code": "ITC11"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=43989#map=17/45.02210/7.57940",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.02210/7.57940&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.02210&mlon=7.57940#map=17/45.02210/7.57940"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0j2hkp0sz0mdrtt4e3g",
+                "qibla": 121.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714105620,
+                        "astronomical": 1714098840,
+                        "civil": 1714103760,
+                        "nautical": 1714101420
+                    },
+                    "set": {
+                        "apparent": 1714156080,
+                        "astronomical": 1714162980,
+                        "civil": 1714158000,
+                        "nautical": 1714160340
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "lamp.adopting.sleepy"
+                },
+                "wikidata": "Q9048"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.034488,
+                    "lng": 7.6121637
+                },
+                "southwest": {
+                    "lat": 44.9977949,
+                    "lng": 7.5713744
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-21",
+                    "IT-TO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Beinasco",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Torino",
+                "county_code": "TO",
+                "political_union": "European Union",
+                "postcode": "10092",
+                "state": "Piedmont",
+                "town": "Beinasco"
+            },
+            "confidence": 7,
+            "formatted": "10092 Beinasco TO, Italy",
+            "geometry": {
+                "lat": 45.022097,
+                "lng": 7.5793974
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:19:29 GMT",
+        "created_unix": 1714169969
+    },
+    "total_results": 1
+}

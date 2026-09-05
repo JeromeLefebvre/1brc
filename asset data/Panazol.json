@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 527,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 50' 13.18956'' N",
+                    "lng": "1\u00b0 18' 21.39192'' E"
+                },
+                "MGRS": "31TCL6844177332",
+                "Maidenhead": "JN05pu60rv",
+                "Mercator": {
+                    "x": 145376.821,
+                    "y": 5723601.383
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRI"
+                    },
+                    "NUTS2": {
+                        "code": "FRI2"
+                    },
+                    "NUTS3": {
+                        "code": "FRI23"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117244#map=16/45.83700/1.30594",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.83700/1.30594&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.83700&mlon=1.30594#map=16/45.83700/1.30594"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u00uv8qgyet44tv4z9sp",
+                "qibla": 114.81,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714711200,
+                        "astronomical": 1714703880,
+                        "civil": 1714709220,
+                        "nautical": 1714706700
+                    },
+                    "set": {
+                        "apparent": 1714763040,
+                        "astronomical": 1714770420,
+                        "civil": 1714765080,
+                        "nautical": 1714767540
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "poppy.pushing.squeezed"
+                },
+                "wikidata": "Q1078810"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.8722862,
+                    "lng": 1.3680551
+                },
+                "southwest": {
+                    "lat": 45.8168041,
+                    "lng": 1.2775744
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-NAQ",
+                    "FR-87"
+                ],
+                "_category": "place",
+                "_normalized_city": "Panazol",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Haute-Vienne",
+                "municipality": "Limoges",
+                "political_union": "European Union",
+                "postcode": "87350",
+                "region": "Metropolitan France",
+                "state": "Nouvelle-Aquitaine",
+                "state_code": "NAQ",
+                "town": "Panazol"
+            },
+            "confidence": 7,
+            "formatted": "87350 Panazol, France",
+            "geometry": {
+                "lat": 45.8369971,
+                "lng": 1.3059422
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:24:21 GMT",
+        "created_unix": 1714699461
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 588,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 51' 42.62508'' N",
+                    "lng": "93\u00b0 31' 50.59452'' W"
+                },
+                "FIPS": {
+                    "county": "27019",
+                    "state": "27"
+                },
+                "MGRS": "15TVK5807067739",
+                "Maidenhead": "EN34fu66hu",
+                "Mercator": {
+                    "x": -10411792.202,
+                    "y": 5569644.797
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=136690#map=17/44.86184/-93.53072",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.86184/-93.53072&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.86184&mlon=-93.53072#map=17/44.86184/-93.53072"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zvrpwv50jpv694njr55",
+                "qibla": 43.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713698340,
+                        "astronomical": 1713691740,
+                        "civil": 1713696480,
+                        "nautical": 1713694200
+                    },
+                    "set": {
+                        "apparent": 1713661620,
+                        "astronomical": 1713668280,
+                        "civil": 1713663480,
+                        "nautical": 1713665760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "crusty.girder.appeals"
+                },
+                "wikidata": "Q1992901"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.891561,
+                    "lng": -93.51133
+                },
+                "southwest": {
+                    "lat": 44.795362,
+                    "lng": -93.6297155
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chanhassen",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Carver County",
+                "postcode": "55317",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Chanhassen"
+            },
+            "confidence": 6,
+            "formatted": "Chanhassen, MN 55317, United States of America",
+            "geometry": {
+                "lat": 44.8618403,
+                "lng": -93.5307207
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:28:42 GMT",
+        "created_unix": 1713666522
+    },
+    "total_results": 1
+}

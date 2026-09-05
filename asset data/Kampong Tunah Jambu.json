@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 984,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "4\u00b0 58' 59.98800'' N",
+                    "lng": "114\u00b0 58' 59.98800'' E"
+                },
+                "MGRS": "50NKL7639151163",
+                "Maidenhead": "OJ74lx75xx",
+                "Mercator": {
+                    "x": 12799885.745,
+                    "y": 551733.462
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/4.98333/114.98333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=4.98333&mlon=114.98333#map=17/4.98333/114.98333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "BN": "096",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 673,
+                "currency": {
+                    "alternate_symbols": [
+                        "B$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "BND",
+                    "html_entity": "$",
+                    "iso_code": "BND",
+                    "iso_numeric": "096",
+                    "name": "Brunei Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Sen",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddf3",
+                "geohash": "w8cu2e0q1b113g7dfv2f",
+                "qibla": 290.87,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714687740,
+                        "astronomical": 1714683420,
+                        "civil": 1714686480,
+                        "nautical": 1714684980
+                    },
+                    "set": {
+                        "apparent": 1714645500,
+                        "astronomical": 1714649820,
+                        "civil": 1714646820,
+                        "nautical": 1714648320
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Brunei",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "+08"
+                },
+                "what3words": {
+                    "words": "whitish.premiered.treaty"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BN",
+                "ISO_3166-1_alpha-3": "BRN",
+                "_category": "place",
+                "_normalized_city": "Kampong Tunah Jambu",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Brunei",
+                "country_code": "bn",
+                "town": "Kampong Tunah Jambu"
+            },
+            "confidence": 9,
+            "formatted": "Kampong Tunah Jambu, Brunei",
+            "geometry": {
+                "lat": 4.98333,
+                "lng": 114.98333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:56:45 GMT",
+        "created_unix": 1714694205
+    },
+    "total_results": 1
+}

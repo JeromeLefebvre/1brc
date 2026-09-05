@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2453,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 54' 26.09316'' N",
+                    "lng": "85\u00b0 47' 31.12224'' W"
+                },
+                "FIPS": {
+                    "county": "26139",
+                    "state": "26"
+                },
+                "MGRS": "16TEN9861251222",
+                "Maidenhead": "EN72cv47xr",
+                "Mercator": {
+                    "x": -9550319.35,
+                    "y": 5268765.425
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=135215#map=17/42.90725/-85.79198",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.90725/-85.79198&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.90725&mlon=-85.79198#map=17/42.90725/-85.79198"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpdupg00y4b2dkuvwt20",
+                "qibla": 49.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713783000,
+                        "astronomical": 1713776640,
+                        "civil": 1713781200,
+                        "nautical": 1713779040
+                    },
+                    "set": {
+                        "apparent": 1713746040,
+                        "astronomical": 1713752400,
+                        "civil": 1713747840,
+                        "nautical": 1713750000
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "extra.prompting.round"
+                },
+                "wikidata": "Q1019664"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.92841,
+                    "lng": -85.785632
+                },
+                "southwest": {
+                    "lat": 42.8852696,
+                    "lng": -85.85262
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jenison",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Ottawa County",
+                "municipality": "Georgetown Charter Township",
+                "postcode": "49428",
+                "state": "Michigan",
+                "state_code": "MI",
+                "suburb": "Jenison"
+            },
+            "confidence": 7,
+            "formatted": "Jenison, MI 49428, United States of America",
+            "geometry": {
+                "lat": 42.9072481,
+                "lng": -85.7919784
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:10:24 GMT",
+        "created_unix": 1713744624
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1497,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 33' 54.13932'' N",
+                    "lng": "75\u00b0 37' 33.22848'' W"
+                },
+                "FIPS": {
+                    "county": "42077",
+                    "state": "42"
+                },
+                "MGRS": "18TVK4701690662",
+                "Maidenhead": "FN20en45vo",
+                "Mercator": {
+                    "x": -8418636.325,
+                    "y": 4920602.119
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=9426017#map=17/40.56504/-75.62590",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.56504/-75.62590&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.56504&mlon=-75.62590#map=17/40.56504/-75.62590"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4nz0dukzk1m7myjvfq",
+                "qibla": 57.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713953460,
+                        "astronomical": 1713947340,
+                        "civil": 1713951720,
+                        "nautical": 1713949620
+                    },
+                    "set": {
+                        "apparent": 1714002660,
+                        "astronomical": 1713922380,
+                        "civil": 1713918000,
+                        "nautical": 1713920100
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "riverbeds.furniture.shiny"
+                },
+                "wikidata": "Q7898760"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.6207419,
+                    "lng": -75.5513769
+                },
+                "southwest": {
+                    "lat": 40.5177332,
+                    "lng": -75.694308
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Upper Macungie Township",
+                "_type": "city",
+                "city": "Upper Macungie Township",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lehigh County",
+                "state": "Pennsylvania",
+                "state_code": "PA"
+            },
+            "confidence": 6,
+            "formatted": "Upper Macungie Township, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.5650387,
+                "lng": -75.6258968
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:43:45 GMT",
+        "created_unix": 1713995025
+    },
+    "total_results": 1
+}

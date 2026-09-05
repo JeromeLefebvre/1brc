@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1903,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 25' 35.71176'' N",
+                    "lng": "87\u00b0 16' 46.90128'' W"
+                },
+                "FIPS": {
+                    "county": "12033",
+                    "state": "12"
+                },
+                "MGRS": "16RDU7314066089",
+                "Maidenhead": "EM60ik62kj",
+                "Mercator": {
+                    "x": -9715931.182,
+                    "y": 3536866.336
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=153595441#map=16/30.42659/-87.27969",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.42659/-87.27969&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.42659&mlon=-87.27969#map=16/30.42659/-87.27969"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj3vjfuzewydf7k7cqf6",
+                "qibla": 51.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713870840,
+                        "astronomical": 1713865680,
+                        "civil": 1713869340,
+                        "nautical": 1713867540
+                    },
+                    "set": {
+                        "apparent": 1713831660,
+                        "astronomical": 1713836820,
+                        "civil": 1713833160,
+                        "nautical": 1713834960
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "renamed.jokes.cube"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.4465866,
+                    "lng": -87.2596948
+                },
+                "southwest": {
+                    "lat": 30.4065866,
+                    "lng": -87.2996948
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "West Pensacola",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Escambia County",
+                "hamlet": "West Pensacola",
+                "postcode": "32511",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 7,
+            "formatted": "West Pensacola, Escambia County, FL 32511, United States of America",
+            "geometry": {
+                "lat": 30.4265866,
+                "lng": -87.2796948
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 02:55:48 GMT",
+        "created_unix": 1713840948
+    },
+    "total_results": 1
+}

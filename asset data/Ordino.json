@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 239,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 33' 22.14000'' N",
+                    "lng": "1\u00b0 32' 0.58020'' E"
+                },
+                "MGRS": "31TCH7960912570",
+                "Maidenhead": "JN02sn43al",
+                "Mercator": {
+                    "x": 170707.827,
+                    "y": 5215749.035
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=58963219#map=17/42.55615/1.53349",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.55615/1.53349&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.55615&mlon=1.53349#map=17/42.55615/1.53349"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AD": "020",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 376,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\udde9",
+                "geohash": "sp944ghet126uj11dtm8",
+                "qibla": 111.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713934740,
+                        "astronomical": 1713928380,
+                        "civil": 1713932940,
+                        "nautical": 1713930780
+                    },
+                    "set": {
+                        "apparent": 1713984300,
+                        "astronomical": 1713990720,
+                        "civil": 1713986100,
+                        "nautical": 1713988320
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Andorra",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "slim.sharpest.backpacked"
+                },
+                "wikidata": "Q3885480"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.59615,
+                    "lng": 1.5734945
+                },
+                "southwest": {
+                    "lat": 42.51615,
+                    "lng": 1.4934945
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AD",
+                "ISO_3166-1_alpha-3": "AND",
+                "ISO_3166-2": [
+                    "AD-05"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ordino",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Andorra",
+                "country_code": "ad",
+                "municipality": "Ordino",
+                "postcode": "AD300",
+                "town": "Ordino"
+            },
+            "confidence": 7,
+            "formatted": "AD300 Ordino, Andorra",
+            "geometry": {
+                "lat": 42.55615,
+                "lng": 1.5334945
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:26:56 GMT",
+        "created_unix": 1713997616
+    },
+    "total_results": 1
+}

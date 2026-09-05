@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1053,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 18' 26.42400'' N",
+                    "lng": "89\u00b0 25' 5.12400'' W"
+                },
+                "MGRS": "16QBH4749247342",
+                "Maidenhead": "EL50gh93ts",
+                "Mercator": {
+                    "x": -9953976.247,
+                    "y": 2294652.872
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/20.30734/-89.41809&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=20.30734&mlon=-89.41809#map=17/20.30734/-89.41809"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "d587t0zdz6x997yn4xhx",
+                "qibla": 52.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713699300,
+                        "astronomical": 1713694740,
+                        "civil": 1713697980,
+                        "nautical": 1713696360
+                    },
+                    "set": {
+                        "apparent": 1713658620,
+                        "astronomical": 1713663240,
+                        "civil": 1713660000,
+                        "nautical": 1713661620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Merida",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "stove.managers.model"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 20.328081,
+                    "lng": -89.3915719
+                },
+                "southwest": {
+                    "lat": 20.2812139,
+                    "lng": -89.4437832
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Oxkutzkab",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Yucat\u00e1n",
+                "state_code": "YUC",
+                "town": "Oxkutzkab"
+            },
+            "confidence": 7,
+            "formatted": "Oxkutzkab, Yucat\u00e1n, Mexico",
+            "geometry": {
+                "lat": 20.30734,
+                "lng": -89.41809
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:08:15 GMT",
+        "created_unix": 1713665295
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 266,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 5' 45.99960'' S",
+                    "lng": "27\u00b0 58' 30.00000'' E"
+                },
+                "MGRS": "35JNM9749913307",
+                "Maidenhead": "KG33xv76aw",
+                "Mercator": {
+                    "x": 3114162.755,
+                    "y": -2992199.688
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262721987#map=17/-26.09611/27.97500",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-26.09611/27.97500&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-26.09611&mlon=27.97500#map=17/-26.09611/27.97500"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "ke7gs96g0srfk9fu09py",
+                "qibla": 14.7,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714797240,
+                        "astronomical": 1714792560,
+                        "civil": 1714795800,
+                        "nautical": 1714794180
+                    },
+                    "set": {
+                        "apparent": 1714836900,
+                        "astronomical": 1714841640,
+                        "civil": 1714838340,
+                        "nautical": 1714839960
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "indoor.vowing.onion"
+                },
+                "wikidata": "Q2296366"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -25.936111,
+                    "lng": 28.135
+                },
+                "southwest": {
+                    "lat": -26.256111,
+                    "lng": 27.815
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-GP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Randburg",
+                "_type": "city",
+                "city": "Randburg",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "City of Johannesburg Metropolitan Municipality",
+                "postcode": "2194",
+                "state": "Gauteng",
+                "state_code": "GT"
+            },
+            "confidence": 3,
+            "formatted": "Randburg, City of Johannesburg Metropolitan Municipality, South Africa",
+            "geometry": {
+                "lat": -26.096111,
+                "lng": 27.975
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:07:33 GMT",
+        "created_unix": 1714795653
+    },
+    "total_results": 1
+}

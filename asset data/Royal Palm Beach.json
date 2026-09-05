@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1259,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 42' 18.29592'' N",
+                    "lng": "80\u00b0 13' 40.62684'' W"
+                },
+                "FIPS": {
+                    "county": "12099",
+                    "state": "12"
+                },
+                "MGRS": "17RNK7679954003",
+                "Maidenhead": "EL96vq29pf",
+                "Mercator": {
+                    "x": -8930934.753,
+                    "y": 3067476.825
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117922#map=17/26.70508/-80.22795",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.70508/-80.22795&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.70508&mlon=-80.22795#map=17/26.70508/-80.22795"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhwzymeb3hphqh8y9rb1",
+                "qibla": 56.38,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714473840,
+                        "astronomical": 1714468860,
+                        "civil": 1714472400,
+                        "nautical": 1714470660
+                    },
+                    "set": {
+                        "apparent": 1714521120,
+                        "astronomical": 1714439760,
+                        "civil": 1714436220,
+                        "nautical": 1714437960
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "insist.screamed.starter"
+                },
+                "wikidata": "Q2385234"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.7363005,
+                    "lng": -80.1895578
+                },
+                "southwest": {
+                    "lat": 26.6654901,
+                    "lng": -80.2570445
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Royal Palm Beach",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Palm Beach County",
+                "postcode": "33411",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "Royal Palm Beach"
+            },
+            "confidence": 7,
+            "formatted": "Royal Palm Beach, FL 33411, United States of America",
+            "geometry": {
+                "lat": 26.7050822,
+                "lng": -80.2279519
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:57:40 GMT",
+        "created_unix": 1714521460
+    },
+    "total_results": 1
+}

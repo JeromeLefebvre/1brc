@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1044,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "14\u00b0 30' 27.61200'' N",
+                    "lng": "43\u00b0 46' 23.91600'' E"
+                },
+                "MGRS": "38PLB6781504227",
+                "Maidenhead": "LK14vm21tu",
+                "Mercator": {
+                    "x": 4872822.58,
+                    "y": 1621827.718
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7294933937#map=16/14.50767/43.77331",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/14.50767/43.77331&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=14.50767&mlon=43.77331#map=16/14.50767/43.77331"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001",
+                        "YE": "887"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LDC"
+                    ]
+                },
+                "callingcode": 967,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "YER",
+                    "iso_numeric": "886",
+                    "name": "Yemeni Rial",
+                    "smallest_denomination": 100,
+                    "subunit": "Fils",
+                    "subunit_to_unit": 100,
+                    "symbol": "\ufdfc",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfe\ud83c\uddea",
+                "geohash": "sfx4s14c219wkrxe6txy",
+                "qibla": 332.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713495000,
+                        "astronomical": 1713490620,
+                        "civil": 1713493680,
+                        "nautical": 1713492120
+                    },
+                    "set": {
+                        "apparent": 1713539880,
+                        "astronomical": 1713544320,
+                        "civil": 1713541200,
+                        "nautical": 1713542760
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Aden",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "congruency.restraining.hoses"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 14.52767,
+                    "lng": 43.79331
+                },
+                "southwest": {
+                    "lat": 14.48767,
+                    "lng": 43.75331
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "YE",
+                "ISO_3166-1_alpha-3": "YEM",
+                "ISO_3166-2": [
+                    "YE-RA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Masdi",
+                "_type": "hamlet",
+                "continent": "Asia",
+                "country": "Yemen",
+                "country_code": "ye",
+                "district": "Mazhar District",
+                "hamlet": "Masdi",
+                "state": "Raymah Governorate",
+                "state_code": "RA"
+            },
+            "confidence": 7,
+            "formatted": "Masdi, Mazhar District, Yemen",
+            "geometry": {
+                "lat": 14.50767,
+                "lng": 43.77331
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:08:29 GMT",
+        "created_unix": 1713521309
+    },
+    "total_results": 1
+}

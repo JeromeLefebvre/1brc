@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2083,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 28' 57.08100'' N",
+                    "lng": "7\u00b0 54' 55.31004'' W"
+                },
+                "MGRS": "29SPR0191294439",
+                "Maidenhead": "IM62bl05dt",
+                "Mercator": {
+                    "x": -881134.279,
+                    "y": 3803871.969
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2907756788#map=17/32.48252/-7.91536",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.48252/-7.91536&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.48252&mlon=-7.91536#map=17/32.48252/-7.91536"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evf2gck0qthfhwshn0cp",
+                "qibla": 92.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713678960,
+                        "astronomical": 1713673740,
+                        "civil": 1713677460,
+                        "nautical": 1713675600
+                    },
+                    "set": {
+                        "apparent": 1713726300,
+                        "astronomical": 1713731520,
+                        "civil": 1713727800,
+                        "nautical": 1713729660
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "ages.house.swapped"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.4825725,
+                    "lng": -7.9153139
+                },
+                "southwest": {
+                    "lat": 32.4824725,
+                    "lng": -7.9154139
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "ISO_3166-2": [
+                    "MA-07",
+                    "MA-REH"
+                ],
+                "_category": "government",
+                "_normalized_city": "Skhour Rhamna",
+                "_type": "post_office",
+                "city": "Skhour Rhamna",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "cercle de Rehamna",
+                "locality": "Hay Al Massira",
+                "municipality": "ca\u00efdat de Skhour",
+                "post_office": "Skhour Rehamna",
+                "postcode": "43402",
+                "region": "Marrakech-Safi",
+                "state_district": "Rhamna Province"
+            },
+            "confidence": 9,
+            "formatted": "Skhour Rehamna, 43402 Hay Al Massira, Morocco",
+            "geometry": {
+                "lat": 32.4825225,
+                "lng": -7.9153639
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:27:01 GMT",
+        "created_unix": 1713662821
+    },
+    "total_results": 1
+}

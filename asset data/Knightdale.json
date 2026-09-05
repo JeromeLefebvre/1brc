@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1494,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 47' 16.43100'' N",
+                    "lng": "78\u00b0 28' 56.25768'' W"
+                },
+                "FIPS": {
+                    "county": "37183",
+                    "state": "37"
+                },
+                "MGRS": "17SQV2754463348",
+                "Maidenhead": "FM05ss29cc",
+                "Mercator": {
+                    "x": -8736608.982,
+                    "y": 4246487.41
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=180073#map=17/35.78790/-78.48229",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.78790/-78.48229&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.78790&mlon=-78.48229#map=17/35.78790/-78.48229"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dq25w4fzw58hnerfccyk",
+                "qibla": 55.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714731600,
+                        "astronomical": 1714725840,
+                        "civil": 1714729920,
+                        "nautical": 1714727940
+                    },
+                    "set": {
+                        "apparent": 1714694520,
+                        "astronomical": 1714700280,
+                        "civil": 1714696200,
+                        "nautical": 1714698180
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "stainless.scholar.sweep"
+                },
+                "wikidata": "Q1905830"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.8290686,
+                    "lng": -78.4458467
+                },
+                "southwest": {
+                    "lat": 35.7536531,
+                    "lng": -78.5402505
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Knightdale",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Wake County",
+                "postcode": "27545",
+                "state": "North Carolina",
+                "state_code": "NC",
+                "town": "Knightdale"
+            },
+            "confidence": 7,
+            "formatted": "Knightdale, NC 27545, United States of America",
+            "geometry": {
+                "lat": 35.7878975,
+                "lng": -78.4822938
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:48:19 GMT",
+        "created_unix": 1714697299
+    },
+    "total_results": 1
+}

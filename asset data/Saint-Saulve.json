@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 713,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 22' 15.65940'' N",
+                    "lng": "3\u00b0 33' 17.04096'' E"
+                },
+                "MGRS": "31UER3944980030",
+                "Maidenhead": "JO10si69nb",
+                "Mercator": {
+                    "x": 395711.134,
+                    "y": 6477850.042
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRE"
+                    },
+                    "NUTS2": {
+                        "code": "FRE1"
+                    },
+                    "NUTS3": {
+                        "code": "FRE11"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=53418#map=17/50.37102/3.55473",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.37102/3.55473&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.37102&mlon=3.55473#map=17/50.37102/3.55473"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u0fw8cu2rq13rt13v6nf",
+                "qibla": 122.07,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711776420,
+                        "astronomical": 1711769580,
+                        "civil": 1711774440,
+                        "nautical": 1711772100
+                    },
+                    "set": {
+                        "apparent": 1711822440,
+                        "astronomical": 1711829340,
+                        "civil": 1711824420,
+                        "nautical": 1711826820
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "plugged.famed.drives"
+                },
+                "wikidata": "Q1101167"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.4060465,
+                    "lng": 3.5963959
+                },
+                "southwest": {
+                    "lat": 50.352918,
+                    "lng": 3.5410767
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-HDF",
+                    "FR-59"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saint-Saulve",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Nord",
+                "municipality": "Valenciennes",
+                "political_union": "European Union",
+                "postcode": "59880",
+                "region": "Metropolitan France",
+                "state": "Hauts-de-France",
+                "state_code": "HDF",
+                "town": "Saint-Saulve"
+            },
+            "confidence": 7,
+            "formatted": "59880 Saint-Saulve, France",
+            "geometry": {
+                "lat": 50.3710165,
+                "lng": 3.5547336
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:28:52 GMT",
+        "created_unix": 1711834132
+    },
+    "total_results": 1
+}

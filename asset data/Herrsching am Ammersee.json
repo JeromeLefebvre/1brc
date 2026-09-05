@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1103,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 59' 57.45444'' N",
+                    "lng": "11\u00b0 10' 29.30988'' E"
+                },
+                "MGRS": "32TPU6222918510",
+                "Maidenhead": "JN57ox09xt",
+                "Mercator": {
+                    "x": 1243973.97,
+                    "y": 6074967.808
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE21"
+                    },
+                    "NUTS3": {
+                        "code": "DE21L"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=932292#map=16/47.99929/11.17481",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.99929/11.17481&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.99929&mlon=11.17481#map=16/47.99929/11.17481"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0xcn610putp01suhffg",
+                "qibla": 129.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711774680,
+                        "astronomical": 1711768260,
+                        "civil": 1711772820,
+                        "nautical": 1711770600
+                    },
+                    "set": {
+                        "apparent": 1711820520,
+                        "astronomical": 1711827000,
+                        "civil": 1711822380,
+                        "nautical": 1711824660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "remembrance.motorbike.filming"
+                },
+                "wikidata": "Q170020"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.0462345,
+                    "lng": 11.2128151
+                },
+                "southwest": {
+                    "lat": 47.9575574,
+                    "lng": 11.1294714
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Herrsching am Ammersee",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Starnberg",
+                "municipality": "W\u00f6rthsee",
+                "political_union": "European Union",
+                "postcode": "82237",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Herrsching am Ammersee"
+            },
+            "confidence": 7,
+            "formatted": "82237 Herrsching am Ammersee, Germany",
+            "geometry": {
+                "lat": 47.9992929,
+                "lng": 11.1748083
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:16:29 GMT",
+        "created_unix": 1711833389
+    },
+    "total_results": 1
+}

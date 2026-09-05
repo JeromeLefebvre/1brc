@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1222,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 29' 26.45412'' N",
+                    "lng": "73\u00b0 6' 40.89600'' W"
+                },
+                "FIPS": {
+                    "county": "50007",
+                    "state": "50"
+                },
+                "MGRS": "18TXQ5016728108",
+                "Maidenhead": "FN34kl67ps",
+                "Mercator": {
+                    "x": -8138719.366,
+                    "y": 5511737.883
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=199053#map=16/44.49068/-73.11136",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.49068/-73.11136&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.49068&mlon=-73.11136#map=16/44.49068/-73.11136"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "druj073cjb4tzpfmx0jt",
+                "qibla": 59.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714038720,
+                        "astronomical": 1714032000,
+                        "civil": 1714036860,
+                        "nautical": 1714034520
+                    },
+                    "set": {
+                        "apparent": 1714088940,
+                        "astronomical": 1714009320,
+                        "civil": 1714004460,
+                        "nautical": 1714006740
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "partners.shatters.ditches"
+                },
+                "wikidata": "Q648356"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.5064094,
+                    "lng": -73.0817861
+                },
+                "southwest": {
+                    "lat": 44.4718935,
+                    "lng": -73.1449165
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-VT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Essex Junction",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Chittenden County",
+                "state": "Vermont",
+                "state_code": "VT",
+                "town": "Essex Junction"
+            },
+            "confidence": 7,
+            "formatted": "Essex Junction, Vermont, United States of America",
+            "geometry": {
+                "lat": 44.4906817,
+                "lng": -73.11136
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:57:26 GMT",
+        "created_unix": 1714006646
+    },
+    "total_results": 1
+}

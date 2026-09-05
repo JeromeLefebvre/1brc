@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1350,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 28' 46.83252'' N",
+                    "lng": "140\u00b0 22' 33.76740'' E"
+                },
+                "MGRS": "54SVF4410637334",
+                "Maidenhead": "QM06el55dc",
+                "Mercator": {
+                    "x": 15626590.016,
+                    "y": 4341420.912
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2682902#map=17/36.47968/140.37605",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.47968/140.37605&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.47968&mlon=140.37605#map=17/36.47968/140.37605"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn7zd2ftwbqvf1g3jsuv",
+                "qibla": 293.35,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713729540,
+                        "astronomical": 1713723960,
+                        "civil": 1713727920,
+                        "nautical": 1713726000
+                    },
+                    "set": {
+                        "apparent": 1713690960,
+                        "astronomical": 1713696540,
+                        "civil": 1713692580,
+                        "nautical": 1713694560
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "candle.dims.reassure"
+                },
+                "wikidata": "Q1203068"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.549719,
+                    "lng": 140.414441
+                },
+                "southwest": {
+                    "lat": 36.426519,
+                    "lng": 140.201246
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-08"
+                ],
+                "_category": "place",
+                "_normalized_city": "Shirosato",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Higashiibaraki County",
+                "province": "Ibaraki Prefecture",
+                "state": "Ibaraki Prefecture",
+                "town": "Shirosato"
+            },
+            "confidence": 5,
+            "formatted": "Shirosato, Higashiibaraki County, Japan",
+            "geometry": {
+                "lat": 36.4796757,
+                "lng": 140.3760465
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:56:19 GMT",
+        "created_unix": 1713664579
+    },
+    "total_results": 1
+}

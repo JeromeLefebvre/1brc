@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2298,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 59' 24.00000'' S",
+                    "lng": "25\u00b0 39' 42.00012'' E"
+                },
+                "MGRS": "35HLC7638938145",
+                "Maidenhead": "KF26ta92jj",
+                "Mercator": {
+                    "x": 2856643.67,
+                    "y": -4003572.624
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=26151600#map=17/-33.99000/25.66167",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-33.99000/25.66167&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-33.99000&mlon=25.66167#map=17/-33.99000/25.66167"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "k9fnxuq3bhv81zx82ctc",
+                "qibla": 15.76,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713761220,
+                        "astronomical": 1713756180,
+                        "civil": 1713759660,
+                        "nautical": 1713757920
+                    },
+                    "set": {
+                        "apparent": 1713800700,
+                        "astronomical": 1713805680,
+                        "civil": 1713802200,
+                        "nautical": 1713803940
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "delay.dial.keen"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -33.97,
+                    "lng": 25.6816667
+                },
+                "southwest": {
+                    "lat": -34.01,
+                    "lng": 25.6416667
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-EC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gqeberha",
+                "_type": "neighbourhood",
+                "city": "Gqeberha",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Nelson Mandela Bay Metropolitan Municipality",
+                "postcode": "6001",
+                "state": "Eastern Cape",
+                "state_code": "EC",
+                "suburb": "Summerstrand"
+            },
+            "confidence": 7,
+            "formatted": "Summerstrand, Gqeberha, 6001, South Africa",
+            "geometry": {
+                "lat": -33.99,
+                "lng": 25.6616667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:16:37 GMT",
+        "created_unix": 1713744997
+    },
+    "total_results": 1
+}

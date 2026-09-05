@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2472,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 29' 59.02800'' N",
+                    "lng": "3\u00b0 27' 36.61200'' E"
+                },
+                "MGRS": "31SEU4224517663",
+                "Maidenhead": "JM14rl59fw",
+                "Mercator": {
+                    "x": 385184.362,
+                    "y": 4071901.173
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.49973/3.46017&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.49973&mlon=3.46017#map=17/34.49973/3.46017"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "DZ": "012",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 213,
+                "currency": {
+                    "alternate_symbols": [
+                        "DA"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DZD",
+                    "iso_numeric": "012",
+                    "name": "Algerian Dinar",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u062c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddff",
+                "geohash": "sn4kq8rx7zcc8hvjdsn8",
+                "qibla": 102.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711777020,
+                        "astronomical": 1711771920,
+                        "civil": 1711775460,
+                        "nautical": 1711773720
+                    },
+                    "set": {
+                        "apparent": 1711821900,
+                        "astronomical": 1711827000,
+                        "civil": 1711823400,
+                        "nautical": 1711825200
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Algiers",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "stresses.access.master"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DZ",
+                "ISO_3166-1_alpha-3": "DZA",
+                "_category": "place",
+                "_normalized_city": "Moudjbara",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Algeria",
+                "country_code": "dz",
+                "state": "Wilaya de Djelfa",
+                "town": "Moudjbara"
+            },
+            "confidence": 9,
+            "formatted": "Moudjbara, Wilaya de Djelfa, Algeria",
+            "geometry": {
+                "lat": 34.49973,
+                "lng": 3.46017
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:33:01 GMT",
+        "created_unix": 1711830781
+    },
+    "total_results": 1
+}

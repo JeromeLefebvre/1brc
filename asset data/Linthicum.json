@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 429,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 12' 8.41788'' N",
+                    "lng": "76\u00b0 39' 19.22040'' W"
+                },
+                "FIPS": {
+                    "county": "24003",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ5706640535",
+                "Maidenhead": "FM19qe18in",
+                "Mercator": {
+                    "x": -8533233.304,
+                    "y": 4723684.752
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=848279408#map=16/39.20234/-76.65534",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/39.20234/-76.65534&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.20234&mlon=-76.65534#map=16/39.20234/-76.65534"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcrp8t61js2y6chg29g",
+                "qibla": 56.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Washington, Baltimore and Annapolis Electric Railway",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713867540,
+                        "astronomical": 1713861600,
+                        "civil": 1713865800,
+                        "nautical": 1713863760
+                    },
+                    "set": {
+                        "apparent": 1713916320,
+                        "astronomical": 1713835800,
+                        "civil": 1713831600,
+                        "nautical": 1713833640
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "label.hardly.bland"
+                },
+                "wikidata": "Q6554849"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.2073383,
+                    "lng": -76.650339
+                },
+                "southwest": {
+                    "lat": 39.1973383,
+                    "lng": -76.660339
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "transportation",
+                "_normalized_city": "Shipley Heights",
+                "_type": "railway",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Anne Arundel County",
+                "hamlet": "Shipley",
+                "neighbourhood": "Shipley Heights",
+                "postcode": "21090",
+                "railway": "Linthicum",
+                "road": "Washington, Baltimore and Annapolis Electric Railway",
+                "state": "Maryland",
+                "state_code": "MD",
+                "village": "Linthicum"
+            },
+            "confidence": 9,
+            "formatted": "Linthicum, Washington, Baltimore and Annapolis Electric Railway, Anne Arundel County, MD 21090, United States of America",
+            "geometry": {
+                "lat": 39.2023383,
+                "lng": -76.655339
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:27:15 GMT",
+        "created_unix": 1713853635
+    },
+    "total_results": 1
+}

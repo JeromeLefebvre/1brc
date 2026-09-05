@@ -1,0 +1,152 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1036,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 30' 9.28044'' N",
+                    "lng": "9\u00b0 44' 50.25264'' E"
+                },
+                "MGRS": "32TNT5627861286",
+                "Maidenhead": "JN47um90qo",
+                "Mercator": {
+                    "x": 1085063.627,
+                    "y": 5992977.303
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "AT"
+                    },
+                    "NUTS1": {
+                        "code": "AT3"
+                    },
+                    "NUTS2": {
+                        "code": "AT34"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=75073#map=17/47.50258/9.74729",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.50258/9.74729&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.50258&mlon=9.74729#map=17/47.50258/9.74729"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AT": "040",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 43,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf9",
+                "geohash": "u0qyjz9f86k48j0mq801",
+                "qibla": 126.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536300,
+                        "astronomical": 1714528680,
+                        "civil": 1714534260,
+                        "nautical": 1714531680
+                    },
+                    "set": {
+                        "apparent": 1714588320,
+                        "astronomical": 1714596000,
+                        "civil": 1714590420,
+                        "nautical": 1714593000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Vienna",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "stir.systems.goggles"
+                },
+                "wikidata": "Q1737"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5346568,
+                    "lng": 9.8076723
+                },
+                "southwest": {
+                    "lat": 47.480016,
+                    "lng": 9.6515804
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AT",
+                "ISO_3166-1_alpha-3": "AUT",
+                "ISO_3166-2": [
+                    "AT-8"
+                ],
+                "_category": "place",
+                "_normalized_city": "Stadt Bregenz",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Austria",
+                "country_code": "at",
+                "county": "Bezirk Bregenz",
+                "political_union": "European Union",
+                "state": "Vorarlberg",
+                "state_code": "8",
+                "town": "Stadt Bregenz"
+            },
+            "confidence": 7,
+            "formatted": "Stadt Bregenz, Bezirk Bregenz, Austria",
+            "geometry": {
+                "lat": 47.5025779,
+                "lng": 9.7472924
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:25:00 GMT",
+        "created_unix": 1714533900
+    },
+    "total_results": 1
+}

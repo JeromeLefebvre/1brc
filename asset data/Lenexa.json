@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1040,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 58' 11.08488'' N",
+                    "lng": "94\u00b0 47' 4.50132'' W"
+                },
+                "FIPS": {
+                    "county": "20091",
+                    "state": "20"
+                },
+                "MGRS": "15SUD4539814933",
+                "Maidenhead": "EM28ox52ur",
+                "Mercator": {
+                    "x": -10551371.593,
+                    "y": 4690462.115
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=130191#map=17/38.96975/-94.78458",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.96975/-94.78458&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.96975&mlon=-94.78458#map=17/38.96975/-94.78458"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yuten5zpp5ud10dspcz",
+                "qibla": 43.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711714080,
+                        "astronomical": 1711708680,
+                        "civil": 1711712460,
+                        "nautical": 1711710600
+                    },
+                    "set": {
+                        "apparent": 1711672800,
+                        "astronomical": 1711678260,
+                        "civil": 1711674420,
+                        "nautical": 1711676280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "ruler.fade.finger"
+                },
+                "wikidata": "Q992536"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.992919,
+                    "lng": -94.7050286
+                },
+                "southwest": {
+                    "lat": 38.915035,
+                    "lng": -94.908962
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-KS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lenexa",
+                "_type": "city",
+                "city": "Lenexa",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Johnson County",
+                "state": "Kansas",
+                "state_code": "KS"
+            },
+            "confidence": 6,
+            "formatted": "Lenexa, Kansas, United States of America",
+            "geometry": {
+                "lat": 38.9697458,
+                "lng": -94.7845837
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:37:19 GMT",
+        "created_unix": 1711751839
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2083,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 50' 2.36040'' N",
+                    "lng": "74\u00b0 5' 49.51140'' W"
+                },
+                "FIPS": {
+                    "county": "34003",
+                    "state": "34"
+                },
+                "MGRS": "18TWL7612720720",
+                "Maidenhead": "FN20wu80id",
+                "Mercator": {
+                    "x": -8248449.938,
+                    "y": 4959940.441
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=170599#map=17/40.83399/-74.09709",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.83399/-74.09709&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.83399&mlon=-74.09709#map=17/40.83399/-74.09709"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr723cs5hxrb2sknw373",
+                "qibla": 58.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714729920,
+                        "astronomical": 1714723560,
+                        "civil": 1714728180,
+                        "nautical": 1714725960
+                    },
+                    "set": {
+                        "apparent": 1714780500,
+                        "astronomical": 1714700520,
+                        "civil": 1714695900,
+                        "nautical": 1714698060
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "shot.jazz.placed"
+                },
+                "wikidata": "Q746830"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.8533514,
+                    "lng": -74.0606921
+                },
+                "southwest": {
+                    "lat": 40.787994,
+                    "lng": -74.121404
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Rutherford",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Bergen County",
+                "postcode": "07073",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "village": "East Rutherford"
+            },
+            "confidence": 7,
+            "formatted": "East Rutherford, Bergen County, NJ 07073, United States of America",
+            "geometry": {
+                "lat": 40.833989,
+                "lng": -74.0970865
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:26:47 GMT",
+        "created_unix": 1714696007
+    },
+    "total_results": 1
+}

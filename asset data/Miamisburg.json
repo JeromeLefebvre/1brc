@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2150,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 38' 34.21032'' N",
+                    "lng": "84\u00b0 17' 11.78988'' W"
+                },
+                "FIPS": {
+                    "county": "39113",
+                    "state": "39"
+                },
+                "MGRS": "16SGJ3283291635",
+                "Maidenhead": "EM79up54og",
+                "Mercator": {
+                    "x": -9382742.317,
+                    "y": 4786909.252
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=182951#map=17/39.64284/-84.28661",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.64284/-84.28661&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.64284&mlon=-84.28661#map=17/39.64284/-84.28661"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dph1d0b278m9hj7djyzp",
+                "qibla": 51.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711797840,
+                        "astronomical": 1711792380,
+                        "civil": 1711796220,
+                        "nautical": 1711794300
+                    },
+                    "set": {
+                        "apparent": 1711843140,
+                        "astronomical": 1711762260,
+                        "civil": 1711758360,
+                        "nautical": 1711760280
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "voices.humans.scared"
+                },
+                "wikidata": "Q993897"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.661568,
+                    "lng": -84.215101
+                },
+                "southwest": {
+                    "lat": 39.596648,
+                    "lng": -84.327636
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Miamisburg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Montgomery County",
+                "postcode": "45342",
+                "state": "Ohio",
+                "state_code": "OH",
+                "town": "Miamisburg"
+            },
+            "confidence": 7,
+            "formatted": "Miamisburg, OH 45342, United States of America",
+            "geometry": {
+                "lat": 39.6428362,
+                "lng": -84.2866083
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:43:16 GMT",
+        "created_unix": 1711831396
+    },
+    "total_results": 1
+}

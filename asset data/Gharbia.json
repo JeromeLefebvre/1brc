@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2108,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 50' 21.48108'' N",
+                    "lng": "30\u00b0 59' 46.83444'' E"
+                },
+                "MGRS": "36RUV0838013510",
+                "Maidenhead": "KM50lu91nk",
+                "Mercator": {
+                    "x": 3450497.108,
+                    "y": 3589995.728
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3584607#map=16/30.83930/30.99634",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.83930/30.99634&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.83930&mlon=30.99634#map=16/30.83930/30.99634"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "stqp3q4ggnhryr15ddyf",
+                "qibla": 137.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714792200,
+                        "astronomical": 1714786920,
+                        "civil": 1714790640,
+                        "nautical": 1714788840
+                    },
+                    "set": {
+                        "apparent": 1714840560,
+                        "astronomical": 1714845900,
+                        "civil": 1714842120,
+                        "nautical": 1714843920
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "symphonic.willpower.branded"
+                },
+                "wikidata": "Q30835"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.1038078,
+                    "lng": 31.3013265
+                },
+                "southwest": {
+                    "lat": 30.5746206,
+                    "lng": 30.7467198
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-GH"
+                ],
+                "_category": "place",
+                "_type": "region",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "region": "Western"
+            },
+            "confidence": 1,
+            "formatted": "Western, Egypt",
+            "geometry": {
+                "lat": 30.8393003,
+                "lng": 30.9963429
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:35:47 GMT",
+        "created_unix": 1714786547
+    },
+    "total_results": 1
+}

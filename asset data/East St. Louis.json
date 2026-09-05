@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1857,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 37' 36.71976'' N",
+                    "lng": "90\u00b0 9' 34.94520'' W"
+                },
+                "FIPS": {
+                    "county": "17163",
+                    "state": "17"
+                },
+                "MGRS": "15SYC4725579198",
+                "Maidenhead": "EM48wp00uk",
+                "Mercator": {
+                    "x": -10036532.673,
+                    "y": 4641686.414
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=122950#map=16/38.62687/-90.15971",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/38.62687/-90.15971&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.62687&mlon=-90.15971#map=16/38.62687/-90.15971"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzgsrg9y9cf6tcqtb6v",
+                "qibla": 47.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713439200,
+                        "astronomical": 1713433500,
+                        "civil": 1713437580,
+                        "nautical": 1713435540
+                    },
+                    "set": {
+                        "apparent": 1713400800,
+                        "astronomical": 1713406560,
+                        "civil": 1713402480,
+                        "nautical": 1713404460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "fuel.social.impact"
+                },
+                "wikidata": "Q577891"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.6428197,
+                    "lng": -90.041739
+                },
+                "southwest": {
+                    "lat": 38.57849,
+                    "lng": -90.1878253
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "East St. Louis",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Clair County",
+                "state": "Illinois",
+                "state_code": "IL",
+                "town": "East St. Louis"
+            },
+            "confidence": 6,
+            "formatted": "East St. Louis, Illinois, United States of America",
+            "geometry": {
+                "lat": 38.6268666,
+                "lng": -90.159707
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:36:59 GMT",
+        "created_unix": 1713440219
+    },
+    "total_results": 1
+}

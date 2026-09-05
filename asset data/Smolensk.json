@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2365,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 46' 44.29200'' N",
+                    "lng": "32\u00b0 2' 49.85232'' E"
+                },
+                "MGRS": "36UVF3871570612",
+                "Maidenhead": "KO64as56pw",
+                "Mercator": {
+                    "x": 3567475.895,
+                    "y": 7284153.102
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3339993#map=17/54.77897/32.04718",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.77897/32.04718&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.77897&mlon=32.04718#map=17/54.77897/32.04718"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "u9wz9k0n9knk932p3kpk",
+                "qibla": 166.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714098240,
+                        "astronomical": 1714174680,
+                        "civil": 1714095780,
+                        "nautical": 1714092540
+                    },
+                    "set": {
+                        "apparent": 1714151760,
+                        "astronomical": 1714161900,
+                        "civil": 1714154280,
+                        "nautical": 1714157520
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "beast.racked.wiser"
+                },
+                "wikidata": "Q2337"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.850378,
+                    "lng": 32.2095639
+                },
+                "southwest": {
+                    "lat": 54.7075603,
+                    "lng": 31.7883262
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-SMO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Smolensk",
+                "_type": "city",
+                "city": "Smolensk",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Central Federal District",
+                "state": "Smolensk Oblast"
+            },
+            "confidence": 4,
+            "formatted": "Smolensk, Smolensk Oblast, Russia",
+            "geometry": {
+                "lat": 54.77897,
+                "lng": 32.0471812
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:00:17 GMT",
+        "created_unix": 1714168817
+    },
+    "total_results": 1
+}

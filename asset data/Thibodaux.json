@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 421,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 47' 44.74788'' N",
+                    "lng": "90\u00b0 49' 22.33560'' W"
+                },
+                "FIPS": {
+                    "county": "22057",
+                    "state": "22"
+                },
+                "MGRS": "15RYN1043398141",
+                "Maidenhead": "EL49ot10gx",
+                "Mercator": {
+                    "x": -10110355.752,
+                    "y": 3456095.448
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=131618#map=17/29.79576/-90.82287",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/29.79576/-90.82287&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=29.79576&mlon=-90.82287#map=17/29.79576/-90.82287"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vr3t20ucsygm1kwszke",
+                "qibla": 48.8,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711799700,
+                        "astronomical": 1711794900,
+                        "civil": 1711798260,
+                        "nautical": 1711796580
+                    },
+                    "set": {
+                        "apparent": 1711758000,
+                        "astronomical": 1711762860,
+                        "civil": 1711759440,
+                        "nautical": 1711761120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "pavement.safest.nationals"
+                },
+                "wikidata": "Q1013317"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 29.835862,
+                    "lng": -90.796572
+                },
+                "southwest": {
+                    "lat": 29.7514123,
+                    "lng": -90.848182
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-LA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Thibodaux",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lafourche Parish",
+                "state": "Louisiana",
+                "state_code": "LA",
+                "town": "Thibodaux"
+            },
+            "confidence": 7,
+            "formatted": "Thibodaux, Louisiana, United States of America",
+            "geometry": {
+                "lat": 29.7957633,
+                "lng": -90.822871
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:38:04 GMT",
+        "created_unix": 1711834684
+    },
+    "total_results": 1
+}

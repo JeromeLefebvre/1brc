@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1327,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 32' 9.98412'' N",
+                    "lng": "117\u00b0 17' 28.16340'' W"
+                },
+                "FIPS": {
+                    "county": "06071",
+                    "state": "06"
+                },
+                "MGRS": "11SMU7328221639",
+                "Maidenhead": "DM14im58bp",
+                "Mercator": {
+                    "x": -13056791.816,
+                    "y": 4076793.456
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111840#map=17/34.53611/-117.29116",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.53611/-117.29116&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.53611&mlon=-117.29116#map=17/34.53611/-117.29116"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qhs6zp5muyv0guusmfc",
+                "qibla": 24.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714136700,
+                        "astronomical": 1714131180,
+                        "civil": 1714135080,
+                        "nautical": 1714133160
+                    },
+                    "set": {
+                        "apparent": 1714098600,
+                        "astronomical": 1714104060,
+                        "civil": 1714100160,
+                        "nautical": 1714102080
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "worktable.unbelievable.dignity"
+                },
+                "wikidata": "Q495353"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.645497,
+                    "lng": -117.253729
+                },
+                "southwest": {
+                    "lat": 34.4357858,
+                    "lng": -117.46864
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Victorville",
+                "_type": "city",
+                "city": "Victorville",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Bernardino County",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 4,
+            "formatted": "Victorville, California, United States of America",
+            "geometry": {
+                "lat": 34.5361067,
+                "lng": -117.2911565
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:40:09 GMT",
+        "created_unix": 1714171209
+    },
+    "total_results": 1
+}

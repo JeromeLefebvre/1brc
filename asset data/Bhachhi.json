@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1951,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 0' 56.66112'' N",
+                    "lng": "86\u00b0 2' 43.01160'' E"
+                },
+                "MGRS": "45RVJ0446377776",
+                "Maidenhead": "NL36aa53ks",
+                "Mercator": {
+                    "x": 9578516.866,
+                    "y": 2982294.426
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7921940474#map=17/26.01574/86.04528",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.01574/86.04528&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.01574&mlon=86.04528#map=17/26.01574/86.04528"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tuthn0028m7c1p3g19kh",
+                "qibla": 273.89,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "MDR",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714606800,
+                        "astronomical": 1714601880,
+                        "civil": 1714605360,
+                        "nautical": 1714603620
+                    },
+                    "set": {
+                        "apparent": 1714567560,
+                        "astronomical": 1714572540,
+                        "civil": 1714569060,
+                        "nautical": 1714570740
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "wills.companion.knitting"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.0157892,
+                    "lng": 86.045331
+                },
+                "southwest": {
+                    "lat": 26.0156892,
+                    "lng": 86.045231
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-BR"
+                ],
+                "_category": "health",
+                "_type": "healthcare",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Baheri",
+                "healthcare": "SubCentre, Bhachhi",
+                "postcode": "847103",
+                "road": "MDR",
+                "state": "Bihar",
+                "state_code": "BR",
+                "state_district": "Darbhanga District"
+            },
+            "confidence": 9,
+            "formatted": "SubCentre, Bhachhi, MDR, Darbhanga District, - 847103, Bihar, India",
+            "geometry": {
+                "lat": 26.0157392,
+                "lng": 86.045281
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:46:34 GMT",
+        "created_unix": 1714531594
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1737,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 17' 59.37396'' N",
+                    "lng": "120\u00b0 50' 5.89920'' W"
+                },
+                "FIPS": {
+                    "county": "41013",
+                    "state": "41"
+                },
+                "MGRS": "10TFQ7270307454",
+                "Maidenhead": "CN94nh91tx",
+                "Mercator": {
+                    "x": -13451287.553,
+                    "y": 5482105.671
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=186812#map=17/44.29983/-120.83497",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.29983/-120.83497&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.29983&mlon=-120.83497#map=17/44.29983/-120.83497"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9rfh42d9jn47vrgvhsrh",
+                "qibla": 19.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713532320,
+                        "astronomical": 1713525900,
+                        "civil": 1713530520,
+                        "nautical": 1713528300
+                    },
+                    "set": {
+                        "apparent": 1713495180,
+                        "astronomical": 1713501660,
+                        "civil": 1713497040,
+                        "nautical": 1713499260
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "soil.hopes.pushes"
+                },
+                "wikidata": "Q330678"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.331681,
+                    "lng": -120.807393
+                },
+                "southwest": {
+                    "lat": 44.271938,
+                    "lng": -120.921431
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Prineville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Crook County",
+                "state": "Oregon",
+                "state_code": "OR",
+                "town": "Prineville"
+            },
+            "confidence": 7,
+            "formatted": "Prineville, Oregon, United States of America",
+            "geometry": {
+                "lat": 44.2998261,
+                "lng": -120.834972
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 07:03:20 GMT",
+        "created_unix": 1713510200
+    },
+    "total_results": 1
+}

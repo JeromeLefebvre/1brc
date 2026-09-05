@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 810,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 17' 7.48752'' N",
+                    "lng": "81\u00b0 3' 20.85156'' W"
+                },
+                "FIPS": {
+                    "county": "12127",
+                    "state": "12"
+                },
+                "MGRS": "17RMN9458039608",
+                "Maidenhead": "EL99lg38hl",
+                "Mercator": {
+                    "x": -9023089.502,
+                    "y": 3391125.962
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117928#map=17/29.28541/-81.05579",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/29.28541/-81.05579&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=29.28541&mlon=-81.05579#map=17/29.28541/-81.05579"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djnqee0zzhsy37wp4pun",
+                "qibla": 55.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819200,
+                        "astronomical": 1714814040,
+                        "civil": 1714817700,
+                        "nautical": 1714815900
+                    },
+                    "set": {
+                        "apparent": 1714780920,
+                        "astronomical": 1714786140,
+                        "civil": 1714782420,
+                        "nautical": 1714784220
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "bumpy.convert.raking"
+                },
+                "wikidata": "Q985167"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 29.3563441,
+                    "lng": -81.0268466
+                },
+                "southwest": {
+                    "lat": 29.2446906,
+                    "lng": -81.1957868
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ormond Beach",
+                "_type": "city",
+                "city": "Ormond Beach",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Volusia County",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 6,
+            "formatted": "Ormond Beach, Florida, United States of America",
+            "geometry": {
+                "lat": 29.2854132,
+                "lng": -81.0557921
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:47:17 GMT",
+        "created_unix": 1714794437
+    },
+    "total_results": 1
+}

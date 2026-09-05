@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 881,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 57' 27.10980'' N",
+                    "lng": "110\u00b0 57' 20.39220'' W"
+                },
+                "FIPS": {
+                    "county": "04019",
+                    "state": "04"
+                },
+                "MGRS": "12RWA0418935729",
+                "Maidenhead": "DM41mw59ht",
+                "Mercator": {
+                    "x": -12351528.073,
+                    "y": 3735123.518
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=8281657#map=17/31.95753/-110.95566",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.95753/-110.95566&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.95753&mlon=-110.95566#map=17/31.95753/-110.95566"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9t9jg1sw1eknbq5ufeg2",
+                "qibla": 31.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713876360,
+                        "astronomical": 1713871140,
+                        "civil": 1713874860,
+                        "nautical": 1713873000
+                    },
+                    "set": {
+                        "apparent": 1713837480,
+                        "astronomical": 1713842760,
+                        "civil": 1713839040,
+                        "nautical": 1713840840
+                    }
+                },
+                "timezone": {
+                    "name": "America/Phoenix",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "spoil.blob.wonderfully"
+                },
+                "wikidata": "Q914860"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.002,
+                    "lng": -110.925961
+                },
+                "southwest": {
+                    "lat": 31.856392,
+                    "lng": -111.004292
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sahuarita",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pima County",
+                "state": "Arizona",
+                "state_code": "AZ",
+                "town": "Sahuarita"
+            },
+            "confidence": 6,
+            "formatted": "Sahuarita, Arizona, United States of America",
+            "geometry": {
+                "lat": 31.9575305,
+                "lng": -110.9556645
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:08:59 GMT",
+        "created_unix": 1713852539
+    },
+    "total_results": 1
+}

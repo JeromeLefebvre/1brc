@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1853,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 18' 44.58636'' N",
+                    "lng": "9\u00b0 1' 4.66104'' E"
+                },
+                "MGRS": "32TNR0140717653",
+                "Maidenhead": "JN45mh24dx",
+                "Mercator": {
+                    "x": 1003874.871,
+                    "y": 5640444.643
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC48"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44664#map=17/45.31239/9.01796",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.31239/9.01796&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.31239&mlon=9.01796#map=17/45.31239/9.01796"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0n3v0yev8z3sqxfvem7",
+                "qibla": 123.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714623120,
+                        "astronomical": 1714615980,
+                        "civil": 1714621140,
+                        "nautical": 1714618740
+                    },
+                    "set": {
+                        "apparent": 1714674660,
+                        "astronomical": 1714681860,
+                        "civil": 1714676640,
+                        "nautical": 1714679040
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "marketer.unemployment.inherent"
+                },
+                "wikidata": "Q40320"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.325599,
+                    "lng": 9.0369214
+                },
+                "southwest": {
+                    "lat": 45.2804532,
+                    "lng": 8.988491
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-PV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Casorate Primo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Pavia",
+                "county_code": "PV",
+                "political_union": "European Union",
+                "postcode": "27022",
+                "state": "Lombardy",
+                "town": "Casorate Primo"
+            },
+            "confidence": 7,
+            "formatted": "27022 Casorate Primo PV, Italy",
+            "geometry": {
+                "lat": 45.3123851,
+                "lng": 9.0179614
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:25:19 GMT",
+        "created_unix": 1714692319
+    },
+    "total_results": 1
+}

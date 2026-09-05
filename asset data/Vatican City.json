@@ -1,0 +1,132 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1232,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 54' 12.27960'' N",
+                    "lng": "12\u00b0 27' 10.26972'' E"
+                },
+                "MGRS": "33TTG8872442189",
+                "Maidenhead": "JN61fv46it",
+                "Mercator": {
+                    "x": 1386245.221,
+                    "y": 5117976.62
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=36989#map=17/41.90341/12.45285",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.90341/12.45285&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.90341&mlon=12.45285#map=17/41.90341/12.45285"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "VA": "336",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 379,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddfb\ud83c\udde6",
+                "geohash": "sr2y7k7ch3zzp7k5v5ug",
+                "qibla": 123.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622760,
+                        "astronomical": 1714616220,
+                        "civil": 1714620900,
+                        "nautical": 1714618680
+                    },
+                    "set": {
+                        "apparent": 1714673340,
+                        "astronomical": 1714679880,
+                        "civil": 1714675200,
+                        "nautical": 1714677420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Vatican",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "tiling.supporter.dumpy"
+                },
+                "wikidata": "Q237"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.9073829,
+                    "lng": 12.4583653
+                },
+                "southwest": {
+                    "lat": 41.9002044,
+                    "lng": 12.4457878
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "VA",
+                "ISO_3166-1_alpha-3": "VAT",
+                "_category": "place",
+                "_type": "country",
+                "continent": "Europe",
+                "country": "Vatican City",
+                "country_code": "va"
+            },
+            "confidence": 9,
+            "formatted": "Vatican City",
+            "geometry": {
+                "lat": 41.903411,
+                "lng": 12.4528527
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:47:48 GMT",
+        "created_unix": 1714693668
+    },
+    "total_results": 1
+}

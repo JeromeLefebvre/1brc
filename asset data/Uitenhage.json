@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1997,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 46' 4.43244'' S",
+                    "lng": "25\u00b0 23' 52.14264'' E"
+                },
+                "MGRS": "35HLC5163362425",
+                "Maidenhead": "KF26qf75rq",
+                "Mercator": {
+                    "x": 2827272.1,
+                    "y": -3973929.774
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=946025154#map=17/-33.76790/25.39782",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-33.76790/25.39782&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-33.76790&mlon=25.39782#map=17/-33.76790/25.39782"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "k9fpcuwpsp96b7y8wuvd",
+                "qibla": 16.08,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714885020,
+                        "astronomical": 1714879920,
+                        "civil": 1714883460,
+                        "nautical": 1714881660
+                    },
+                    "set": {
+                        "apparent": 1714923180,
+                        "astronomical": 1714928280,
+                        "civil": 1714924740,
+                        "nautical": 1714926480
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "caps.similar.rudder"
+                },
+                "wikidata": "Q1020192"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -33.7278979,
+                    "lng": 25.4378174
+                },
+                "southwest": {
+                    "lat": -33.8078979,
+                    "lng": 25.3578174
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-EC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kariega",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Nelson Mandela Bay Metropolitan Municipality",
+                "postcode": "6229",
+                "state": "Eastern Cape",
+                "state_code": "EC",
+                "town": "Kariega"
+            },
+            "confidence": 7,
+            "formatted": "Kariega, 6229, South Africa",
+            "geometry": {
+                "lat": -33.7678979,
+                "lng": 25.3978174
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:06:56 GMT",
+        "created_unix": 1714892816
+    },
+    "total_results": 1
+}

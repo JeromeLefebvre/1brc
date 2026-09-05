@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 255,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 37' 42.70980'' S",
+                    "lng": "18\u00b0 36' 42.58620'' E"
+                },
+                "MGRS": "34KBF4659749311",
+                "Maidenhead": "JH92hi39kd",
+                "Mercator": {
+                    "x": 2071859.378,
+                    "y": -1981180.72
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=218870998#map=17/-17.62853/18.61183",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-17.62853/18.61183&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-17.62853&mlon=18.61183#map=17/-17.62853/18.61183"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NA": "516",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 264,
+                "currency": {
+                    "alternate_symbols": [
+                        "N$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "N$",
+                    "format": "%n %u",
+                    "html_entity": "$",
+                    "iso_code": "NAD",
+                    "iso_numeric": "516",
+                    "name": "Namibian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf3\ud83c\udde6",
+                "geohash": "kkv5xwbdr59zmp2un14d",
+                "qibla": 28.87,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713589020,
+                        "astronomical": 1713584640,
+                        "civil": 1713587700,
+                        "nautical": 1713586140
+                    },
+                    "set": {
+                        "apparent": 1713630720,
+                        "astronomical": 1713635100,
+                        "civil": 1713632040,
+                        "nautical": 1713633540
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Windhoek",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "noblewoman.journaling.woodstove"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -17.6228901,
+                    "lng": 18.6187582
+                },
+                "southwest": {
+                    "lat": -17.6337233,
+                    "lng": 18.6061048
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NA",
+                "ISO_3166-1_alpha-3": "NAM",
+                "ISO_3166-2": [
+                    "NA-KW"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "Africa",
+                "country": "Namibia",
+                "country_code": "na",
+                "county": "Nkurenkuru",
+                "state": "Kavango West",
+                "state_code": "KW"
+            },
+            "confidence": 8,
+            "formatted": "Nkurenkuru, Namibia",
+            "geometry": {
+                "lat": -17.6285305,
+                "lng": 18.6118295
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:01:14 GMT",
+        "created_unix": 1713650474
+    },
+    "total_results": 1
+}

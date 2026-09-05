@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2355,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 13' 22.50840'' N",
+                    "lng": "139\u00b0 1' 53.81760'' E"
+                },
+                "MGRS": "54SUD2085899539",
+                "Maidenhead": "PM95mf33tm",
+                "Mercator": {
+                    "x": 15476928.697,
+                    "y": 4169571.784
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2689439#map=17/35.22292/139.03162",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.22292/139.03162&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.22292&mlon=139.03162#map=17/35.22292/139.03162"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn6b7spsrknb0f6ttx80",
+                "qibla": 292.69,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714593240,
+                        "astronomical": 1714587660,
+                        "civil": 1714591620,
+                        "nautical": 1714589700
+                    },
+                    "set": {
+                        "apparent": 1714555680,
+                        "astronomical": 1714561320,
+                        "civil": 1714557300,
+                        "nautical": 1714559280
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "ogle.hears.pickaxes"
+                },
+                "wikidata": "Q671040"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.289898,
+                    "lng": 139.121216
+                },
+                "southwest": {
+                    "lat": 35.175375,
+                    "lng": 138.974311
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-14"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hakone",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Ashigarashimo County",
+                "province": "Kanagawa Prefecture",
+                "state": "Kanagawa Prefecture",
+                "town": "Hakone"
+            },
+            "confidence": 6,
+            "formatted": "Hakone, Ashigarashimo County, Japan",
+            "geometry": {
+                "lat": 35.222919,
+                "lng": 139.031616
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:06:07 GMT",
+        "created_unix": 1714521967
+    },
+    "total_results": 1
+}

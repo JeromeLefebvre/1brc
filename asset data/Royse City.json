@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 889,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 58' 33.97620'' N",
+                    "lng": "96\u00b0 19' 52.80240'' W"
+                },
+                "FIPS": {
+                    "county": "48397",
+                    "state": "48"
+                },
+                "MGRS": "14SQB4939951800",
+                "Maidenhead": "EM12ux04fg",
+                "Mercator": {
+                    "x": -10723555.048,
+                    "y": 3868877.4
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=113966#map=17/32.97610/-96.33133",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.97610/-96.33133&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.97610&mlon=-96.33133#map=17/32.97610/-96.33133"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vg7xgjetprjw2bbhhsw",
+                "qibla": 43.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713872760,
+                        "astronomical": 1713867480,
+                        "civil": 1713871260,
+                        "nautical": 1713869400
+                    },
+                    "set": {
+                        "apparent": 1713834060,
+                        "astronomical": 1713839400,
+                        "civil": 1713835620,
+                        "nautical": 1713837480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "diggers.classical.caravans"
+                },
+                "wikidata": "Q975173"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.0191403,
+                    "lng": -96.2453327
+                },
+                "southwest": {
+                    "lat": 32.9449496,
+                    "lng": -96.3668798
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Royse City",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Rockwall County",
+                "postcode": "75189",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "Royse City"
+            },
+            "confidence": 7,
+            "formatted": "Royse City, TX 75189, United States of America",
+            "geometry": {
+                "lat": 32.9761045,
+                "lng": -96.331334
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:08:40 GMT",
+        "created_unix": 1713852520
+    },
+    "total_results": 1
+}

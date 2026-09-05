@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 610,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 8' 30.00120'' N",
+                    "lng": "30\u00b0 54' 5.00040'' E"
+                },
+                "MGRS": "36RTT9585025502",
+                "Maidenhead": "KL59kd84ea",
+                "Mercator": {
+                    "x": 3439926.888,
+                    "y": 3372885.928
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=768557073#map=17/29.14167/30.90139",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/29.14167/30.90139&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=29.14167&mlon=30.90139#map=17/29.14167/30.90139"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "stjvz1jdw83wvur23je1",
+                "qibla": 131.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711770540,
+                        "astronomical": 1711765800,
+                        "civil": 1711769160,
+                        "nautical": 1711767480
+                    },
+                    "set": {
+                        "apparent": 1711815180,
+                        "astronomical": 1711819920,
+                        "civil": 1711816560,
+                        "nautical": 1711818240
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "beacons.chocolates.exception"
+                },
+                "wikidata": "Q2264395"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 29.161667,
+                    "lng": 30.921389
+                },
+                "southwest": {
+                    "lat": 29.121667,
+                    "lng": 30.881389
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-BNS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sidmant al Jabal",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "state": "Bani Sweif",
+                "village": "Sidmant al Jabal"
+            },
+            "confidence": 7,
+            "formatted": "Sidmant al Jabal, Bani Sweif, Egypt",
+            "geometry": {
+                "lat": 29.141667,
+                "lng": 30.901389
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:32:06 GMT",
+        "created_unix": 1711834326
+    },
+    "total_results": 1
+}

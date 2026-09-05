@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 156,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 55' 43.75164'' N",
+                    "lng": "89\u00b0 54' 26.48052'' W"
+                },
+                "FIPS": {
+                    "county": "05093",
+                    "state": "05"
+                },
+                "MGRS": "16SBE3769679960",
+                "Maidenhead": "EM55bw12cw",
+                "Mercator": {
+                    "x": -10008441.055,
+                    "y": 4265758.11
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6698668#map=17/35.92882/-89.90736",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.92882/-89.90736&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.92882&mlon=-89.90736#map=17/35.92882/-89.90736"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn2h6hekwc2wgng7d1tp",
+                "qibla": 47.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713871020,
+                        "astronomical": 1713865440,
+                        "civil": 1713869400,
+                        "nautical": 1713867480
+                    },
+                    "set": {
+                        "apparent": 1713832800,
+                        "astronomical": 1713838380,
+                        "civil": 1713834420,
+                        "nautical": 1713836340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "woes.caged.fallen"
+                },
+                "wikidata": "Q79401"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.9844288,
+                    "lng": -89.8205332
+                },
+                "southwest": {
+                    "lat": 35.878411,
+                    "lng": -89.9652621
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Blytheville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Mississippi County",
+                "state": "Arkansas",
+                "state_code": "AR",
+                "town": "Blytheville"
+            },
+            "confidence": 6,
+            "formatted": "Blytheville, Arkansas, United States of America",
+            "geometry": {
+                "lat": 35.9288199,
+                "lng": -89.9073557
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:38:03 GMT",
+        "created_unix": 1713854283
+    },
+    "total_results": 1
+}

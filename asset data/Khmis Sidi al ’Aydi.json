@@ -1,0 +1,124 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 529,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 7' 12.00000'' N",
+                    "lng": "7\u00b0 37' 12.00000'' W"
+                },
+                "MGRS": "29SPS2874465437",
+                "Maidenhead": "IM63ec58ot",
+                "Mercator": {
+                    "x": -848254.52,
+                    "y": 3887897.482
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.12000/-7.62000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.12000&mlon=-7.62000#map=16/33.12000/-7.62000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evfs6t73cpkptg9wvcjf",
+                "qibla": 93.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711779660,
+                        "astronomical": 1711774680,
+                        "civil": 1711778220,
+                        "nautical": 1711776480
+                    },
+                    "set": {
+                        "apparent": 1711824540,
+                        "astronomical": 1711829520,
+                        "civil": 1711825980,
+                        "nautical": 1711827780
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 1,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "+00"
+                },
+                "what3words": {
+                    "words": "notecards.fashion.habit"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Sidi el A\u00efdi",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "Chaouia-Ouardigha",
+                "town": "Sidi el A\u00efdi"
+            },
+            "confidence": 9,
+            "formatted": "Sidi el A\u00efdi, Chaouia-Ouardigha, Morocco",
+            "geometry": {
+                "lat": 33.12,
+                "lng": -7.62
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:34:40 GMT",
+        "created_unix": 1711834480
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2493,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 9' 22.31064'' N",
+                    "lng": "34\u00b0 53' 34.92744'' E"
+                },
+                "MGRS": "36SXA7851759319",
+                "Maidenhead": "KM72kd77dl",
+                "Mercator": {
+                    "x": 3884274.933,
+                    "y": 3761092.143
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1383629#map=17/32.15620/34.89304",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.15620/34.89304&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.15620&mlon=34.89304#map=17/32.15620/34.89304"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IL": "376",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 972,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf1",
+                "geohash": "sv8yfjb76tsvpj0nn8j4",
+                "qibla": 156.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713496080,
+                        "astronomical": 1713490920,
+                        "civil": 1713494520,
+                        "nautical": 1713492780
+                    },
+                    "set": {
+                        "apparent": 1713543120,
+                        "astronomical": 1713548280,
+                        "civil": 1713544620,
+                        "nautical": 1713546420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "solids.example.earliest"
+                },
+                "wikidata": "Q152379"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.1719584,
+                    "lng": 34.9281032
+                },
+                "southwest": {
+                    "lat": 32.1200872,
+                    "lng": 34.8550686
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IL",
+                "ISO_3166-1_alpha-3": "ISR",
+                "ISO_3166-2": [
+                    "IL-M"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hod HaSharon",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Israel",
+                "country_code": "il",
+                "state": "Center District",
+                "state_district": "Petah Tikva Subdistrict",
+                "town": "Hod HaSharon"
+            },
+            "confidence": 7,
+            "formatted": "Hod HaSharon, Petah Tikva Subdistrict, Israel",
+            "geometry": {
+                "lat": 32.1561974,
+                "lng": 34.8930354
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 06:32:56 GMT",
+        "created_unix": 1713508376
+    },
+    "total_results": 1
+}

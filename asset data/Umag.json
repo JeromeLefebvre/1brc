@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1244,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 25' 56.49132'' N",
+                    "lng": "13\u00b0 31' 20.67528'' E"
+                },
+                "MGRS": "33TUL8442232043",
+                "Maidenhead": "JN65sk23qs",
+                "Mercator": {
+                    "x": 1505307.773,
+                    "y": 5659392.978
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "HR"
+                    },
+                    "NUTS1": {
+                        "code": "HR0"
+                    },
+                    "NUTS2": {
+                        "code": "HR03"
+                    },
+                    "NUTS3": {
+                        "code": "HR036"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=16084976#map=17/45.43236/13.52241",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.43236/13.52241&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.43236&mlon=13.52241#map=17/45.43236/13.52241"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "HR": "191",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 385,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udded\ud83c\uddf7",
+                "geohash": "u21d7wwwwvx81g7mh8nb",
+                "qibla": 129.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714794660,
+                        "astronomical": 1714787400,
+                        "civil": 1714792680,
+                        "nautical": 1714790160
+                    },
+                    "set": {
+                        "apparent": 1714846560,
+                        "astronomical": 1714853820,
+                        "civil": 1714848540,
+                        "nautical": 1714851000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zagreb",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "triads.suffice.farmland"
+                },
+                "wikidata": "Q221184"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.4505621,
+                    "lng": 13.5565183
+                },
+                "southwest": {
+                    "lat": 45.4113044,
+                    "lng": 13.5085964
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "HR",
+                "ISO_3166-1_alpha-3": "HRV",
+                "ISO_3166-2": [
+                    "HR-18"
+                ],
+                "_category": "place",
+                "_normalized_city": "Umag",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Croatia",
+                "country_code": "hr",
+                "county": "Istria County",
+                "municipality": "Grad Umag",
+                "political_union": "European Union",
+                "town": "Umag"
+            },
+            "confidence": 7,
+            "formatted": "Umag, Istria County, Croatia",
+            "geometry": {
+                "lat": 45.4323587,
+                "lng": 13.5224098
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:04:10 GMT",
+        "created_unix": 1714788250
+    },
+    "total_results": 1
+}

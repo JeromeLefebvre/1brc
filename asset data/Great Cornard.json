@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 585,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 1' 48.59688'' N",
+                    "lng": "0\u00b0 44' 51.11844'' E"
+                },
+                "MGRS": "31UCT4548066788",
+                "Maidenhead": "JO02ia97qf",
+                "Mercator": {
+                    "x": 83214.982,
+                    "y": 6771874.8
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4561854#map=16/52.03017/0.74753",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/52.03017/0.74753&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.03017&mlon=0.74753#map=16/52.03017/0.74753"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "u10xcpb3dvbumzbdfng9",
+                "qibla": 120.45,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714537680,
+                        "astronomical": 1714528500,
+                        "civil": 1714535340,
+                        "nautical": 1714532280
+                    },
+                    "set": {
+                        "apparent": 1714591320,
+                        "astronomical": 1714600560,
+                        "civil": 1714593660,
+                        "nautical": 1714596720
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "nylon.concerts.arch"
+                },
+                "wikidata": "Q2085616"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.041871,
+                    "lng": 0.7868642
+                },
+                "southwest": {
+                    "lat": 52.0163447,
+                    "lng": 0.736863
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SFK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Babergh",
+                "_type": "village",
+                "city": "Babergh",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Suffolk",
+                "county_code": "SFK",
+                "state": "England",
+                "state_code": "ENG",
+                "village": "Great Cornard"
+            },
+            "confidence": 7,
+            "formatted": "Great Cornard, Babergh, Suffolk, England, United Kingdom",
+            "geometry": {
+                "lat": 52.0301658,
+                "lng": 0.7475329
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:16:30 GMT",
+        "created_unix": 1714544190
+    },
+    "total_results": 1
+}

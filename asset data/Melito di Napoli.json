@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 298,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 55' 13.83960'' N",
+                    "lng": "14\u00b0 13' 48.10440'' E"
+                },
+                "MGRS": "33TVF3516630218",
+                "Maidenhead": "JN70cw70ow",
+                "Mercator": {
+                    "x": 1584079.582,
+                    "y": 4972629.833
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF3"
+                    },
+                    "NUTS3": {
+                        "code": "ITF33"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=40891#map=17/40.92051/14.23003",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.92051/14.23003&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.92051&mlon=14.23003#map=17/40.92051/14.23003"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr60gc3gr8nsjxhsktmn",
+                "qibla": 124.26,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713414000,
+                        "astronomical": 1713408060,
+                        "civil": 1713412320,
+                        "nautical": 1713410220
+                    },
+                    "set": {
+                        "apparent": 1713462300,
+                        "astronomical": 1713468300,
+                        "civil": 1713464040,
+                        "nautical": 1713466080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "froze.mindset.lure"
+                },
+                "wikidata": "Q72258"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.9325946,
+                    "lng": 14.2447903
+                },
+                "southwest": {
+                    "lat": 40.9050924,
+                    "lng": 14.2134534
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-72",
+                    "IT-NA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Melito di Napoli",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Napoli",
+                "county_code": "NA",
+                "political_union": "European Union",
+                "postcode": "80017",
+                "state": "Campania",
+                "state_code": "CAM",
+                "town": "Melito di Napoli"
+            },
+            "confidence": 7,
+            "formatted": "80017 Melito di Napoli NA, Italy",
+            "geometry": {
+                "lat": 40.920511,
+                "lng": 14.230029
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:28:57 GMT",
+        "created_unix": 1713443337
+    },
+    "total_results": 1
+}

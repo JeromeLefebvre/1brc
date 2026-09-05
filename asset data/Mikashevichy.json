@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1200,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 13' 18.19920'' N",
+                    "lng": "27\u00b0 28' 38.51040'' E"
+                },
+                "MGRS": "35UNT3260985806",
+                "Maidenhead": "KO32rf73gf",
+                "Mercator": {
+                    "x": 3058766.169,
+                    "y": 6806520.488
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6722251#map=17/52.22172/27.47736",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.22172/27.47736&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.22172&mlon=27.47736#map=17/52.22172/27.47736"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u979168msfx9epedgmmq",
+                "qibla": 158.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714790100,
+                        "astronomical": 1714866840,
+                        "civil": 1714787700,
+                        "nautical": 1714784580
+                    },
+                    "set": {
+                        "apparent": 1714844400,
+                        "astronomical": 1714854180,
+                        "civil": 1714846800,
+                        "nautical": 1714849980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "turnouts.beyond.blinders"
+                },
+                "wikidata": "Q956464"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.2399189,
+                    "lng": 27.5078874
+                },
+                "southwest": {
+                    "lat": 52.2063365,
+                    "lng": 27.4482841
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "ISO_3166-2": [
+                    "BY-BR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mikashevichy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "county": "Luninets District",
+                "postcode": "225687",
+                "state": "Brest Region",
+                "state_code": "BR",
+                "town": "Mikashevichy"
+            },
+            "confidence": 7,
+            "formatted": "Belarus, Brest Region, 225687 Mikashevichy",
+            "geometry": {
+                "lat": 52.221722,
+                "lng": 27.477364
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:05:35 GMT",
+        "created_unix": 1714788335
+    },
+    "total_results": 1
+}

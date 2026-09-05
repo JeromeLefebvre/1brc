@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1170,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "0\u00b0 39' 22.28652'' N",
+                    "lng": "30\u00b0 16' 40.59552'' E"
+                },
+                "MGRS": "36NSF9700872611",
+                "Maidenhead": "KJ50dp37il",
+                "Mercator": {
+                    "x": 3370525.219,
+                    "y": 72559.419
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=14693932#map=17/0.65619/30.27794",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/0.65619/30.27794&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=0.65619&mlon=30.27794#map=17/0.65619/30.27794"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "UG": "800",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 256,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UGX",
+                    "iso_numeric": "800",
+                    "name": "Ugandan Shilling",
+                    "smallest_denomination": 1000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 1,
+                    "symbol": "USh",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddec",
+                "geohash": "s8je8zrwx4yccxzfgjuq",
+                "qibla": 23.53,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535580,
+                        "astronomical": 1714531320,
+                        "civil": 1714534260,
+                        "nautical": 1714532820
+                    },
+                    "set": {
+                        "apparent": 1714579140,
+                        "astronomical": 1714583400,
+                        "civil": 1714580400,
+                        "nautical": 1714581900
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Kampala",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "positive.tailwind.breaches"
+                },
+                "wikidata": "Q500107"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 0.7001926,
+                    "lng": 30.3259626
+                },
+                "southwest": {
+                    "lat": 0.5758831,
+                    "lng": 30.1660748
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UG",
+                "ISO_3166-1_alpha-3": "UGA",
+                "ISO_3166-2": [
+                    "UG-W"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fort Portal City",
+                "_type": "city",
+                "city": "Fort Portal City",
+                "continent": "Africa",
+                "country": "Uganda",
+                "country_code": "ug",
+                "state": "Western Region"
+            },
+            "confidence": 5,
+            "formatted": "Fort Portal City, Western Region, Uganda",
+            "geometry": {
+                "lat": 0.6561907,
+                "lng": 30.2779432
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:19:25 GMT",
+        "created_unix": 1714533565
+    },
+    "total_results": 1
+}

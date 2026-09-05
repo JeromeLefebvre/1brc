@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 368,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 29' 28.17744'' N",
+                    "lng": "12\u00b0 9' 54.06480'' E"
+                },
+                "MGRS": "33TTL7847841424",
+                "Maidenhead": "JN65bl97tv",
+                "Mercator": {
+                    "x": 1354203.609,
+                    "y": 5668694.78
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH35"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45109#map=17/45.49116/12.16502",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.49116/12.16502&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.49116&mlon=12.16502#map=17/45.49116/12.16502"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u20duc6m1qyvgvj7sjgh",
+                "qibla": 127.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714881240,
+                        "astronomical": 1714873920,
+                        "civil": 1714879260,
+                        "nautical": 1714876800
+                    },
+                    "set": {
+                        "apparent": 1714933320,
+                        "astronomical": 1714940700,
+                        "civil": 1714935360,
+                        "nautical": 1714937820
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "catapulted.stoat.motorist"
+                },
+                "wikidata": "Q46948"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.5181588,
+                    "lng": 12.1824681
+                },
+                "southwest": {
+                    "lat": 45.4677158,
+                    "lng": 12.124434
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-VE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Spinea",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Venezia",
+                "county_code": "VE",
+                "political_union": "European Union",
+                "postcode": "30038",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "Spinea"
+            },
+            "confidence": 7,
+            "formatted": "30038 Spinea VE, Italy",
+            "geometry": {
+                "lat": 45.4911604,
+                "lng": 12.165018
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:48:17 GMT",
+        "created_unix": 1714949297
+    },
+    "total_results": 1
+}

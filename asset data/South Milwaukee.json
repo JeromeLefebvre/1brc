@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2028,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 54' 38.05992'' N",
+                    "lng": "87\u00b0 51' 38.29212'' W"
+                },
+                "FIPS": {
+                    "county": "55079",
+                    "state": "55"
+                },
+                "MGRS": "16TDN2974951243",
+                "Maidenhead": "EN62bv68rm",
+                "Mercator": {
+                    "x": -9780601.338,
+                    "y": 5269268.819
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=242246#map=17/42.91057/-87.86064",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.91057/-87.86064&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.91057&mlon=-87.86064#map=17/42.91057/-87.86064"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp9s0etu4y2vstyenz6k",
+                "qibla": 48.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713697200,
+                        "astronomical": 1713690900,
+                        "civil": 1713695400,
+                        "nautical": 1713693240
+                    },
+                    "set": {
+                        "apparent": 1713660060,
+                        "astronomical": 1713666420,
+                        "civil": 1713661860,
+                        "nautical": 1713664020
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "help.drama.leads"
+                },
+                "wikidata": "Q1023550"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.9301388,
+                    "lng": -87.8392753
+                },
+                "southwest": {
+                    "lat": 42.8930569,
+                    "lng": -87.882102
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Milwaukee",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Milwaukee County",
+                "postcode": "53172",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "South Milwaukee"
+            },
+            "confidence": 7,
+            "formatted": "South Milwaukee, WI 53172, United States of America",
+            "geometry": {
+                "lat": 42.9105722,
+                "lng": -87.8606367
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:29:13 GMT",
+        "created_unix": 1713662953
+    },
+    "total_results": 1
+}

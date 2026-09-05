@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 570,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 10' 42.68928'' N",
+                    "lng": "122\u00b0 15' 18.65880'' W"
+                },
+                "FIPS": {
+                    "county": "06055",
+                    "state": "06"
+                },
+                "MGRS": "10SEH6523425885",
+                "Maidenhead": "CM88ue92ju",
+                "Mercator": {
+                    "x": -13609384.718,
+                    "y": 4578261.611
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111733#map=17/38.17852/-122.25518",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.17852/-122.25518&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.17852&mlon=-122.25518#map=17/38.17852/-122.25518"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qc14n0qpbb76vtfw8g2",
+                "qibla": 18.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714051200,
+                        "astronomical": 1714045380,
+                        "civil": 1714049520,
+                        "nautical": 1714047480
+                    },
+                    "set": {
+                        "apparent": 1714013640,
+                        "astronomical": 1714019520,
+                        "civil": 1714015380,
+                        "nautical": 1714017360
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "spell.forgets.influential"
+                },
+                "wikidata": "Q463679"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.226037,
+                    "lng": -122.226348
+                },
+                "southwest": {
+                    "lat": 38.1551766,
+                    "lng": -122.2838465
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "American Canyon",
+                "_type": "city",
+                "city": "American Canyon",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Napa County",
+                "postcode": "94503",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "American Canyon, California, United States of America",
+            "geometry": {
+                "lat": 38.1785248,
+                "lng": -122.255183
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:26:22 GMT",
+        "created_unix": 1714008382
+    },
+    "total_results": 1
+}

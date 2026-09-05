@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2301,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 18' 4.02840'' N",
+                    "lng": "28\u00b0 39' 21.16980'' E"
+                },
+                "MGRS": "35TPM2752028837",
+                "Maidenhead": "KN46hh82qg",
+                "Mercator": {
+                    "x": 3189958.025,
+                    "y": 5797830.087
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=10190443#map=17/46.30112/28.65588",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.30112/28.65588&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.30112&mlon=28.65588#map=17/46.30112/28.65588"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "MD": "498",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LLDC",
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 373,
+                "currency": {
+                    "alternate_symbols": [
+                        "lei"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MDL",
+                    "iso_numeric": "498",
+                    "name": "Moldovan Leu",
+                    "smallest_denomination": 1,
+                    "subunit": "Ban",
+                    "subunit_to_unit": 100,
+                    "symbol": "L",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde9",
+                "geohash": "u8hrkhfed6jjnjh91813",
+                "qibla": 156.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714618260,
+                        "astronomical": 1714610880,
+                        "civil": 1714616280,
+                        "nautical": 1714613760
+                    },
+                    "set": {
+                        "apparent": 1714670100,
+                        "astronomical": 1714677480,
+                        "civil": 1714672080,
+                        "nautical": 1714674600
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Chisinau",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "dandelions.lifeboats.loaded"
+                },
+                "wikidata": "Q241122"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.35656,
+                    "lng": 28.6861817
+                },
+                "southwest": {
+                    "lat": 46.2606818,
+                    "lng": 28.6163305
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MD",
+                "ISO_3166-1_alpha-3": "MDA",
+                "ISO_3166-2": [
+                    "MD-GA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Comrat",
+                "_type": "city",
+                "city": "Comrat",
+                "continent": "Europe",
+                "country": "Moldova",
+                "country_code": "md",
+                "region": "Gagauzia",
+                "state_district": "Comrat District"
+            },
+            "confidence": 7,
+            "formatted": "Comrat, Comrat District, Moldova",
+            "geometry": {
+                "lat": 46.301119,
+                "lng": 28.6558805
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:09:09 GMT",
+        "created_unix": 1714691349
+    },
+    "total_results": 1
+}

@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2389,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 11' 11.54400'' N",
+                    "lng": "90\u00b0 45' 39.74400'' E"
+                },
+                "MGRS": "46QBK6915355178",
+                "Maidenhead": "NL52je14hs",
+                "Mercator": {
+                    "x": 10103472.757,
+                    "y": 2517807.603
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/22.18654/90.76104&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=22.18654&mlon=90.76104#map=16/22.18654/90.76104"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "BD": "050",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 880,
+                "currency": {
+                    "alternate_symbols": [
+                        "Tk"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "BDT",
+                    "iso_numeric": "050",
+                    "name": "Bangladeshi Taka",
+                    "smallest_denomination": 1,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u09f3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\udde9",
+                "geohash": "w5bw1qfjvwbd38x20ywk",
+                "qibla": 279.17,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713569700,
+                        "astronomical": 1713565080,
+                        "civil": 1713568320,
+                        "nautical": 1713566700
+                    },
+                    "set": {
+                        "apparent": 1713529020,
+                        "astronomical": 1713533700,
+                        "civil": 1713530400,
+                        "nautical": 1713532020
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dhaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "graduate.conceive.conversations"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BD",
+                "ISO_3166-1_alpha-3": "BGD",
+                "_category": "place",
+                "_normalized_city": "Char Fasson",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Bangladesh",
+                "country_code": "bd",
+                "state": "Khulna Division",
+                "state_code": "D",
+                "town": "Char Fasson"
+            },
+            "confidence": 9,
+            "formatted": "Char Fasson, Khulna Division, Bangladesh",
+            "geometry": {
+                "lat": 22.18654,
+                "lng": 90.76104
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 06:37:07 GMT",
+        "created_unix": 1713508627
+    },
+    "total_results": 1
+}

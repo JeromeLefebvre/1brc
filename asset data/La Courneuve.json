@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1738,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 55' 36.20496'' N",
+                    "lng": "2\u00b0 23' 22.60428'' E"
+                },
+                "MGRS": "31UDQ5528919489",
+                "Maidenhead": "JN18ew62sj",
+                "Mercator": {
+                    "x": 266010.424,
+                    "y": 6230207.65
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR106"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=138211#map=16/48.92672/2.38961",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/48.92672/2.38961&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.92672&mlon=2.38961#map=16/48.92672/2.38961"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09wq6u4f424dmmyp7bp",
+                "qibla": 119.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714106340,
+                        "astronomical": 1714098660,
+                        "civil": 1714104240,
+                        "nautical": 1714101660
+                    },
+                    "set": {
+                        "apparent": 1714157880,
+                        "astronomical": 1714165620,
+                        "civil": 1714159980,
+                        "nautical": 1714162620
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "goodness.winters.chickens"
+                },
+                "wikidata": "Q244725"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.9515146,
+                    "lng": 2.4225352
+                },
+                "southwest": {
+                    "lat": 48.9166172,
+                    "lng": 2.3746705
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-93"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Courneuve",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Seine-Saint-Denis",
+                "municipality": "Saint-Denis",
+                "political_union": "European Union",
+                "postcode": "93120",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "La Courneuve"
+            },
+            "confidence": 7,
+            "formatted": "93120 La Courneuve, France",
+            "geometry": {
+                "lat": 48.9267236,
+                "lng": 2.3896123
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:24:14 GMT",
+        "created_unix": 1714170254
+    },
+    "total_results": 1
+}

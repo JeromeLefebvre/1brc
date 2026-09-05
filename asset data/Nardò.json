@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2301,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 10' 34.53888'' N",
+                    "lng": "18\u00b0 1' 50.29356'' E"
+                },
+                "MGRS": "34TBK4716951549",
+                "Maidenhead": "JN90ae32qh",
+                "Mercator": {
+                    "x": 2007161.341,
+                    "y": 4864017.522
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF4"
+                    },
+                    "NUTS3": {
+                        "code": "ITF45"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=40335#map=16/40.17626/18.03064",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.17626/18.03064&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.17626&mlon=18.03064#map=16/40.17626/18.03064"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "srhud3ce8mc6z70vz916",
+                "qibla": 128.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713931080,
+                        "astronomical": 1713925020,
+                        "civil": 1713929340,
+                        "nautical": 1713927240
+                    },
+                    "set": {
+                        "apparent": 1713980100,
+                        "astronomical": 1713986160,
+                        "civil": 1713981840,
+                        "nautical": 1713983940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "tests.meant.stoops"
+                },
+                "wikidata": "Q52169"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.3628746,
+                    "lng": 18.0863535
+                },
+                "southwest": {
+                    "lat": 40.1212469,
+                    "lng": 17.7920322
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-75",
+                    "IT-LE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nard\u00f2",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Lecce",
+                "county_code": "LE",
+                "political_union": "European Union",
+                "postcode": "73048",
+                "state": "Apulia",
+                "town": "Nard\u00f2"
+            },
+            "confidence": 4,
+            "formatted": "73048 Nard\u00f2 LE, Italy",
+            "geometry": {
+                "lat": 40.1762608,
+                "lng": 18.0306371
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:16:11 GMT",
+        "created_unix": 1713993371
+    },
+    "total_results": 1
+}

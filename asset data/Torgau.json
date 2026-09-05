@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1931,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 33' 29.25792'' N",
+                    "lng": "13\u00b0 0' 16.75368'' E"
+                },
+                "MGRS": "33UUT6168013780",
+                "Maidenhead": "JO61mn03nw",
+                "Mercator": {
+                    "x": 1447671.439,
+                    "y": 6687131.769
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DED"
+                    },
+                    "NUTS2": {
+                        "code": "DED5"
+                    },
+                    "NUTS3": {
+                        "code": "DED53"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=534447#map=17/51.55813/13.00465",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.55813/13.00465&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.55813&mlon=13.00465#map=17/51.55813/13.00465"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u31jrcvey7s8w6p6vg3u",
+                "qibla": 135.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714103400,
+                        "astronomical": 1714094880,
+                        "civil": 1714101180,
+                        "nautical": 1714098300
+                    },
+                    "set": {
+                        "apparent": 1714155780,
+                        "astronomical": 1714164360,
+                        "civil": 1714158000,
+                        "nautical": 1714160880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "scowls.invented.buzzer"
+                },
+                "wikidata": "Q12062"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6018938,
+                    "lng": 13.1058704
+                },
+                "southwest": {
+                    "lat": 51.4758384,
+                    "lng": 12.9057789
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-SN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Torgau",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Nordsachsen",
+                "municipality": "Torgau",
+                "political_union": "European Union",
+                "state": "Saxony",
+                "state_code": "SN",
+                "town": "Torgau"
+            },
+            "confidence": 6,
+            "formatted": "Torgau, Saxony, Germany",
+            "geometry": {
+                "lat": 51.5581272,
+                "lng": 13.0046538
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:16:46 GMT",
+        "created_unix": 1714169806
+    },
+    "total_results": 1
+}

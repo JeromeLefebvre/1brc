@@ -1,0 +1,151 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 487,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 8' 50.49600'' N",
+                    "lng": "14\u00b0 57' 50.72400'' E"
+                },
+                "MGRS": "33SVC9685322165",
+                "Maidenhead": "JM78ld55qi",
+                "Mercator": {
+                    "x": 1665794.879,
+                    "y": 4573867.555
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITG"
+                    },
+                    "NUTS2": {
+                        "code": "ITG1"
+                    },
+                    "NUTS3": {
+                        "code": "ITG13"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.14736/14.96409&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.14736&mlon=14.96409#map=17/38.14736/14.96409"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sqf9h8882x64pkg6wkgf",
+                "qibla": 120.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713673020,
+                        "astronomical": 1713667320,
+                        "civil": 1713671400,
+                        "nautical": 1713669360
+                    },
+                    "set": {
+                        "apparent": 1713721260,
+                        "astronomical": 1713727020,
+                        "civil": 1713722940,
+                        "nautical": 1713724920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "graver.vibrates.survivor"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.1558538,
+                    "lng": 14.9966541
+                },
+                "southwest": {
+                    "lat": 38.1335019,
+                    "lng": 14.9585293
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "_category": "place",
+                "_normalized_city": "Patti",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Messina",
+                "county_code": "ME",
+                "local_administrative_area": "Patti",
+                "political_union": "European Union",
+                "state": "Sicily",
+                "town": "Patti"
+            },
+            "confidence": 7,
+            "formatted": "Patti, Messina, Italy",
+            "geometry": {
+                "lat": 38.14736,
+                "lng": 14.96409
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:32:43 GMT",
+        "created_unix": 1713666763
+    },
+    "total_results": 1
+}

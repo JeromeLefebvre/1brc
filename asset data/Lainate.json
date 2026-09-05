@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1205,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 34' 15.34800'' N",
+                    "lng": "9\u00b0 1' 37.42932'' E"
+                },
+                "MGRS": "32TNR0211146377",
+                "Maidenhead": "JN45mn37fa",
+                "Mercator": {
+                    "x": 1004888.134,
+                    "y": 5681329.12
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC4C"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45307#map=16/45.57093/9.02706",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.57093/9.02706&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.57093&mlon=9.02706#map=16/45.57093/9.02706"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0n7jrvmcv4d1g6xrev0",
+                "qibla": 123.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714882020,
+                        "astronomical": 1714874640,
+                        "civil": 1714880040,
+                        "nautical": 1714877520
+                    },
+                    "set": {
+                        "apparent": 1714934100,
+                        "astronomical": 1714941480,
+                        "civil": 1714936140,
+                        "nautical": 1714938600
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "shadows.cashier.energetic"
+                },
+                "wikidata": "Q43026"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.5885008,
+                    "lng": 9.055927
+                },
+                "southwest": {
+                    "lat": 45.5410242,
+                    "lng": 8.9954134
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lainate",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Milan",
+                "county_code": "MI",
+                "political_union": "European Union",
+                "postcode": "20045",
+                "state": "Lombardy",
+                "town": "Lainate"
+            },
+            "confidence": 7,
+            "formatted": "20045 Lainate MI, Italy",
+            "geometry": {
+                "lat": 45.57093,
+                "lng": 9.0270637
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:37:33 GMT",
+        "created_unix": 1714901853
+    },
+    "total_results": 1
+}

@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1905,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 24' 1.21320'' N",
+                    "lng": "10\u00b0 51' 36.06840'' E"
+                },
+                "MGRS": "32TPP5062006953",
+                "Maidenhead": "JN53kj36eb",
+                "Mercator": {
+                    "x": 1208931.785,
+                    "y": 5343738.92
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI17"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42425#map=17/43.40034/10.86002",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.40034/10.86002&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.40034&mlon=10.86002#map=17/43.40034/10.86002"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spxwzhu12c1ndbkqb0mg",
+                "qibla": 123.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018740,
+                        "astronomical": 1714012260,
+                        "civil": 1714016880,
+                        "nautical": 1714014660
+                    },
+                    "set": {
+                        "apparent": 1714068660,
+                        "astronomical": 1714075200,
+                        "civil": 1714070460,
+                        "nautical": 1714072740
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "pothole.piles.jokers"
+                },
+                "wikidata": "Q103305"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.4974184,
+                    "lng": 11.0140065
+                },
+                "southwest": {
+                    "lat": 43.3021527,
+                    "lng": 10.7697823
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-PI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Volterra",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Pisa",
+                "county_code": "PI",
+                "political_union": "European Union",
+                "postcode": "56048",
+                "state": "Tuscany",
+                "town": "Volterra"
+            },
+            "confidence": 4,
+            "formatted": "56048 Volterra PI, Italy",
+            "geometry": {
+                "lat": 43.400337,
+                "lng": 10.860019
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:26:53 GMT",
+        "created_unix": 1714004813
+    },
+    "total_results": 1
+}

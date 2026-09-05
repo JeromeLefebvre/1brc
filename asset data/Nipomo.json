@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 125,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 2' 8.95776'' N",
+                    "lng": "120\u00b0 29' 47.10804'' W"
+                },
+                "FIPS": {
+                    "county": "06079",
+                    "state": "06"
+                },
+                "MGRS": "10SGD2838179881",
+                "Maidenhead": "CM95sa08ko",
+                "Mercator": {
+                    "x": -13413599.996,
+                    "y": 4144219.93
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=33174800#map=17/35.03582/-120.49642",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.03582/-120.49642&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.03582&mlon=-120.49642#map=17/35.03582/-120.49642"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q4r6414mytbseedqrpw",
+                "qibla": 21.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714828080,
+                        "astronomical": 1714822380,
+                        "civil": 1714826460,
+                        "nautical": 1714824480
+                    },
+                    "set": {
+                        "apparent": 1714791000,
+                        "astronomical": 1714796700,
+                        "civil": 1714792620,
+                        "nautical": 1714794600
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "moth.swaps.engage"
+                },
+                "wikidata": "Q2316538"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.0721026,
+                    "lng": -120.4470248
+                },
+                "southwest": {
+                    "lat": 34.9996345,
+                    "lng": -120.5333917
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nipomo",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Luis Obispo County",
+                "locality": "Nipomo",
+                "postcode": "93444",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "Nipomo, San Luis Obispo County, CA 93444, United States of America",
+            "geometry": {
+                "lat": 35.0358216,
+                "lng": -120.4964189
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:12:51 GMT",
+        "created_unix": 1714795971
+    },
+    "total_results": 1
+}

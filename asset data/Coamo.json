@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2315,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 4' 50.52432'' N",
+                    "lng": "66\u00b0 21' 23.59512'' W"
+                },
+                "FIPS": {
+                    "state": "72"
+                },
+                "MGRS": "19QGA7979501118",
+                "Maidenhead": "FK68tb79fi",
+                "Mercator": {
+                    "x": -7386777.824,
+                    "y": 2033742.304
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4467644#map=17/18.08070/-66.35655",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.08070/-66.35655&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.08070&mlon=-66.35655#map=17/18.08070/-66.35655"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "LATIN_AMERICA": "419",
+                        "PR": "630",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf7",
+                "geohash": "de0yf52xsnyzz9chb9w2",
+                "qibla": 64.43,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714989420,
+                        "astronomical": 1714984740,
+                        "civil": 1714988040,
+                        "nautical": 1714986420
+                    },
+                    "set": {
+                        "apparent": 1715035620,
+                        "astronomical": 1714953900,
+                        "civil": 1715037000,
+                        "nautical": 1715038620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Puerto_Rico",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "limitless.legislators.thorny"
+                },
+                "wikidata": "Q1942303"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.1767343,
+                    "lng": -66.2576236
+                },
+                "southwest": {
+                    "lat": 18.0154661,
+                    "lng": -66.4443305
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PR",
+                "ISO_3166-1_alpha-3": "PRI",
+                "ISO_3166-2": [
+                    "US-PR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Coamo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Puerto Rico",
+                "state_code": "PR",
+                "town": "Coamo"
+            },
+            "confidence": 5,
+            "formatted": "Coamo, Puerto Rico, United States of America",
+            "geometry": {
+                "lat": 18.0807012,
+                "lng": -66.3565542
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:18:07 GMT",
+        "created_unix": 1714954687
+    },
+    "total_results": 1
+}

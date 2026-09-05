@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1285,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 24' 41.44500'' N",
+                    "lng": "119\u00b0 51' 22.36716'' W"
+                },
+                "FIPS": {
+                    "county": "06083",
+                    "state": "06"
+                },
+                "MGRS": "11SKU3747411484",
+                "Maidenhead": "DM04bj78gs",
+                "Mercator": {
+                    "x": -13342332.611,
+                    "y": 4060045.783
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=8280709#map=17/34.41151/-119.85621",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.41151/-119.85621&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.41151&mlon=-119.85621#map=17/34.41151/-119.85621"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q4gb87mefcgy2sgpcdh",
+                "qibla": 22.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714741680,
+                        "astronomical": 1714736040,
+                        "civil": 1714740060,
+                        "nautical": 1714738080
+                    },
+                    "set": {
+                        "apparent": 1714704300,
+                        "astronomical": 1714709940,
+                        "civil": 1714705920,
+                        "nautical": 1714707900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "food.putty.guru"
+                },
+                "wikidata": "Q1674054"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.424315,
+                    "lng": -119.837124
+                },
+                "southwest": {
+                    "lat": 34.4047282,
+                    "lng": -119.8814672
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Isla Vista",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Santa Barbara County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Isla Vista"
+            },
+            "confidence": 7,
+            "formatted": "Isla Vista, California, United States of America",
+            "geometry": {
+                "lat": 34.4115125,
+                "lng": -119.8562131
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:56:03 GMT",
+        "created_unix": 1714697763
+    },
+    "total_results": 1
+}

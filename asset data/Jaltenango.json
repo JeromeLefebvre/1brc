@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1815,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "15\u00b0 52' 18.59016'' N",
+                    "lng": "92\u00b0 43' 21.59976'' W"
+                },
+                "MGRS": "15PWT2969154777",
+                "Maidenhead": "EK35pu39gf",
+                "Mercator": {
+                    "x": -10321840.031,
+                    "y": 1778205.597
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2023206457#map=17/15.87183/-92.72267",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/15.87183/-92.72267&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=15.87183&mlon=-92.72267#map=17/15.87183/-92.72267"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9fy4613kj78tkmvre0jm",
+                "qibla": 52.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714045860,
+                        "astronomical": 1714041360,
+                        "civil": 1714044480,
+                        "nautical": 1714042920
+                    },
+                    "set": {
+                        "apparent": 1714004820,
+                        "astronomical": 1714009320,
+                        "civil": 1714006140,
+                        "nautical": 1714007700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "bendable.idols.generic"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 15.9118306,
+                    "lng": -92.6826666
+                },
+                "southwest": {
+                    "lat": 15.8318306,
+                    "lng": -92.7626666
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-CHP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jaltenango",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "\u00c1ngel Albino Corzo",
+                "state": "Chiapas",
+                "state_code": "CHP",
+                "town": "Jaltenango"
+            },
+            "confidence": 7,
+            "formatted": "Jaltenango, \u00c1ngel Albino Corzo, Mexico",
+            "geometry": {
+                "lat": 15.8718306,
+                "lng": -92.7226666
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:30:53 GMT",
+        "created_unix": 1714005053
+    },
+    "total_results": 1
+}

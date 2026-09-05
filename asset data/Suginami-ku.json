@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1819,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 41' 58.17444'' N",
+                    "lng": "139\u00b0 38' 10.63536'' E"
+                },
+                "MGRS": "54SUE7662351475",
+                "Maidenhead": "PM95tq67iv",
+                "Mercator": {
+                    "x": 15544240.432,
+                    "y": 4234415.951
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1543055#map=17/35.69949/139.63629",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.69949/139.63629&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.69949&mlon=139.63629#map=17/35.69949/139.63629"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn771dbh97fd55ywcxkm",
+                "qibla": 292.99,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714506720,
+                        "astronomical": 1714501080,
+                        "civil": 1714505100,
+                        "nautical": 1714503120
+                    },
+                    "set": {
+                        "apparent": 1714469160,
+                        "astronomical": 1714474800,
+                        "civil": 1714470780,
+                        "nautical": 1714472760
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "highways.obey.called"
+                },
+                "wikidata": "Q232631"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.7314266,
+                    "lng": 139.6677991
+                },
+                "southwest": {
+                    "lat": 35.6658826,
+                    "lng": 139.5850772
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Suginami",
+                "_type": "city",
+                "city": "Suginami",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp"
+            },
+            "confidence": 7,
+            "formatted": "Suginami, Japan",
+            "geometry": {
+                "lat": 35.6994929,
+                "lng": 139.6362876
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:16:02 GMT",
+        "created_unix": 1714518962
+    },
+    "total_results": 1
+}

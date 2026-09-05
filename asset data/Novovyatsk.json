@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 318,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "58\u00b0 29' 53.84400'' N",
+                    "lng": "49\u00b0 43' 9.30000'' E"
+                },
+                "MGRS": "39VVE2535384899",
+                "Maidenhead": "LO48ul69ho",
+                "Mercator": {
+                    "x": 5534721.593,
+                    "y": 8036264.987
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/58.49829/49.71925&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=58.49829&mlon=49.71925#map=16/58.49829/49.71925"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v47kg3k3nrxu70jdsp93",
+                "qibla": 195.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713748260,
+                        "astronomical": 1713822480,
+                        "civil": 1713745500,
+                        "nautical": 1713828180
+                    },
+                    "set": {
+                        "apparent": 1713802200,
+                        "astronomical": 1713814800,
+                        "civil": 1713804960,
+                        "nautical": 1713808740
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kirov",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "cower.inclined.doorstops"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 58.5147209,
+                    "lng": 49.7630005
+                },
+                "southwest": {
+                    "lat": 58.4796677,
+                    "lng": 49.6882515
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Novovyatsk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Kirovskaya Oblast\u2019",
+                "town": "Novovyatsk"
+            },
+            "confidence": 7,
+            "formatted": "Novovyatsk, Kirovskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 58.49829,
+                "lng": 49.71925
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:38:51 GMT",
+        "created_unix": 1713782331
+    },
+    "total_results": 1
+}

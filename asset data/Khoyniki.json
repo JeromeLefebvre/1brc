@@ -1,0 +1,130 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 8,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 53' 27.96000'' N",
+                    "lng": "29\u00b0 57' 18.72000'' E"
+                },
+                "MGRS": "35UQT0334653054",
+                "Maidenhead": "KO41xv43ou",
+                "Mercator": {
+                    "x": 3334597.611,
+                    "y": 6746816.107
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.89110/29.95520&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.89110&mlon=29.95520#map=17/51.89110/29.95520"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u9jr1wkxwf0h9jbvv4pt",
+                "qibla": 162.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713581640,
+                        "astronomical": 1713573480,
+                        "civil": 1713579420,
+                        "nautical": 1713576660
+                    },
+                    "set": {
+                        "apparent": 1713632700,
+                        "astronomical": 1713640920,
+                        "civil": 1713634920,
+                        "nautical": 1713637680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "betrays.inelegant.incited"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "_category": "place",
+                "_normalized_city": "Khoyniki",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "state": "Gomel",
+                "town": "Khoyniki"
+            },
+            "confidence": 9,
+            "formatted": "Khoyniki, Gomel, Belarus",
+            "geometry": {
+                "lat": 51.8911,
+                "lng": 29.9552
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:12:43 GMT",
+        "created_unix": 1713651163
+    },
+    "total_results": 1
+}

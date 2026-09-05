@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 893,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 21' 38.76048'' N",
+                    "lng": "11\u00b0 22' 27.48360'' E"
+                },
+                "MGRS": "32UPU7586759123",
+                "Maidenhead": "JN58qi46vo",
+                "Mercator": {
+                    "x": 1266181.395,
+                    "y": 6135135.138
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE21"
+                    },
+                    "NUTS3": {
+                        "code": "DE217"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=415818#map=16/48.36077/11.37430",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/48.36077/11.37430&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.36077&mlon=11.37430#map=16/48.36077/11.37430"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u2854gf9bkmdc7k7m7m9",
+                "qibla": 129.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535760,
+                        "astronomical": 1714527960,
+                        "civil": 1714533660,
+                        "nautical": 1714531020
+                    },
+                    "set": {
+                        "apparent": 1714588080,
+                        "astronomical": 1714596000,
+                        "civil": 1714590180,
+                        "nautical": 1714592880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "sleuths.patient.antelopes"
+                },
+                "wikidata": "Q513161"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.4278839,
+                    "lng": 11.4283232
+                },
+                "southwest": {
+                    "lat": 48.3062001,
+                    "lng": 11.2836877
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Markt Indersdorf",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Dachau",
+                "political_union": "European Union",
+                "postcode": "85229",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Markt Indersdorf"
+            },
+            "confidence": 6,
+            "formatted": "85229 Markt Indersdorf, Germany",
+            "geometry": {
+                "lat": 48.3607668,
+                "lng": 11.374301
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:30:58 GMT",
+        "created_unix": 1714534258
+    },
+    "total_results": 1
+}

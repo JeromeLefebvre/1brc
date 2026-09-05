@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1677,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 53' 37.99824'' N",
+                    "lng": "109\u00b0 55' 12.21600'' W"
+                },
+                "MGRS": "12QXL1076432179",
+                "Maidenhead": "DL52av94om",
+                "Mercator": {
+                    "x": -12236245.107,
+                    "y": 2602575.164
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=303079568#map=17/22.89389/-109.92006",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/22.89389/-109.92006&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=22.89389&mlon=-109.92006#map=17/22.89389/-109.92006"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9s1f4xwwsfney68059hf",
+                "qibla": 35.84,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714481280,
+                        "astronomical": 1714476480,
+                        "civil": 1714479840,
+                        "nautical": 1714478220
+                    },
+                    "set": {
+                        "apparent": 1714441560,
+                        "astronomical": 1714446360,
+                        "civil": 1714443000,
+                        "nautical": 1714444620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mazatlan",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "huddles.toothpaste.renounces"
+                },
+                "wikidata": "Q1020776"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 23.0538884,
+                    "lng": -109.76006
+                },
+                "southwest": {
+                    "lat": 22.7338884,
+                    "lng": -110.08006
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-BCS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cabo San Lucas",
+                "_type": "city",
+                "city": "Cabo San Lucas",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Los Cabos Municipality",
+                "postcode": "23470",
+                "state": "Baja California Sur",
+                "state_code": "BCS"
+            },
+            "confidence": 3,
+            "formatted": "Cabo San Lucas, Los Cabos Municipality, Mexico",
+            "geometry": {
+                "lat": 22.8938884,
+                "lng": -109.92006
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:22:05 GMT",
+        "created_unix": 1714519325
+    },
+    "total_results": 1
+}

@@ -1,0 +1,151 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1700,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 35' 38.61024'' N",
+                    "lng": "85\u00b0 31' 34.08492'' E"
+                },
+                "MGRS": "45RUJ5198531552",
+                "Maidenhead": "NL25so32dn",
+                "Mercator": {
+                    "x": 9520725.764,
+                    "y": 2930436.84
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8145394423#map=17/25.59406/85.52613",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/25.59406/85.52613&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.59406&mlon=85.52613#map=17/25.59406/85.52613"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tuscd5q0pqk1rbfsk4kd",
+                "qibla": 274.17,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "NH122B",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714520580,
+                        "astronomical": 1714515720,
+                        "civil": 1714519140,
+                        "nautical": 1714517460
+                    },
+                    "set": {
+                        "apparent": 1714481220,
+                        "astronomical": 1714486140,
+                        "civil": 1714482660,
+                        "nautical": 1714484400
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "shrillness.compounded.cackling"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 25.5941084,
+                    "lng": 85.5261847
+                },
+                "southwest": {
+                    "lat": 25.5940084,
+                    "lng": 85.5260847
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-BR"
+                ],
+                "_category": "health",
+                "_normalized_city": "Jalalpur",
+                "_type": "hospital",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Mahnar",
+                "hospital": "Government Hospital, Hasanpur Juned",
+                "postcode": "844506",
+                "road": "NH122B",
+                "state": "Bihar",
+                "state_code": "BR",
+                "state_district": "Vaishali District",
+                "village": "Jalalpur"
+            },
+            "confidence": 9,
+            "formatted": "Government Hospital, Hasanpur Juned, NH122B, Vaishali District, Jalalpur - 844506, Bihar, India",
+            "geometry": {
+                "lat": 25.5940584,
+                "lng": 85.5261347
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:21:06 GMT",
+        "created_unix": 1714519266
+    },
+    "total_results": 1
+}

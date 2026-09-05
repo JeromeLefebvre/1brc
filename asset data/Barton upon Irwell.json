@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1607,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 28' 43.04316'' N",
+                    "lng": "2\u00b0 21' 0.69552'' W"
+                },
+                "MGRS": "30UWE4312425712",
+                "Maidenhead": "IO83tl74xu",
+                "Mercator": {
+                    "x": -261622.31,
+                    "y": 7037662.737
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30688080#map=17/53.47862/-2.35019",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.47862/-2.35019&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.47862&mlon=-2.35019#map=17/53.47862/-2.35019"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcw24x2xs9buvgjeh2n1",
+                "qibla": 118.34,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713934200,
+                        "astronomical": 1713925140,
+                        "civil": 1713931860,
+                        "nautical": 1713928860
+                    },
+                    "set": {
+                        "apparent": 1713986760,
+                        "astronomical": 1713995940,
+                        "civil": 1713989160,
+                        "nautical": 1713992160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "actors.valid.mute"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.4986231,
+                    "lng": -2.3301932
+                },
+                "southwest": {
+                    "lat": 53.4586231,
+                    "lng": -2.3701932
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SLF"
+                ],
+                "_category": "place",
+                "_normalized_city": "Salford",
+                "_type": "neighbourhood",
+                "city": "Salford",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Salford",
+                "county_code": "SLF",
+                "postcode": "M30 0JL",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater Manchester",
+                "suburb": "Barton upon Irwell",
+                "town": "Eccles"
+            },
+            "confidence": 7,
+            "formatted": "Eccles, M30 0JL, United Kingdom",
+            "geometry": {
+                "lat": 53.4786231,
+                "lng": -2.3501932
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:40:00 GMT",
+        "created_unix": 1713994800
+    },
+    "total_results": 1
+}

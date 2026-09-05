@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1789,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 42' 26.38476'' N",
+                    "lng": "84\u00b0 16' 18.72012'' W"
+                },
+                "FIPS": {
+                    "county": "13089",
+                    "state": "13"
+                },
+                "MGRS": "16SGC5283433047",
+                "Maidenhead": "EM73uq79js",
+                "Mercator": {
+                    "x": -9381101.289,
+                    "y": 3965859.436
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=154396829#map=17/33.70733/-84.27187",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.70733/-84.27187&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.70733&mlon=-84.27187#map=17/33.70733/-84.27187"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djupf25p7jtf0mkd9v9x",
+                "qibla": 52.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714733220,
+                        "astronomical": 1714727640,
+                        "civil": 1714731600,
+                        "nautical": 1714729680
+                    },
+                    "set": {
+                        "apparent": 1714695660,
+                        "astronomical": 1714701240,
+                        "civil": 1714697280,
+                        "nautical": 1714699200
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "applications.hugged.electric"
+                },
+                "wikidata": "Q2127460"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.7473291,
+                    "lng": -84.2318667
+                },
+                "southwest": {
+                    "lat": 33.6673291,
+                    "lng": -84.3118667
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-GA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Panthersville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "DeKalb County",
+                "postcode": "30073",
+                "state": "Georgia",
+                "state_code": "GA",
+                "town": "Panthersville"
+            },
+            "confidence": 7,
+            "formatted": "Panthersville, GA 30073, United States of America",
+            "geometry": {
+                "lat": 33.7073291,
+                "lng": -84.2718667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:37:36 GMT",
+        "created_unix": 1714696656
+    },
+    "total_results": 1
+}

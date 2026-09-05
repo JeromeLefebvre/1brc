@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 344,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 53' 33.77868'' S",
+                    "lng": "53\u00b0 10' 17.94576'' W"
+                },
+                "MGRS": "22JBR8430423597",
+                "Maidenhead": "GG33jc95jr",
+                "Mercator": {
+                    "x": -5919041.181,
+                    "y": -3090752.558
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=296530#map=17/-26.89272/-53.17165",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-26.89272/-53.17165&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-26.89272&mlon=-53.17165#map=17/-26.89272/-53.17165"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "BR": "076",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 55,
+                "currency": {
+                    "decimal_mark": ",",
+                    "html_entity": "R$",
+                    "iso_code": "BRL",
+                    "iso_numeric": "986",
+                    "name": "Brazilian Real",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "R$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddf7",
+                "geohash": "6g4pn03dddqftgjhg4rw",
+                "qibla": 71.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711705320,
+                        "astronomical": 1711700700,
+                        "civil": 1711703940,
+                        "nautical": 1711702320
+                    },
+                    "set": {
+                        "apparent": 1711747920,
+                        "astronomical": 1711752540,
+                        "civil": 1711749300,
+                        "nautical": 1711750920
+                    }
+                },
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "BRT"
+                },
+                "what3words": {
+                    "words": "tabled.collate.leash"
+                },
+                "wikidata": "Q1758938"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -26.8,
+                    "lng": -53.103
+                },
+                "southwest": {
+                    "lat": -26.955,
+                    "lng": -53.2959653
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BR",
+                "ISO_3166-1_alpha-3": "BRA",
+                "ISO_3166-2": [
+                    "BR-SC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cunha Por\u00e3",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Brazil",
+                "country_code": "br",
+                "municipality": "Regi\u00e3o Geogr\u00e1fica Imediata de Maravilha",
+                "postcode": "89890-000",
+                "region": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Chapec\u00f3",
+                "state": "Santa Catarina",
+                "state_code": "SC",
+                "town": "Cunha Por\u00e3"
+            },
+            "confidence": 5,
+            "formatted": "Cunha Por\u00e3 - SC, 89890-000, Brazil",
+            "geometry": {
+                "lat": -26.8927163,
+                "lng": -53.1716516
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:00:10 GMT",
+        "created_unix": 1711753210
+    },
+    "total_results": 1
+}

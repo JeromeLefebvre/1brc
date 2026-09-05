@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 542,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 22' 30.14400'' N",
+                    "lng": "95\u00b0 16' 9.04800'' W"
+                },
+                "FIPS": {
+                    "county": "48423",
+                    "state": "48"
+                },
+                "MGRS": "15STR8651684271",
+                "Maidenhead": "EM22ij70qa",
+                "Mercator": {
+                    "x": -10605316.606,
+                    "y": 3789764.269
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.37504/-95.26918&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.37504&mlon=-95.26918#map=16/32.37504/-95.26918"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vu20jen70ys5gv52c3n",
+                "qibla": 44.81,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713440880,
+                        "astronomical": 1713435720,
+                        "civil": 1713439380,
+                        "nautical": 1713437580
+                    },
+                    "set": {
+                        "apparent": 1713401520,
+                        "astronomical": 1713406740,
+                        "civil": 1713403080,
+                        "nautical": 1713404880
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "almonds.ejection.stowing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.687026,
+                    "lng": -94.985265
+                },
+                "southwest": {
+                    "lat": 32.135399,
+                    "lng": -95.594541
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Smith County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 1,
+            "formatted": "Smith County, Texas, United States of America",
+            "geometry": {
+                "lat": 32.37504,
+                "lng": -95.26918
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:20:53 GMT",
+        "created_unix": 1713442853
+    },
+    "total_results": 1
+}

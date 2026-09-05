@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1661,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 49' 26.54400'' N",
+                    "lng": "6\u00b0 3' 58.57200'' W"
+                },
+                "MGRS": "29SQT7152646517",
+                "Maidenhead": "IM63xt27bs",
+                "Mercator": {
+                    "x": -675294.087,
+                    "y": 3981415.431
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.82404/-6.06627&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.82404&mlon=-6.06627#map=16/33.82404/-6.06627"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "ey58mvqxmdj1z9twfh8c",
+                "qibla": 94.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711692960,
+                        "astronomical": 1711687920,
+                        "civil": 1711691460,
+                        "nautical": 1711689720
+                    },
+                    "set": {
+                        "apparent": 1711737720,
+                        "astronomical": 1711742760,
+                        "civil": 1711739220,
+                        "nautical": 1711740960
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 1,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "+00"
+                },
+                "what3words": {
+                    "words": "grand.pheasants.friday"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.839622,
+                    "lng": -6.059334
+                },
+                "southwest": {
+                    "lat": 33.814835,
+                    "lng": -6.074066
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Khemisset",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "Khemisset",
+                "local_administrative_area": "Khemisset",
+                "state": "R\u00e9gion de Rabat-Sal\u00e9-Zemmour-Za\u00ebr",
+                "town": "Khemisset"
+            },
+            "confidence": 7,
+            "formatted": "Khemisset, Morocco",
+            "geometry": {
+                "lat": 33.82404,
+                "lng": -6.06627
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:17:06 GMT",
+        "created_unix": 1711750626
+    },
+    "total_results": 1
+}

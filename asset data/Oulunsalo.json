@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 3,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "64\u00b0 56' 0.01968'' N",
+                    "lng": "25\u00b0 25' 0.00264'' E"
+                },
+                "MGRS": "35WMN2515501962",
+                "Maidenhead": "KP24rw04aa",
+                "Mercator": {
+                    "x": 2829370.473,
+                    "y": 9552087.264
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FI"
+                    },
+                    "NUTS1": {
+                        "code": "FI1"
+                    },
+                    "NUTS2": {
+                        "code": "FI1D"
+                    },
+                    "NUTS3": {
+                        "code": "FI1D9"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30969738#map=17/64.93334/25.41667",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/64.93334/25.41667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=64.93334&mlon=25.41667#map=17/64.93334/25.41667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FI": "246",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 358,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddee",
+                "geohash": "ued16kgb578vdfp3e180",
+                "qibla": 160.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713924600,
+                        "astronomical": 0,
+                        "civil": 1713920700,
+                        "nautical": 0
+                    },
+                    "set": {
+                        "apparent": 1713983100,
+                        "astronomical": 0,
+                        "civil": 1713987060,
+                        "nautical": 0
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Helsinki",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "bookings.leanness.belief"
+                },
+                "wikidata": "Q11886132"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 64.9733388,
+                    "lng": 25.4566674
+                },
+                "southwest": {
+                    "lat": 64.8933388,
+                    "lng": 25.3766674
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FI",
+                "ISO_3166-1_alpha-3": "FIN",
+                "ISO_3166-2": [
+                    "FI-14"
+                ],
+                "_category": "place",
+                "_normalized_city": "Oulu",
+                "_type": "city",
+                "city": "Oulu",
+                "continent": "Europe",
+                "country": "Finland",
+                "country_code": "fi",
+                "county": "North Ostrobothnia",
+                "municipality": "Oulu sub-region",
+                "political_union": "European Union",
+                "postcode": "90460",
+                "region": "Mainland Finland",
+                "town": "Oulunsalo"
+            },
+            "confidence": 7,
+            "formatted": "Oulu, North Ostrobothnia, Finland",
+            "geometry": {
+                "lat": 64.9333388,
+                "lng": 25.4166674
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:35:52 GMT",
+        "created_unix": 1713998152
+    },
+    "total_results": 1
+}

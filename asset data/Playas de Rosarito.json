@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2423,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 21' 54.59760'' N",
+                    "lng": "117\u00b0 3' 20.85228'' W"
+                },
+                "MGRS": "11SMR9475180914",
+                "Maidenhead": "DM12li37hp",
+                "Mercator": {
+                    "x": -13030591.193,
+                    "y": 3788469.1
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3602376339#map=17/32.36517/-117.05579",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.36517/-117.05579&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.36517&mlon=-117.05579#map=17/32.36517/-117.05579"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9mub07fsf25p3mqfnees",
+                "qibla": 25.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714568520,
+                        "astronomical": 1714563120,
+                        "civil": 1714566960,
+                        "nautical": 1714565100
+                    },
+                    "set": {
+                        "apparent": 1714530540,
+                        "astronomical": 1714535940,
+                        "civil": 1714532100,
+                        "nautical": 1714533960
+                    }
+                },
+                "timezone": {
+                    "name": "America/Tijuana",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "hideouts.forefathers.encircling"
+                },
+                "wikidata": "Q1020753"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.525166,
+                    "lng": -116.8957923
+                },
+                "southwest": {
+                    "lat": 32.205166,
+                    "lng": -117.2157923
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-BCN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rosarito",
+                "_type": "city",
+                "city": "Rosarito",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Municipio de Playas de Rosarito",
+                "postcode": "22703",
+                "state": "Baja California",
+                "state_code": "BCN"
+            },
+            "confidence": 3,
+            "formatted": "Rosarito, Municipio de Playas de Rosarito, Mexico",
+            "geometry": {
+                "lat": 32.365166,
+                "lng": -117.0557923
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:03:14 GMT",
+        "created_unix": 1714521794
+    },
+    "total_results": 1
+}

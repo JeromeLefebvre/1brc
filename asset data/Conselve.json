@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 685,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 14' 1.47768'' N",
+                    "lng": "11\u00b0 52' 26.44716'' E"
+                },
+                "MGRS": "32TQR2559212935",
+                "Maidenhead": "JN55wf46vc",
+                "Mercator": {
+                    "x": 1321809.092,
+                    "y": 5628046.131
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH36"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44462#map=16/45.23374/11.87401",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.23374/11.87401&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.23374&mlon=11.87401#map=16/45.23374/11.87401"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u203q4w3st1bhd90w9ck",
+                "qibla": 126.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713414180,
+                        "astronomical": 1713407580,
+                        "civil": 1713412320,
+                        "nautical": 1713410040
+                    },
+                    "set": {
+                        "apparent": 1713463260,
+                        "astronomical": 1713469920,
+                        "civil": 1713465180,
+                        "nautical": 1713467400
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "snack.diggers.never"
+                },
+                "wikidata": "Q34385"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.256653,
+                    "lng": 11.9302537
+                },
+                "southwest": {
+                    "lat": 45.2008212,
+                    "lng": 11.8373892
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-PD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Conselve",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Province of Padua",
+                "political_union": "European Union",
+                "postcode": "35026",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "Conselve"
+            },
+            "confidence": 7,
+            "formatted": "35026 Conselve Province of Padua, Italy",
+            "geometry": {
+                "lat": 45.2337438,
+                "lng": 11.8740131
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:15:45 GMT",
+        "created_unix": 1713442545
+    },
+    "total_results": 1
+}

@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1499,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 14' 52.61928'' N",
+                    "lng": "36\u00b0 34' 44.55804'' E"
+                },
+                "MGRS": "37SBV7973003226",
+                "Maidenhead": "KM85gf99lm",
+                "Mercator": {
+                    "x": 4071960.541,
+                    "y": 4172967.945
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=572556656#map=17/35.24795/36.57904",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.24795/36.57904&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.24795&mlon=36.57904#map=17/35.24795/36.57904"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "SY": "760",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 963,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u00a3",
+                        "\u0644.\u0633",
+                        "LS",
+                        "\u0627\u0644\u0644\u064a\u0631\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "SYP",
+                    "iso_numeric": "760",
+                    "name": "Syrian Pound",
+                    "smallest_denomination": 100,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3S",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfe",
+                "geohash": "sy6082sn1w048gdsdnnj",
+                "qibla": 167.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713409140,
+                        "astronomical": 1713403740,
+                        "civil": 1713407520,
+                        "nautical": 1713405660
+                    },
+                    "set": {
+                        "apparent": 1713456480,
+                        "astronomical": 1713461880,
+                        "civil": 1713458040,
+                        "nautical": 1713459960
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Damascus",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "grouting.stretched.shakes"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.2879498,
+                    "lng": 36.6190439
+                },
+                "southwest": {
+                    "lat": 35.2079498,
+                    "lng": 36.5390439
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SY",
+                "ISO_3166-1_alpha-3": "SYR",
+                "ISO_3166-2": [
+                    "SY-HM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Muhradah",
+                "_type": "neighbourhood",
+                "continent": "Asia",
+                "country": "Syria",
+                "country_code": "sy",
+                "district": "Mahardah District",
+                "state": "Hama Governorate",
+                "state_code": "HM",
+                "subdistrict": "Mahardah Subdistrict",
+                "town": "Muhradah"
+            },
+            "confidence": 7,
+            "formatted": "Mahardah Subdistrict, Muhradah, Mahardah District, Syria",
+            "geometry": {
+                "lat": 35.2479498,
+                "lng": 36.5790439
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:48:59 GMT",
+        "created_unix": 1713440939
+    },
+    "total_results": 1
+}

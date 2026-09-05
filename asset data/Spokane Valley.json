@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2468,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 39' 25.59744'' N",
+                    "lng": "117\u00b0 15' 41.01696'' W"
+                },
+                "FIPS": {
+                    "county": "53063",
+                    "state": "53"
+                },
+                "MGRS": "11TMN8037278223",
+                "Maidenhead": "DN17ip87pq",
+                "Mercator": {
+                    "x": -13053478.625,
+                    "y": 6018401.06
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=237598#map=17/47.65711/-117.26139",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.65711/-117.26139&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.65711&mlon=-117.26139#map=17/47.65711/-117.26139"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c2kx5esyg3r8gmg2xw5h",
+                "qibla": 22.39,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714566660,
+                        "astronomical": 1714558980,
+                        "civil": 1714564620,
+                        "nautical": 1714561980
+                    },
+                    "set": {
+                        "apparent": 1714532520,
+                        "astronomical": 1714540260,
+                        "civil": 1714534560,
+                        "nautical": 1714537200
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "happy.studio.scales"
+                },
+                "wikidata": "Q988065"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.709875,
+                    "lng": -117.1427672
+                },
+                "southwest": {
+                    "lat": 47.599805,
+                    "lng": -117.3469902
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Spokane Valley",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Spokane County",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "Spokane Valley"
+            },
+            "confidence": 6,
+            "formatted": "Spokane Valley, Washington, United States of America",
+            "geometry": {
+                "lat": 47.6571104,
+                "lng": -117.2613936
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:01:19 GMT",
+        "created_unix": 1714521679
+    },
+    "total_results": 1
+}

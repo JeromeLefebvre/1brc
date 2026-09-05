@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 784,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 7' 41.63880'' N",
+                    "lng": "30\u00b0 38' 46.31280'' E"
+                },
+                "MGRS": "36RTV7556346197",
+                "Maidenhead": "KM51hd70ns",
+                "Mercator": {
+                    "x": 3411519.156,
+                    "y": 3627327.9
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=610865131#map=17/31.12823/30.64620",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.12823/30.64620&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.12823&mlon=30.64620#map=17/31.12823/30.64620"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "sttc16ezh5jqxt1ny2gp",
+                "qibla": 137.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713497160,
+                        "astronomical": 1713492060,
+                        "civil": 1713495660,
+                        "nautical": 1713493860
+                    },
+                    "set": {
+                        "apparent": 1713544080,
+                        "astronomical": 1713549180,
+                        "civil": 1713545580,
+                        "nautical": 1713547320
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "transmit.cloud.gladiator"
+                },
+                "wikidata": "Q395863"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.1450057,
+                    "lng": 30.6650964
+                },
+                "southwest": {
+                    "lat": 31.1127044,
+                    "lng": 30.6349239
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "_category": "place",
+                "_normalized_city": "Desouk",
+                "_type": "city",
+                "city": "Desouk",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg"
+            },
+            "confidence": 7,
+            "formatted": "Desouk, Egypt",
+            "geometry": {
+                "lat": 31.128233,
+                "lng": 30.646198
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:16:39 GMT",
+        "created_unix": 1713521799
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1347,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 33' 29.49264'' N",
+                    "lng": "24\u00b0 27' 24.15960'' E"
+                },
+                "MGRS": "35ULU2759626163",
+                "Maidenhead": "KO22fn43tx",
+                "Mercator": {
+                    "x": 2722508.615,
+                    "y": 6867741.436
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6722278#map=17/52.55819/24.45671",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.55819/24.45671&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.55819&mlon=24.45671#map=17/52.55819/24.45671"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u936uxbvdtjmz5662rsj",
+                "qibla": 153.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714618140,
+                        "astronomical": 1714608600,
+                        "civil": 1714615800,
+                        "nautical": 1714612680
+                    },
+                    "set": {
+                        "apparent": 1714672200,
+                        "astronomical": 1714681860,
+                        "civil": 1714674600,
+                        "nautical": 1714677720
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "honking.erode.greasy"
+                },
+                "wikidata": "Q956159"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.5809062,
+                    "lng": 24.4967922
+                },
+                "southwest": {
+                    "lat": 52.5380827,
+                    "lng": 24.4130021
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "ISO_3166-2": [
+                    "BY-BR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pruzhany",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "county": "Pruzhany District",
+                "state": "Brest Region",
+                "state_code": "BR",
+                "town": "Pruzhany"
+            },
+            "confidence": 7,
+            "formatted": "Pruzhany, Pruzhany District, Belarus",
+            "geometry": {
+                "lat": 52.5581924,
+                "lng": 24.456711
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:43:39 GMT",
+        "created_unix": 1714693419
+    },
+    "total_results": 1
+}

@@ -1,0 +1,119 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2292,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 55' 50.62800'' N",
+                    "lng": "126\u00b0 41' 17.48400'' E"
+                },
+                "MGRS": "52SBH9682400649",
+                "Maidenhead": "PM37iw23nj",
+                "Mercator": {
+                    "x": 14102864.8,
+                    "y": 4543376.122
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.93073/126.68819&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.93073&mlon=126.68819#map=17/37.93073/126.68819"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wydpfc5d8b93b5xn87fu",
+                "qibla": 285.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714941240,
+                        "astronomical": 1714935240,
+                        "civil": 1714939560,
+                        "nautical": 1714937460
+                    },
+                    "set": {
+                        "apparent": 1714904760,
+                        "astronomical": 1714910820,
+                        "civil": 1714906500,
+                        "nautical": 1714908600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "tabs.output.alley"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "_category": "place",
+                "_type": "country",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr"
+            },
+            "confidence": 9,
+            "formatted": "South Korea",
+            "geometry": {
+                "lat": 37.93073,
+                "lng": 126.68819
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:55:45 GMT",
+        "created_unix": 1714892145
+    },
+    "total_results": 1
+}

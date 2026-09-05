@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1052,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "11\u00b0 16' 0.01200'' N",
+                    "lng": "36\u00b0 49' 59.98800'' E"
+                },
+                "MGRS": "37PBN6346746339",
+                "Maidenhead": "KK81jg94xa",
+                "Mercator": {
+                    "x": 4100267.54,
+                    "y": 1254018.986
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/11.26667/36.83333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=11.26667&mlon=36.83333#map=17/11.26667/36.83333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "sf40n5j1ng92rt83xbck",
+                "qibla": 15.39,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711769520,
+                        "astronomical": 1711765260,
+                        "civil": 1711768260,
+                        "nautical": 1711766760
+                    },
+                    "set": {
+                        "apparent": 1711813380,
+                        "astronomical": 1711817580,
+                        "civil": 1711814640,
+                        "nautical": 1711816080
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "silverback.chopper.bicker"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "_category": "place",
+                "_normalized_city": "Dangila",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "state": "Amhara",
+                "town": "Dangila"
+            },
+            "confidence": 9,
+            "formatted": "Dangila, Amhara, Ethiopia",
+            "geometry": {
+                "lat": 11.26667,
+                "lng": 36.83333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:18:05 GMT",
+        "created_unix": 1711833485
+    },
+    "total_results": 1
+}

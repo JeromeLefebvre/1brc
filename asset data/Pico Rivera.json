@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 125,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 58' 59.04768'' N",
+                    "lng": "118\u00b0 5' 48.24600'' W"
+                },
+                "FIPS": {
+                    "county": "06037",
+                    "state": "06"
+                },
+                "MGRS": "11SLT9869660820",
+                "Maidenhead": "DM03wx85jw",
+                "Mercator": {
+                    "x": -13146468.405,
+                    "y": 4002646.373
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2312930#map=17/33.98307/-118.09673",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.98307/-118.09673&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.98307&mlon=-118.09673#map=17/33.98307/-118.09673"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh12dktdx5vt1mrynw3",
+                "qibla": 24.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713964260,
+                        "astronomical": 1713958860,
+                        "civil": 1713962700,
+                        "nautical": 1713960780
+                    },
+                    "set": {
+                        "apparent": 1713925800,
+                        "astronomical": 1713931260,
+                        "civil": 1713927420,
+                        "nautical": 1713929280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "stay.nails.report"
+                },
+                "wikidata": "Q828706"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.0290947,
+                    "lng": -118.0408072
+                },
+                "southwest": {
+                    "lat": 33.9504801,
+                    "lng": -118.1228268
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pico Rivera",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Los Angeles County",
+                "postcode": "90660",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Pico Rivera"
+            },
+            "confidence": 7,
+            "formatted": "Pico Rivera, CA 90660, United States of America",
+            "geometry": {
+                "lat": 33.9830688,
+                "lng": -118.096735
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:31:38 GMT",
+        "created_unix": 1713997898
+    },
+    "total_results": 1
+}

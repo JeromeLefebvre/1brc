@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1599,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 24' 56.37276'' N",
+                    "lng": "5\u00b0 50' 28.75812'' E"
+                },
+                "MGRS": "31UFU9322611068",
+                "Maidenhead": "JO22wj09xs",
+                "Mercator": {
+                    "x": 650252.958,
+                    "y": 6841750.156
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "NL"
+                    },
+                    "NUTS1": {
+                        "code": "NL2"
+                    },
+                    "NUTS2": {
+                        "code": "NL22"
+                    },
+                    "NUTS3": {
+                        "code": "NL221"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=409681#map=17/52.41566/5.84132",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.41566/5.84132&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.41566&mlon=5.84132#map=17/52.41566/5.84132"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "NL": "528",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 31,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf3\ud83c\uddf1",
+                "geohash": "u1k4hvvx2ej1vhb8uvgw",
+                "qibla": 126.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536360,
+                        "astronomical": 1714527000,
+                        "civil": 1714534020,
+                        "nautical": 1714530960
+                    },
+                    "set": {
+                        "apparent": 1714590120,
+                        "astronomical": 1714599660,
+                        "civil": 1714592520,
+                        "nautical": 1714595640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Amsterdam",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "sugars.terrace.venomous"
+                },
+                "wikidata": "Q165662"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.4734016,
+                    "lng": 5.9243387
+                },
+                "southwest": {
+                    "lat": 52.3578728,
+                    "lng": 5.7562919
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NL",
+                "ISO_3166-1_alpha-3": "NLD",
+                "ISO_3166-2": [
+                    "NL-GE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Elburg",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Netherlands",
+                "country_code": "nl",
+                "municipality": "Elburg",
+                "political_union": "European Union",
+                "state": "Gelderland",
+                "state_code": "GE"
+            },
+            "confidence": 6,
+            "formatted": "Elburg, Gelderland, Netherlands",
+            "geometry": {
+                "lat": 52.4156591,
+                "lng": 5.8413217
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:01:20 GMT",
+        "created_unix": 1714532480
+    },
+    "total_results": 1
+}

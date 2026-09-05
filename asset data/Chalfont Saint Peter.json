@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1457,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 36' 29.54484'' N",
+                    "lng": "0\u00b0 33' 15.52824'' E"
+                },
+                "MGRS": "30UXC6934720296",
+                "Maidenhead": "IO91ro35lx",
+                "Mercator": {
+                    "x": -61705.885,
+                    "y": 6696080.233
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=256080238#map=17/51.60821/-0.55431",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.60821/-0.55431&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.60821&mlon=-0.55431#map=17/51.60821/-0.55431"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpte6uree1cx5ddybff",
+                "qibla": 118.61,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713847800,
+                        "astronomical": 1713839520,
+                        "civil": 1713845580,
+                        "nautical": 1713842820
+                    },
+                    "set": {
+                        "apparent": 1713899520,
+                        "astronomical": 1713907860,
+                        "civil": 1713901740,
+                        "nautical": 1713904560
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "noisy.trend.keys"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6282069,
+                    "lng": -0.5343134
+                },
+                "southwest": {
+                    "lat": 51.5882069,
+                    "lng": -0.5743134
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chalfont St Peter",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Buckinghamshire",
+                "county_code": "BKM",
+                "postcode": "SL9 0AA",
+                "state": "England",
+                "state_code": "ENG",
+                "village": "Chalfont St Peter"
+            },
+            "confidence": 7,
+            "formatted": "Chalfont St Peter, SL9 0AA, United Kingdom",
+            "geometry": {
+                "lat": 51.6082069,
+                "lng": -0.5543134
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:17:23 GMT",
+        "created_unix": 1713842243
+    },
+    "total_results": 1
+}

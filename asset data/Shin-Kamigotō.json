@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1387,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 58' 59.98800'' N",
+                    "lng": "129\u00b0 9' 0.00000'' E"
+                },
+                "MGRS": "52SEB1401549448",
+                "Maidenhead": "PM42nx85ax",
+                "Mercator": {
+                    "x": 14376912.236,
+                    "y": 3869831.718
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.98333/129.15000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.98333&mlon=129.15000#map=17/32.98333/129.15000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvggdukjv47g6cujmhgz",
+                "qibla": 287.89,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714682160,
+                        "astronomical": 1714676760,
+                        "civil": 1714680600,
+                        "nautical": 1714678740
+                    },
+                    "set": {
+                        "apparent": 1714644300,
+                        "astronomical": 1714649760,
+                        "civil": 1714645860,
+                        "nautical": 1714647780
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "redial.tearing.elect"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Arikawa-ch\u014d",
+                "_type": "municipality",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "local_administrative_area": "Arikawa-ch\u014d",
+                "state": "Nagasaki"
+            },
+            "confidence": 9,
+            "formatted": "Arikawa-ch\u014d, Nagasaki, Japan",
+            "geometry": {
+                "lat": 32.98333,
+                "lng": 129.15
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:42:13 GMT",
+        "created_unix": 1714693333
+    },
+    "total_results": 1
+}

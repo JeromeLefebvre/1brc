@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1933,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 21' 5.98680'' N",
+                    "lng": "73\u00b0 54' 10.68840'' W"
+                },
+                "MGRS": "18TWR8593222602",
+                "Maidenhead": "FN35bi14pj",
+                "Mercator": {
+                    "x": -8226840.877,
+                    "y": 5646643.645
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7696234#map=17/45.35166/-73.90297",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.35166/-73.90297&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.35166&mlon=-73.90297#map=17/45.35166/-73.90297"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f256n218848r885juxvb",
+                "qibla": 58.45,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714901880,
+                        "astronomical": 1714894620,
+                        "civil": 1714899900,
+                        "nautical": 1714897440
+                    },
+                    "set": {
+                        "apparent": 1714867620,
+                        "astronomical": 1714875000,
+                        "civil": 1714869600,
+                        "nautical": 1714872120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "unplanned.almond.champion"
+                },
+                "wikidata": "Q141389"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.4102255,
+                    "lng": -73.8052886
+                },
+                "southwest": {
+                    "lat": 45.3323717,
+                    "lng": -73.9764674
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-QC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Notre-Dame-de-l'\u00cele-Perrot",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Vaudreuil-Soulanges",
+                "postcode": "J7V 9E9",
+                "region": "Mont\u00e9r\u00e9gie",
+                "state": "Quebec",
+                "state_code": "QC",
+                "town": "Notre-Dame-de-l'\u00cele-Perrot"
+            },
+            "confidence": 6,
+            "formatted": "Notre-Dame-de-l'\u00cele-Perrot, QC J7V 9E9, Canada",
+            "geometry": {
+                "lat": 45.351663,
+                "lng": -73.902969
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:09:19 GMT",
+        "created_unix": 1714892959
+    },
+    "total_results": 1
+}

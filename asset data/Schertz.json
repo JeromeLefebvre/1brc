@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 859,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 33' 50.98212'' N",
+                    "lng": "98\u00b0 16' 10.45272'' W"
+                },
+                "FIPS": {
+                    "county": "48187",
+                    "state": "48"
+                },
+                "MGRS": "14RNT7075570715",
+                "Maidenhead": "EL09un75pj",
+                "Mercator": {
+                    "x": -10939318.515,
+                    "y": 3426570.62
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2165822#map=17/29.56416/-98.26957",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/29.56416/-98.26957&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=29.56416&mlon=-98.26957#map=17/29.56416/-98.26957"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9v605vfr9p1tcn52hpp4",
+                "qibla": 43.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714564260,
+                        "astronomical": 1714559100,
+                        "civil": 1714562760,
+                        "nautical": 1714560960
+                    },
+                    "set": {
+                        "apparent": 1714525740,
+                        "astronomical": 1714530960,
+                        "civil": 1714527300,
+                        "nautical": 1714529100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "sulk.arrives.mass"
+                },
+                "wikidata": "Q974055"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 29.659278,
+                    "lng": -98.1767352
+                },
+                "southwest": {
+                    "lat": 29.4680454,
+                    "lng": -98.3060164
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Schertz",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Guadalupe County",
+                "postcode": "78154",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "Schertz"
+            },
+            "confidence": 5,
+            "formatted": "Schertz, TX 78154, United States of America",
+            "geometry": {
+                "lat": 29.5641617,
+                "lng": -98.2695702
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:32:22 GMT",
+        "created_unix": 1714534342
+    },
+    "total_results": 1
+}

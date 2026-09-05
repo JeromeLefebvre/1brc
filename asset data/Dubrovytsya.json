@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1943,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 34' 27.76800'' N",
+                    "lng": "26\u00b0 33' 54.10800'' E"
+                },
+                "MGRS": "35UMT6985613790",
+                "Maidenhead": "KO31gn77tu",
+                "Mercator": {
+                    "x": 2957205.613,
+                    "y": 6690034.806
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.57438/26.56503&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.57438&mlon=26.56503#map=17/51.57438/26.56503"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "u94vksb4d1603cmsz888",
+                "qibla": 156.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714704120,
+                        "astronomical": 1714695000,
+                        "civil": 1714701840,
+                        "nautical": 1714698780
+                    },
+                    "set": {
+                        "apparent": 1714758000,
+                        "astronomical": 1714767300,
+                        "civil": 1714760340,
+                        "nautical": 1714763400
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "fools.rebuilds.cackling"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5727762,
+                    "lng": 26.5719302
+                },
+                "southwest": {
+                    "lat": 51.5541643,
+                    "lng": 26.5533182
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "_category": "place",
+                "_normalized_city": "Dubrovytsya",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "state": "Rivnens\u2019ka Oblast\u2019",
+                "town": "Dubrovytsya"
+            },
+            "confidence": 8,
+            "formatted": "Dubrovytsya, Rivnens\u2019ka Oblast\u2019, Ukraine",
+            "geometry": {
+                "lat": 51.57438,
+                "lng": 26.56503
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:31:54 GMT",
+        "created_unix": 1714696314
+    },
+    "total_results": 1
+}

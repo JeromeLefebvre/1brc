@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1769,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 2' 37.35600'' N",
+                    "lng": "9\u00b0 32' 28.03200'' E"
+                },
+                "MGRS": "32RNS5318302162",
+                "Maidenhead": "JL48sb40wl",
+                "Mercator": {
+                    "x": 1062112.62,
+                    "y": 3234401.731
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/28.04371/9.54112&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=28.04371&mlon=9.54112#map=16/28.04371/9.54112"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "DZ": "012",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 213,
+                "currency": {
+                    "alternate_symbols": [
+                        "DA"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DZD",
+                    "iso_numeric": "012",
+                    "name": "Algerian Dinar",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u062c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddff",
+                "geohash": "shyz915wknqwqbmsp5py",
+                "qibla": 96.75,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711775700,
+                        "astronomical": 1711770960,
+                        "civil": 1711774320,
+                        "nautical": 1711772640
+                    },
+                    "set": {
+                        "apparent": 1711820280,
+                        "astronomical": 1711825020,
+                        "civil": 1711821660,
+                        "nautical": 1711823340
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Algiers",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "unmodified.ensued.ignores"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DZ",
+                "ISO_3166-1_alpha-3": "DZA",
+                "_category": "place",
+                "_normalized_city": "I-n-Amenas",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Algeria",
+                "country_code": "dz",
+                "state": "Illizi",
+                "town": "I-n-Amenas"
+            },
+            "confidence": 9,
+            "formatted": "I-n-Amenas, Illizi, Algeria",
+            "geometry": {
+                "lat": 28.04371,
+                "lng": 9.54112
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:55:20 GMT",
+        "created_unix": 1711832120
+    },
+    "total_results": 1
+}

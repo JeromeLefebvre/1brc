@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2382,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 0' 24.16680'' N",
+                    "lng": "116\u00b0 47' 1.08672'' W"
+                },
+                "FIPS": {
+                    "county": "06073",
+                    "state": "06"
+                },
+                "MGRS": "11SNS2021052051",
+                "Maidenhead": "DM13oa51xo",
+                "Mercator": {
+                    "x": -13000294.803,
+                    "y": 3872920.601
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=150955733#map=17/33.00671/-116.78364",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.00671/-116.78364&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.00671&mlon=-116.78364#map=17/33.00671/-116.78364"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9mugy88y01606ff63bp9",
+                "qibla": 25.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713446040,
+                        "astronomical": 1713440760,
+                        "civil": 1713444480,
+                        "nautical": 1713442680
+                    },
+                    "set": {
+                        "apparent": 1713406740,
+                        "astronomical": 1713412020,
+                        "civil": 1713408300,
+                        "nautical": 1713410100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "rats.cubist.locking"
+                },
+                "wikidata": "Q2078862"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.046713,
+                    "lng": -116.7436352
+                },
+                "southwest": {
+                    "lat": 32.966713,
+                    "lng": -116.8236352
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Diego Country Estates",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Diego County",
+                "neighbourhood": "San Diego Country Estates",
+                "state": "California",
+                "state_code": "CA",
+                "town": "San Diego Country Estates"
+            },
+            "confidence": 7,
+            "formatted": "San Diego Country Estates, California, United States of America",
+            "geometry": {
+                "lat": 33.006713,
+                "lng": -116.7836352
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:20:25 GMT",
+        "created_unix": 1713439225
+    },
+    "total_results": 1
+}

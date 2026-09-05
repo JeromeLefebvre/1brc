@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2073,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 9' 44.59896'' N",
+                    "lng": "85\u00b0 29' 58.94052'' W"
+                },
+                "FIPS": {
+                    "county": "47141",
+                    "state": "47"
+                },
+                "MGRS": "16SFF3494403002",
+                "Maidenhead": "EM76gd08ax",
+                "Mercator": {
+                    "x": -9517783.701,
+                    "y": 4297774.393
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=196127#map=17/36.16239/-85.49971",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.16239/-85.49971&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.16239&mlon=-85.49971#map=17/36.16239/-85.49971"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn7jwrjj0myds8vrxskd",
+                "qibla": 51.12,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714128900,
+                        "astronomical": 1714123260,
+                        "civil": 1714127280,
+                        "nautical": 1714125300
+                    },
+                    "set": {
+                        "apparent": 1714091100,
+                        "astronomical": 1714096740,
+                        "civil": 1714092720,
+                        "nautical": 1714094700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "gazebos.bony.emailed"
+                },
+                "wikidata": "Q2456192"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.1992744,
+                    "lng": -85.4416046
+                },
+                "southwest": {
+                    "lat": 36.08048,
+                    "lng": -85.599506
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cookeville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Putnam County",
+                "region": "Middle Tennessee",
+                "state": "Tennessee",
+                "state_code": "TN",
+                "town": "Cookeville"
+            },
+            "confidence": 6,
+            "formatted": "Cookeville, Tennessee, United States of America",
+            "geometry": {
+                "lat": 36.1623886,
+                "lng": -85.4997057
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:11:23 GMT",
+        "created_unix": 1714169483
+    },
+    "total_results": 1
+}

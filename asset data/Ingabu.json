@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2337,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 48' 42.91200'' N",
+                    "lng": "95\u00b0 16' 13.58400'' E"
+                },
+                "MGRS": "46QGE4065970836",
+                "Maidenhead": "NK77pt24ku",
+                "Mercator": {
+                    "x": 10605456.868,
+                    "y": 2002482.141
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/17.81192/95.27044&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.81192&mlon=95.27044#map=17/17.81192/95.27044"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "MM": "104",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 95,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MMK",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MMK",
+                    "iso_numeric": "104",
+                    "name": "Myanmar Kyat",
+                    "smallest_denomination": 50,
+                    "subunit": "Pya",
+                    "subunit_to_unit": 100,
+                    "symbol": "K",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddf2",
+                "geohash": "w55trftcfnsckzgwsc13",
+                "qibla": 283.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713914280,
+                        "astronomical": 1713909780,
+                        "civil": 1713912960,
+                        "nautical": 1713911400
+                    },
+                    "set": {
+                        "apparent": 1713873360,
+                        "astronomical": 1713877920,
+                        "civil": 1713874740,
+                        "nautical": 1713876300
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yangon",
+                    "now_in_dst": 0,
+                    "offset_sec": 23400,
+                    "offset_string": "+0630",
+                    "short_name": "+0630"
+                },
+                "what3words": {
+                    "words": "economically.successive.lampshade"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MM",
+                "ISO_3166-1_alpha-3": "MMR",
+                "_category": "place",
+                "_normalized_city": "Ingabu",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Myanmar",
+                "country_code": "mm",
+                "state": "Ayeyawady Region",
+                "town": "Ingabu"
+            },
+            "confidence": 9,
+            "formatted": "Ingabu, Ayeyawady Region, Myanmar",
+            "geometry": {
+                "lat": 17.81192,
+                "lng": 95.27044
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:09:53 GMT",
+        "created_unix": 1713830993
+    },
+    "total_results": 1
+}

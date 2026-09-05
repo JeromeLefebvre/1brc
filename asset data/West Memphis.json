@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 896,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 8' 47.32692'' N",
+                    "lng": "90\u00b0 11' 4.33968'' W"
+                },
+                "FIPS": {
+                    "county": "05035",
+                    "state": "05"
+                },
+                "MGRS": "15SYU5649192916",
+                "Maidenhead": "EM45vd75ud",
+                "Mercator": {
+                    "x": -10039296.937,
+                    "y": 4159207.093
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111117#map=16/35.14648/-90.18454",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.14648/-90.18454&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.14648&mlon=-90.18454#map=16/35.14648/-90.18454"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ypzgy1x5ftvusqzwvbk",
+                "qibla": 47.95,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713957480,
+                        "astronomical": 1713951960,
+                        "civil": 1713955860,
+                        "nautical": 1713953940
+                    },
+                    "set": {
+                        "apparent": 1713919200,
+                        "astronomical": 1713924720,
+                        "civil": 1713920820,
+                        "nautical": 1713922740
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "units.jabs.dishes"
+                },
+                "wikidata": "Q80050"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.2087604,
+                    "lng": -90.1154134
+                },
+                "southwest": {
+                    "lat": 35.0875699,
+                    "lng": -90.2937204
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AR"
+                ],
+                "_category": "place",
+                "_normalized_city": "West Memphis",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Crittenden County",
+                "postcode": "72301",
+                "state": "Arkansas",
+                "state_code": "AR",
+                "town": "West Memphis"
+            },
+            "confidence": 6,
+            "formatted": "West Memphis, AR 72301, United States of America",
+            "geometry": {
+                "lat": 35.1464797,
+                "lng": -90.1845388
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:04:24 GMT",
+        "created_unix": 1713996264
+    },
+    "total_results": 1
+}

@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 248,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 30' 17.46972'' N",
+                    "lng": "3\u00b0 31' 54.34356'' W"
+                },
+                "MGRS": "30TVK5494483929",
+                "Maidenhead": "IN80fm61ed",
+                "Mercator": {
+                    "x": -393153.959,
+                    "y": 4911820.79
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES3"
+                    },
+                    "NUTS2": {
+                        "code": "ES30"
+                    },
+                    "NUTS3": {
+                        "code": "ES300"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=342967#map=16/40.50485/-3.53176",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.50485/-3.53176&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.50485&mlon=-3.53176#map=16/40.50485/-3.53176"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezjqrtsjzgz3cu32nzv6",
+                "qibla": 104.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714540440,
+                        "astronomical": 1714534140,
+                        "civil": 1714538640,
+                        "nautical": 1714536480
+                    },
+                    "set": {
+                        "apparent": 1714590540,
+                        "astronomical": 1714596840,
+                        "civil": 1714592340,
+                        "nautical": 1714594500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "survived.retain.ordering"
+                },
+                "wikidata": "Q2046249"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.5763058,
+                    "lng": -3.4764595
+                },
+                "southwest": {
+                    "lat": 40.4687395,
+                    "lng": -3.5660501
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Paracuellos de Jarama",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "28860",
+                "state": "Madrid",
+                "town": "Paracuellos de Jarama"
+            },
+            "confidence": 6,
+            "formatted": "28860 Paracuellos de Jarama, Spain",
+            "geometry": {
+                "lat": 40.5048527,
+                "lng": -3.5317621
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:30:47 GMT",
+        "created_unix": 1714545047
+    },
+    "total_results": 1
+}

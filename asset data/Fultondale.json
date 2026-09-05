@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 579,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 36' 19.66536'' N",
+                    "lng": "86\u00b0 48' 8.81676'' W"
+                },
+                "FIPS": {
+                    "county": "01073",
+                    "state": "01"
+                },
+                "MGRS": "16SEC1832718429",
+                "Maidenhead": "EM63oo35qh",
+                "Mercator": {
+                    "x": -9662804.433,
+                    "y": 3952299.43
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=110161#map=17/33.60546/-86.80245",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.60546/-86.80245&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.60546&mlon=-86.80245#map=17/33.60546/-86.80245"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djfr0v8qh26bb67htprs",
+                "qibla": 50.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714043100,
+                        "astronomical": 1714037700,
+                        "civil": 1714041540,
+                        "nautical": 1714039680
+                    },
+                    "set": {
+                        "apparent": 1714004700,
+                        "astronomical": 1714010100,
+                        "civil": 1714006320,
+                        "nautical": 1714008180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "variously.naturally.plush"
+                },
+                "wikidata": "Q79219"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.6790192,
+                    "lng": -86.7393867
+                },
+                "southwest": {
+                    "lat": 33.5788261,
+                    "lng": -86.8485538
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fultondale",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Jefferson County",
+                "postcode": "35068",
+                "state": "Alabama",
+                "state_code": "AL",
+                "village": "Fultondale"
+            },
+            "confidence": 6,
+            "formatted": "Fultondale, Jefferson County, AL 35068, United States of America",
+            "geometry": {
+                "lat": 33.6054626,
+                "lng": -86.8024491
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:25:59 GMT",
+        "created_unix": 1714008359
+    },
+    "total_results": 1
+}

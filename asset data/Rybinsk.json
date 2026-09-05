@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 555,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "58\u00b0 3' 1.34280'' N",
+                    "lng": "38\u00b0 50' 4.69320'' E"
+                },
+                "MGRS": "37VDE9023934330",
+                "Maidenhead": "KO98kb02dc",
+                "Mercator": {
+                    "x": 4323052.016,
+                    "y": 7941618.848
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1432255#map=17/58.05037/38.83464",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/58.05037/38.83464&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=58.05037&mlon=38.83464#map=17/58.05037/38.83464"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "uf7d5xwxbtu5k8en0yh9",
+                "qibla": 178.45,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714009680,
+                        "astronomical": 1714083240,
+                        "civil": 1714006920,
+                        "nautical": 1714089540
+                    },
+                    "set": {
+                        "apparent": 1714064340,
+                        "astronomical": 1714077780,
+                        "civil": 1714067100,
+                        "nautical": 1714070940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "force.reflect.ribs"
+                },
+                "wikidata": "Q193413"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 58.1210869,
+                    "lng": 38.9750495
+                },
+                "southwest": {
+                    "lat": 58.0019681,
+                    "lng": 38.6489319
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-YAR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rybinsk",
+                "_type": "city",
+                "city": "Rybinsk",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "postcode": "152900",
+                "region": "Central Federal District",
+                "state": "Yaroslavl Oblast"
+            },
+            "confidence": 5,
+            "formatted": "Rybinsk, Yaroslavl Oblast, Russia",
+            "geometry": {
+                "lat": 58.050373,
+                "lng": 38.834637
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:26:59 GMT",
+        "created_unix": 1714008419
+    },
+    "total_results": 1
+}

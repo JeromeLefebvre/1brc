@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1987,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 31' 31.87812'' N",
+                    "lng": "10\u00b0 51' 58.89852'' E"
+                },
+                "MGRS": "32TPQ4830731938",
+                "Maidenhead": "JN54km36xd",
+                "Mercator": {
+                    "x": 1209637.74,
+                    "y": 5517157.663
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH5"
+                    },
+                    "NUTS3": {
+                        "code": "ITH54"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=43190#map=17/44.52552/10.86636",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.52552/10.86636&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.52552&mlon=10.86636#map=17/44.52552/10.86636"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spztr38euwcf9wptkyej",
+                "qibla": 124.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714709100,
+                        "astronomical": 1714702080,
+                        "civil": 1714707180,
+                        "nautical": 1714704780
+                    },
+                    "set": {
+                        "apparent": 1714760580,
+                        "astronomical": 1714767600,
+                        "civil": 1714762500,
+                        "nautical": 1714764900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "formed.changed.selects"
+                },
+                "wikidata": "Q100060"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.5473742,
+                    "lng": 10.9135427
+                },
+                "southwest": {
+                    "lat": 44.4599338,
+                    "lng": 10.8204889
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-45",
+                    "IT-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Maranello",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Modena",
+                "county_code": "MO",
+                "district": "Unione dei comuni del Distretto Ceramico",
+                "political_union": "European Union",
+                "postcode": "41053",
+                "state": "Emilia-Romagna",
+                "state_code": "EMI",
+                "town": "Maranello"
+            },
+            "confidence": 7,
+            "formatted": "41053 Maranello MO, Italy",
+            "geometry": {
+                "lat": 44.5255217,
+                "lng": 10.8663607
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:30:17 GMT",
+        "created_unix": 1714696217
+    },
+    "total_results": 1
+}

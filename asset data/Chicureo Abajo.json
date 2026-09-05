@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2219,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 17' 1.64400'' S",
+                    "lng": "70\u00b0 39' 11.98800'' W"
+                },
+                "MGRS": "19HCD4604016032",
+                "Maidenhead": "FF46qr11ov",
+                "Mercator": {
+                    "x": -7865092.718,
+                    "y": -3909585.54
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-33.28379/-70.65333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-33.28379&mlon=-70.65333#map=17/-33.28379/-70.65333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CL": "152",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 56,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "CLP",
+                    "html_entity": "&#36;",
+                    "iso_code": "CLP",
+                    "iso_numeric": "152",
+                    "name": "Chilean Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Peso",
+                    "subunit_to_unit": 1,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf1",
+                "geohash": "66jf8hzgf5fdzrjxgjrj",
+                "qibla": 81.74,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714735140,
+                        "astronomical": 1714730100,
+                        "civil": 1714733640,
+                        "nautical": 1714731840
+                    },
+                    "set": {
+                        "apparent": 1714773540,
+                        "astronomical": 1714778580,
+                        "civil": 1714775100,
+                        "nautical": 1714776840
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santiago",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "-04"
+                },
+                "what3words": {
+                    "words": "facing.surveyed.party"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -33.254937,
+                    "lng": -70.6121295
+                },
+                "southwest": {
+                    "lat": -33.3257743,
+                    "lng": -70.7014248
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CL",
+                "ISO_3166-1_alpha-3": "CHL",
+                "_category": "place",
+                "_normalized_city": "Chicureo Abajo",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Chile",
+                "country_code": "cl",
+                "county": "Chacabuco",
+                "local_administrative_area": "Colina",
+                "state": "Santiago Metropolitan",
+                "town": "Chicureo Abajo"
+            },
+            "confidence": 7,
+            "formatted": "Chicureo Abajo, Chacabuco, Chile",
+            "geometry": {
+                "lat": -33.28379,
+                "lng": -70.65333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:21:50 GMT",
+        "created_unix": 1714695710
+    },
+    "total_results": 1
+}

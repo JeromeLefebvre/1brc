@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1338,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 45' 27.08172'' N",
+                    "lng": "112\u00b0 27' 13.60800'' W"
+                },
+                "FIPS": {
+                    "county": "04025",
+                    "state": "04"
+                },
+                "MGRS": "12SUD6694447116",
+                "Maidenhead": "DM34ss51nt",
+                "Mercator": {
+                    "x": -12518297.527,
+                    "y": 4106618.257
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=33004942#map=17/34.75752/-112.45378",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.75752/-112.45378&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.75752&mlon=-112.45378#map=17/34.75752/-112.45378"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9w0j9p3tjpb5h0m11wvc",
+                "qibla": 29.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714049160,
+                        "astronomical": 1714043640,
+                        "civil": 1714047540,
+                        "nautical": 1714045680
+                    },
+                    "set": {
+                        "apparent": 1714011000,
+                        "astronomical": 1714016520,
+                        "civil": 1714012560,
+                        "nautical": 1714014480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Phoenix",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "compiling.immediate.refreshed"
+                },
+                "wikidata": "Q985261"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.86476,
+                    "lng": -112.30329
+                },
+                "southwest": {
+                    "lat": 34.701582,
+                    "lng": -112.506391
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chino Valley",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Yavapai County",
+                "state": "Arizona",
+                "state_code": "AZ",
+                "town": "Chino Valley"
+            },
+            "confidence": 5,
+            "formatted": "Chino Valley, Arizona, United States of America",
+            "geometry": {
+                "lat": 34.7575227,
+                "lng": -112.45378
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:52:18 GMT",
+        "created_unix": 1714006338
+    },
+    "total_results": 1
+}

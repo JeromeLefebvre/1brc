@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 806,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 20' 22.69212'' N",
+                    "lng": "122\u00b0 42' 3.95280'' W"
+                },
+                "FIPS": {
+                    "county": "06097",
+                    "state": "06"
+                },
+                "MGRS": "10SEH2612143541",
+                "Maidenhead": "CM88pi51um",
+                "Mercator": {
+                    "x": -13659023.749,
+                    "y": 4601007.743
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=10073981#map=17/38.33964/-122.70110",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.33964/-122.70110&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.33964&mlon=-122.70110#map=17/38.33964/-122.70110"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qbdpgeb94q12dfzr41y",
+                "qibla": 18.46,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714051260,
+                        "astronomical": 1714045440,
+                        "civil": 1714049580,
+                        "nautical": 1714047540
+                    },
+                    "set": {
+                        "apparent": 1714013820,
+                        "astronomical": 1714019640,
+                        "civil": 1714015500,
+                        "nautical": 1714017540
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "cool.perky.speaks"
+                },
+                "wikidata": "Q986835"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.372515,
+                    "lng": -122.666988
+                },
+                "southwest": {
+                    "lat": 38.3144007,
+                    "lng": -122.7313387
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rohnert Park",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Sonoma County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Rohnert Park"
+            },
+            "confidence": 7,
+            "formatted": "Rohnert Park, California, United States of America",
+            "geometry": {
+                "lat": 38.3396367,
+                "lng": -122.701098
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:16:14 GMT",
+        "created_unix": 1714007774
+    },
+    "total_results": 1
+}

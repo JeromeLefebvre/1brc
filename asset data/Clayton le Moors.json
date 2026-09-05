@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1230,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 46' 24.25152'' N",
+                    "lng": "2\u00b0 23' 21.46092'' W"
+                },
+                "MGRS": "30UWE4024858483",
+                "Maidenhead": "IO83ts35go",
+                "Mercator": {
+                    "x": -265975.069,
+                    "y": 7092864.076
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=24972459#map=17/53.77340/-2.38929",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.77340/-2.38929&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.77340&mlon=-2.38929#map=17/53.77340/-2.38929"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcw3cthhv2usxu3km2rh",
+                "qibla": 118.55,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713761640,
+                        "astronomical": 1713752640,
+                        "civil": 1713759300,
+                        "nautical": 1713756300
+                    },
+                    "set": {
+                        "apparent": 1713813840,
+                        "astronomical": 1713822900,
+                        "civil": 1713816180,
+                        "nautical": 1713819180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "years.horses.tests"
+                },
+                "wikidata": "Q927181"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.8134032,
+                    "lng": -2.3492947
+                },
+                "southwest": {
+                    "lat": 53.7334032,
+                    "lng": -2.4292947
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-LAN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hyndburn",
+                "_type": "city",
+                "city": "Hyndburn",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Lancashire",
+                "county_code": "LAN",
+                "postcode": "BB5 5HW",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Clayton-le-Moors"
+            },
+            "confidence": 7,
+            "formatted": "Clayton-le-Moors, Lancashire, England, United Kingdom",
+            "geometry": {
+                "lat": 53.7734032,
+                "lng": -2.3892947
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 09:47:31 GMT",
+        "created_unix": 1713779251
+    },
+    "total_results": 1
+}

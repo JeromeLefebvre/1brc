@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1990,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 46' 11.22600'' N",
+                    "lng": "6\u00b0 23' 41.93880'' W"
+                },
+                "MGRS": "29SQS4401428769",
+                "Maidenhead": "IM62ts24or",
+                "Mercator": {
+                    "x": -711886.251,
+                    "y": 3841660.612
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2879731#map=17/32.76978/-6.39498",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.76978/-6.39498&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.76978&mlon=-6.39498#map=17/32.76978/-6.39498"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evg6qmx3f4ejcbx2upzj",
+                "qibla": 93.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714628280,
+                        "astronomical": 1714622880,
+                        "civil": 1714626720,
+                        "nautical": 1714624860
+                    },
+                    "set": {
+                        "apparent": 1714676820,
+                        "astronomical": 1714682280,
+                        "civil": 1714678440,
+                        "nautical": 1714680300
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "unstated.tonal.ordering"
+                },
+                "wikidata": "Q895029"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.7884496,
+                    "lng": -6.3638159
+                },
+                "southwest": {
+                    "lat": 32.7484496,
+                    "lng": -6.4146366
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "ISO_3166-2": [
+                    "MA-05",
+                    "MA-KHO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Boujad",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "Pachalik de Bejaad",
+                "region": "B\u00e9ni Mellal-Kh\u00e9nifra",
+                "state_district": "Khouribga Province",
+                "town": "Boujad"
+            },
+            "confidence": 7,
+            "formatted": "Boujad, Pachalik de Bejaad, Morocco",
+            "geometry": {
+                "lat": 32.769785,
+                "lng": -6.394983
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:20:21 GMT",
+        "created_unix": 1714692021
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 683,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 45' 5.55948'' N",
+                    "lng": "120\u00b0 50' 25.72404'' E"
+                },
+                "MGRS": "51TUF1769413419",
+                "Maidenhead": "PN00ks00ui",
+                "Mercator": {
+                    "x": 13451900.578,
+                    "y": 4947864.546
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2769902#map=16/40.75154/120.84048",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.75154/120.84048&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.75154&mlon=120.84048#map=16/40.75154/120.84048"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wxjzvf96gnryd7h5t9d1",
+                "qibla": 281.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714079100,
+                        "astronomical": 1714072980,
+                        "civil": 1714077360,
+                        "nautical": 1714075260
+                    },
+                    "set": {
+                        "apparent": 1714041900,
+                        "astronomical": 1714048020,
+                        "civil": 1714043640,
+                        "nautical": 1714045800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "blubbered.retaken.evaluate"
+                },
+                "wikidata": "Q75379"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.2180415,
+                    "lng": 121.0356478
+                },
+                "southwest": {
+                    "lat": 39.9892625,
+                    "lng": 119.2157669
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-LN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Huludao City",
+                "_type": "city",
+                "city": "Huludao City",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Liaoning"
+            },
+            "confidence": 1,
+            "formatted": "Huludao City, Liaoning, China",
+            "geometry": {
+                "lat": 40.7515443,
+                "lng": 120.8404789
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:21:33 GMT",
+        "created_unix": 1714008093
+    },
+    "total_results": 1
+}

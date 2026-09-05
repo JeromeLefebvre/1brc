@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1020,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 10' 8.05584'' N",
+                    "lng": "86\u00b0 15' 50.20596'' W"
+                },
+                "FIPS": {
+                    "county": "26121",
+                    "state": "26"
+                },
+                "MGRS": "16TEN5983079834",
+                "Maidenhead": "EN63ue80hm",
+                "Mercator": {
+                    "x": -9602858.554,
+                    "y": 5308474.018
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=134427#map=16/43.16890/-86.26395",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.16890/-86.26395&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.16890&mlon=-86.26395#map=16/43.16890/-86.26395"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpdtt48t0759q2vxe8p7",
+                "qibla": 49.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713524160,
+                        "astronomical": 1713517860,
+                        "civil": 1713522360,
+                        "nautical": 1713520200
+                    },
+                    "set": {
+                        "apparent": 1713486720,
+                        "astronomical": 1713493080,
+                        "civil": 1713488520,
+                        "nautical": 1713490740
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "blog.spoken.patrol"
+                },
+                "wikidata": "Q1816275"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.2060971,
+                    "lng": -86.205183
+                },
+                "southwest": {
+                    "lat": 43.1177766,
+                    "lng": -86.320582
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Norton Shores",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Muskegon County",
+                "postcode": "49444",
+                "state": "Michigan",
+                "state_code": "MI",
+                "town": "Norton Shores"
+            },
+            "confidence": 7,
+            "formatted": "Norton Shores, MI 49444, United States of America",
+            "geometry": {
+                "lat": 43.1689044,
+                "lng": -86.2639461
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:09:14 GMT",
+        "created_unix": 1713521354
+    },
+    "total_results": 1
+}

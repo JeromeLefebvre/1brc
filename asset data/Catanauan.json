@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 9,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 35' 34.72980'' N",
+                    "lng": "122\u00b0 19' 20.32500'' E"
+                },
+                "MGRS": "51PVR2668702814",
+                "Maidenhead": "PK13do82qh",
+                "Mercator": {
+                    "x": 13616857.54,
+                    "y": 1517525.005
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=12696179#map=17/13.59298/122.32231",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.59298/122.32231&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.59298&mlon=122.32231#map=17/13.59298/122.32231"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdqvrd82u7pp16f3j7fr",
+                "qibla": 289.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713821700,
+                        "astronomical": 1713817320,
+                        "civil": 1713820380,
+                        "nautical": 1713818880
+                    },
+                    "set": {
+                        "apparent": 1713780240,
+                        "astronomical": 1713784620,
+                        "civil": 1713781560,
+                        "nautical": 1713783060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "bickering.rowboats.contrived"
+                },
+                "wikidata": "Q103872"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.7386926,
+                    "lng": 122.4118746
+                },
+                "southwest": {
+                    "lat": 13.4708233,
+                    "lng": 122.1131453
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-40"
+                ],
+                "_category": "place",
+                "_normalized_city": "Catanauan",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "4311",
+                "region": "Calabarzon",
+                "town": "Catanauan"
+            },
+            "confidence": 3,
+            "formatted": "Catanauan, 4311 Calabarzon, Philippines",
+            "geometry": {
+                "lat": 13.5929805,
+                "lng": 122.3223125
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:50:34 GMT",
+        "created_unix": 1713783034
+    },
+    "total_results": 1
+}

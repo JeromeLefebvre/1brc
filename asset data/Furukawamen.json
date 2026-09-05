@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2312,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 14' 33.55980'' N",
+                    "lng": "129\u00b0 38' 55.89168'' E"
+                },
+                "MGRS": "52SEB6044778375",
+                "Maidenhead": "PM43tf78uf",
+                "Mercator": {
+                    "x": 14432444.944,
+                    "y": 3904134.91
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8444893509#map=17/33.24266/129.64886",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.24266/129.64886&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.24266&mlon=129.64886#map=17/33.24266/129.64886"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvujn5xkt25ujmxcq6vr",
+                "qibla": 288.08,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714509360,
+                        "astronomical": 1714503960,
+                        "civil": 1714507800,
+                        "nautical": 1714505880
+                    },
+                    "set": {
+                        "apparent": 1714471320,
+                        "astronomical": 1714476780,
+                        "civil": 1714472880,
+                        "nautical": 1714474800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "rambles.patches.dataset"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.2526555,
+                    "lng": 129.6588588
+                },
+                "southwest": {
+                    "lat": 33.2326555,
+                    "lng": 129.6388588
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-42"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saza",
+                "_type": "neighbourhood",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Kita-Matsuura County",
+                "postcode": "857-0322",
+                "province": "Nagasaki Prefecture",
+                "quarter": "Furukawamen",
+                "state": "Nagasaki Prefecture",
+                "town": "Saza"
+            },
+            "confidence": 7,
+            "formatted": "Furukawamen, Saza, Nagasaki Prefecture 857-0322, Japan",
+            "geometry": {
+                "lat": 33.2426555,
+                "lng": 129.6488588
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:55:01 GMT",
+        "created_unix": 1714517701
+    },
+    "total_results": 1
+}

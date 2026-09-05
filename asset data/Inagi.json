@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 188,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 38' 17.62440'' N",
+                    "lng": "139\u00b0 30' 27.99360'' E"
+                },
+                "MGRS": "54SUE6489244849",
+                "Maidenhead": "PM95sp03we",
+                "Mercator": {
+                    "x": 15529934.586,
+                    "y": 4226058.415
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3807613#map=17/35.63823/139.50778",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.63823/139.50778&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.63823&mlon=139.50778#map=17/35.63823/139.50778"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn74wxdrwz3kszpwfvhh",
+                "qibla": 292.92,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714075080,
+                        "astronomical": 1714069560,
+                        "civil": 1714073520,
+                        "nautical": 1714071600
+                    },
+                    "set": {
+                        "apparent": 1714036920,
+                        "astronomical": 1714042500,
+                        "civil": 1714038540,
+                        "nautical": 1714040460
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "prelude.marked.motel"
+                },
+                "wikidata": "Q317847"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.6526286,
+                    "lng": 139.525333
+                },
+                "southwest": {
+                    "lat": 35.6044799,
+                    "lng": 139.4639654
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Inagi",
+                "_type": "city",
+                "city": "Inagi",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp"
+            },
+            "confidence": 7,
+            "formatted": "Inagi, Japan",
+            "geometry": {
+                "lat": 35.638229,
+                "lng": 139.507776
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:19:05 GMT",
+        "created_unix": 1714011545
+    },
+    "total_results": 1
+}

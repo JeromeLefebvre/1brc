@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1344,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 41' 25.38564'' N",
+                    "lng": "2\u00b0 44' 9.19500'' W"
+                },
+                "MGRS": "30TWT1981981922",
+                "Maidenhead": "IN87pq15qq",
+                "Mercator": {
+                    "x": -304557.603,
+                    "y": 6023885.294
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRH"
+                    },
+                    "NUTS2": {
+                        "code": "FRH0"
+                    },
+                    "NUTS3": {
+                        "code": "FRH04"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=149249#map=17/47.69038/-2.73589",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.69038/-2.73589&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.69038&mlon=-2.73589#map=17/47.69038/-2.73589"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "gbqp39zb9hn7j3wxdmc5",
+                "qibla": 112.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714021440,
+                        "astronomical": 1714014120,
+                        "civil": 1714019460,
+                        "nautical": 1714016940
+                    },
+                    "set": {
+                        "apparent": 1714072440,
+                        "astronomical": 1714079820,
+                        "civil": 1714074480,
+                        "nautical": 1714077000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "home.heavy.koala"
+                },
+                "wikidata": "Q128043"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.7330882,
+                    "lng": -2.6938459
+                },
+                "southwest": {
+                    "lat": 47.6685145,
+                    "lng": -2.7929518
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-BRE",
+                    "FR-56"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saint-Av\u00e9",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Morbihan",
+                "municipality": "Vannes",
+                "political_union": "European Union",
+                "postcode": "56890",
+                "region": "Metropolitan France",
+                "state": "Brittany",
+                "state_code": "BRE",
+                "town": "Saint-Av\u00e9"
+            },
+            "confidence": 7,
+            "formatted": "56890 Saint-Av\u00e9, France",
+            "geometry": {
+                "lat": 47.6903849,
+                "lng": -2.7358875
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:52:02 GMT",
+        "created_unix": 1714006322
+    },
+    "total_results": 1
+}

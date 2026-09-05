@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2360,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 16' 46.37136'' N",
+                    "lng": "75\u00b0 23' 13.63416'' W"
+                },
+                "FIPS": {
+                    "county": "42091",
+                    "state": "42"
+                },
+                "MGRS": "18TVK6709058856",
+                "Maidenhead": "FN20hg37nc",
+                "Mercator": {
+                    "x": -8392055.878,
+                    "y": 4879018.337
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=157643142#map=17/40.27955/-75.38712",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.27955/-75.38712&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.27955&mlon=-75.38712#map=17/40.27955/-75.38712"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4mhs8v2gbss589761e",
+                "qibla": 57.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714644000,
+                        "astronomical": 1714637700,
+                        "civil": 1714642200,
+                        "nautical": 1714640040
+                    },
+                    "set": {
+                        "apparent": 1714694280,
+                        "astronomical": 1714614180,
+                        "civil": 1714609620,
+                        "nautical": 1714611780
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "price.fame.artist"
+                },
+                "wikidata": "Q973684"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.2995476,
+                    "lng": -75.3671206
+                },
+                "southwest": {
+                    "lat": 40.2595476,
+                    "lng": -75.4071206
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lower Salford Township",
+                "_type": "hamlet",
+                "city": "Lower Salford Township",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Montgomery County",
+                "hamlet": "Harleysville",
+                "postcode": "19438",
+                "state": "Pennsylvania",
+                "state_code": "PA"
+            },
+            "confidence": 7,
+            "formatted": "Harleysville, Lower Salford Township, PA 19438, United States of America",
+            "geometry": {
+                "lat": 40.2795476,
+                "lng": -75.3871206
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:07:03 GMT",
+        "created_unix": 1714691223
+    },
+    "total_results": 1
+}

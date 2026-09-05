@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 999,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 3' 37.36800'' N",
+                    "lng": "64\u00b0 13' 6.83220'' E"
+                },
+                "MGRS": "41TPE0392535170",
+                "Maidenhead": "MN20cb64fl",
+                "Mercator": {
+                    "x": 7148777.9,
+                    "y": 4847214.989
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=10757749550#map=17/40.06038/64.21856",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.06038/64.21856&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.06038&mlon=64.21856#map=17/40.06038/64.21856"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "UZ": "860",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 998,
+                "currency": {
+                    "alternate_symbols": [
+                        "so\u2018m",
+                        "\u0441\u045e\u043c",
+                        "\u0441\u0443\u043c",
+                        "s",
+                        "\u0441"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UZS",
+                    "iso_numeric": "860",
+                    "name": "Uzbekistan Som",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyin",
+                    "subunit_to_unit": 100,
+                    "symbol": "so'm",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddff",
+                "geohash": "trjevkf89h06gnknwn4p",
+                "qibla": 235.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713747360,
+                        "astronomical": 1713827820,
+                        "civil": 1713745680,
+                        "nautical": 1713829980
+                    },
+                    "set": {
+                        "apparent": 1713796080,
+                        "astronomical": 1713802020,
+                        "civil": 1713797760,
+                        "nautical": 1713799860
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Samarkand",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "successor.underwrites.sniffing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.08038,
+                    "lng": 64.2385645
+                },
+                "southwest": {
+                    "lat": 40.04038,
+                    "lng": 64.1985645
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UZ",
+                "ISO_3166-1_alpha-3": "UZB",
+                "ISO_3166-2": [
+                    "UZ-BU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Karaul",
+                "_type": "village",
+                "continent": "Asia",
+                "country": "Uzbekistan",
+                "country_code": "uz",
+                "county": "Peshku District",
+                "state": "Bukhara Region",
+                "state_code": "BU",
+                "village": "Karaul"
+            },
+            "confidence": 7,
+            "formatted": "Karaul, Peshku District, Uzbekistan",
+            "geometry": {
+                "lat": 40.06038,
+                "lng": 64.2185645
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:05:31 GMT",
+        "created_unix": 1713780331
+    },
+    "total_results": 1
+}

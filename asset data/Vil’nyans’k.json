@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 995,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 56' 37.71600'' N",
+                    "lng": "35\u00b0 26' 7.40400'' E"
+                },
+                "MGRS": "36TXU8186012925",
+                "Maidenhead": "KN77rw26fm",
+                "Mercator": {
+                    "x": 3944649.571,
+                    "y": 6065770.3
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.94381/35.43539&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.94381&mlon=35.43539#map=16/47.94381/35.43539"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "ub90wrgkbmvyev4u7nc9",
+                "qibla": 170.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713753420,
+                        "astronomical": 1713746160,
+                        "civil": 1713751380,
+                        "nautical": 1713748920
+                    },
+                    "set": {
+                        "apparent": 1713803880,
+                        "astronomical": 1713811140,
+                        "civil": 1713805860,
+                        "nautical": 1713808380
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "commoner.buttoned.shunned"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.9510105,
+                    "lng": 35.4542047
+                },
+                "southwest": {
+                    "lat": 47.9130804,
+                    "lng": 35.4162748
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "_category": "place",
+                "_normalized_city": "Vil\u2019nyans\u2019k",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "state": "Zaporizhia",
+                "town": "Vil\u2019nyans\u2019k"
+            },
+            "confidence": 7,
+            "formatted": "Vil\u2019nyans\u2019k, Zaporizhia, Ukraine",
+            "geometry": {
+                "lat": 47.94381,
+                "lng": 35.43539
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:05:47 GMT",
+        "created_unix": 1713780347
+    },
+    "total_results": 1
+}

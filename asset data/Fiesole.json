@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1440,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 48' 24.00804'' N",
+                    "lng": "11\u00b0 17' 35.06460'' E"
+                },
+                "MGRS": "32TPP8444352955",
+                "Maidenhead": "JN53pt53eo",
+                "Mercator": {
+                    "x": 1257139.192,
+                    "y": 5405984.178
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI14"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42629#map=17/43.80667/11.29307",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.80667/11.29307&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.80667&mlon=11.29307#map=17/43.80667/11.29307"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "srb10yz27dvytwzb3qcc",
+                "qibla": 124.23,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622760,
+                        "astronomical": 1714615920,
+                        "civil": 1714620900,
+                        "nautical": 1714618560
+                    },
+                    "set": {
+                        "apparent": 1714673880,
+                        "astronomical": 1714680780,
+                        "civil": 1714675800,
+                        "nautical": 1714678140
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "pipes.reserve.globe"
+                },
+                "wikidata": "Q82670"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.8701701,
+                    "lng": 11.3786907
+                },
+                "southwest": {
+                    "lat": 43.7648773,
+                    "lng": 11.279014
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-FI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fiesole",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Florence",
+                "county_code": "FI",
+                "political_union": "European Union",
+                "state": "Tuscany",
+                "town": "Fiesole"
+            },
+            "confidence": 6,
+            "formatted": "Fiesole, Florence, Italy",
+            "geometry": {
+                "lat": 43.8066689,
+                "lng": 11.2930735
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:40:17 GMT",
+        "created_unix": 1714693217
+    },
+    "total_results": 1
+}

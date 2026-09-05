@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1915,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 58' 28.76808'' N",
+                    "lng": "24\u00b0 37' 24.13812'' E"
+                },
+                "MGRS": "35TLL1588993978",
+                "Maidenhead": "KN25hx43tw",
+                "Mercator": {
+                    "x": 2741061.199,
+                    "y": 5745552.538
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "RO"
+                    },
+                    "NUTS1": {
+                        "code": "RO1"
+                    },
+                    "NUTS2": {
+                        "code": "RO12"
+                    },
+                    "NUTS3": {
+                        "code": "RO126"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=10513993#map=17/45.97466/24.62337",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.97466/24.62337&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.97466&mlon=24.62337#map=17/45.97466/24.62337"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RO": "642",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 40,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "RON",
+                    "iso_numeric": "946",
+                    "name": "Romanian Leu",
+                    "smallest_denomination": 1,
+                    "subunit": "Bani",
+                    "subunit_to_unit": 100,
+                    "symbol": "Lei",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddf4",
+                "geohash": "u81t836jy1ksnrbdj27n",
+                "qibla": 148.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711685280,
+                        "astronomical": 1711679100,
+                        "civil": 1711683480,
+                        "nautical": 1711681320
+                    },
+                    "set": {
+                        "apparent": 1711730700,
+                        "astronomical": 1711736880,
+                        "civil": 1711732500,
+                        "nautical": 1711734660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Bucharest",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "impulse.taped.backdrop"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.0680572,
+                    "lng": 24.6945046
+                },
+                "southwest": {
+                    "lat": 45.9382319,
+                    "lng": 24.5485986
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RO",
+                "ISO_3166-1_alpha-3": "ROU",
+                "ISO_3166-2": [
+                    "RO-SB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Agnita",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Romania",
+                "country_code": "ro",
+                "county": "Sibiu",
+                "political_union": "European Union",
+                "town": "Agnita"
+            },
+            "confidence": 6,
+            "formatted": "Agnita, Sibiu, Romania",
+            "geometry": {
+                "lat": 45.9746578,
+                "lng": 24.6233717
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:09:00 GMT",
+        "created_unix": 1711750140
+    },
+    "total_results": 1
+}

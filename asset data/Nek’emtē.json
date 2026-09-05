@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1375,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "9\u00b0 4' 59.98800'' N",
+                    "lng": "36\u00b0 32' 60.00000'' E"
+                },
+                "MGRS": "37PBL3069404974",
+                "Maidenhead": "KJ89gb69ax",
+                "Mercator": {
+                    "x": 4068727.388,
+                    "y": 1008672.941
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/9.08333/36.55000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=9.08333&mlon=36.55000#map=16/9.08333/36.55000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "sc9gxtwfhxrq42khrrks",
+                "qibla": 13.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713928860,
+                        "astronomical": 1713924540,
+                        "civil": 1713927600,
+                        "nautical": 1713926100
+                    },
+                    "set": {
+                        "apparent": 1713973380,
+                        "astronomical": 1713977700,
+                        "civil": 1713974640,
+                        "nautical": 1713976140
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "inner.emporium.tracks"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 9.091296,
+                    "lng": 36.546085
+                },
+                "southwest": {
+                    "lat": 9.08708,
+                    "lng": 36.535378
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "_category": "place",
+                "_normalized_city": "Nek\u2019emt\u0113",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "state": "Oromiya",
+                "town": "Nek\u2019emt\u0113"
+            },
+            "confidence": 9,
+            "formatted": "Nek\u2019emt\u0113, Oromiya, Ethiopia",
+            "geometry": {
+                "lat": 9.08333,
+                "lng": 36.55
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:47:56 GMT",
+        "created_unix": 1713995276
+    },
+    "total_results": 1
+}

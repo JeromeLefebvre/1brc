@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 224,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 25' 29.47728'' N",
+                    "lng": "3\u00b0 32' 6.13284'' W"
+                },
+                "MGRS": "30TVK5461375051",
+                "Maidenhead": "IN80fk51tx",
+                "Mercator": {
+                    "x": -393518.508,
+                    "y": 4900161.124
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES3"
+                    },
+                    "NUTS2": {
+                        "code": "ES30"
+                    },
+                    "NUTS3": {
+                        "code": "ES300"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=347592#map=17/40.42485/-3.53504",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.42485/-3.53504&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.42485&mlon=-3.53504#map=17/40.42485/-3.53504"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezjmzx1ggej7y42c2dp3",
+                "qibla": 104.12,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711692180,
+                        "astronomical": 1711686660,
+                        "civil": 1711690560,
+                        "nautical": 1711688640
+                    },
+                    "set": {
+                        "apparent": 1711737300,
+                        "astronomical": 1711742880,
+                        "civil": 1711738920,
+                        "nautical": 1711740900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "error.wording.welcome"
+                },
+                "wikidata": "Q842211"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.4730357,
+                    "lng": -3.410627
+                },
+                "southwest": {
+                    "lat": 40.4065488,
+                    "lng": -3.5381823
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Fernando de Henares",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "28830",
+                "state": "Madrid",
+                "town": "San Fernando de Henares"
+            },
+            "confidence": 7,
+            "formatted": "28830 San Fernando de Henares, Spain",
+            "geometry": {
+                "lat": 40.4248548,
+                "lng": -3.5350369
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:03:57 GMT",
+        "created_unix": 1711753437
+    },
+    "total_results": 1
+}

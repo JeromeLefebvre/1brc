@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 396,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 59' 39.79068'' N",
+                    "lng": "13\u00b0 39' 23.43420'' E"
+                },
+                "MGRS": "33SUC8203306043",
+                "Maidenhead": "JM67tx88sp",
+                "Mercator": {
+                    "x": 1520235.684,
+                    "y": 4552326.541
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITG"
+                    },
+                    "NUTS2": {
+                        "code": "ITG1"
+                    },
+                    "NUTS3": {
+                        "code": "ITG12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=39458#map=17/37.99439/13.65651",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.99439/13.65651&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.99439&mlon=13.65651#map=17/37.99439/13.65651"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sqc8nu8m7dzw3rd9vmj0",
+                "qibla": 118.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714709280,
+                        "astronomical": 1714703280,
+                        "civil": 1714707540,
+                        "nautical": 1714705500
+                    },
+                    "set": {
+                        "apparent": 1714759020,
+                        "astronomical": 1714765020,
+                        "civil": 1714760760,
+                        "nautical": 1714762800
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "island.outdoor.valid"
+                },
+                "wikidata": "Q490857"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.0209213,
+                    "lng": 13.6644103
+                },
+                "southwest": {
+                    "lat": 37.9558092,
+                    "lng": 13.5832764
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-82",
+                    "IT-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Trabia",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Palermo",
+                "county_code": "PA",
+                "political_union": "European Union",
+                "postcode": "90019",
+                "state": "Sicily",
+                "town": "Trabia"
+            },
+            "confidence": 7,
+            "formatted": "90019 Trabia PA, Italy",
+            "geometry": {
+                "lat": 37.9943863,
+                "lng": 13.6565095
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:29:10 GMT",
+        "created_unix": 1714699750
+    },
+    "total_results": 1
+}

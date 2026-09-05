@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1752,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 13' 5.32740'' N",
+                    "lng": "3\u00b0 36' 25.27632'' W"
+                },
+                "MGRS": "30SVJ4759841160",
+                "Maidenhead": "IM89ef72di",
+                "Mercator": {
+                    "x": -401531.763,
+                    "y": 4725946.752
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES4"
+                    },
+                    "NUTS2": {
+                        "code": "ES42"
+                    },
+                    "NUTS3": {
+                        "code": "ES422"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=340224#map=17/39.21815/-3.60702",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.21815/-3.60702&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.21815&mlon=-3.60702#map=17/39.21815/-3.60702"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "eyvrjgmqq26h3txhgwtw",
+                "qibla": 102.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711864860,
+                        "astronomical": 1711859400,
+                        "civil": 1711863240,
+                        "nautical": 1711861320
+                    },
+                    "set": {
+                        "apparent": 1711910220,
+                        "astronomical": 1711915680,
+                        "civil": 1711911840,
+                        "nautical": 1711913700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "provider.deed.straws"
+                },
+                "wikidata": "Q1641422"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.3076648,
+                    "lng": -3.5094758
+                },
+                "southwest": {
+                    "lat": 39.1251068,
+                    "lng": -3.7709932
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-CM",
+                    "ES-CR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Villarrubia de los Ojos",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "13670",
+                "province": "Ciudad Real",
+                "state": "Castile-La Mancha",
+                "state_code": "CM",
+                "town": "Villarrubia de los Ojos"
+            },
+            "confidence": 4,
+            "formatted": "13670 Villarrubia de los Ojos, Spain",
+            "geometry": {
+                "lat": 39.2181465,
+                "lng": -3.6070212
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:51:49 GMT",
+        "created_unix": 1711918309
+    },
+    "total_results": 1
+}

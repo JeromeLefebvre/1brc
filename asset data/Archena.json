@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1901,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 7' 4.12284'' N",
+                    "lng": "1\u00b0 18' 9.08496'' W"
+                },
+                "MGRS": "30SXH4880020247",
+                "Maidenhead": "IM98ic38qg",
+                "Mercator": {
+                    "x": -144996.264,
+                    "y": 4569703.193
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES6"
+                    },
+                    "NUTS2": {
+                        "code": "ES62"
+                    },
+                    "NUTS3": {
+                        "code": "ES620"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=345122#map=17/38.11781/-1.30252",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.11781/-1.30252&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.11781&mlon=-1.30252#map=17/38.11781/-1.30252"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "eyz0f75s350hb7cctncd",
+                "qibla": 103.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714885500,
+                        "astronomical": 1714879440,
+                        "civil": 1714883760,
+                        "nautical": 1714881720
+                    },
+                    "set": {
+                        "apparent": 1714935540,
+                        "astronomical": 1714941660,
+                        "civil": 1714937280,
+                        "nautical": 1714939380
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "pressed.transports.shard"
+                },
+                "wikidata": "Q632621"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.1402875,
+                    "lng": -1.2656607
+                },
+                "southwest": {
+                    "lat": 38.0862178,
+                    "lng": -1.3255849
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-MC",
+                    "ES-MU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Archena",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "county": "Valle de Ricote",
+                "political_union": "European Union",
+                "postcode": "30600",
+                "province": "Region of Murcia",
+                "state": "Region of Murcia",
+                "state_code": "MC",
+                "town": "Archena"
+            },
+            "confidence": 7,
+            "formatted": "30600 Archena, Spain",
+            "geometry": {
+                "lat": 38.1178119,
+                "lng": -1.3025236
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:10:30 GMT",
+        "created_unix": 1714893030
+    },
+    "total_results": 1
+}

@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1276,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 29' 2.30028'' N",
+                    "lng": "7\u00b0 44' 5.20188'' E"
+                },
+                "MGRS": "32TMT0468359724",
+                "Maidenhead": "JN37ul86ed",
+                "Mercator": {
+                    "x": 861031.582,
+                    "y": 5989921.385
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH03"
+                    },
+                    "NUTS3": {
+                        "code": "CH032"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1683670#map=16/47.48397/7.73478",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.48397/7.73478&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.48397&mlon=7.73478#map=16/47.48397/7.73478"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0mw0h0q1muxzjgsetcq",
+                "qibla": 124.07,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536780,
+                        "astronomical": 1714529160,
+                        "civil": 1714534740,
+                        "nautical": 1714532160
+                    },
+                    "set": {
+                        "apparent": 1714588800,
+                        "astronomical": 1714596480,
+                        "civil": 1714590900,
+                        "nautical": 1714593480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "struggle.hotel.reserve"
+                },
+                "wikidata": "Q68972"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5034239,
+                    "lng": 7.7843616
+                },
+                "southwest": {
+                    "lat": 47.4629599,
+                    "lng": 7.669882
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-BL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Liestal",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "county": "Bezirk Liestal",
+                "local_administrative_area": "Liestal",
+                "postcode": "4410",
+                "state": "Basel-Landschaft",
+                "state_code": "BL",
+                "town": "Liestal"
+            },
+            "confidence": 7,
+            "formatted": "4410 Liestal, Switzerland",
+            "geometry": {
+                "lat": 47.4839723,
+                "lng": 7.7347783
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:14:57 GMT",
+        "created_unix": 1714533297
+    },
+    "total_results": 1
+}

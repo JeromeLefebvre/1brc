@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1904,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 52' 31.41876'' N",
+                    "lng": "91\u00b0 55' 12.10296'' W"
+                },
+                "FIPS": {
+                    "county": "55033",
+                    "state": "55"
+                },
+                "MGRS": "15TWK8530269675",
+                "Maidenhead": "EN44av90oc",
+                "Mercator": {
+                    "x": -10232490.777,
+                    "y": 5571766.507
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=251653#map=16/44.87539/-91.92003",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.87539/-91.92003&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.87539&mlon=-91.92003#map=16/44.87539/-91.92003"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zyxk33fh5fbv56f0gds",
+                "qibla": 44.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711799520,
+                        "astronomical": 1711793460,
+                        "civil": 1711797720,
+                        "nautical": 1711795620
+                    },
+                    "set": {
+                        "apparent": 1711758780,
+                        "astronomical": 1711764840,
+                        "civil": 1711760520,
+                        "nautical": 1711762680
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "distract.crammed.tallest"
+                },
+                "wikidata": "Q1003724"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.926318,
+                    "lng": -91.852856
+                },
+                "southwest": {
+                    "lat": 44.8511611,
+                    "lng": -91.9620273
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Menomonie",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dunn County",
+                "postcode": "54751",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "Menomonie"
+            },
+            "confidence": 7,
+            "formatted": "Menomonie, WI 54751, United States of America",
+            "geometry": {
+                "lat": 44.8753941,
+                "lng": -91.9200286
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:51:04 GMT",
+        "created_unix": 1711831864
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 439,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 0' 9.33228'' N",
+                    "lng": "118\u00b0 20' 8.27052'' W"
+                },
+                "FIPS": {
+                    "county": "06037",
+                    "state": "06"
+                },
+                "MGRS": "11SLT7665663247",
+                "Maidenhead": "DM04ta90ro",
+                "Mercator": {
+                    "x": -13173062.152,
+                    "y": 4005255.592
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2664728207#map=17/34.00259/-118.33563",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.00259/-118.33563&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.00259&mlon=-118.33563#map=17/34.00259/-118.33563"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q5c7jyx7yw7g8r6yxrv",
+                "qibla": 23.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050660,
+                        "astronomical": 1714045200,
+                        "civil": 1714049040,
+                        "nautical": 1714047180
+                    },
+                    "set": {
+                        "apparent": 1714012320,
+                        "astronomical": 1714017780,
+                        "civil": 1714013940,
+                        "nautical": 1714015800
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "spot.villa.bags"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.0225923,
+                    "lng": -118.3156307
+                },
+                "southwest": {
+                    "lat": 33.9825923,
+                    "lng": -118.3556307
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "View Park-Windsor Hills",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Los Angeles County",
+                "postcode": "90008",
+                "state": "California",
+                "state_code": "CA",
+                "suburb": "View Park-Windsor Hills"
+            },
+            "confidence": 7,
+            "formatted": "View Park-Windsor Hills, CA 90008, United States of America",
+            "geometry": {
+                "lat": 34.0025923,
+                "lng": -118.3356307
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:32:03 GMT",
+        "created_unix": 1714008723
+    },
+    "total_results": 1
+}

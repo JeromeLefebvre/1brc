@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1887,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 28' 47.99964'' N",
+                    "lng": "127\u00b0 17' 20.40000'' E"
+                },
+                "MGRS": "52SCF4672438550",
+                "Maidenhead": "PM36pl45qe",
+                "Mercator": {
+                    "x": 14169746.664,
+                    "y": 4341465.602
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2349795#map=16/36.48000/127.28900",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/36.48000/127.28900&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.48000&mlon=127.28900#map=16/36.48000/127.28900"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wy6x88cp2svetprpy8kv",
+                "qibla": 286.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714941300,
+                        "astronomical": 1714935420,
+                        "civil": 1714939620,
+                        "nautical": 1714937580
+                    },
+                    "set": {
+                        "apparent": 1714904460,
+                        "astronomical": 1714910340,
+                        "civil": 1714906140,
+                        "nautical": 1714908180
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "nightshirt.chimed.navigating"
+                },
+                "wikidata": "Q20929"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.7337897,
+                    "lng": 127.4111505
+                },
+                "southwest": {
+                    "lat": 36.4067948,
+                    "lng": 127.1275238
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "ISO_3166-2": [
+                    "KR-50"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sejong",
+                "_type": "city",
+                "city": "Sejong",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr"
+            },
+            "confidence": 3,
+            "formatted": "Sejong, South Korea",
+            "geometry": {
+                "lat": 36.4799999,
+                "lng": 127.289
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:11:02 GMT",
+        "created_unix": 1714893062
+    },
+    "total_results": 1
+}

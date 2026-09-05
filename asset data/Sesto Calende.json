@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1322,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 43' 26.23908'' N",
+                    "lng": "8\u00b0 38' 3.70248'' E"
+                },
+                "MGRS": "32TMR7154763442",
+                "Maidenhead": "JN45hr63cr",
+                "Mercator": {
+                    "x": 961172.759,
+                    "y": 5705616.755
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC41"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45846#map=17/45.72396/8.63436",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.72396/8.63436&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.72396&mlon=8.63436#map=17/45.72396/8.63436"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0nhh7z375nc9d892n5r",
+                "qibla": 123.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536840,
+                        "astronomical": 1714529640,
+                        "civil": 1714534860,
+                        "nautical": 1714532400
+                    },
+                    "set": {
+                        "apparent": 1714588320,
+                        "astronomical": 1714595580,
+                        "civil": 1714590300,
+                        "nautical": 1714592760
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "underrated.glovebox.enticed"
+                },
+                "wikidata": "Q40699"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.777905,
+                    "lng": 8.6781545
+                },
+                "southwest": {
+                    "lat": 45.7107969,
+                    "lng": 8.5824264
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-VA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sesto Calende",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Varese",
+                "county_code": "VA",
+                "political_union": "European Union",
+                "postcode": "21018",
+                "state": "Lombardy",
+                "town": "Sesto Calende"
+            },
+            "confidence": 7,
+            "formatted": "21018 Sesto Calende VA, Italy",
+            "geometry": {
+                "lat": 45.7239553,
+                "lng": 8.6343618
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:13:01 GMT",
+        "created_unix": 1714533181
+    },
+    "total_results": 1
+}

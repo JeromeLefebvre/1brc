@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1122,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 9' 49.13532'' N",
+                    "lng": "80\u00b0 34' 12.98784'' E"
+                },
+                "MGRS": "44NMN5255291861",
+                "Maidenhead": "NJ07gd89kg",
+                "Mercator": {
+                    "x": 8969041.919,
+                    "y": 794214.812
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1830490058#map=16/7.16365/80.57027",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/7.16365/80.57027&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.16365&mlon=80.57027#map=16/7.16365/80.57027"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "LK": "144",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 94,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0dbb\u0dd4",
+                        "\u0bb0\u0bc2",
+                        "SLRs",
+                        "/-"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "SLRs",
+                    "format": "%n %u",
+                    "html_entity": "&#8360;",
+                    "iso_code": "LKR",
+                    "iso_numeric": "144",
+                    "name": "Sri Lankan Rupee",
+                    "smallest_denomination": 100,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a8",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf1\ud83c\uddf0",
+                "geohash": "tc32c2j7r2yvnbr971md",
+                "qibla": 294.31,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713918420,
+                        "astronomical": 1714000560,
+                        "civil": 1713917160,
+                        "nautical": 1714002060
+                    },
+                    "set": {
+                        "apparent": 1713962700,
+                        "astronomical": 1713966960,
+                        "civil": 1713963960,
+                        "nautical": 1713965460
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Colombo",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "+0530"
+                },
+                "what3words": {
+                    "words": "disregard.sauntering.ballparks"
+                },
+                "wikidata": "Q8264065"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 7.2036487,
+                    "lng": 80.6102744
+                },
+                "southwest": {
+                    "lat": 7.1236487,
+                    "lng": 80.5302744
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "LK",
+                "ISO_3166-1_alpha-3": "LKA",
+                "ISO_3166-2": [
+                    "LK-2",
+                    "LK-21"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gampola",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Sri Lanka",
+                "country_code": "lk",
+                "postcode": "20500",
+                "state": "Central Province",
+                "state_district": "Kandy District",
+                "town": "Gampola"
+            },
+            "confidence": 7,
+            "formatted": "Gampola 20500, Sri Lanka",
+            "geometry": {
+                "lat": 7.1636487,
+                "lng": 80.5702744
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:56:39 GMT",
+        "created_unix": 1713995799
+    },
+    "total_results": 1
+}

@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1391,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 0' 58.32504'' N",
+                    "lng": "2\u00b0 10' 52.53852'' W"
+                },
+                "MGRS": "30UWD5492474386",
+                "Maidenhead": "IO83va83fv",
+                "Mercator": {
+                    "x": -242816.83,
+                    "y": 6951839.472
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=163183#map=17/53.01620/-2.18126",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.01620/-2.18126&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.01620&mlon=-2.18126#map=17/53.01620/-2.18126"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcqmw779ubnpuqsqgnfz",
+                "qibla": 118.11,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713934200,
+                        "astronomical": 1713925380,
+                        "civil": 1713931920,
+                        "nautical": 1713928980
+                    },
+                    "set": {
+                        "apparent": 1713986640,
+                        "astronomical": 1713995640,
+                        "civil": 1713988980,
+                        "nautical": 1713991980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "loose.pasta.logic"
+                },
+                "wikidata": "Q134902"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.0927015,
+                    "lng": -2.0792446
+                },
+                "southwest": {
+                    "lat": 52.9461901,
+                    "lng": -2.2387603
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-STE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Stoke-on-Trent",
+                "_type": "city",
+                "city": "Stoke-on-Trent",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "state": "England",
+                "state_code": "ENG"
+            },
+            "confidence": 6,
+            "formatted": "Stoke-on-Trent, England, United Kingdom",
+            "geometry": {
+                "lat": 53.0162014,
+                "lng": -2.1812607
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:47:23 GMT",
+        "created_unix": 1713995243
+    },
+    "total_results": 1
+}

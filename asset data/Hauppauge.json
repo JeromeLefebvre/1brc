@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 630,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 49' 32.35332'' N",
+                    "lng": "73\u00b0 12' 9.40968'' W"
+                },
+                "FIPS": {
+                    "county": "36103",
+                    "state": "36"
+                },
+                "MGRS": "18TXL5156420957",
+                "Maidenhead": "FN30jt58qd",
+                "Mercator": {
+                    "x": -8148877.693,
+                    "y": 4958718.86
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175711#map=17/40.82565/-73.20261",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.82565/-73.20261&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.82565&mlon=-73.20261#map=17/40.82565/-73.20261"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr7bq0p6xmqyqs7j624p",
+                "qibla": 59.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714039140,
+                        "astronomical": 1714033020,
+                        "civil": 1714037400,
+                        "nautical": 1714035300
+                    },
+                    "set": {
+                        "apparent": 1714088580,
+                        "astronomical": 1714008360,
+                        "civil": 1714003920,
+                        "nautical": 1714006020
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "powder.plates.bond"
+                },
+                "wikidata": "Q3476502"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.846025,
+                    "lng": -73.147782
+                },
+                "southwest": {
+                    "lat": 40.801676,
+                    "lng": -73.272302
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Smithtown",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Suffolk County",
+                "hamlet": "Hauppauge",
+                "postcode": "11788",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Smithtown"
+            },
+            "confidence": 7,
+            "formatted": "Hauppauge, Smithtown, NY 11788, United States of America",
+            "geometry": {
+                "lat": 40.8256537,
+                "lng": -73.2026138
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:23:49 GMT",
+        "created_unix": 1714008229
+    },
+    "total_results": 1
+}

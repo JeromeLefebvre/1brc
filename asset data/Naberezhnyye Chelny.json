@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1204,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 43' 31.62000'' N",
+                    "lng": "52\u00b0 24' 40.39200'' E"
+                },
+                "MGRS": "39UWB8863476425",
+                "Maidenhead": "LO65er94ic",
+                "Mercator": {
+                    "x": 5834390.322,
+                    "y": 7468616.464
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.72545/52.41122&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.72545&mlon=52.41122#map=17/55.72545/52.41122"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v1vm08s8mby1m7g29p0s",
+                "qibla": 200.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713403140,
+                        "astronomical": 1713480180,
+                        "civil": 1713400740,
+                        "nautical": 1713484020
+                    },
+                    "set": {
+                        "apparent": 1713454920,
+                        "astronomical": 1713464400,
+                        "civil": 1713457320,
+                        "nautical": 1713460500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "nitrate.works.finishing"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Naberezhnye Chelny",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Tukayevskiy Rayon",
+                "state": "Tatarstan",
+                "town": "Naberezhnye Chelny"
+            },
+            "confidence": 9,
+            "formatted": "Naberezhnye Chelny, Tukayevskiy Rayon, Russia",
+            "geometry": {
+                "lat": 55.72545,
+                "lng": 52.41122
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:58:20 GMT",
+        "created_unix": 1713441500
+    },
+    "total_results": 1
+}

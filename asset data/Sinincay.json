@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 790,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "2\u00b0 51' 2.71296'' S",
+                    "lng": "79\u00b0 0' 53.41428'' W"
+                },
+                "MGRS": "17MQS2067184713",
+                "Maidenhead": "FI07ld85ft",
+                "Mercator": {
+                    "x": -8795891.453,
+                    "y": -315351.895
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3755369#map=16/-2.85075/-79.01484",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-2.85075/-79.01484&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-2.85075&mlon=-79.01484#map=16/-2.85075/-79.01484"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "EC": "218",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 593,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\udde8",
+                "geohash": "6przccp1hv4brukhc7et",
+                "qibla": 67.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714130040,
+                        "astronomical": 1714125840,
+                        "civil": 1714128780,
+                        "nautical": 1714127280
+                    },
+                    "set": {
+                        "apparent": 1714173180,
+                        "astronomical": 1714091040,
+                        "civil": 1714174500,
+                        "nautical": 1714175940
+                    }
+                },
+                "timezone": {
+                    "name": "America/Guayaquil",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "tolls.sideburns.selects"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -2.819007,
+                    "lng": -78.988451
+                },
+                "southwest": {
+                    "lat": -2.8808156,
+                    "lng": -79.041027
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EC",
+                "ISO_3166-1_alpha-3": "ECU",
+                "ISO_3166-2": [
+                    "EC-A"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sinincay",
+                "_type": "municipality",
+                "continent": "South America",
+                "country": "Ecuador",
+                "country_code": "ec",
+                "county": "Cuenca",
+                "municipality": "Sinincay",
+                "state": "Azuay",
+                "state_code": "A"
+            },
+            "confidence": 7,
+            "formatted": "Sinincay, Cuenca, Ecuador",
+            "geometry": {
+                "lat": -2.8507536,
+                "lng": -79.0148373
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 23:00:55 GMT",
+        "created_unix": 1714172455
+    },
+    "total_results": 1
+}

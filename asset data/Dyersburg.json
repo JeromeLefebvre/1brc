@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1165,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 2' 4.70148'' N",
+                    "lng": "89\u00b0 23' 8.69856'' W"
+                },
+                "FIPS": {
+                    "county": "47045",
+                    "state": "47"
+                },
+                "MGRS": "16SBE8505290423",
+                "Maidenhead": "EM56ha38rh",
+                "Mercator": {
+                    "x": -9950376.13,
+                    "y": 4280251.368
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=197146#map=17/36.03464/-89.38575",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.03464/-89.38575&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.03464&mlon=-89.38575#map=17/36.03464/-89.38575"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn2kvzzkcpdk32wpsw49",
+                "qibla": 48.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713957180,
+                        "astronomical": 1713951600,
+                        "civil": 1713955560,
+                        "nautical": 1713953640
+                    },
+                    "set": {
+                        "apparent": 1713919140,
+                        "astronomical": 1713924720,
+                        "civil": 1713920760,
+                        "nautical": 1713922680
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "calibrate.educating.netting"
+                },
+                "wikidata": "Q1268670"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.0886765,
+                    "lng": -89.3234086
+                },
+                "southwest": {
+                    "lat": 35.9877993,
+                    "lng": -89.4293751
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Dyersburg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dyer County",
+                "region": "West Tennessee",
+                "state": "Tennessee",
+                "state_code": "TN",
+                "town": "Dyersburg"
+            },
+            "confidence": 6,
+            "formatted": "Dyersburg, Tennessee, United States of America",
+            "geometry": {
+                "lat": 36.0346393,
+                "lng": -89.3857496
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:55:10 GMT",
+        "created_unix": 1713995710
+    },
+    "total_results": 1
+}

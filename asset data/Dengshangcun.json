@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2404,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 50' 8.65320'' N",
+                    "lng": "114\u00b0 24' 5.14332'' E"
+                },
+                "MGRS": "50SKF6827079802",
+                "Maidenhead": "OM76eu80en",
+                "Mercator": {
+                    "x": 12735108.789,
+                    "y": 4390616.515
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7218123939#map=17/36.83574/114.40143",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.83574/114.40143&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.83574&mlon=114.40143#map=17/36.83574/114.40143"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "ww93e38xdx040n0mu2sh",
+                "qibla": 279.11,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1715030640,
+                        "astronomical": 1715024760,
+                        "civil": 1715028960,
+                        "nautical": 1715026920
+                    },
+                    "set": {
+                        "apparent": 1714994040,
+                        "astronomical": 1714999980,
+                        "civil": 1714995720,
+                        "nautical": 1714997820
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "coerced.generals.gateway"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.855737,
+                    "lng": 114.4214287
+                },
+                "southwest": {
+                    "lat": 36.815737,
+                    "lng": 114.3814287
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Handan",
+                "_type": "village",
+                "city": "Handan",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "postcode": "056000",
+                "state": "Hebei",
+                "village": "Dengshangcun"
+            },
+            "confidence": 7,
+            "formatted": "056000 China, Hebei, Handan",
+            "geometry": {
+                "lat": 36.835737,
+                "lng": 114.4014287
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:10:06 GMT",
+        "created_unix": 1714954206
+    },
+    "total_results": 1
+}

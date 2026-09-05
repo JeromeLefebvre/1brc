@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 90,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 22' 10.46208'' N",
+                    "lng": "8\u00b0 34' 58.64412'' E"
+                },
+                "MGRS": "32UMV6972268624",
+                "Maidenhead": "JN49gi98wq",
+                "Mercator": {
+                    "x": 955450.369,
+                    "y": 6305358.316
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE1"
+                    },
+                    "NUTS2": {
+                        "code": "DE12"
+                    },
+                    "NUTS3": {
+                        "code": "DE128"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=453412#map=17/49.36957/8.58296",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.36957/8.58296&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.36957&mlon=8.58296#map=17/49.36957/8.58296"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0y0g73yt7kmh13xtunx",
+                "qibla": 127.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795140,
+                        "astronomical": 1714786800,
+                        "civil": 1714792980,
+                        "nautical": 1714790160
+                    },
+                    "set": {
+                        "apparent": 1714848360,
+                        "astronomical": 1714856820,
+                        "civil": 1714850580,
+                        "nautical": 1714853400
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "ferment.ironclad.magnum"
+                },
+                "wikidata": "Q81862"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.3810548,
+                    "lng": 8.6332336
+                },
+                "southwest": {
+                    "lat": 49.3373693,
+                    "lng": 8.5620565
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Oftersheim",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Rhein-Neckar-Kreis",
+                "political_union": "European Union",
+                "state": "Baden-W\u00fcrttemberg",
+                "state_code": "BW",
+                "village": "Oftersheim"
+            },
+            "confidence": 7,
+            "formatted": "Oftersheim, Baden-W\u00fcrttemberg, Germany",
+            "geometry": {
+                "lat": 49.3695728,
+                "lng": 8.5829567
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:14:10 GMT",
+        "created_unix": 1714796050
+    },
+    "total_results": 1
+}

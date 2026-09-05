@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1014,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 48' 57.92076'' N",
+                    "lng": "11\u00b0 3' 16.74072'' E"
+                },
+                "MGRS": "32TPP6523953498",
+                "Maidenhead": "JN53mt65nu",
+                "Mercator": {
+                    "x": 1230598.031,
+                    "y": 5407432.282
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI15"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42653#map=16/43.81609/11.05465",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.81609/11.05465&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.81609&mlon=11.05465#map=16/43.81609/11.05465"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spzc783z0p08khwdwt4w",
+                "qibla": 123.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714881780,
+                        "astronomical": 1714874820,
+                        "civil": 1714879860,
+                        "nautical": 1714877460
+                    },
+                    "set": {
+                        "apparent": 1714933380,
+                        "astronomical": 1714940340,
+                        "civil": 1714935300,
+                        "nautical": 1714937700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "incoming.harsh.eagles"
+                },
+                "wikidata": "Q20387"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.8306966,
+                    "lng": 11.0633977
+                },
+                "southwest": {
+                    "lat": 43.8002188,
+                    "lng": 11.0248392
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-PO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Poggio a Caiano",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Prato",
+                "county_code": "PO",
+                "political_union": "European Union",
+                "postcode": "59016",
+                "state": "Tuscany",
+                "town": "Poggio a Caiano"
+            },
+            "confidence": 7,
+            "formatted": "59016 Poggio a Caiano PO, Italy",
+            "geometry": {
+                "lat": 43.8160891,
+                "lng": 11.0546502
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:19:05 GMT",
+        "created_unix": 1714947545
+    },
+    "total_results": 1
+}

@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 771,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 40' 23.15892'' S",
+                    "lng": "58\u00b0 35' 38.22072'' W"
+                },
+                "MGRS": "21HUB5396662052",
+                "Maidenhead": "GF05qh88rk",
+                "Mercator": {
+                    "x": -6522648.7,
+                    "y": -4095236.97
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1748168#map=17/-34.67310/-58.59395",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-34.67310/-58.59395&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-34.67310&mlon=-58.59395#map=17/-34.67310/-58.59395"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "AR": "032",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 54,
+                "currency": {
+                    "alternate_symbols": [
+                        "$m/n",
+                        "m$n"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "$m/n",
+                    "html_entity": "$",
+                    "iso_code": "ARS",
+                    "iso_numeric": "032",
+                    "name": "Argentine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf7",
+                "geohash": "69y6dxvnw18pc9wtmt53",
+                "qibla": 76.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713781500,
+                        "astronomical": 1713776400,
+                        "civil": 1713779940,
+                        "nautical": 1713778200
+                    },
+                    "set": {
+                        "apparent": 1713820800,
+                        "astronomical": 1713825900,
+                        "civil": 1713822360,
+                        "nautical": 1713824100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Argentina/Buenos_Aires",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "-03"
+                },
+                "what3words": {
+                    "words": "first.rise.arrival"
+                },
+                "wikidata": "Q10391466"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -34.6505133,
+                    "lng": -58.56845
+                },
+                "southwest": {
+                    "lat": -34.6954931,
+                    "lng": -58.6193993
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AR",
+                "ISO_3166-1_alpha-3": "ARG",
+                "ISO_3166-2": [
+                    "AR-B"
+                ],
+                "_category": "place",
+                "_normalized_city": "Villa Luzuriaga",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Argentina",
+                "country_code": "ar",
+                "state": "Buenos Aires",
+                "state_code": "B",
+                "state_district": "Partido de La Matanza",
+                "town": "Villa Luzuriaga"
+            },
+            "confidence": 7,
+            "formatted": "Villa Luzuriaga, Partido de La Matanza, Argentina",
+            "geometry": {
+                "lat": -34.6730997,
+                "lng": -58.5939502
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:21:39 GMT",
+        "created_unix": 1713781299
+    },
+    "total_results": 1
+}

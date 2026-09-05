@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1270,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 46' 9.15276'' N",
+                    "lng": "8\u00b0 34' 52.52772'' E"
+                },
+                "MGRS": "32UMB7047124244",
+                "Maidenhead": "JO40gs94so",
+                "Mercator": {
+                    "x": 955261.238,
+                    "y": 6547452.366
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE7"
+                    },
+                    "NUTS2": {
+                        "code": "DE72"
+                    },
+                    "NUTS3": {
+                        "code": "DE724"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=225492#map=17/50.76921/8.58126",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.76921/8.58126&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.76921&mlon=8.58126#map=17/50.76921/8.58126"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1n0g628jf98b368jx73",
+                "qibla": 128.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622340,
+                        "astronomical": 1714613580,
+                        "civil": 1714620060,
+                        "nautical": 1714617180
+                    },
+                    "set": {
+                        "apparent": 1714675680,
+                        "astronomical": 1714684500,
+                        "civil": 1714677900,
+                        "nautical": 1714680840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "shadows.frontrunner.unlimited"
+                },
+                "wikidata": "Q551378"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.8274849,
+                    "lng": 8.6522435
+                },
+                "southwest": {
+                    "lat": 50.729845,
+                    "lng": 8.5053089
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gladenbach",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Marburg-Biedenkopf",
+                "political_union": "European Union",
+                "postcode": "35075",
+                "state": "Hesse",
+                "state_code": "HE",
+                "town": "Gladenbach"
+            },
+            "confidence": 6,
+            "formatted": "35075 Gladenbach, Germany",
+            "geometry": {
+                "lat": 50.7692091,
+                "lng": 8.5812577
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:46:25 GMT",
+        "created_unix": 1714693585
+    },
+    "total_results": 1
+}

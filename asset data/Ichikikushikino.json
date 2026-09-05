@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 555,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 42' 52.56864'' N",
+                    "lng": "130\u00b0 16' 19.77564'' E"
+                },
+                "MGRS": "52RFA2053709505",
+                "Maidenhead": "PM51dr21pm",
+                "Mercator": {
+                    "x": 14501830.505,
+                    "y": 3703446.254
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3959619#map=17/31.71460/130.27216",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.71460/130.27216&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.71460&mlon=130.27216#map=17/31.71460/130.27216"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvsskmmqcq6umh1tptuc",
+                "qibla": 288.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713732300,
+                        "astronomical": 1713727140,
+                        "civil": 1713730800,
+                        "nautical": 1713729000
+                    },
+                    "set": {
+                        "apparent": 1713693060,
+                        "astronomical": 1713698220,
+                        "civil": 1713694560,
+                        "nautical": 1713696360
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "take.donation.ambition"
+                },
+                "wikidata": "Q15725"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.790786,
+                    "lng": 130.3794521
+                },
+                "southwest": {
+                    "lat": 31.6065718,
+                    "lng": 129.9868409
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-46"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ichikikushikino",
+                "_type": "city",
+                "city": "Ichikikushikino",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Kagoshima Prefecture",
+                "state": "Kagoshima Prefecture"
+            },
+            "confidence": 3,
+            "formatted": "Ichikikushikino, Kagoshima Prefecture, Japan",
+            "geometry": {
+                "lat": 31.7146024,
+                "lng": 130.2721599
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:29:59 GMT",
+        "created_unix": 1713666599
+    },
+    "total_results": 1
+}

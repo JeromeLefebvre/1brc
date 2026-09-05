@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 26,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 21' 42.30324'' N",
+                    "lng": "8\u00b0 37' 53.15844'' E"
+                },
+                "MGRS": "32UMU7269956574",
+                "Maidenhead": "JN48hi56st",
+                "Mercator": {
+                    "x": 960846.715,
+                    "y": 6135299.526
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE1"
+                    },
+                    "NUTS2": {
+                        "code": "DE13"
+                    },
+                    "NUTS3": {
+                        "code": "DE135"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=943740#map=17/48.36175/8.63143",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.36175/8.63143&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.36175&mlon=8.63143#map=17/48.36175/8.63143"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0w5h7vpwgyc5pxtv232",
+                "qibla": 126.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932340,
+                        "astronomical": 1713924900,
+                        "civil": 1713930300,
+                        "nautical": 1713927780
+                    },
+                    "set": {
+                        "apparent": 1713983340,
+                        "astronomical": 1713990840,
+                        "civil": 1713985380,
+                        "nautical": 1713987900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "purveyors.defy.buoyancy"
+                },
+                "wikidata": "Q83167"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.4109666,
+                    "lng": 8.7448679
+                },
+                "southwest": {
+                    "lat": 48.3125754,
+                    "lng": 8.5441922
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sulz am Neckar",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Rottweil",
+                "municipality": "Verwaltungsgemeinschaft Sulz am Neckar",
+                "political_union": "European Union",
+                "postcode": "72172",
+                "state": "Baden-W\u00fcrttemberg",
+                "state_code": "BW",
+                "town": "Sulz am Neckar"
+            },
+            "confidence": 6,
+            "formatted": "72172 Sulz am Neckar, Germany",
+            "geometry": {
+                "lat": 48.3617509,
+                "lng": 8.6314329
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:35:05 GMT",
+        "created_unix": 1713998105
+    },
+    "total_results": 1
+}

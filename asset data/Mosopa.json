@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2244,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 46' 18.48000'' S",
+                    "lng": "25\u00b0 25' 17.61600'' E"
+                },
+                "MGRS": "35JLN4041359398",
+                "Maidenhead": "KG25rf04os",
+                "Mercator": {
+                    "x": 2829915.114,
+                    "y": -2829843.756
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-24.77180/25.42156&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-24.77180&mlon=25.42156#map=17/-24.77180/25.42156"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BW": "072",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 267,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "BWP",
+                    "iso_numeric": "072",
+                    "name": "Botswana Pula",
+                    "smallest_denomination": 5,
+                    "subunit": "Thebe",
+                    "subunit_to_unit": 100,
+                    "symbol": "P",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfc",
+                "geohash": "ked546rmv3c10uqccuht",
+                "qibla": 18.08,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711772820,
+                        "astronomical": 1711768320,
+                        "civil": 1711771500,
+                        "nautical": 1711769880
+                    },
+                    "set": {
+                        "apparent": 1711815480,
+                        "astronomical": 1711819980,
+                        "civil": 1711816800,
+                        "nautical": 1711818420
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Gaborone",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "chugs.contemplated.payable"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BW",
+                "ISO_3166-1_alpha-3": "BWA",
+                "_category": "place",
+                "_normalized_city": "Mosopa",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Botswana",
+                "country_code": "bw",
+                "state": "Southern District",
+                "town": "Mosopa"
+            },
+            "confidence": 9,
+            "formatted": "Mosopa, Southern District, Botswana",
+            "geometry": {
+                "lat": -24.7718,
+                "lng": 25.42156
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:40:19 GMT",
+        "created_unix": 1711831219
+    },
+    "total_results": 1
+}

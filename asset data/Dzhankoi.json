@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1467,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 42' 42.04800'' N",
+                    "lng": "34\u00b0 23' 33.86400'' E"
+                },
+                "MGRS": "36TXR0840162957",
+                "Maidenhead": "KN75er70dt",
+                "Mercator": {
+                    "x": 3828582.304,
+                    "y": 5703665.996
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.71168/34.39274&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.71168&mlon=34.39274#map=17/45.71168/34.39274"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "ub0kn9s1bfv8tf0b73zk",
+                "qibla": 167.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713753900,
+                        "astronomical": 1713747120,
+                        "civil": 1713752040,
+                        "nautical": 1713749700
+                    },
+                    "set": {
+                        "apparent": 1713803820,
+                        "astronomical": 1713810660,
+                        "civil": 1713805740,
+                        "nautical": 1713808080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Simferopol",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "proofed.consents.delve"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.7224207,
+                    "lng": 34.4219314
+                },
+                "southwest": {
+                    "lat": 45.6850345,
+                    "lng": 34.3845447
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "_category": "place",
+                "_normalized_city": "Dzhankoy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "state": "Crimea",
+                "town": "Dzhankoy"
+            },
+            "confidence": 7,
+            "formatted": "Dzhankoy, Crimea, Ukraine",
+            "geometry": {
+                "lat": 45.71168,
+                "lng": 34.39274
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:48:53 GMT",
+        "created_unix": 1713746933
+    },
+    "total_results": 1
+}

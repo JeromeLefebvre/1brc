@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1774,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 13' 40.44000'' N",
+                    "lng": "28\u00b0 30' 18.00000'' E"
+                },
+                "MGRS": "35UNA9810809923",
+                "Maidenhead": "KO44gf04oq",
+                "Mercator": {
+                    "x": 3173162.085,
+                    "y": 7178742.803
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.22790/28.50500&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.22790&mlon=28.50500#map=17/54.22790/28.50500"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u9sk2xusqthx9hvv8b8z",
+                "qibla": 160.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711770240,
+                        "astronomical": 1711762620,
+                        "civil": 1711768080,
+                        "nautical": 1711765500
+                    },
+                    "set": {
+                        "apparent": 1711816680,
+                        "astronomical": 1711824300,
+                        "civil": 1711818840,
+                        "nautical": 1711821480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "lawful.tens.caskets"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.221687,
+                    "lng": 28.538189
+                },
+                "southwest": {
+                    "lat": 54.203419,
+                    "lng": 28.518448
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "_category": "place",
+                "_normalized_city": "Borisov",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "state": "Minsk",
+                "state_code": "HM",
+                "town": "Borisov"
+            },
+            "confidence": 8,
+            "formatted": "Borisov, Minsk, Belarus",
+            "geometry": {
+                "lat": 54.2279,
+                "lng": 28.505
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:55:10 GMT",
+        "created_unix": 1711832110
+    },
+    "total_results": 1
+}

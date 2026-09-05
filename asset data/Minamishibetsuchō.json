@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2261,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 9' 14.36400'' N",
+                    "lng": "142\u00b0 22' 23.05200'' E"
+                },
+                "MGRS": "54TXP0979989892",
+                "Maidenhead": "QN14ed46sw",
+                "Mercator": {
+                    "x": 15848897.655,
+                    "y": 5459528.493
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.15399/142.37307&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.15399&mlon=142.37307#map=16/44.15399/142.37307"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xpv5pvbzsur3ybu9kx4u",
+                "qibla": 293.91,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714936680,
+                        "astronomical": 1714929660,
+                        "civil": 1714934760,
+                        "nautical": 1714932360
+                    },
+                    "set": {
+                        "apparent": 1714901820,
+                        "astronomical": 1714908900,
+                        "civil": 1714903740,
+                        "nautical": 1714906200
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "enliven.bakeries.sponge"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Minamishibetsuch\u014d",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "state": "Hokkaid\u014d",
+                "town": "Minamishibetsuch\u014d"
+            },
+            "confidence": 9,
+            "formatted": "Minamishibetsuch\u014d, Hokkaid\u014d, Japan",
+            "geometry": {
+                "lat": 44.15399,
+                "lng": 142.37307
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:56:55 GMT",
+        "created_unix": 1714892215
+    },
+    "total_results": 1
+}

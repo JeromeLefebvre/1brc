@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2362,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 3' 6.44004'' N",
+                    "lng": "11\u00b0 46' 56.72964'' E"
+                },
+                "MGRS": "32UQV0329136942",
+                "Maidenhead": "JN59vb32vk",
+                "Mercator": {
+                    "x": 1311613.54,
+                    "y": 6251362.662
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE23"
+                    },
+                    "NUTS3": {
+                        "code": "DE238"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=965020#map=17/49.05179/11.78242",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.05179/11.78242&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.05179&mlon=11.78242#map=17/49.05179/11.78242"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u28rh1eeqkhy0zyf08et",
+                "qibla": 131.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535580,
+                        "astronomical": 1714527540,
+                        "civil": 1714533420,
+                        "nautical": 1714530720
+                    },
+                    "set": {
+                        "apparent": 1714588080,
+                        "astronomical": 1714596180,
+                        "civil": 1714590240,
+                        "nautical": 1714593000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "tomato.firewall.partygoers"
+                },
+                "wikidata": "Q491402"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.10726,
+                    "lng": 11.8993042
+                },
+                "southwest": {
+                    "lat": 48.9808461,
+                    "lng": 11.6591858
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hemau",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Regensburg",
+                "political_union": "European Union",
+                "postcode": "93155",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Hemau"
+            },
+            "confidence": 5,
+            "formatted": "93155 Hemau, Germany",
+            "geometry": {
+                "lat": 49.0517889,
+                "lng": 11.7824249
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:05:49 GMT",
+        "created_unix": 1714521949
+    },
+    "total_results": 1
+}

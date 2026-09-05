@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1690,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 10' 27.73200'' N",
+                    "lng": "77\u00b0 26' 6.10800'' W"
+                },
+                "MGRS": "18QTF4241311185",
+                "Maidenhead": "FK18ge71tu",
+                "Mercator": {
+                    "x": -8620028.109,
+                    "y": 2044647.655
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.17437/-77.43503&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.17437&mlon=-77.43503#map=17/18.17437/-77.43503"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "JM": "388",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "J$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "J$",
+                    "html_entity": "$",
+                    "iso_code": "JMD",
+                    "iso_numeric": "388",
+                    "name": "Jamaican Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf2",
+                "geohash": "d70zmut93h0eyqgt5094",
+                "qibla": 59.88,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711796760,
+                        "astronomical": 1711792380,
+                        "civil": 1711795440,
+                        "nautical": 1711793940
+                    },
+                    "set": {
+                        "apparent": 1711840920,
+                        "astronomical": 1711758900,
+                        "civil": 1711842240,
+                        "nautical": 1711757340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Jamaica",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "EST"
+                },
+                "what3words": {
+                    "words": "faltered.doting.disengage"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JM",
+                "ISO_3166-1_alpha-3": "JAM",
+                "_category": "place",
+                "_normalized_city": "Baillieston",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Jamaica",
+                "country_code": "jm",
+                "state": "Parish of Clarendon",
+                "town": "Baillieston"
+            },
+            "confidence": 9,
+            "formatted": "Baillieston, Parish of Clarendon, Jamaica",
+            "geometry": {
+                "lat": 18.17437,
+                "lng": -77.43503
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:57:53 GMT",
+        "created_unix": 1711832273
+    },
+    "total_results": 1
+}

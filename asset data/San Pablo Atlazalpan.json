@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1632,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 13' 0.73308'' N",
+                    "lng": "98\u00b0 54' 29.73204'' W"
+                },
+                "MGRS": "14QNG0964324826",
+                "Maidenhead": "EK09nf12ab",
+                "Mercator": {
+                    "x": -11010417.016,
+                    "y": 2166428.481
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=671457264#map=17/19.21687/-98.90826",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.21687/-98.90826&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.21687&mlon=-98.90826#map=17/19.21687/-98.90826"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g3tm634qs28rpe9dztn",
+                "qibla": 46.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713874380,
+                        "astronomical": 1713869820,
+                        "civil": 1713873000,
+                        "nautical": 1713871440
+                    },
+                    "set": {
+                        "apparent": 1713833700,
+                        "astronomical": 1713838260,
+                        "civil": 1713835020,
+                        "nautical": 1713836640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "majority.tests.perkily"
+                },
+                "wikidata": "Q20240260"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.2368703,
+                    "lng": -98.8882589
+                },
+                "southwest": {
+                    "lat": 19.1968703,
+                    "lng": -98.9282589
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Pablo Atlazalpan",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Chalco",
+                "postcode": "56625",
+                "state": "State of Mexico",
+                "state_code": "MEX",
+                "village": "San Pablo Atlazalpan"
+            },
+            "confidence": 7,
+            "formatted": "56625 San Pablo Atlazalpan, MEX, Mexico",
+            "geometry": {
+                "lat": 19.2168703,
+                "lng": -98.9082589
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:10:26 GMT",
+        "created_unix": 1713841826
+    },
+    "total_results": 1
+}

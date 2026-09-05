@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1024,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 49' 26.22936'' N",
+                    "lng": "126\u00b0 3' 13.28688'' E"
+                },
+                "MGRS": "52NAP7504265973",
+                "Maidenhead": "PJ37at67kr",
+                "Mercator": {
+                    "x": 14032232.672,
+                    "y": 867865.225
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198510627#map=16/7.82395/126.05369",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/7.82395/126.05369&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.82395&mlon=126.05369#map=16/7.82395/126.05369"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wc3ss2m3zfkr5w6fee4p",
+                "qibla": 290.84,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713907500,
+                        "astronomical": 1713903240,
+                        "civil": 1713906180,
+                        "nautical": 1713904740
+                    },
+                    "set": {
+                        "apparent": 1713865440,
+                        "astronomical": 1713869700,
+                        "civil": 1713866700,
+                        "nautical": 1713868200
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "sidebars.unimagined.welds"
+                },
+                "wikidata": "Q315543"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 7.8639526,
+                    "lng": 126.0936908
+                },
+                "southwest": {
+                    "lat": 7.7839526,
+                    "lng": 126.0136908
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-11",
+                    "PH-COM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Monkayo",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "8805",
+                "region": "Davao Region",
+                "state": "Davao de Oro",
+                "town": "Monkayo"
+            },
+            "confidence": 7,
+            "formatted": "Monkayo, 8805 Davao Region Davao de Oro, Philippines",
+            "geometry": {
+                "lat": 7.8239526,
+                "lng": 126.0536908
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:03:20 GMT",
+        "created_unix": 1713852200
+    },
+    "total_results": 1
+}

@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 983,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 55' 12.00648'' N",
+                    "lng": "1\u00b0 58' 25.38696'' E"
+                },
+                "MGRS": "31TDP2332607918",
+                "Maidenhead": "JN07xw60ut",
+                "Mercator": {
+                    "x": 219713.35,
+                    "y": 6061826.613
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRB"
+                    },
+                    "NUTS2": {
+                        "code": "FRB0"
+                    },
+                    "NUTS3": {
+                        "code": "FRB06"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=147554#map=16/47.92000/1.97372",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.92000/1.97372&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.92000&mlon=1.97372#map=16/47.92000/1.97372"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u092sgt4nzz30nyug41g",
+                "qibla": 117.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714797000,
+                        "astronomical": 1714789080,
+                        "civil": 1714794900,
+                        "nautical": 1714792200
+                    },
+                    "set": {
+                        "apparent": 1714849740,
+                        "astronomical": 1714857660,
+                        "civil": 1714851840,
+                        "nautical": 1714854540
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "fillers.tweaked.asleep"
+                },
+                "wikidata": "Q787817"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.9427398,
+                    "lng": 2.0093907
+                },
+                "southwest": {
+                    "lat": 47.9003081,
+                    "lng": 1.9296585
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-CVL",
+                    "FR-45"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saint-Jean-de-Braye",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Loiret",
+                "municipality": "Orl\u00e9ans",
+                "political_union": "European Union",
+                "postcode": "45800",
+                "region": "Metropolitan France",
+                "state": "Centre-Val de Loire",
+                "state_code": "CVL",
+                "town": "Saint-Jean-de-Braye"
+            },
+            "confidence": 7,
+            "formatted": "45800 Saint-Jean-de-Braye, France",
+            "geometry": {
+                "lat": 47.9200018,
+                "lng": 1.9737186
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:40:32 GMT",
+        "created_unix": 1714794032
+    },
+    "total_results": 1
+}

@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1999,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 3' 15.56352'' N",
+                    "lng": "8\u00b0 16' 0.26364'' E"
+                },
+                "MGRS": "32UMV4642633753",
+                "Maidenhead": "JN49db23aa",
+                "Mercator": {
+                    "x": 920249.276,
+                    "y": 6251791.896
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEB"
+                    },
+                    "NUTS2": {
+                        "code": "DEB3"
+                    },
+                    "NUTS3": {
+                        "code": "DEB3E"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=904764#map=17/49.05432/8.26674",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.05432/8.26674&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.05432&mlon=8.26674#map=17/49.05432/8.26674"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0tzh45djh85cmcfchg3",
+                "qibla": 126.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711775340,
+                        "astronomical": 1711768740,
+                        "civil": 1711773420,
+                        "nautical": 1711771140
+                    },
+                    "set": {
+                        "apparent": 1711821240,
+                        "astronomical": 1711827900,
+                        "civil": 1711823160,
+                        "nautical": 1711825500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "skewed.wisely.units"
+                },
+                "wikidata": "Q522165"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.0926751,
+                    "lng": 8.3507426
+                },
+                "southwest": {
+                    "lat": 48.980197,
+                    "lng": 8.066126
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-RP"
+                ],
+                "_category": "place",
+                "_normalized_city": "W\u00f6rth am Rhein",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Germersheim",
+                "political_union": "European Union",
+                "postcode": "76744",
+                "state": "Rhineland-Palatinate",
+                "state_code": "RP",
+                "town": "W\u00f6rth am Rhein"
+            },
+            "confidence": 5,
+            "formatted": "76744 W\u00f6rth am Rhein, Germany",
+            "geometry": {
+                "lat": 49.0543232,
+                "lng": 8.2667399
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:48:03 GMT",
+        "created_unix": 1711831683
+    },
+    "total_results": 1
+}

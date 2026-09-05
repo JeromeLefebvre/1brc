@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 782,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 52' 22.00800'' N",
+                    "lng": "10\u00b0 32' 13.99200'' E"
+                },
+                "MGRS": "32SPE3877370929",
+                "Maidenhead": "JM55gu49ll",
+                "Mercator": {
+                    "x": 1172997.965,
+                    "y": 4258090.688
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.87278/10.53722&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.87278&mlon=10.53722#map=17/35.87278/10.53722"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NORTHERN_AFRICA": "015",
+                        "TN": "788",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 216,
+                "currency": {
+                    "alternate_symbols": [
+                        "TD",
+                        "DT"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "TND",
+                    "iso_numeric": "788",
+                    "name": "Tunisian Dinar",
+                    "smallest_denomination": 10,
+                    "subunit": "Millime",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u062f.\u062a",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf3",
+                "geohash": "snrkpf2yp4beywp4rbgw",
+                "qibla": 111.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796580,
+                        "astronomical": 1714790820,
+                        "civil": 1714794960,
+                        "nautical": 1714792920
+                    },
+                    "set": {
+                        "apparent": 1714846020,
+                        "astronomical": 1714851780,
+                        "civil": 1714847640,
+                        "nautical": 1714849680
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Tunis",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "locker.tadpole.unique"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.927425,
+                    "lng": 10.605497
+                },
+                "southwest": {
+                    "lat": 35.868916,
+                    "lng": 10.531425
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TN",
+                "ISO_3166-1_alpha-3": "TUN",
+                "_category": "place",
+                "_normalized_city": "Kelaa Kebira",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Tunisia",
+                "country_code": "tn",
+                "state": "Gouvernorat de Sousse",
+                "town": "Kelaa Kebira"
+            },
+            "confidence": 7,
+            "formatted": "Kelaa Kebira, Gouvernorat de Sousse, Tunisia",
+            "geometry": {
+                "lat": 35.87278,
+                "lng": 10.53722
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:48:20 GMT",
+        "created_unix": 1714794500
+    },
+    "total_results": 1
+}

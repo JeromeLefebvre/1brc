@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1990,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 57' 51.46524'' N",
+                    "lng": "1\u00b0 19' 44.37768'' E"
+                },
+                "MGRS": "31UCT8519758385",
+                "Maidenhead": "JO01px91lk",
+                "Mercator": {
+                    "x": 147942.911,
+                    "y": 6759995.76
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=163709586#map=17/51.96430/1.32899",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.96430/1.32899&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.96430&mlon=1.32899#map=17/51.96430/1.32899"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "u10zw5z9zyce4zdf02kp",
+                "qibla": 121.04,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714019820,
+                        "astronomical": 1714011300,
+                        "civil": 1714017600,
+                        "nautical": 1714014720
+                    },
+                    "set": {
+                        "apparent": 1714072140,
+                        "astronomical": 1714080780,
+                        "civil": 1714074420,
+                        "nautical": 1714077300
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "punch.bookmark.eyeliner"
+                },
+                "wikidata": "Q1000656"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.9978095,
+                    "lng": 1.3919007
+                },
+                "southwest": {
+                    "lat": 51.9313434,
+                    "lng": 1.2816582
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SFK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Felixstowe",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Suffolk",
+                "county_code": "SFK",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Felixstowe"
+            },
+            "confidence": 7,
+            "formatted": "Felixstowe, Suffolk, England, United Kingdom",
+            "geometry": {
+                "lat": 51.9642959,
+                "lng": 1.3289938
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:23:11 GMT",
+        "created_unix": 1714004591
+    },
+    "total_results": 1
+}

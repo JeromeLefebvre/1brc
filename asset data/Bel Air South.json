@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2054,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 30' 32.85180'' N",
+                    "lng": "76\u00b0 19' 46.77096'' W"
+                },
+                "FIPS": {
+                    "county": "24025",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ8569074121",
+                "Maidenhead": "FM19um02ke",
+                "Mercator": {
+                    "x": -8496978.728,
+                    "y": 4767675.167
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=6775812019#map=17/39.50913/-76.32966",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.50913/-76.32966&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.50913&mlon=-76.32966#map=17/39.50913/-76.32966"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr18z06mq4c3g2dqfffu",
+                "qibla": 56.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714126380,
+                        "astronomical": 1714120380,
+                        "civil": 1714124640,
+                        "nautical": 1714122600
+                    },
+                    "set": {
+                        "apparent": 1714175640,
+                        "astronomical": 1714095240,
+                        "civil": 1714090980,
+                        "nautical": 1714093020
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "goes.cigar.loops"
+                },
+                "wikidata": "Q753325"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.5291255,
+                    "lng": -76.3096586
+                },
+                "southwest": {
+                    "lat": 39.4891255,
+                    "lng": -76.3496586
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bel Air South",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Harford County",
+                "postcode": "21015",
+                "state": "Maryland",
+                "state_code": "MD",
+                "suburb": "Bel Air South"
+            },
+            "confidence": 7,
+            "formatted": "Bel Air South, MD 21015, United States of America",
+            "geometry": {
+                "lat": 39.5091255,
+                "lng": -76.3296586
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:12:06 GMT",
+        "created_unix": 1714169526
+    },
+    "total_results": 1
+}

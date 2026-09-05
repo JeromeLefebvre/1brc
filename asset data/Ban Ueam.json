@@ -1,0 +1,123 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 879,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 24' 3.31200'' N",
+                    "lng": "99\u00b0 26' 38.50800'' E"
+                },
+                "MGRS": "47QNA4689934600",
+                "Maidenhead": "NK98rj36gf",
+                "Mercator": {
+                    "x": 11070058.782,
+                    "y": 2071048.208
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.40092/99.44403&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.40092&mlon=99.44403#map=17/18.40092/99.44403"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "SOUTHEAST_ASIA": "035",
+                        "TH": "764",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 66,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x0E3F;",
+                    "iso_code": "THB",
+                    "iso_numeric": "764",
+                    "name": "Thai Baht",
+                    "smallest_denomination": 1,
+                    "subunit": "Satang",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0e3f",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\udded",
+                "geohash": "w5q8wvucju55m73kd34c",
+                "qibla": 283.85,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714086000,
+                        "astronomical": 1714081440,
+                        "civil": 1714084620,
+                        "nautical": 1714083060
+                    },
+                    "set": {
+                        "apparent": 1714045260,
+                        "astronomical": 1714049820,
+                        "civil": 1714046580,
+                        "nautical": 1714048200
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Bangkok",
+                    "now_in_dst": 0,
+                    "offset_sec": 25200,
+                    "offset_string": "+0700",
+                    "short_name": "+07"
+                },
+                "what3words": {
+                    "words": "payoffs.rebuffing.gravel"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TH",
+                "ISO_3166-1_alpha-3": "THA",
+                "_category": "place",
+                "_normalized_city": "Ban Ueam",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Thailand",
+                "country_code": "th",
+                "state": "Changwat Lampang",
+                "town": "Ban Ueam"
+            },
+            "confidence": 9,
+            "formatted": "Ban Ueam, Changwat Lampang, Thailand",
+            "geometry": {
+                "lat": 18.40092,
+                "lng": 99.44403
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:13:02 GMT",
+        "created_unix": 1714007582
+    },
+    "total_results": 1
+}

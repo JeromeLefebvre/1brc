@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1760,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 35' 41.57160'' N",
+                    "lng": "18\u00b0 0' 36.93024'' E"
+                },
+                "MGRS": "34UBV8395497883",
+                "Maidenhead": "JN99ao12fs",
+                "Mercator": {
+                    "x": 2004892.794,
+                    "y": 6343854.128
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CZ"
+                    },
+                    "NUTS1": {
+                        "code": "CZ0"
+                    },
+                    "NUTS2": {
+                        "code": "CZ08"
+                    },
+                    "NUTS3": {
+                        "code": "CZ080"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=436988#map=17/49.59488/18.01026",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.59488/18.01026&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.59488&mlon=18.01026#map=17/49.59488/18.01026"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CZ": "203",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 420,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "CZK",
+                    "iso_numeric": "203",
+                    "name": "Czech Koruna",
+                    "smallest_denomination": 100,
+                    "subunit": "Hal\u00e9\u0159",
+                    "subunit_to_unit": 100,
+                    "symbol": "K\u010d",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde8\ud83c\uddff",
+                "geohash": "u2uf1u6xj7yhb9cyeg10",
+                "qibla": 140.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714620240,
+                        "astronomical": 1714611960,
+                        "civil": 1714618080,
+                        "nautical": 1714615320
+                    },
+                    "set": {
+                        "apparent": 1714673160,
+                        "astronomical": 1714681560,
+                        "civil": 1714675380,
+                        "nautical": 1714678200
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Prague",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "embarks.fixtures.mini"
+                },
+                "wikidata": "Q3584"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.6085596,
+                    "lng": 18.0739706
+                },
+                "southwest": {
+                    "lat": 49.5377551,
+                    "lng": 17.9591207
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CZ",
+                "ISO_3166-1_alpha-3": "CZE",
+                "ISO_3166-2": [
+                    "CZ-80",
+                    "CZ-804"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nov\u00fd Ji\u010d\u00edn",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Czechia",
+                "country_code": "cz",
+                "county": "Moravskoslezsk\u00fd kraj",
+                "municipality": "okres Nov\u00fd Ji\u010d\u00edn",
+                "political_union": "European Union",
+                "postcode": "741 01",
+                "state": "Moravia-Silesia",
+                "town": "Nov\u00fd Ji\u010d\u00edn"
+            },
+            "confidence": 7,
+            "formatted": "741 01 Nov\u00fd Ji\u010d\u00edn, Czechia",
+            "geometry": {
+                "lat": 49.594881,
+                "lng": 18.0102584
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:28:39 GMT",
+        "created_unix": 1714692519
+    },
+    "total_results": 1
+}

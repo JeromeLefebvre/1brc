@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 800,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 9' 36.87912'' N",
+                    "lng": "93\u00b0 5' 19.79664'' W"
+                },
+                "FIPS": {
+                    "county": "27003",
+                    "state": "27"
+                },
+                "MGRS": "15TVL9301800755",
+                "Maidenhead": "EN35kd98il",
+                "Mercator": {
+                    "x": -10362601.421,
+                    "y": 5616473.859
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=137869#map=17/45.16024/-93.08883",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.16024/-93.08883&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.16024&mlon=-93.08883#map=17/45.16024/-93.08883"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "cbjbctnv2zxtuh77vj4e",
+                "qibla": 43.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713784500,
+                        "astronomical": 1713777780,
+                        "civil": 1713782640,
+                        "nautical": 1713780300
+                    },
+                    "set": {
+                        "apparent": 1713748020,
+                        "astronomical": 1713754800,
+                        "civil": 1713749940,
+                        "nautical": 1713752220
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "achieve.cubed.jobless"
+                },
+                "wikidata": "Q1992863"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.211044,
+                    "lng": -93.019748
+                },
+                "southwest": {
+                    "lat": 45.1237992,
+                    "lng": -93.1430984
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lino Lakes",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Anoka County",
+                "postcode": "55014",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Lino Lakes"
+            },
+            "confidence": 7,
+            "formatted": "Lino Lakes, MN 55014, United States of America",
+            "geometry": {
+                "lat": 45.1602442,
+                "lng": -93.0888324
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:20:34 GMT",
+        "created_unix": 1713781234
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1408,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 10' 0.18624'' N",
+                    "lng": "80\u00b0 12' 30.80340'' W"
+                },
+                "FIPS": {
+                    "county": "12011",
+                    "state": "12"
+                },
+                "MGRS": "17RNJ7909594387",
+                "Maidenhead": "EL96ve40xa",
+                "Mercator": {
+                    "x": -8928775.667,
+                    "y": 3000907.234
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1216749#map=17/26.16672/-80.20856",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.16672/-80.20856&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.16672&mlon=-80.20856#map=17/26.16672/-80.20856"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhwuyg9bjjv7nr9kn786",
+                "qibla": 56.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714560240,
+                        "astronomical": 1714555260,
+                        "civil": 1714558800,
+                        "nautical": 1714557060
+                    },
+                    "set": {
+                        "apparent": 1714607520,
+                        "astronomical": 1714526100,
+                        "civil": 1714522560,
+                        "nautical": 1714524300
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "shaped.cycled.polo"
+                },
+                "wikidata": "Q994944"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.1862069,
+                    "lng": -80.1829241
+                },
+                "southwest": {
+                    "lat": 26.150587,
+                    "lng": -80.2199728
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lauderdale Lakes",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Broward County",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "Lauderdale Lakes"
+            },
+            "confidence": 7,
+            "formatted": "Lauderdale Lakes, Broward County, Florida, United States of America",
+            "geometry": {
+                "lat": 26.1667184,
+                "lng": -80.2085565
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:09:24 GMT",
+        "created_unix": 1714532964
+    },
+    "total_results": 1
+}

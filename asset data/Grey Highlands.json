@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1822,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 21' 23.56884'' N",
+                    "lng": "80\u00b0 27' 37.40256'' W"
+                },
+                "MGRS": "17TNK4300211616",
+                "Maidenhead": "EN94si45sn",
+                "Mercator": {
+                    "x": -8956809.599,
+                    "y": 5490901.971
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7478454#map=16/44.35655/-80.46039",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.35655/-80.46039&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.35655&mlon=-80.46039#map=16/44.35655/-80.46039"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "dpyu34fe959h6w6j0kse",
+                "qibla": 53.75,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713954180,
+                        "astronomical": 1713947520,
+                        "civil": 1713952320,
+                        "nautical": 1713950040
+                    },
+                    "set": {
+                        "apparent": 1713917820,
+                        "astronomical": 1713924540,
+                        "civil": 1713919740,
+                        "nautical": 1713922020
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "talkers.distorted.uncool"
+                },
+                "wikidata": "Q3492513"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.5373996,
+                    "lng": -80.2291162
+                },
+                "southwest": {
+                    "lat": 44.1710355,
+                    "lng": -80.7032813
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-ON"
+                ],
+                "_category": "place",
+                "_normalized_city": "Grey Highlands",
+                "_type": "city",
+                "city": "Grey Highlands",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Grey County",
+                "state": "Ontario",
+                "state_code": "ON"
+            },
+            "confidence": 3,
+            "formatted": "Grey Highlands, ON, Canada",
+            "geometry": {
+                "lat": 44.3565469,
+                "lng": -80.4603896
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:32:38 GMT",
+        "created_unix": 1713994358
+    },
+    "total_results": 1
+}

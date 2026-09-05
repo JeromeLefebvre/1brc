@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 781,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 30' 0.00000'' N",
+                    "lng": "1\u00b0 26' 60.00000'' W"
+                },
+                "MGRS": "30UXE0281129011",
+                "Maidenhead": "IO93gm60aa",
+                "Mercator": {
+                    "x": -161413.262,
+                    "y": 7041652.839
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.50000/-1.45000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.50000&mlon=-1.45000#map=17/53.50000/-1.45000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcwbr52hhdceh2dycbhm",
+                "qibla": 119.34,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714020240,
+                        "astronomical": 1714011060,
+                        "civil": 1714017900,
+                        "nautical": 1714014840
+                    },
+                    "set": {
+                        "apparent": 1714073100,
+                        "astronomical": 1714082400,
+                        "civil": 1714075440,
+                        "nautical": 1714078500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "switch.fades.wash"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.521507,
+                    "lng": -1.394619
+                },
+                "southwest": {
+                    "lat": 53.485695,
+                    "lng": -1.455388
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-BNS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hoyland Nether",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Barnsley",
+                "county_code": "BNS",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Hoyland Nether"
+            },
+            "confidence": 7,
+            "formatted": "Hoyland Nether, Barnsley, England, United Kingdom",
+            "geometry": {
+                "lat": 53.5,
+                "lng": -1.45
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:17:19 GMT",
+        "created_unix": 1714007839
+    },
+    "total_results": 1
+}

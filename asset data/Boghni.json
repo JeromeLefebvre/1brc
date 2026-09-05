@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 980,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 32' 26.68956'' N",
+                    "lng": "3\u00b0 57' 25.66260'' E"
+                },
+                "MGRS": "31SEA8567244353",
+                "Maidenhead": "JM16xm49us",
+                "Mercator": {
+                    "x": 440505.53,
+                    "y": 4349842.635
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4293648#map=17/36.54075/3.95713",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.54075/3.95713&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.54075&mlon=3.95713#map=17/36.54075/3.95713"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "DZ": "012",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 213,
+                "currency": {
+                    "alternate_symbols": [
+                        "DA"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DZD",
+                    "iso_numeric": "012",
+                    "name": "Algerian Dinar",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u062c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddff",
+                "geohash": "sn6zfh13rbbygueq9euq",
+                "qibla": 105.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714625400,
+                        "astronomical": 1714619640,
+                        "civil": 1714623780,
+                        "nautical": 1714621740
+                    },
+                    "set": {
+                        "apparent": 1714674720,
+                        "astronomical": 1714680540,
+                        "civil": 1714676400,
+                        "nautical": 1714678440
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Algiers",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "atypically.ties.silk"
+                },
+                "wikidata": "Q1649016"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.573706,
+                    "lng": 4.0194584
+                },
+                "southwest": {
+                    "lat": 36.456425,
+                    "lng": 3.924159
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DZ",
+                "ISO_3166-1_alpha-3": "DZA",
+                "ISO_3166-2": [
+                    "DZ-15"
+                ],
+                "_category": "place",
+                "_normalized_city": "Boghni",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Algeria",
+                "country_code": "dz",
+                "county": "Boghni District",
+                "postcode": "15003",
+                "state": "Tizi Ouzou",
+                "town": "Boghni"
+            },
+            "confidence": 6,
+            "formatted": "15003 Boghni, Algeria",
+            "geometry": {
+                "lat": 36.5407471,
+                "lng": 3.9571285
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:56:54 GMT",
+        "created_unix": 1714694214
+    },
+    "total_results": 1
+}

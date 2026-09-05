@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 967,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 12' 17.28108'' N",
+                    "lng": "61\u00b0 16' 50.22696'' W"
+                },
+                "MGRS": "20PPS8834328556",
+                "Maidenhead": "FK90ie69hd",
+                "Mercator": {
+                    "x": -6821727.259,
+                    "y": 1134482.136
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7361803#map=17/10.20480/-61.28062",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.20480/-61.28062&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.20480&mlon=-61.28062#map=17/10.20480/-61.28062"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "LATIN_AMERICA": "419",
+                        "TT": "780",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "TT$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "TT$",
+                    "format": "%n %u",
+                    "html_entity": "$",
+                    "iso_code": "TTD",
+                    "iso_numeric": "780",
+                    "name": "Trinidad and Tobago Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf9",
+                "geohash": "d9u6j98z60dvhrqgqd4z",
+                "qibla": 66.81,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714643280,
+                        "astronomical": 1714638900,
+                        "civil": 1714641960,
+                        "nautical": 1714640460
+                    },
+                    "set": {
+                        "apparent": 1714688160,
+                        "astronomical": 1714692540,
+                        "civil": 1714689480,
+                        "nautical": 1714691040
+                    }
+                },
+                "timezone": {
+                    "name": "America/Port_of_Spain",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "redeemed.airliners.puzzle"
+                },
+                "wikidata": "Q2228167"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.3409468,
+                    "lng": -61.1827661
+                },
+                "southwest": {
+                    "lat": 10.0693892,
+                    "lng": -61.4463102
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TT",
+                "ISO_3166-1_alpha-3": "TTO",
+                "ISO_3166-2": [
+                    "TT-PRT"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "North America",
+                "country": "Trinidad and Tobago",
+                "country_code": "tt",
+                "state": "Princes Town",
+                "state_code": "PRT"
+            },
+            "confidence": 4,
+            "formatted": "Princes Town, Trinidad and Tobago",
+            "geometry": {
+                "lat": 10.2048003,
+                "lng": -61.2806186
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:57:22 GMT",
+        "created_unix": 1714694242
+    },
+    "total_results": 1
+}

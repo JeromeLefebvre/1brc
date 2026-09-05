@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 109,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 1' 52.73616'' N",
+                    "lng": "93\u00b0 20' 22.50348'' W"
+                },
+                "FIPS": {
+                    "county": "27053",
+                    "state": "27"
+                },
+                "MGRS": "15TVK7325086485",
+                "Maidenhead": "EN35ha97gm",
+                "Mercator": {
+                    "x": -10390514.995,
+                    "y": 5596210.714
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=136693#map=17/45.03132/-93.33958",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.03132/-93.33958&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.03132&mlon=-93.33958#map=17/45.03132/-93.33958"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "cbj8hj8nqj9kydwfr35b",
+                "qibla": 43.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714043520,
+                        "astronomical": 1714036680,
+                        "civil": 1714041600,
+                        "nautical": 1714039260
+                    },
+                    "set": {
+                        "apparent": 1714007520,
+                        "astronomical": 1714014360,
+                        "civil": 1714009380,
+                        "nautical": 1714011720
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "silks.commented.causes"
+                },
+                "wikidata": "Q2045704"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.0422833,
+                    "lng": -93.3183949
+                },
+                "southwest": {
+                    "lat": 45.0060458,
+                    "lng": -93.3562729
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Robbinsdale",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hennepin County",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Robbinsdale"
+            },
+            "confidence": 7,
+            "formatted": "Robbinsdale, Minnesota, United States of America",
+            "geometry": {
+                "lat": 45.0313156,
+                "lng": -93.3395843
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:22:04 GMT",
+        "created_unix": 1714011724
+    },
+    "total_results": 1
+}

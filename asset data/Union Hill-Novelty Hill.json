@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2032,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 40' 45.33060'' N",
+                    "lng": "122\u00b0 1' 39.79560'' W"
+                },
+                "FIPS": {
+                    "county": "53033",
+                    "state": "53"
+                },
+                "MGRS": "10TET7297581109",
+                "Maidenhead": "CN87xq63qa",
+                "Mercator": {
+                    "x": -13584063.764,
+                    "y": 6022051.072
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5084491770#map=16/47.67926/-122.02772",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.67926/-122.02772&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.67926&mlon=-122.02772#map=16/47.67926/-122.02772"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c23pppwpu1br3xv2bmf3",
+                "qibla": 17.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713445980,
+                        "astronomical": 1713438960,
+                        "civil": 1713444000,
+                        "nautical": 1713441600
+                    },
+                    "set": {
+                        "apparent": 1713409380,
+                        "astronomical": 1713416400,
+                        "civil": 1713411300,
+                        "nautical": 1713413760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "meanest.pledged.shallow"
+                },
+                "wikidata": "Q1514861"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.7192585,
+                    "lng": -121.987721
+                },
+                "southwest": {
+                    "lat": 47.6392585,
+                    "lng": -122.067721
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Union Hill-Novelty Hill",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "King County",
+                "postcode": "98053",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "Union Hill-Novelty Hill"
+            },
+            "confidence": 7,
+            "formatted": "Union Hill-Novelty Hill, WA 98053, United States of America",
+            "geometry": {
+                "lat": 47.6792585,
+                "lng": -122.027721
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:31:22 GMT",
+        "created_unix": 1713439882
+    },
+    "total_results": 1
+}

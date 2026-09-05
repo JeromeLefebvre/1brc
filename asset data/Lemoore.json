@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2160,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 18' 2.33820'' N",
+                    "lng": "119\u00b0 46' 57.76392'' W"
+                },
+                "FIPS": {
+                    "county": "06031",
+                    "state": "06"
+                },
+                "MGRS": "11SKA5012620889",
+                "Maidenhead": "DM06ch62bd",
+                "Mercator": {
+                    "x": -13334150.528,
+                    "y": 4316771.756
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7560248#map=17/36.30065/-119.78271",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.30065/-119.78271&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.30065&mlon=-119.78271#map=17/36.30065/-119.78271"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q6yd22fse80yjw5q14d",
+                "qibla": 21.8,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714827780,
+                        "astronomical": 1714821960,
+                        "civil": 1714826100,
+                        "nautical": 1714824120
+                    },
+                    "set": {
+                        "apparent": 1714790940,
+                        "astronomical": 1714796820,
+                        "civil": 1714792620,
+                        "nautical": 1714794660
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "palace.extra.casino"
+                },
+                "wikidata": "Q986940"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.321949,
+                    "lng": -119.764043
+                },
+                "southwest": {
+                    "lat": 36.2634276,
+                    "lng": -119.843583
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lemoore",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Kings County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Lemoore"
+            },
+            "confidence": 7,
+            "formatted": "Lemoore, California, United States of America",
+            "geometry": {
+                "lat": 36.3006495,
+                "lng": -119.7827122
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:34:05 GMT",
+        "created_unix": 1714786445
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1265,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 15' 14.35788'' N",
+                    "lng": "114\u00b0 0' 40.93128'' W"
+                },
+                "FIPS": {
+                    "county": "04015",
+                    "state": "04"
+                },
+                "MGRS": "11SQV7191305305",
+                "Maidenhead": "DM25xg80pw",
+                "Mercator": {
+                    "x": -12691687.631,
+                    "y": 4173787.402
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111120#map=17/35.25399/-114.01137",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.25399/-114.01137&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.25399&mlon=-114.01137#map=17/35.25399/-114.01137"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qqbt9g3qe8zxv7vs5rk",
+                "qibla": 27.74,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714481160,
+                        "astronomical": 1714475520,
+                        "civil": 1714479540,
+                        "nautical": 1714477560
+                    },
+                    "set": {
+                        "apparent": 1714443660,
+                        "astronomical": 1714449300,
+                        "civil": 1714445280,
+                        "nautical": 1714447260
+                    }
+                },
+                "timezone": {
+                    "name": "America/Phoenix",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "struck.eagle.opens"
+                },
+                "wikidata": "Q914990"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.27335,
+                    "lng": -113.9713277
+                },
+                "southwest": {
+                    "lat": 35.2349327,
+                    "lng": -114.0455201
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "New Kingman-Butler",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Mohave County",
+                "postcode": "86409",
+                "state": "Arizona",
+                "state_code": "AZ",
+                "village": "New Kingman-Butler"
+            },
+            "confidence": 7,
+            "formatted": "New Kingman-Butler, Mohave County, AZ 86409, United States of America",
+            "geometry": {
+                "lat": 35.2539883,
+                "lng": -114.0113698
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:57:25 GMT",
+        "created_unix": 1714521445
+    },
+    "total_results": 1
+}

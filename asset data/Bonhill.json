@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 25,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 58' 53.88564'' N",
+                    "lng": "4\u00b0 34' 23.88576'' W"
+                },
+                "MGRS": "30UVH0183405152",
+                "Maidenhead": "IO75rx15eo",
+                "Mercator": {
+                    "x": -509097.605,
+                    "y": 7519315.828
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=4590905456#map=17/55.98163/-4.57330",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.98163/-4.57330&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.98163&mlon=-4.57330#map=17/55.98163/-4.57330"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcuwrzjudm55v636ngwv",
+                "qibla": 118.04,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713675480,
+                        "astronomical": 1713665520,
+                        "civil": 1713673020,
+                        "nautical": 1713669720
+                    },
+                    "set": {
+                        "apparent": 1713728220,
+                        "astronomical": 1713738300,
+                        "civil": 1713730740,
+                        "nautical": 1713734040
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "dressings.sleeping.marginal"
+                },
+                "wikidata": "Q4093370"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.0216349,
+                    "lng": -4.5333016
+                },
+                "southwest": {
+                    "lat": 55.9416349,
+                    "lng": -4.6133016
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-WDU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bonhill",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "West Dunbartonshire",
+                "county_code": "WDU",
+                "postcode": "G83 9AX",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Bonhill"
+            },
+            "confidence": 7,
+            "formatted": "Bonhill, G83 9AX, United Kingdom",
+            "geometry": {
+                "lat": 55.9816349,
+                "lng": -4.5733016
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:51:30 GMT",
+        "created_unix": 1713667890
+    },
+    "total_results": 1
+}

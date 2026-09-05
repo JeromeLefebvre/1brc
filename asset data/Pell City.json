@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1727,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 35' 10.37364'' N",
+                    "lng": "86\u00b0 17' 9.91968'' W"
+                },
+                "FIPS": {
+                    "county": "01115",
+                    "state": "01"
+                },
+                "MGRS": "16SEC6624616506",
+                "Maidenhead": "EM63uo50qq",
+                "Mercator": {
+                    "x": -9605323.468,
+                    "y": 3949739.082
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=110147#map=17/33.58621/-86.28609",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.58621/-86.28609&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.58621&mlon=-86.28609#map=17/33.58621/-86.28609"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djfxhd0mukhzv42cb5m3",
+                "qibla": 51.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713870300,
+                        "astronomical": 1713864960,
+                        "civil": 1713868740,
+                        "nautical": 1713866880
+                    },
+                    "set": {
+                        "apparent": 1713831720,
+                        "astronomical": 1713837060,
+                        "civil": 1713833280,
+                        "nautical": 1713835140
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "firefight.locked.reading"
+                },
+                "wikidata": "Q79584"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.6261093,
+                    "lng": -86.193666
+                },
+                "southwest": {
+                    "lat": 33.4930383,
+                    "lng": -86.3269469
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pell City",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "St. Clair County",
+                "state": "Alabama",
+                "state_code": "AL",
+                "town": "Pell City"
+            },
+            "confidence": 6,
+            "formatted": "Pell City, Alabama, United States of America",
+            "geometry": {
+                "lat": 33.5862149,
+                "lng": -86.2860888
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:06:31 GMT",
+        "created_unix": 1713841591
+    },
+    "total_results": 1
+}

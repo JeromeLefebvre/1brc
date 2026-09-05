@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1129,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 23' 25.00800'' S",
+                    "lng": "40\u00b0 29' 45.99600'' W"
+                },
+                "MGRS": "24KUC4387444619",
+                "Maidenhead": "GG99so06lh",
+                "Mercator": {
+                    "x": -4508006.344,
+                    "y": -2304442.259
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-20.39028/-40.49611&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-20.39028&mlon=-40.49611#map=17/-20.39028/-40.49611"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "BR": "076",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 55,
+                "currency": {
+                    "decimal_mark": ",",
+                    "html_entity": "R$",
+                    "iso_code": "BRL",
+                    "iso_numeric": "986",
+                    "name": "Brazilian Real",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "R$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddf7",
+                "geohash": "7h7hn2pdh0rf12jm33jt",
+                "qibla": 66.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714554000,
+                        "astronomical": 1714549500,
+                        "civil": 1714552620,
+                        "nautical": 1714551060
+                    },
+                    "set": {
+                        "apparent": 1714594680,
+                        "astronomical": 1714599180,
+                        "civil": 1714596060,
+                        "nautical": 1714597620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "BRT"
+                },
+                "what3words": {
+                    "words": "valley.observes.croak"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -20.3344373,
+                    "lng": -40.3703116
+                },
+                "southwest": {
+                    "lat": -20.4108277,
+                    "lng": -40.5137673
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BR",
+                "ISO_3166-1_alpha-3": "BRA",
+                "_category": "place",
+                "_normalized_city": "Viana",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Brazil",
+                "country_code": "br",
+                "county": "Viana",
+                "state": "Esp\u00edrito Santo",
+                "state_code": "ES",
+                "town": "Viana"
+            },
+            "confidence": 6,
+            "formatted": "Viana, Brazil",
+            "geometry": {
+                "lat": -20.39028,
+                "lng": -40.49611
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:21:07 GMT",
+        "created_unix": 1714533667
+    },
+    "total_results": 1
+}

@@ -1,0 +1,124 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2229,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 51' 29.62800'' N",
+                    "lng": "42\u00b0 50' 53.52000'' E"
+                },
+                "MGRS": "38SLF0817381306",
+                "Maidenhead": "LM16ku15sx",
+                "Mercator": {
+                    "x": 4769839.805,
+                    "y": 4393732.017
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/36.85823/42.84820&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.85823&mlon=42.84820#map=16/36.85823/42.84820"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IQ": "368",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 964,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "IQD",
+                    "iso_numeric": "368",
+                    "name": "Iraqi Dinar",
+                    "smallest_denomination": 50000,
+                    "subunit": "Fils",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u0639.\u062f",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf6",
+                "geohash": "syw3xjc4g2jdhj60qyte",
+                "qibla": 190.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714702380,
+                        "astronomical": 1714696560,
+                        "civil": 1714700700,
+                        "nautical": 1714698720
+                    },
+                    "set": {
+                        "apparent": 1714751880,
+                        "astronomical": 1714757760,
+                        "civil": 1714753560,
+                        "nautical": 1714755600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Baghdad",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "heathen.boosted.shorn"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IQ",
+                "ISO_3166-1_alpha-3": "IRQ",
+                "_category": "place",
+                "_normalized_city": "Saymayl",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Iraq",
+                "country_code": "iq",
+                "state": "Dihok",
+                "town": "Saymayl"
+            },
+            "confidence": 9,
+            "formatted": "Saymayl, Dihok, Iraq",
+            "geometry": {
+                "lat": 36.85823,
+                "lng": 42.8482
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:21:27 GMT",
+        "created_unix": 1714695687
+    },
+    "total_results": 1
+}

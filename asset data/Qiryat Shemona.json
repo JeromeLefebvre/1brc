@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 540,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 12' 26.90388'' N",
+                    "lng": "35\u00b0 34' 14.81808'' E"
+                },
+                "MGRS": "36SYB3962077233",
+                "Maidenhead": "KM73se89lt",
+                "Mercator": {
+                    "x": 3959721.428,
+                    "y": 3899475.059
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1378947#map=17/33.20747/35.57078",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.20747/35.57078&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.20747&mlon=35.57078#map=17/33.20747/35.57078"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IL": "376",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 972,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf1",
+                "geohash": "svckcmjze3dn1vs795wz",
+                "qibla": 161.19,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713668460,
+                        "astronomical": 1713663240,
+                        "civil": 1713666960,
+                        "nautical": 1713665100
+                    },
+                    "set": {
+                        "apparent": 1713715920,
+                        "astronomical": 1713721200,
+                        "civil": 1713717480,
+                        "nautical": 1713719280
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "adopt.examine.deserved"
+                },
+                "wikidata": "Q327413"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.2324602,
+                    "lng": 35.6034077
+                },
+                "southwest": {
+                    "lat": 33.1907038,
+                    "lng": 35.5495877
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IL",
+                "ISO_3166-1_alpha-3": "ISR",
+                "ISO_3166-2": [
+                    "IL-Z"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kiryat Shmona",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Israel",
+                "country_code": "il",
+                "state": "North District",
+                "state_district": "Safed Subdistrict",
+                "town": "Kiryat Shmona"
+            },
+            "confidence": 7,
+            "formatted": "Kiryat Shmona, Safed Subdistrict, Israel",
+            "geometry": {
+                "lat": 33.2074733,
+                "lng": 35.5707828
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:30:35 GMT",
+        "created_unix": 1713666635
+    },
+    "total_results": 1
+}

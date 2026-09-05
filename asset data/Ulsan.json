@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1018,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 32' 21.01092'' N",
+                    "lng": "129\u00b0 18' 42.88896'' E"
+                },
+                "MGRS": "52SEE2827432882",
+                "Maidenhead": "PM45pm79kj",
+                "Mercator": {
+                    "x": 14394936.375,
+                    "y": 4212558.546
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2395867#map=16/35.53917/129.31191",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.53917/129.31191&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.53917&mlon=129.31191#map=16/35.53917/129.31191"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wy7fntdn9vrkgz7xdu35",
+                "qibla": 287.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714681860,
+                        "astronomical": 1714676220,
+                        "civil": 1714680240,
+                        "nautical": 1714678260
+                    },
+                    "set": {
+                        "apparent": 1714644540,
+                        "astronomical": 1714650240,
+                        "civil": 1714646160,
+                        "nautical": 1714648140
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "whites.included.moped"
+                },
+                "wikidata": "Q41278"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.7244899,
+                    "lng": 129.720619
+                },
+                "southwest": {
+                    "lat": 35.1861705,
+                    "lng": 128.9707354
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "ISO_3166-2": [
+                    "KR-31"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ulsan",
+                "_type": "city",
+                "city": "Ulsan",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr"
+            },
+            "confidence": 1,
+            "formatted": "Ulsan, South Korea",
+            "geometry": {
+                "lat": 35.5391697,
+                "lng": 129.3119136
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:55:32 GMT",
+        "created_unix": 1714694132
+    },
+    "total_results": 1
+}

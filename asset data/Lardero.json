@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1360,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 25' 38.23788'' N",
+                    "lng": "2\u00b0 27' 44.78148'' W"
+                },
+                "MGRS": "30TWM4422097359",
+                "Maidenhead": "IN82sk42mn",
+                "Mercator": {
+                    "x": -274117.489,
+                    "y": 5196366.151
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES2"
+                    },
+                    "NUTS2": {
+                        "code": "ES23"
+                    },
+                    "NUTS3": {
+                        "code": "ES230"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=340519#map=17/42.42729/-2.46244",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.42729/-2.46244&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.42729&mlon=-2.46244#map=17/42.42729/-2.46244"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezw1rgwuv5b0vtsgzgqp",
+                "qibla": 107.29,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714022040,
+                        "astronomical": 1714015680,
+                        "civil": 1714020240,
+                        "nautical": 1714018020
+                    },
+                    "set": {
+                        "apparent": 1714071720,
+                        "astronomical": 1714078140,
+                        "civil": 1714073520,
+                        "nautical": 1714075740
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "issues.jacuzzi.script"
+                },
+                "wikidata": "Q386306"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4410865,
+                    "lng": -2.4336324
+                },
+                "southwest": {
+                    "lat": 42.3897169,
+                    "lng": -2.5079512
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-RI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lardero",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "state": "Rioja",
+                "state_code": "RI",
+                "town": "Lardero"
+            },
+            "confidence": 7,
+            "formatted": "Lardero, Rioja, Spain",
+            "geometry": {
+                "lat": 42.4272883,
+                "lng": -2.4624393
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:51:20 GMT",
+        "created_unix": 1714006280
+    },
+    "total_results": 1
+}

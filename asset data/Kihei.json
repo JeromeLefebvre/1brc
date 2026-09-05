@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2499,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 44' 51.45396'' N",
+                    "lng": "156\u00b0 27' 17.96328'' W"
+                },
+                "FIPS": {
+                    "county": "15009",
+                    "state": "15"
+                },
+                "MGRS": "4QGH6500796303",
+                "Maidenhead": "BL10sr59jk",
+                "Mercator": {
+                    "x": -17416489.797,
+                    "y": 2346681.026
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=119169#map=17/20.74763/-156.45499",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/20.74763/-156.45499&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=20.74763&mlon=-156.45499#map=17/20.74763/-156.45499"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "8e8wpbbzwtb4d8khfzb9",
+                "qibla": 338.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714838040,
+                        "astronomical": 1714833300,
+                        "civil": 1714836660,
+                        "nautical": 1714835040
+                    },
+                    "set": {
+                        "apparent": 1714798260,
+                        "astronomical": 1714803000,
+                        "civil": 1714799640,
+                        "nautical": 1714801320
+                    }
+                },
+                "timezone": {
+                    "name": "Pacific/Honolulu",
+                    "now_in_dst": 0,
+                    "offset_sec": -36000,
+                    "offset_string": "-1000",
+                    "short_name": "HST"
+                },
+                "what3words": {
+                    "words": "ooze.amid.entrepreneur"
+                },
+                "wikidata": "Q1026771"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 20.810706,
+                    "lng": -156.4007896
+                },
+                "southwest": {
+                    "lat": 20.7134728,
+                    "lng": -156.490691
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-HI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kihei",
+                "_type": "city",
+                "continent": "Oceania",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Maui County",
+                "state": "Hawaii",
+                "state_code": "HI",
+                "town": "Kihei"
+            },
+            "confidence": 6,
+            "formatted": "Kihei, Hawaii, United States of America",
+            "geometry": {
+                "lat": 20.7476261,
+                "lng": -156.4549898
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:23:01 GMT",
+        "created_unix": 1714785781
+    },
+    "total_results": 1
+}

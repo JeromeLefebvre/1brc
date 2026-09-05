@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1872,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 37' 19.12944'' N",
+                    "lng": "13\u00b0 33' 57.75588'' E"
+                },
+                "MGRS": "33UVT0073319969",
+                "Maidenhead": "JO61so79wg",
+                "Mercator": {
+                    "x": 1510165.032,
+                    "y": 6698543.083
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE4"
+                    },
+                    "NUTS2": {
+                        "code": "DE40"
+                    },
+                    "NUTS3": {
+                        "code": "DE407"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1322948#map=17/51.62198/13.56604",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.62198/13.56604&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.62198&mlon=13.56604#map=17/51.62198/13.56604"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u31tstqrzdx59xxj9qht",
+                "qibla": 136.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714448400,
+                        "astronomical": 1714439520,
+                        "civil": 1714446120,
+                        "nautical": 1714443120
+                    },
+                    "set": {
+                        "apparent": 1714501620,
+                        "astronomical": 1714510620,
+                        "civil": 1714503960,
+                        "nautical": 1714506900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "curates.pieced.apples"
+                },
+                "wikidata": "Q371098"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.7043388,
+                    "lng": 13.6512733
+                },
+                "southwest": {
+                    "lat": 51.592434,
+                    "lng": 13.338355
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Doberlug-Kirchhain",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Elbe-Elster",
+                "political_union": "European Union",
+                "postcode": "03253",
+                "state": "Brandenburg",
+                "state_code": "BB",
+                "town": "Doberlug-Kirchhain"
+            },
+            "confidence": 5,
+            "formatted": "03253 Doberlug-Kirchhain, Germany",
+            "geometry": {
+                "lat": 51.6219804,
+                "lng": 13.5660433
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:13:46 GMT",
+        "created_unix": 1714518826
+    },
+    "total_results": 1
+}

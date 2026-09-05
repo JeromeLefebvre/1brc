@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 273,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 10' 0.13764'' N",
+                    "lng": "36\u00b0 56' 29.86080'' E"
+                },
+                "MGRS": "37RCQ0381849901",
+                "Maidenhead": "KM81le20xa",
+                "Mercator": {
+                    "x": 4112323.218,
+                    "y": 3632307.383
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=184818#map=16/31.16670/36.94163",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/31.16670/36.94163&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.16670&mlon=36.94163#map=16/31.16670/36.94163"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "JO": "400",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 962,
+                "currency": {
+                    "alternate_symbols": [
+                        "JD"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "JOD",
+                    "iso_numeric": "400",
+                    "name": "Jordanian Dinar",
+                    "smallest_denomination": 5,
+                    "subunit": "Fils",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u062f.\u0627",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf4",
+                "geohash": "svd329sp4qfk6rw3hvcj",
+                "qibla": 164.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714531740,
+                        "astronomical": 1714526460,
+                        "civil": 1714530180,
+                        "nautical": 1714528320
+                    },
+                    "set": {
+                        "apparent": 1714579800,
+                        "astronomical": 1714585140,
+                        "civil": 1714581360,
+                        "nautical": 1714583220
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Amman",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "somersault.leniently.joshing"
+                },
+                "wikidata": "Q810"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.3734848,
+                    "lng": 39.2998604
+                },
+                "southwest": {
+                    "lat": 29.183401,
+                    "lng": 34.8844372
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JO",
+                "ISO_3166-1_alpha-3": "JOR",
+                "_category": "place",
+                "_type": "country",
+                "continent": "Asia",
+                "country": "Jordan",
+                "country_code": "jo"
+            },
+            "confidence": 1,
+            "formatted": "Jordan",
+            "geometry": {
+                "lat": 31.1667049,
+                "lng": 36.941628
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:29:45 GMT",
+        "created_unix": 1714544985
+    },
+    "total_results": 1
+}

@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2434,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 30' 52.99200'' N",
+                    "lng": "5\u00b0 31' 58.00800'' W"
+                },
+                "MGRS": "30RTV5947889428",
+                "Maidenhead": "IM71fm63bm",
+                "Mercator": {
+                    "x": -615906.252,
+                    "y": 3677444.856
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.51472/-5.53278&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.51472&mlon=-5.53278#map=17/31.51472/-5.53278"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evs56154scs5qvmnm5w1",
+                "qibla": 92.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713851160,
+                        "astronomical": 1713845940,
+                        "civil": 1713849600,
+                        "nautical": 1713847800
+                    },
+                    "set": {
+                        "apparent": 1713898560,
+                        "astronomical": 1713903720,
+                        "civil": 1713900060,
+                        "nautical": 1713901860
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "gracing.hike.manuals"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.571955,
+                    "lng": -5.49591
+                },
+                "southwest": {
+                    "lat": 31.496603,
+                    "lng": -5.589723
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Tinghir",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "R\u00e9gion de Souss-Massa-Dr\u00e2a",
+                "town": "Tinghir"
+            },
+            "confidence": 7,
+            "formatted": "Tinghir, R\u00e9gion de Souss-Massa-Dr\u00e2a, Morocco",
+            "geometry": {
+                "lat": 31.51472,
+                "lng": -5.53278
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:06:06 GMT",
+        "created_unix": 1713830766
+    },
+    "total_results": 1
+}

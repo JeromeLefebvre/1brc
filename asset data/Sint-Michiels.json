@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 940,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 11' 18.46284'' N",
+                    "lng": "3\u00b0 12' 40.21992'' E"
+                },
+                "MGRS": "31UES1475770804",
+                "Maidenhead": "JO11oe55if",
+                "Mercator": {
+                    "x": 357466.054,
+                    "y": 6621382.684
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE25"
+                    },
+                    "NUTS3": {
+                        "code": "BE251"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2141285#map=16/51.18846/3.21117",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/51.18846/3.21117&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.18846&mlon=3.21117#map=16/51.18846/3.21117"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u1471nd63szt1jp2b0xv",
+                "qibla": 122.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713415560,
+                        "astronomical": 1713407760,
+                        "civil": 1713413460,
+                        "nautical": 1713410760
+                    },
+                    "set": {
+                        "apparent": 1713466080,
+                        "astronomical": 1713473940,
+                        "civil": 1713468180,
+                        "nautical": 1713470880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "this.incoming.bulges"
+                },
+                "wikidata": "Q430812"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.2002726,
+                    "lng": 3.2344004
+                },
+                "southwest": {
+                    "lat": 51.1614487,
+                    "lng": 3.1701254
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VWV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bruges",
+                "_type": "village",
+                "city": "Bruges",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Brugge",
+                "political_union": "European Union",
+                "postcode": "8200",
+                "region": "Flanders",
+                "state": "West Flanders",
+                "state_code": "VWV",
+                "village": "Sint-Michiels"
+            },
+            "confidence": 7,
+            "formatted": "8200 Bruges, Belgium",
+            "geometry": {
+                "lat": 51.1884619,
+                "lng": 3.2111722
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:07:16 GMT",
+        "created_unix": 1713442036
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 315,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 17' 40.86924'' N",
+                    "lng": "81\u00b0 23' 35.30256'' W"
+                },
+                "FIPS": {
+                    "county": "12031",
+                    "state": "12"
+                },
+                "MGRS": "17RMP6219451505",
+                "Maidenhead": "EM90hh20tr",
+                "Mercator": {
+                    "x": -9060642.854,
+                    "y": 3519934.509
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1216736#map=16/30.29469/-81.39314",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.29469/-81.39314&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.29469&mlon=-81.39314#map=16/30.29469/-81.39314"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djqh7fgr66u28918udcw",
+                "qibla": 54.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711711080,
+                        "astronomical": 1711706280,
+                        "civil": 1711709640,
+                        "nautical": 1711707960
+                    },
+                    "set": {
+                        "apparent": 1711755720,
+                        "astronomical": 1711674180,
+                        "civil": 1711670760,
+                        "nautical": 1711672440
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "defers.applies.grower"
+                },
+                "wikidata": "Q988928"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.307704,
+                    "lng": -81.317928
+                },
+                "southwest": {
+                    "lat": 30.252243,
+                    "lng": -81.430172
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jacksonville Beach",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Duval County",
+                "postcode": "32250",
+                "state": "Florida",
+                "state_code": "FL",
+                "town": "Jacksonville Beach"
+            },
+            "confidence": 7,
+            "formatted": "Jacksonville Beach, FL 32250, United States of America",
+            "geometry": {
+                "lat": 30.2946859,
+                "lng": -81.3931396
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:01:05 GMT",
+        "created_unix": 1711753265
+    },
+    "total_results": 1
+}

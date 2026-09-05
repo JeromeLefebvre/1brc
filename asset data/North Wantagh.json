@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 204,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 41' 37.95720'' N",
+                    "lng": "73\u00b0 30' 58.89600'' W"
+                },
+                "FIPS": {
+                    "county": "36059",
+                    "state": "36"
+                },
+                "MGRS": "18TXL2535405833",
+                "Maidenhead": "FN30fq86am",
+                "Mercator": {
+                    "x": -8183803.76,
+                    "y": 4939426.83
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175639#map=17/40.69388/-73.51636",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.69388/-73.51636&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.69388&mlon=-73.51636#map=17/40.69388/-73.51636"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5xx05508kzf8j5mpq5",
+                "qibla": 58.81,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714557180,
+                        "astronomical": 1714550880,
+                        "civil": 1714555380,
+                        "nautical": 1714553220
+                    },
+                    "set": {
+                        "apparent": 1714607400,
+                        "astronomical": 1714527300,
+                        "civil": 1714522800,
+                        "nautical": 1714524960
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "half.firmly.hiking"
+                },
+                "wikidata": "Q3477087"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.707895,
+                    "lng": -73.4820396
+                },
+                "southwest": {
+                    "lat": 40.69071,
+                    "lng": -73.53188
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Hempstead",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Nassau County",
+                "locality": "North Wantagh",
+                "municipality": "Town of Hempstead",
+                "state": "New York",
+                "state_code": "NY"
+            },
+            "confidence": 7,
+            "formatted": "North Wantagh, Hempstead, New York, United States of America",
+            "geometry": {
+                "lat": 40.693877,
+                "lng": -73.51636
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:33:01 GMT",
+        "created_unix": 1714545181
+    },
+    "total_results": 1
+}

@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 901,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 25' 5.56500'' N",
+                    "lng": "9\u00b0 4' 15.79368'' E"
+                },
+                "MGRS": "32TNR0555929412",
+                "Maidenhead": "JN45mk80mi",
+                "Mercator": {
+                    "x": 1009785.09,
+                    "y": 5657156.656
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC4C"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44941#map=16/45.41821/9.07105",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.41821/9.07105&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.41821&mlon=9.07105#map=16/45.41821/9.07105"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0n6qkjk6b7ywx84pjs9",
+                "qibla": 123.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536780,
+                        "astronomical": 1714529640,
+                        "civil": 1714534800,
+                        "nautical": 1714532400
+                    },
+                    "set": {
+                        "apparent": 1714588200,
+                        "astronomical": 1714595340,
+                        "civil": 1714590120,
+                        "nautical": 1714592580
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "hobble.easels.gagging"
+                },
+                "wikidata": "Q42946"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.4400468,
+                    "lng": 9.0896283
+                },
+                "southwest": {
+                    "lat": 45.4037414,
+                    "lng": 9.0246371
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Trezzano sul Naviglio",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Milan",
+                "county_code": "MI",
+                "political_union": "European Union",
+                "postcode": "20090",
+                "state": "Lombardy",
+                "town": "Trezzano sul Naviglio"
+            },
+            "confidence": 7,
+            "formatted": "20090 Trezzano sul Naviglio MI, Italy",
+            "geometry": {
+                "lat": 45.4182125,
+                "lng": 9.0710538
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:30:37 GMT",
+        "created_unix": 1714534237
+    },
+    "total_results": 1
+}

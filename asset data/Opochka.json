@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2119,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 42' 42.01200'' N",
+                    "lng": "28\u00b0 39' 24.54480'' E"
+                },
+                "MGRS": "35VPC0141986517",
+                "Maidenhead": "KO46hr80tt",
+                "Mercator": {
+                    "x": 3190062.388,
+                    "y": 7665665.827
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=30964636#map=17/56.71167/28.65682",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/56.71167/28.65682&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.71167&mlon=28.65682#map=17/56.71167/28.65682"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "udh6sh532m80zf23mcc6",
+                "qibla": 162.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714616220,
+                        "astronomical": 0,
+                        "civil": 1714613460,
+                        "nautical": 1714609560
+                    },
+                    "set": {
+                        "apparent": 1714672140,
+                        "astronomical": 0,
+                        "civil": 1714674960,
+                        "nautical": 1714678860
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "sailors.sneering.fuels"
+                },
+                "wikidata": "Q145906"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.7359538,
+                    "lng": 28.7527973
+                },
+                "southwest": {
+                    "lat": 56.6936711,
+                    "lng": 28.6250047
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-PSK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Opochka",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Opochetsky District",
+                "postcode": "182330",
+                "region": "Northwestern Federal District",
+                "state": "Pskov Oblast",
+                "town": "Opochka"
+            },
+            "confidence": 7,
+            "formatted": "Opochka, Pskov Oblast, Russia, 182330",
+            "geometry": {
+                "lat": 56.71167,
+                "lng": 28.656818
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:15:40 GMT",
+        "created_unix": 1714691740
+    },
+    "total_results": 1
+}

@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1451,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 43' 45.12720'' N",
+                    "lng": "10\u00b0 48' 29.53800'' E"
+                },
+                "MGRS": "32TPP4563043385",
+                "Maidenhead": "JN53jr65xa",
+                "Mercator": {
+                    "x": 1203163.877,
+                    "y": 5394084.427
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI14"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42590#map=17/43.72920/10.80820",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.72920/10.80820&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.72920&mlon=10.80820#map=17/43.72920/10.80820"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spz8vbwm16jf8svuwq7f",
+                "qibla": 123.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711861260,
+                        "astronomical": 1711855320,
+                        "civil": 1711859520,
+                        "nautical": 1711857480
+                    },
+                    "set": {
+                        "apparent": 1711906920,
+                        "astronomical": 1711912860,
+                        "civil": 1711908660,
+                        "nautical": 1711910700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "cheeses.jaunts.jumpy"
+                },
+                "wikidata": "Q82699"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.813877,
+                    "lng": 10.8385127
+                },
+                "southwest": {
+                    "lat": 43.7033085,
+                    "lng": 10.7111211
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-FI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fucecchio",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Florence",
+                "county_code": "FI",
+                "municipality": "Unione dei comuni Circondario dell'Empolese Valdelsa",
+                "political_union": "European Union",
+                "postcode": "50054",
+                "state": "Tuscany",
+                "town": "Fucecchio"
+            },
+            "confidence": 6,
+            "formatted": "50054 Fucecchio FI, Italy",
+            "geometry": {
+                "lat": 43.729202,
+                "lng": 10.808205
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:02:08 GMT",
+        "created_unix": 1711918928
+    },
+    "total_results": 1
+}

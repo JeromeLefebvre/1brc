@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2246,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 26' 48.14016'' N",
+                    "lng": "80\u00b0 19' 32.18016'' W"
+                },
+                "FIPS": {
+                    "county": "12111",
+                    "state": "12"
+                },
+                "MGRS": "17RNL6664436094",
+                "Maidenhead": "EL97uk07wf",
+                "Mercator": {
+                    "x": -8941805.513,
+                    "y": 3159703.734
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117972#map=16/27.44671/-80.32561",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/27.44671/-80.32561&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.44671&mlon=-80.32561#map=16/27.44671/-80.32561"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhyuhhs8tsz23cx3swnj",
+                "qibla": 56.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711883580,
+                        "astronomical": 1711878900,
+                        "civil": 1711882200,
+                        "nautical": 1711880520
+                    },
+                    "set": {
+                        "apparent": 1711928280,
+                        "astronomical": 1711846560,
+                        "civil": 1711843260,
+                        "nautical": 1711844940
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "chill.cutaway.confirms"
+                },
+                "wikidata": "Q584340"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.4813092,
+                    "lng": -80.2773767
+                },
+                "southwest": {
+                    "lat": 27.3733045,
+                    "lng": -80.4237628
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fort Pierce",
+                "_type": "city",
+                "city": "Fort Pierce",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Lucie County",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 6,
+            "formatted": "Fort Pierce, Florida, United States of America",
+            "geometry": {
+                "lat": 27.4467056,
+                "lng": -80.3256056
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:36:16 GMT",
+        "created_unix": 1711917376
+    },
+    "total_results": 1
+}

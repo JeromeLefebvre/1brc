@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1869,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 20' 43.88532'' N",
+                    "lng": "11\u00b0 30' 6.79788'' E"
+                },
+                "MGRS": "32TQP0278202225",
+                "Maidenhead": "JN53si02fw",
+                "Mercator": {
+                    "x": 1280384.349,
+                    "y": 5335374.434
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI19"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42412#map=16/43.34552/11.50189",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.34552/11.50189&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.34552&mlon=11.50189#map=16/43.34552/11.50189"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr8ntdz3vrm82ynq7k7p",
+                "qibla": 123.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622760,
+                        "astronomical": 1714616040,
+                        "civil": 1714620900,
+                        "nautical": 1714618620
+                    },
+                    "set": {
+                        "apparent": 1714673760,
+                        "astronomical": 1714680540,
+                        "civil": 1714675680,
+                        "nautical": 1714677960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "plugged.floodlit.chaotic"
+                },
+                "wikidata": "Q91142"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.4290547,
+                    "lng": 11.6001498
+                },
+                "southwest": {
+                    "lat": 43.2950255,
+                    "lng": 11.304299
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-SI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Castelnuovo Berardenga",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Siena",
+                "county_code": "SI",
+                "political_union": "European Union",
+                "postcode": "53019",
+                "state": "Tuscany",
+                "village": "Castelnuovo Berardenga"
+            },
+            "confidence": 5,
+            "formatted": "53019 Castelnuovo Berardenga SI, Italy",
+            "geometry": {
+                "lat": 43.3455237,
+                "lng": 11.5018883
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:24:44 GMT",
+        "created_unix": 1714692284
+    },
+    "total_results": 1
+}

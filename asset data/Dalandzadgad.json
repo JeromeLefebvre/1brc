@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 517,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 34' 14.98800'' N",
+                    "lng": "104\u00b0 25' 30.00000'' E"
+                },
+                "MGRS": "48TVP5356824368",
+                "Maidenhead": "ON23fn16ax",
+                "Mercator": {
+                    "x": 11624537.826,
+                    "y": 5369804.913
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.57083/104.42500&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.57083&mlon=104.42500#map=17/43.57083/104.42500"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "MN": "496",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LLDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 976,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20AE;",
+                    "iso_code": "MNT",
+                    "iso_numeric": "496",
+                    "name": "Mongolian T\u00f6gr\u00f6g",
+                    "smallest_denomination": 2000,
+                    "subunit": "M\u00f6ng\u00f6",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ae",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddf3",
+                "geohash": "wrdrb5zfqz7sfgvr3s8y",
+                "qibla": 269.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711838940,
+                        "astronomical": 1711833060,
+                        "civil": 1711837200,
+                        "nautical": 1711835160
+                    },
+                    "set": {
+                        "apparent": 1711797900,
+                        "astronomical": 1711803840,
+                        "civil": 1711799640,
+                        "nautical": 1711801680
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Ulaanbaatar",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "+08"
+                },
+                "what3words": {
+                    "words": "weeklong.overextend.earliest"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.589031,
+                    "lng": 104.435013
+                },
+                "southwest": {
+                    "lat": 43.559292,
+                    "lng": 104.389763
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MN",
+                "ISO_3166-1_alpha-3": "MNG",
+                "_category": "place",
+                "_normalized_city": "Dalandzadgad",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Mongolia",
+                "country_code": "mn",
+                "state": "\u00d6mn\u00f6gov\u012d",
+                "town": "Dalandzadgad"
+            },
+            "confidence": 7,
+            "formatted": "Dalandzadgad, \u00d6mn\u00f6gov\u012d, Mongolia",
+            "geometry": {
+                "lat": 43.57083,
+                "lng": 104.425
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:35:03 GMT",
+        "created_unix": 1711834503
+    },
+    "total_results": 1
+}

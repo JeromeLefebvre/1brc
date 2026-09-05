@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 395,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 24' 52.60680'' N",
+                    "lng": "9\u00b0 11' 10.13604'' E"
+                },
+                "MGRS": "32TNT1404251257",
+                "Maidenhead": "JN47oj29im",
+                "Mercator": {
+                    "x": 1022597.418,
+                    "y": 5978538.898
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH05"
+                    },
+                    "NUTS3": {
+                        "code": "CH055"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1683879#map=17/47.41461/9.18615",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.41461/9.18615&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.41461&mlon=9.18615#map=17/47.41461/9.18615"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0qt9p94hu3pddfpfrz6",
+                "qibla": 125.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536420,
+                        "astronomical": 1714528860,
+                        "civil": 1714534380,
+                        "nautical": 1714531800
+                    },
+                    "set": {
+                        "apparent": 1714588440,
+                        "astronomical": 1714596060,
+                        "civil": 1714590480,
+                        "nautical": 1714593120
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "will.towel.zone"
+                },
+                "wikidata": "Q65506"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.4284854,
+                    "lng": 9.233153
+                },
+                "southwest": {
+                    "lat": 47.3844241,
+                    "lng": 9.1561169
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-SG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Flawil",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "county": "Wahlkreis Wil",
+                "local_administrative_area": "Flawil",
+                "state": "St. Gallen",
+                "village": "Flawil"
+            },
+            "confidence": 7,
+            "formatted": "Flawil, Wahlkreis Wil, Switzerland",
+            "geometry": {
+                "lat": 47.414613,
+                "lng": 9.1861489
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:24:36 GMT",
+        "created_unix": 1714544676
+    },
+    "total_results": 1
+}

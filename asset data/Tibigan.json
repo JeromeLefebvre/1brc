@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 890,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "9\u00b0 57' 6.48000'' N",
+                    "lng": "123\u00b0 57' 43.92000'' E"
+                },
+                "MGRS": "51PXM0547200236",
+                "Maidenhead": "PJ19xw58lk",
+                "Mercator": {
+                    "x": 13799408.982,
+                    "y": 1106062.517
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/9.95180/123.96220&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=9.95180&mlon=123.96220#map=17/9.95180/123.96220"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wcb0sgdt2tgz35rhscbp",
+                "qibla": 290.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713476040,
+                        "astronomical": 1713471720,
+                        "civil": 1713474720,
+                        "nautical": 1713473220
+                    },
+                    "set": {
+                        "apparent": 1713434040,
+                        "astronomical": 1713438300,
+                        "civil": 1713435300,
+                        "nautical": 1713436800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "reoccupy.plantings.screech"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 9.960227,
+                    "lng": 123.96611
+                },
+                "southwest": {
+                    "lat": 9.943827,
+                    "lng": 123.953247
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "_category": "place",
+                "_normalized_city": "Tibigan",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "county": "Bohol",
+                "state": "Central Visayas",
+                "town": "Tibigan"
+            },
+            "confidence": 8,
+            "formatted": "Tibigan, Bohol, Philippines",
+            "geometry": {
+                "lat": 9.9518,
+                "lng": 123.9622
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:08:50 GMT",
+        "created_unix": 1713442130
+    },
+    "total_results": 1
+}

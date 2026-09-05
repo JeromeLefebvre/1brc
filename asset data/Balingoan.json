@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 283,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "9\u00b0 0' 13.99716'' N",
+                    "lng": "124\u00b0 51' 0.76464'' E"
+                },
+                "MGRS": "51PYK0339595796",
+                "Maidenhead": "PJ29ka20aw",
+                "Mercator": {
+                    "x": 13898262.07,
+                    "y": 999776.667
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198527974#map=17/9.00389/124.85021",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/9.00389/124.85021&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=9.00389&mlon=124.85021#map=17/9.00389/124.85021"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wc8g1p15ky3ud7vdu1d6",
+                "qibla": 290.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713734940,
+                        "astronomical": 1713730680,
+                        "civil": 1713733680,
+                        "nautical": 1713732180
+                    },
+                    "set": {
+                        "apparent": 1713692940,
+                        "astronomical": 1713697260,
+                        "civil": 1713694260,
+                        "nautical": 1713695760
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "renewal.categorical.draped"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 9.0438881,
+                    "lng": 124.8902124
+                },
+                "southwest": {
+                    "lat": 8.9638881,
+                    "lng": 124.8102124
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-10",
+                    "PH-MSR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Balingoan",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "9011",
+                "region": "Northern Mindanao",
+                "state": "Misamis Oriental",
+                "state_code": "MSR",
+                "town": "Balingoan"
+            },
+            "confidence": 7,
+            "formatted": "Balingoan, 9011 Northern Mindanao Misamis Oriental, Philippines",
+            "geometry": {
+                "lat": 9.0038881,
+                "lng": 124.8502124
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:40:58 GMT",
+        "created_unix": 1713667258
+    },
+    "total_results": 1
+}

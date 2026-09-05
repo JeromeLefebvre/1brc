@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 142,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 56' 3.43140'' N",
+                    "lng": "4\u00b0 41' 23.47440'' W"
+                },
+                "MGRS": "30UUH9443400055",
+                "Maidenhead": "IO75pw74ff",
+                "Mercator": {
+                    "x": -522072.159,
+                    "y": 7509920.182
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=27039157#map=17/55.93429/-4.68985",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.93429/-4.68985&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.93429&mlon=-4.68985#map=17/55.93429/-4.68985"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcuwjq8by6xrsewt6quy",
+                "qibla": 117.88,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714883220,
+                        "astronomical": 0,
+                        "civil": 1714880460,
+                        "nautical": 1714876560
+                    },
+                    "set": {
+                        "apparent": 1714939560,
+                        "astronomical": 0,
+                        "civil": 1714942320,
+                        "nautical": 1714946220
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "capacity.divisions.headers"
+                },
+                "wikidata": "Q1786145"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.9742865,
+                    "lng": -4.649854
+                },
+                "southwest": {
+                    "lat": 55.8942865,
+                    "lng": -4.729854
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-IVC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Port Glasgow",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Inverclyde",
+                "county_code": "IVC",
+                "postcode": "PA14 5JH",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Port Glasgow"
+            },
+            "confidence": 7,
+            "formatted": "Port Glasgow, PA14 5JH, United Kingdom",
+            "geometry": {
+                "lat": 55.9342865,
+                "lng": -4.689854
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:57:41 GMT",
+        "created_unix": 1714949861
+    },
+    "total_results": 1
+}

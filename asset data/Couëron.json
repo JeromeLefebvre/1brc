@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1007,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 12' 41.41944'' N",
+                    "lng": "1\u00b0 43' 37.72776'' W"
+                },
+                "MGRS": "30TWT9638629454",
+                "Maidenhead": "IN97df20rs",
+                "Mercator": {
+                    "x": -192265.08,
+                    "y": 5945293.607
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRG"
+                    },
+                    "NUTS2": {
+                        "code": "FRG0"
+                    },
+                    "NUTS3": {
+                        "code": "FRG01"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=77288#map=16/47.21151/-1.72715",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.21151/-1.72715&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.21151&mlon=-1.72715#map=16/47.21151/-1.72715"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "gbqu8dw6fw6psfhh0t4x",
+                "qibla": 113.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714711680,
+                        "astronomical": 1714704060,
+                        "civil": 1714709640,
+                        "nautical": 1714707060
+                    },
+                    "set": {
+                        "apparent": 1714764000,
+                        "astronomical": 1714771680,
+                        "civil": 1714766100,
+                        "nautical": 1714768680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "techy.abdomens.countries"
+                },
+                "wikidata": "Q631274"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.2741471,
+                    "lng": -1.6507527
+                },
+                "southwest": {
+                    "lat": 47.2035934,
+                    "lng": -1.8437841
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-PDL",
+                    "FR-44"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cou\u00ebron",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Loire-Atlantique",
+                "municipality": "Nantes",
+                "political_union": "European Union",
+                "postcode": "44220",
+                "region": "Metropolitan France",
+                "state": "Pays de la Loire",
+                "state_code": "PDL",
+                "town": "Cou\u00ebron"
+            },
+            "confidence": 6,
+            "formatted": "44220 Cou\u00ebron, France",
+            "geometry": {
+                "lat": 47.2115054,
+                "lng": -1.7271466
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:06:33 GMT",
+        "created_unix": 1714698393
+    },
+    "total_results": 1
+}

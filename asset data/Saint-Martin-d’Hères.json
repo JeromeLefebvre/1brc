@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1350,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 11' 1.20588'' N",
+                    "lng": "5\u00b0 45' 16.12800'' E"
+                },
+                "MGRS": "31TGL1640007045",
+                "Maidenhead": "JN25ve04mb",
+                "Mercator": {
+                    "x": 640585.783,
+                    "y": 5620160.274
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRK"
+                    },
+                    "NUTS2": {
+                        "code": "FRK2"
+                    },
+                    "NUTS3": {
+                        "code": "FRK24"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=80349#map=16/45.18367/5.75448",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.18367/5.75448&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.18367&mlon=5.75448#map=16/45.18367/5.75448"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u0h14cqmcn7214sxbvps",
+                "qibla": 119.04,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796520,
+                        "astronomical": 1714789320,
+                        "civil": 1714794540,
+                        "nautical": 1714792080
+                    },
+                    "set": {
+                        "apparent": 1714848360,
+                        "astronomical": 1714855620,
+                        "civil": 1714850340,
+                        "nautical": 1714852800
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "couch.agents.dodging"
+                },
+                "wikidata": "Q243868"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.197351,
+                    "lng": 5.7862526
+                },
+                "southwest": {
+                    "lat": 45.1591062,
+                    "lng": 5.7430295
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-ARA",
+                    "FR-38"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saint-Martin-d'H\u00e8res",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Is\u00e8re",
+                "municipality": "Grenoble",
+                "political_union": "European Union",
+                "postcode": "38400",
+                "region": "Metropolitan France",
+                "state": "Auvergne-Rh\u00f4ne-Alpes",
+                "state_code": "ARA",
+                "town": "Saint-Martin-d'H\u00e8res"
+            },
+            "confidence": 7,
+            "formatted": "38400 Saint-Martin-d'H\u00e8res, France",
+            "geometry": {
+                "lat": 45.1836683,
+                "lng": 5.75448
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:00:45 GMT",
+        "created_unix": 1714788045
+    },
+    "total_results": 1
+}

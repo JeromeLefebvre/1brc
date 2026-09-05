@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1100,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 46' 2.00316'' N",
+                    "lng": "11\u00b0 37' 26.17824'' E"
+                },
+                "MGRS": "32UPV9280504900",
+                "Maidenhead": "JN58ts44ud",
+                "Mercator": {
+                    "x": 1293970.904,
+                    "y": 6203305.04
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE21"
+                    },
+                    "NUTS3": {
+                        "code": "DE21J"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=380987#map=16/48.76722/11.62394",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/48.76722/11.62394&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.76722&mlon=11.62394#map=16/48.76722/11.62394"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u28m2tb39mk9ju09v0hz",
+                "qibla": 130.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713500160,
+                        "astronomical": 1713492840,
+                        "civil": 1713498120,
+                        "nautical": 1713495660
+                    },
+                    "set": {
+                        "apparent": 1713550200,
+                        "astronomical": 1713557520,
+                        "civil": 1713552240,
+                        "nautical": 1713554760
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "sprinter.gems.infest"
+                },
+                "wikidata": "Q251778"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.8142363,
+                    "lng": 11.6706808
+                },
+                "southwest": {
+                    "lat": 48.7202015,
+                    "lng": 11.5514701
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vohburg an der Donau",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Pfaffenhofen an der Ilm",
+                "political_union": "European Union",
+                "postcode": "85088",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Vohburg an der Donau"
+            },
+            "confidence": 7,
+            "formatted": "85088 Vohburg an der Donau, Germany",
+            "geometry": {
+                "lat": 48.7672231,
+                "lng": 11.6239384
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:06:43 GMT",
+        "created_unix": 1713521203
+    },
+    "total_results": 1
+}

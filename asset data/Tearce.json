@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 275,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 4' 41.49444'' N",
+                    "lng": "21\u00b0 3' 13.87116'' E"
+                },
+                "MGRS": "34TEM0445458459",
+                "Maidenhead": "KN02mb68ls",
+                "Mercator": {
+                    "x": 2343704.206,
+                    "y": 5144057.244
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6932570#map=17/42.07819/21.05385",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.07819/21.05385&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.07819&mlon=21.05385#map=17/42.07819/21.05385"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "MK": "807",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LLDC",
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 389,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MKD",
+                    "iso_numeric": "807",
+                    "name": "Macedonian Denar",
+                    "smallest_denomination": 100,
+                    "subunit": "Deni",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0434\u0435\u043d",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddf0",
+                "geohash": "srqzrh4gnrdtybh26htw",
+                "qibla": 136.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713671220,
+                        "astronomical": 1713665040,
+                        "civil": 1713669420,
+                        "nautical": 1713667320
+                    },
+                    "set": {
+                        "apparent": 1713720180,
+                        "astronomical": 1713726420,
+                        "civil": 1713721920,
+                        "nautical": 1713724080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Skopje",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "flumes.humbled.soldiers"
+                },
+                "wikidata": "Q653186"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.1461496,
+                    "lng": 21.0938573
+                },
+                "southwest": {
+                    "lat": 42.0413492,
+                    "lng": 20.9279358
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MK",
+                "ISO_3166-1_alpha-3": "MKD",
+                "ISO_3166-2": [
+                    "MK-608"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tearce",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "North Macedonia",
+                "country_code": "mk",
+                "municipality": "Municipality of Tearce",
+                "state": "Polog Region",
+                "village": "Tearce"
+            },
+            "confidence": 6,
+            "formatted": "Tearce, Polog Region, North Macedonia",
+            "geometry": {
+                "lat": 42.0781929,
+                "lng": 21.0538531
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:41:17 GMT",
+        "created_unix": 1713667277
+    },
+    "total_results": 1
+}

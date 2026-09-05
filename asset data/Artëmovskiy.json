@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1804,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "57\u00b0 21' 19.80000'' N",
+                    "lng": "61\u00b0 52' 7.14000'' E"
+                },
+                "MGRS": "41VMD3193157525",
+                "Maidenhead": "MO07wi45fh",
+                "Mercator": {
+                    "x": 6887186.614,
+                    "y": 7797119.675
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/57.35550/61.86865&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=57.35550&mlon=61.86865#map=17/57.35550/61.86865"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v65yrc72h01h75g1ut8f",
+                "qibla": 213.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713831840,
+                        "astronomical": 1713906960,
+                        "civil": 1713915600,
+                        "nautical": 1713912060
+                    },
+                    "set": {
+                        "apparent": 1713885540,
+                        "astronomical": 1713897060,
+                        "civil": 1713888240,
+                        "nautical": 1713891840
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "profile.that.batches"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 57.3890266,
+                    "lng": 61.9277763
+                },
+                "southwest": {
+                    "lat": 57.3226929,
+                    "lng": 61.8535843
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Art\u00ebmovskiy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Sverdlovskaya Oblast\u2019",
+                "town": "Art\u00ebmovskiy"
+            },
+            "confidence": 7,
+            "formatted": "Art\u00ebmovskiy, Sverdlovskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 57.3555,
+                "lng": 61.86865
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:03:23 GMT",
+        "created_unix": 1713841403
+    },
+    "total_results": 1
+}

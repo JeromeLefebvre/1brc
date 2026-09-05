@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 147,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 27' 25.52400'' N",
+                    "lng": "70\u00b0 32' 36.06000'' W"
+                },
+                "MGRS": "19QCB3799552131",
+                "Maidenhead": "FK49rk49tq",
+                "Mercator": {
+                    "x": -7852849.801,
+                    "y": 2194599.326
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.45709/-70.54335&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.45709&mlon=-70.54335#map=17/19.45709/-70.54335"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7mydwpcub3yb6n0mwbq",
+                "qibla": 62.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713694860,
+                        "astronomical": 1713690300,
+                        "civil": 1713693480,
+                        "nautical": 1713691920
+                    },
+                    "set": {
+                        "apparent": 1713740460,
+                        "astronomical": 1713658620,
+                        "civil": 1713741840,
+                        "nautical": 1713743400
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "initiating.flashback.cockroach"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "_category": "place",
+                "_normalized_city": "San V\u00edctor Abajo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Provincia Espaillat",
+                "town": "San V\u00edctor Abajo"
+            },
+            "confidence": 9,
+            "formatted": "San V\u00edctor Abajo, Provincia Espaillat, Dominican Republic",
+            "geometry": {
+                "lat": 19.45709,
+                "lng": -70.54335
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:46:30 GMT",
+        "created_unix": 1713667590
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1820,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 57' 8.17200'' N",
+                    "lng": "20\u00b0 7' 4.40400'' E"
+                },
+                "MGRS": "34RDV1574424645",
+                "Maidenhead": "KM00bw48dn",
+                "Mercator": {
+                    "x": 2239513.271,
+                    "y": 3604578.637
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=277350345#map=17/30.95227/20.11789",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.95227/20.11789&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.95227&mlon=20.11789#map=17/30.95227/20.11789"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "LY": "434",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 218,
+                "currency": {
+                    "alternate_symbols": [
+                        "LD"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "LYD",
+                    "iso_numeric": "434",
+                    "name": "Libyan Dinar",
+                    "smallest_denomination": 50,
+                    "subunit": "Dirham",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u0644.\u062f",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf1\ud83c\uddfe",
+                "geohash": "smw21f9qhc643rmjrywg",
+                "qibla": 113.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713758700,
+                        "astronomical": 1713753540,
+                        "civil": 1713757200,
+                        "nautical": 1713755400
+                    },
+                    "set": {
+                        "apparent": 1713805860,
+                        "astronomical": 1713811020,
+                        "civil": 1713807420,
+                        "nautical": 1713809160
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Tripoli",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "feedback.ungenerous.reduce"
+                },
+                "wikidata": "Q3645598"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.97227,
+                    "lng": 20.13789
+                },
+                "southwest": {
+                    "lat": 30.93227,
+                    "lng": 20.09789
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "LY",
+                "ISO_3166-1_alpha-3": "LBY",
+                "ISO_3166-2": [
+                    "LY-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Zuwetina",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Libya",
+                "country_code": "ly",
+                "state": "Al Wahat",
+                "state_code": "WA",
+                "village": "Zuwetina"
+            },
+            "confidence": 7,
+            "formatted": "Zuwetina, Al Wahat, Libya",
+            "geometry": {
+                "lat": 30.95227,
+                "lng": 20.11789
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:35:13 GMT",
+        "created_unix": 1713746113
+    },
+    "total_results": 1
+}

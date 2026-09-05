@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 960,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 53' 40.27344'' N",
+                    "lng": "73\u00b0 55' 40.44684'' W"
+                },
+                "FIPS": {
+                    "county": "36093",
+                    "state": "36"
+                },
+                "MGRS": "18TWN8753449659",
+                "Maidenhead": "FN32av84pq",
+                "Mercator": {
+                    "x": -8229616.395,
+                    "y": 5266838.226
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=13984602#map=16/42.89452/-73.92790",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/42.89452/-73.92790&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.89452&mlon=-73.92790#map=16/42.89452/-73.92790"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drekj8xqen0uyqvv33xr",
+                "qibla": 58.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714039080,
+                        "astronomical": 1714032660,
+                        "civil": 1714037280,
+                        "nautical": 1714035060
+                    },
+                    "set": {
+                        "apparent": 1714088940,
+                        "astronomical": 1714009020,
+                        "civil": 1714004400,
+                        "nautical": 1714006620
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "canny.blaming.caves"
+                },
+                "wikidata": "Q3461779"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.9042775,
+                    "lng": -73.8959
+                },
+                "southwest": {
+                    "lat": 42.8228774,
+                    "lng": -73.9551271
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Glenville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Schenectady County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "East Glenville"
+            },
+            "confidence": 7,
+            "formatted": "East Glenville, New York, United States of America",
+            "geometry": {
+                "lat": 42.8945204,
+                "lng": -73.9279019
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:09:05 GMT",
+        "created_unix": 1714007345
+    },
+    "total_results": 1
+}

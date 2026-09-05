@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1532,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 49' 27.88896'' N",
+                    "lng": "90\u00b0 52' 5.92284'' W"
+                },
+                "FIPS": {
+                    "county": "29183",
+                    "state": "29"
+                },
+                "MGRS": "15SXC8505199450",
+                "Maidenhead": "EM48nt57tu",
+                "Mercator": {
+                    "x": -10115414.21,
+                    "y": 4669759.229
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=141572#map=17/38.82441/-90.86831",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.82441/-90.86831&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.82441&mlon=-90.86831#map=17/38.82441/-90.86831"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzku5z8wg78pn1hy98z",
+                "qibla": 46.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714906860,
+                        "astronomical": 1714900740,
+                        "civil": 1714905120,
+                        "nautical": 1714903020
+                    },
+                    "set": {
+                        "apparent": 1714870740,
+                        "astronomical": 1714876980,
+                        "civil": 1714872540,
+                        "nautical": 1714874640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "headed.assume.visual"
+                },
+                "wikidata": "Q80859"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.866612,
+                    "lng": -90.775008
+                },
+                "southwest": {
+                    "lat": 38.7612957,
+                    "lng": -90.939216
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Wentzville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Charles County",
+                "postcode": "63385",
+                "state": "Missouri",
+                "state_code": "MO",
+                "town": "Wentzville"
+            },
+            "confidence": 6,
+            "formatted": "Wentzville, MO 63385, United States of America",
+            "geometry": {
+                "lat": 38.8244136,
+                "lng": -90.8683119
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:24:53 GMT",
+        "created_unix": 1714901093
+    },
+    "total_results": 1
+}

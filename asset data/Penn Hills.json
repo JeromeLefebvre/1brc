@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2173,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 28' 22.58328'' N",
+                    "lng": "79\u00b0 49' 3.62028'' W"
+                },
+                "FIPS": {
+                    "county": "42003",
+                    "state": "42"
+                },
+                "MGRS": "17TPE0022480922",
+                "Maidenhead": "FN00cl13vm",
+                "Mercator": {
+                    "x": -8885262.637,
+                    "y": 4907167.818
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=187510#map=17/40.47294/-79.81767",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.47294/-79.81767&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.47294&mlon=-79.81767#map=17/40.47294/-79.81767"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dppnpxyecqvf48e7fhh5",
+                "qibla": 54.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714645020,
+                        "astronomical": 1714638720,
+                        "civil": 1714643280,
+                        "nautical": 1714641060
+                    },
+                    "set": {
+                        "apparent": 1714608960,
+                        "astronomical": 1714615260,
+                        "civil": 1714610700,
+                        "nautical": 1714612920
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "voters.urgent.crest"
+                },
+                "wikidata": "Q1183864"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.5184077,
+                    "lng": -79.777597
+                },
+                "southwest": {
+                    "lat": 40.4360892,
+                    "lng": -79.889997
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Penn Hills",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Allegheny County",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "town": "Penn Hills"
+            },
+            "confidence": 7,
+            "formatted": "Penn Hills, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.4729398,
+                "lng": -79.8176723
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:13:43 GMT",
+        "created_unix": 1714691623
+    },
+    "total_results": 1
+}

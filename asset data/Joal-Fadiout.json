@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2335,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "14\u00b0 10' 0.01200'' N",
+                    "lng": "16\u00b0 49' 59.98800'' W"
+                },
+                "MGRS": "28PCA0213066934",
+                "Maidenhead": "IK14oe00aa",
+                "Mercator": {
+                    "x": -1873877.724,
+                    "y": 1582893.755
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/14.16667/-16.83333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=14.16667&mlon=-16.83333#map=17/14.16667/-16.83333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SN": "686",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 221,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf3",
+                "geohash": "eds08fyqffxqkbjsx6dr",
+                "qibla": 73.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714891440,
+                        "astronomical": 1714886940,
+                        "civil": 1714890120,
+                        "nautical": 1714888560
+                    },
+                    "set": {
+                        "apparent": 1714937040,
+                        "astronomical": 1714941540,
+                        "civil": 1714938360,
+                        "nautical": 1714939920
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Dakar",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "rashers.amplifying.loggerhead"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 14.200155,
+                    "lng": -16.802999
+                },
+                "southwest": {
+                    "lat": 14.152,
+                    "lng": -16.869507
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SN",
+                "ISO_3166-1_alpha-3": "SEN",
+                "_category": "place",
+                "_normalized_city": "Joal-Fadiout",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Senegal",
+                "country_code": "sn",
+                "state": "R\u00e9gion de Thi\u00e8s",
+                "town": "Joal-Fadiout"
+            },
+            "confidence": 7,
+            "formatted": "Joal-Fadiout, R\u00e9gion de Thi\u00e8s, Senegal",
+            "geometry": {
+                "lat": 14.16667,
+                "lng": -16.83333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:54:09 GMT",
+        "created_unix": 1714892049
+    },
+    "total_results": 1
+}

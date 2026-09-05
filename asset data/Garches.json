@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 82,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 50' 37.49496'' N",
+                    "lng": "2\u00b0 11' 7.33164'' E"
+                },
+                "MGRS": "31UDQ4023010406",
+                "Maidenhead": "JN18cu22fl",
+                "Mercator": {
+                    "x": 243274.264,
+                    "y": 6216201.678
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR105"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=72019#map=16/48.84375/2.18537",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/48.84375/2.18537&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.84375&mlon=2.18537#map=16/48.84375/2.18537"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09tcexr6y9vsbqr8n9n",
+                "qibla": 118.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714537860,
+                        "astronomical": 1714529880,
+                        "civil": 1714535760,
+                        "nautical": 1714533060
+                    },
+                    "set": {
+                        "apparent": 1714590360,
+                        "astronomical": 1714598400,
+                        "civil": 1714592520,
+                        "nautical": 1714595220
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "lightly.detection.wire"
+                },
+                "wikidata": "Q246199"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.8561201,
+                    "lng": 2.2055225
+                },
+                "southwest": {
+                    "lat": 48.837738,
+                    "lng": 2.1666857
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-92"
+                ],
+                "_category": "place",
+                "_normalized_city": "Garches",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Hauts-de-Seine",
+                "municipality": "Arrondissement of Nanterre",
+                "political_union": "European Union",
+                "postcode": "92380",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Garches"
+            },
+            "confidence": 7,
+            "formatted": "92380 Garches, France",
+            "geometry": {
+                "lat": 48.8437486,
+                "lng": 2.1853699
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:38:10 GMT",
+        "created_unix": 1714545490
+    },
+    "total_results": 1
+}

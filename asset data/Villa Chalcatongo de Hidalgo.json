@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1945,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 1' 56.89200'' N",
+                    "lng": "97\u00b0 34' 14.05200'' W"
+                },
+                "MGRS": "14QPD5214083703",
+                "Maidenhead": "EK17fa17mt",
+                "Mercator": {
+                    "x": -10861506.169,
+                    "y": 1912095.942
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/17.03247/-97.57057&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.03247&mlon=-97.57057#map=16/17.03247/-97.57057"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g48gsxm2ftc5s3qm5dn",
+                "qibla": 48.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713960540,
+                        "astronomical": 1713956040,
+                        "civil": 1713959220,
+                        "nautical": 1713957660
+                    },
+                    "set": {
+                        "apparent": 1713919620,
+                        "astronomical": 1713924180,
+                        "civil": 1713921000,
+                        "nautical": 1713922560
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "theme.mottled.alcoves"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 17.0397304,
+                    "lng": -97.5604717
+                },
+                "southwest": {
+                    "lat": 17.0244254,
+                    "lng": -97.5798732
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Villa Chalcatongo de Hidalgo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Oaxaca",
+                "state_code": "OAX",
+                "town": "Villa Chalcatongo de Hidalgo"
+            },
+            "confidence": 8,
+            "formatted": "Villa Chalcatongo de Hidalgo, Oaxaca, Mexico",
+            "geometry": {
+                "lat": 17.03247,
+                "lng": -97.57057
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:28:22 GMT",
+        "created_unix": 1713994102
+    },
+    "total_results": 1
+}

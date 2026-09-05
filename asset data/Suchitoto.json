@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 256,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 56' 12.20208'' N",
+                    "lng": "89\u00b0 1' 33.36420'' W"
+                },
+                "MGRS": "16PBA8111741660",
+                "Maidenhead": "EK53lw64vt",
+                "Mercator": {
+                    "x": -9910321.696,
+                    "y": 1556672.846
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=9222262#map=17/13.93672/-89.02593",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.93672/-89.02593&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.93672&mlon=-89.02593#map=17/13.93672/-89.02593"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "SV": "222",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 503,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfb",
+                "geohash": "d42xq1j7337vu0uexetw",
+                "qibla": 55.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713958680,
+                        "astronomical": 1713954300,
+                        "civil": 1713957360,
+                        "nautical": 1713955860
+                    },
+                    "set": {
+                        "apparent": 1713917400,
+                        "astronomical": 1713921840,
+                        "civil": 1713918720,
+                        "nautical": 1713920280
+                    }
+                },
+                "timezone": {
+                    "name": "America/El_Salvador",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "busybody.catchment.stoves"
+                },
+                "wikidata": "Q2779509"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 14.0778483,
+                    "lng": -88.9487851
+                },
+                "southwest": {
+                    "lat": 13.8434124,
+                    "lng": -89.1686391
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SV",
+                "ISO_3166-1_alpha-3": "SLV",
+                "ISO_3166-2": [
+                    "SV-CU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Municipio de Suchitoto",
+                "_type": "city",
+                "continent": "North America",
+                "country": "El Salvador",
+                "country_code": "sv",
+                "state": "Departamento de Cuscatl\u00e1n",
+                "state_code": "CU",
+                "town": "Municipio de Suchitoto"
+            },
+            "confidence": 4,
+            "formatted": "Municipio de Suchitoto, Departamento de Cuscatl\u00e1n, El Salvador",
+            "geometry": {
+                "lat": 13.9367228,
+                "lng": -89.0259345
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:26:20 GMT",
+        "created_unix": 1713997580
+    },
+    "total_results": 1
+}

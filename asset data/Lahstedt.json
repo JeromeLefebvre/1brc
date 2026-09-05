@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1726,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 14' 54.06000'' N",
+                    "lng": "10\u00b0 13' 56.92800'' E"
+                },
+                "MGRS": "32UNC8413989376",
+                "Maidenhead": "JO52cf79vo",
+                "Mercator": {
+                    "x": 1139074.463,
+                    "y": 6811348.422
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE91"
+                    },
+                    "NUTS3": {
+                        "code": "DE91A"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.24835/10.23248&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.24835&mlon=10.23248#map=17/52.24835/10.23248"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1r30ze0dn65gn5p09f1",
+                "qibla": 132.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713758820,
+                        "astronomical": 1713750420,
+                        "civil": 1713756600,
+                        "nautical": 1713753780
+                    },
+                    "set": {
+                        "apparent": 1713810540,
+                        "astronomical": 1713819000,
+                        "civil": 1713812760,
+                        "nautical": 1713815640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "saucer.wealthy.yeti"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.2541477,
+                    "lng": 10.2284046
+                },
+                "southwest": {
+                    "lat": 52.2406646,
+                    "lng": 10.2108096
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "_category": "place",
+                "_type": "county",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Peine",
+                "political_union": "European Union",
+                "state": "Lower Saxony",
+                "state_code": "NI"
+            },
+            "confidence": 8,
+            "formatted": "Peine, Lower Saxony, Germany",
+            "geometry": {
+                "lat": 52.24835,
+                "lng": 10.23248
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:38:50 GMT",
+        "created_unix": 1713746330
+    },
+    "total_results": 1
+}

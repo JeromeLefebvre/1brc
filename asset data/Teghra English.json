@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 971,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 20' 4.20000'' N",
+                    "lng": "86\u00b0 27' 50.94000'' W"
+                },
+                "FIPS": {
+                    "county": "18025",
+                    "state": "18"
+                },
+                "MGRS": "16SEH4683143065",
+                "Maidenhead": "EM68si40hg",
+                "Mercator": {
+                    "x": -9625145.15,
+                    "y": 4600281.746
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.33450/-86.46415&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.33450&mlon=-86.46415#map=17/38.33450/-86.46415"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dnfd06wdxk8zer3x8tnt",
+                "qibla": 50.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713869940,
+                        "astronomical": 1713864120,
+                        "civil": 1713868260,
+                        "nautical": 1713866280
+                    },
+                    "set": {
+                        "apparent": 1713832200,
+                        "astronomical": 1713838020,
+                        "civil": 1713833820,
+                        "nautical": 1713835860
+                    }
+                },
+                "timezone": {
+                    "name": "America/Indiana/Marengo",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "hero.inaccurate.crust"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.359118,
+                    "lng": -86.439572
+                },
+                "southwest": {
+                    "lat": 38.323753,
+                    "lng": -86.48087
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IN"
+                ],
+                "_category": "place",
+                "_normalized_city": "English",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Crawford County",
+                "state": "Indiana",
+                "state_code": "IN",
+                "town": "English"
+            },
+            "confidence": 7,
+            "formatted": "English, Indiana, United States of America",
+            "geometry": {
+                "lat": 38.3345,
+                "lng": -86.46415
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:05:26 GMT",
+        "created_unix": 1713852326
+    },
+    "total_results": 1
+}

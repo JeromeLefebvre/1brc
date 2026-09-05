@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 378,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 45' 2.76732'' N",
+                    "lng": "13\u00b0 5' 48.80652'' E"
+                },
+                "MGRS": "33TUJ4678145951",
+                "Maidenhead": "JN63ns10pe",
+                "Mercator": {
+                    "x": 1457939.204,
+                    "y": 5397395.746
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI3"
+                    },
+                    "NUTS3": {
+                        "code": "ITI31"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42601#map=17/43.75077/13.09689",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.75077/13.09689&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.75077&mlon=13.09689#map=17/43.75077/13.09689"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "src2fh8fewmt08uw6snk",
+                "qibla": 126.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714794960,
+                        "astronomical": 1714788060,
+                        "civil": 1714793100,
+                        "nautical": 1714790700
+                    },
+                    "set": {
+                        "apparent": 1714846380,
+                        "astronomical": 1714853340,
+                        "civil": 1714848300,
+                        "nautical": 1714850700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "snails.skater.waxes"
+                },
+                "wikidata": "Q207185"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.7823016,
+                    "lng": 13.1723132
+                },
+                "southwest": {
+                    "lat": 43.7259679,
+                    "lng": 13.0840886
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-57",
+                    "IT-PU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mondolfo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Pesaro e Urbino",
+                "county_code": "PU",
+                "political_union": "European Union",
+                "postcode": "61037",
+                "state": "Marche",
+                "state_code": "MAR",
+                "town": "Mondolfo"
+            },
+            "confidence": 7,
+            "formatted": "61037 Mondolfo PU, Italy",
+            "geometry": {
+                "lat": 43.7507687,
+                "lng": 13.0968907
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:03:21 GMT",
+        "created_unix": 1714795401
+    },
+    "total_results": 1
+}

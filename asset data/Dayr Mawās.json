@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 775,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 38' 30.33600'' N",
+                    "lng": "30\u00b0 50' 47.83200'' E"
+                },
+                "MGRS": "36RTR8754959372",
+                "Maidenhead": "KL57kp14oa",
+                "Mercator": {
+                    "x": 3433830.031,
+                    "y": 3184063.781
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.64176/30.84662&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.64176&mlon=30.84662#map=17/27.64176/30.84662"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "ssvvmbjbfmdcnexrr9x2",
+                "qibla": 125.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713583680,
+                        "astronomical": 1713578760,
+                        "civil": 1713582240,
+                        "nautical": 1713580500
+                    },
+                    "set": {
+                        "apparent": 1713630180,
+                        "astronomical": 1713635100,
+                        "civil": 1713631680,
+                        "nautical": 1713633360
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "shaky.picture.bleaker"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "_category": "place",
+                "_normalized_city": "Dayr Maw\u0101s",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "state": "Mu\u1e29\u0101faz\u0327at al Miny\u0101",
+                "town": "Dayr Maw\u0101s"
+            },
+            "confidence": 9,
+            "formatted": "Dayr Maw\u0101s, Mu\u1e29\u0101faz\u0327at al Miny\u0101, Egypt",
+            "geometry": {
+                "lat": 27.64176,
+                "lng": 30.84662
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:36:49 GMT",
+        "created_unix": 1713649009
+    },
+    "total_results": 1
+}

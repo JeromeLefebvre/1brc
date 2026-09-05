@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 130,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 10' 57.83772'' N",
+                    "lng": "38\u00b0 11' 29.69412'' E"
+                },
+                "MGRS": "37PDM1144825726",
+                "Maidenhead": "KK90ce23xu",
+                "Mercator": {
+                    "x": 4251467.426,
+                    "y": 1132002.367
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=10669575#map=17/10.18273/38.19158",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.18273/38.19158&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.18273&mlon=38.19158#map=17/10.18273/38.19158"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "scg1vjdq8qgqe60x8npq",
+                "qibla": 7.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713928380,
+                        "astronomical": 1713924060,
+                        "civil": 1713927120,
+                        "nautical": 1713925620
+                    },
+                    "set": {
+                        "apparent": 1713973020,
+                        "astronomical": 1713977400,
+                        "civil": 1713974340,
+                        "nautical": 1713975840
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "impolite.photocopy.ancestor"
+                },
+                "wikidata": "Q3021379"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.3467621,
+                    "lng": 38.3104445
+                },
+                "southwest": {
+                    "lat": 10.0193351,
+                    "lng": 38.0469755
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "ISO_3166-2": [
+                    "ET-AM"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "county": "Dejen",
+                "state": "Amhara Region",
+                "state_district": "East Gojjam"
+            },
+            "confidence": 3,
+            "formatted": "Dejen, Ethiopia",
+            "geometry": {
+                "lat": 10.1827327,
+                "lng": 38.1915817
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:31:27 GMT",
+        "created_unix": 1713997887
+    },
+    "total_results": 1
+}

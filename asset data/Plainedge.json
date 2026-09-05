@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2438,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 43' 26.43240'' N",
+                    "lng": "73\u00b0 28' 37.17480'' W"
+                },
+                "FIPS": {
+                    "county": "36059",
+                    "state": "36"
+                },
+                "MGRS": "18TXL2862209235",
+                "Maidenhead": "FN30gr23ss",
+                "Mercator": {
+                    "x": -8179421.446,
+                    "y": 4943834.74
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175629#map=17/40.72401/-73.47699",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.72401/-73.47699&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.72401&mlon=-73.47699#map=17/40.72401/-73.47699"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5xxvxdtcwbpu7cfz02",
+                "qibla": 58.84,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711881540,
+                        "astronomical": 1711875900,
+                        "civil": 1711879860,
+                        "nautical": 1711877940
+                    },
+                    "set": {
+                        "apparent": 1711927020,
+                        "astronomical": 1711846260,
+                        "civil": 1711928700,
+                        "nautical": 1711844280
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "tribal.marker.tribune"
+                },
+                "wikidata": "Q3452272"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.734311,
+                    "lng": -73.459436
+                },
+                "southwest": {
+                    "lat": 40.711849,
+                    "lng": -73.4911979
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Plainedge",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Nassau County",
+                "municipality": "Town of Oyster Bay",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Plainedge"
+            },
+            "confidence": 7,
+            "formatted": "Plainedge, New York, United States of America",
+            "geometry": {
+                "lat": 40.724009,
+                "lng": -73.476993
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:30:13 GMT",
+        "created_unix": 1711917013
+    },
+    "total_results": 1
+}

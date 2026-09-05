@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 573,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 46' 9.74892'' N",
+                    "lng": "111\u00b0 48' 16.79400'' W"
+                },
+                "FIPS": {
+                    "county": "49005",
+                    "state": "49"
+                },
+                "MGRS": "12TVM3311924483",
+                "Maidenhead": "DN41cs34kp",
+                "Mercator": {
+                    "x": -12446038.376,
+                    "y": 5098024.671
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=198790#map=16/41.76937/-111.80466",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/41.76937/-111.80466&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.76937&mlon=-111.80466#map=16/41.76937/-111.80466"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9x2mxgfk4rz37mgd0kjc",
+                "qibla": 28.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711804380,
+                        "astronomical": 1711798680,
+                        "civil": 1711802700,
+                        "nautical": 1711800720
+                    },
+                    "set": {
+                        "apparent": 1711763460,
+                        "astronomical": 1711769160,
+                        "civil": 1711765140,
+                        "nautical": 1711767120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "boots.bugs.chop"
+                },
+                "wikidata": "Q482954"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.7949163,
+                    "lng": -111.77082
+                },
+                "southwest": {
+                    "lat": 41.7583757,
+                    "lng": -111.8477297
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-UT"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Logan",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Cache County",
+                "postcode": "84341",
+                "state": "Utah",
+                "state_code": "UT",
+                "village": "North Logan"
+            },
+            "confidence": 7,
+            "formatted": "North Logan, Cache County, UT 84341, United States of America",
+            "geometry": {
+                "lat": 41.7693747,
+                "lng": -111.804665
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:33:16 GMT",
+        "created_unix": 1711834396
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 869,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 2' 44.13048'' N",
+                    "lng": "86\u00b0 0' 30.94380'' W"
+                },
+                "FIPS": {
+                    "county": "18057",
+                    "state": "18"
+                },
+                "MGRS": "16TEK8457033288",
+                "Maidenhead": "EN60xb80xw",
+                "Mercator": {
+                    "x": -9574433.055,
+                    "y": 4845072.797
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=127409#map=17/40.04559/-86.00860",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.04559/-86.00860&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.04559&mlon=-86.00860#map=17/40.04559/-86.00860"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp4gff46qrqgvhfhrsxj",
+                "qibla": 50.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713955980,
+                        "astronomical": 1713949980,
+                        "civil": 1713954240,
+                        "nautical": 1713952200
+                    },
+                    "set": {
+                        "apparent": 1713918720,
+                        "astronomical": 1713924720,
+                        "civil": 1713920400,
+                        "nautical": 1713922500
+                    }
+                },
+                "timezone": {
+                    "name": "America/Indiana/Indianapolis",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "focal.limp.wins"
+                },
+                "wikidata": "Q1645069"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.1017549,
+                    "lng": -85.8622345
+                },
+                "southwest": {
+                    "lat": 39.9867324,
+                    "lng": -86.0905539
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Noblesville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hamilton County",
+                "state": "Indiana",
+                "state_code": "IN",
+                "town": "Noblesville"
+            },
+            "confidence": 5,
+            "formatted": "Noblesville, Indiana, United States of America",
+            "geometry": {
+                "lat": 40.0455918,
+                "lng": -86.0085955
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:05:19 GMT",
+        "created_unix": 1713996319
+    },
+    "total_results": 1
+}

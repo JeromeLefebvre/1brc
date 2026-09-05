@@ -1,0 +1,124 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1394,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 21' 0.75600'' N",
+                    "lng": "6\u00b0 38' 15.46800'' W"
+                },
+                "MGRS": "29SQR2231381708",
+                "Maidenhead": "IM62qi34lb",
+                "Mercator": {
+                    "x": -738897.592,
+                    "y": 3786507.599
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.35021/-6.63763&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.35021&mlon=-6.63763#map=16/32.35021/-6.63763"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evg20cntsh0r7hc68he8",
+                "qibla": 92.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713851340,
+                        "astronomical": 1713846060,
+                        "civil": 1713849780,
+                        "nautical": 1713847980
+                    },
+                    "set": {
+                        "apparent": 1713898860,
+                        "astronomical": 1713904140,
+                        "civil": 1713900420,
+                        "nautical": 1713902220
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "pickaxes.herbivory.toyed"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Oulad Zemam",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "Tadla-Azilal",
+                "town": "Oulad Zemam"
+            },
+            "confidence": 9,
+            "formatted": "Oulad Zemam, Tadla-Azilal, Morocco",
+            "geometry": {
+                "lat": 32.35021,
+                "lng": -6.63763
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:19:53 GMT",
+        "created_unix": 1713842393
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 870,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 40' 58.09476'' N",
+                    "lng": "101\u00b0 28' 53.57748'' W"
+                },
+                "FIPS": {
+                    "county": "40139",
+                    "state": "40"
+                },
+                "MGRS": "14SKF7826762555",
+                "Maidenhead": "DM96gq23fu",
+                "Mercator": {
+                    "x": -11296874.393,
+                    "y": 4369458.243
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=185073#map=17/36.68280/-101.48155",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.68280/-101.48155&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.68280&mlon=-101.48155#map=17/36.68280/-101.48155"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9wxbdtzkud23fmpgdv4j",
+                "qibla": 38.68,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713614700,
+                        "astronomical": 1713609180,
+                        "civil": 1713613080,
+                        "nautical": 1713611160
+                    },
+                    "set": {
+                        "apparent": 1713576240,
+                        "astronomical": 1713581880,
+                        "civil": 1713577860,
+                        "nautical": 1713579840
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "empty.aims.moving"
+                },
+                "wikidata": "Q1920861"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.7292585,
+                    "lng": -101.4204585
+                },
+                "southwest": {
+                    "lat": 36.667728,
+                    "lng": -101.5100867
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Guymon",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Texas County",
+                "state": "Oklahoma",
+                "state_code": "OK",
+                "town": "Guymon"
+            },
+            "confidence": 7,
+            "formatted": "Guymon, Oklahoma, United States of America",
+            "geometry": {
+                "lat": 36.6828041,
+                "lng": -101.4815493
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:32:18 GMT",
+        "created_unix": 1713648738
+    },
+    "total_results": 1
+}

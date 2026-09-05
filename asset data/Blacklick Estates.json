@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 655,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 54' 18.23004'' N",
+                    "lng": "82\u00b0 51' 51.63660'' W"
+                },
+                "FIPS": {
+                    "county": "39049",
+                    "state": "39"
+                },
+                "MGRS": "17SLE4063418883",
+                "Maidenhead": "EM89nv67gf",
+                "Mercator": {
+                    "x": -9224416.523,
+                    "y": 4824739.502
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=154338531#map=17/39.90506/-82.86434",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.90506/-82.86434&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.90506&mlon=-82.86434#map=17/39.90506/-82.86434"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpj542kpbg54k4kndu34",
+                "qibla": 52.43,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713782640,
+                        "astronomical": 1713776640,
+                        "civil": 1713780900,
+                        "nautical": 1713778860
+                    },
+                    "set": {
+                        "apparent": 1713745020,
+                        "astronomical": 1713750960,
+                        "civil": 1713746700,
+                        "nautical": 1713748800
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "crest.ending.take"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.9250639,
+                    "lng": -82.8443435
+                },
+                "southwest": {
+                    "lat": 39.8850639,
+                    "lng": -82.8843435
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Madison Township",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Franklin County",
+                "hamlet": "Blacklick Estates",
+                "municipality": "Madison Township",
+                "postcode": "43232",
+                "state": "Ohio",
+                "state_code": "OH"
+            },
+            "confidence": 7,
+            "formatted": "Blacklick Estates, Madison Township, OH 43232, United States of America",
+            "geometry": {
+                "lat": 39.9050639,
+                "lng": -82.8643435
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:26:03 GMT",
+        "created_unix": 1713781563
+    },
+    "total_results": 1
+}

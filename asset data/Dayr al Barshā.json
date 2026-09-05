@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 985,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 45' 19.00080'' N",
+                    "lng": "30\u00b0 54' 16.99920'' E"
+                },
+                "MGRS": "36RTR9349771852",
+                "Maidenhead": "KL57ks81ng",
+                "Mercator": {
+                    "x": 3440297.916,
+                    "y": 3198261.065
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=768554377#map=16/27.75528/30.90472",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/27.75528/30.90472&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.75528&mlon=30.90472#map=16/27.75528/30.90472"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "ssvvzk8nhnyfq7wef246",
+                "qibla": 126.04,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713411000,
+                        "astronomical": 1713406080,
+                        "civil": 1713409560,
+                        "nautical": 1713407820
+                    },
+                    "set": {
+                        "apparent": 1713457320,
+                        "astronomical": 1713462240,
+                        "civil": 1713458760,
+                        "nautical": 1713460500
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "stray.woodcarver.portside"
+                },
+                "wikidata": "Q1157646"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.775278,
+                    "lng": 30.924722
+                },
+                "southwest": {
+                    "lat": 27.735278,
+                    "lng": 30.884722
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Dayr al Barsha",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "state": "Al Minya",
+                "village": "Dayr al Barsha"
+            },
+            "confidence": 7,
+            "formatted": "Dayr al Barsha, Al Minya, Egypt",
+            "geometry": {
+                "lat": 27.755278,
+                "lng": 30.904722
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:05:18 GMT",
+        "created_unix": 1713441918
+    },
+    "total_results": 1
+}

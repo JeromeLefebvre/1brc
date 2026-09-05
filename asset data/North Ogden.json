@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 424,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 18' 17.57340'' N",
+                    "lng": "111\u00b0 57' 54.09216'' W"
+                },
+                "FIPS": {
+                    "county": "49057",
+                    "state": "49"
+                },
+                "MGRS": "12TVL1921473051",
+                "Maidenhead": "DN41ah43ee",
+                "Mercator": {
+                    "x": -12463889.636,
+                    "y": 5029205.442
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=198890#map=17/41.30488/-111.96503",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.30488/-111.96503&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.30488&mlon=-111.96503#map=17/41.30488/-111.96503"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9x26upmd3gczd6hgf8z5",
+                "qibla": 28.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714911600,
+                        "astronomical": 1714905060,
+                        "civil": 1714909800,
+                        "nautical": 1714907520
+                    },
+                    "set": {
+                        "apparent": 1714876140,
+                        "astronomical": 1714882740,
+                        "civil": 1714878000,
+                        "nautical": 1714880280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "rots.secure.poker"
+                },
+                "wikidata": "Q483349"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.3409168,
+                    "lng": -111.9315863
+                },
+                "southwest": {
+                    "lat": 41.2845568,
+                    "lng": -111.9861028
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-UT"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Ogden",
+                "_type": "city",
+                "city": "North Ogden",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Weber County",
+                "postcode": "84414",
+                "state": "Utah",
+                "state_code": "UT"
+            },
+            "confidence": 7,
+            "formatted": "North Ogden, Utah, United States of America",
+            "geometry": {
+                "lat": 41.3048815,
+                "lng": -111.9650256
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:43:53 GMT",
+        "created_unix": 1714949033
+    },
+    "total_results": 1
+}

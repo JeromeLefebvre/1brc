@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1118,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 50' 32.02440'' N",
+                    "lng": "9\u00b0 8' 52.96596'' E"
+                },
+                "MGRS": "32UNA1064421099",
+                "Maidenhead": "JN49nu72sd",
+                "Mercator": {
+                    "x": 1018355.834,
+                    "y": 6386322.133
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE26"
+                    },
+                    "NUTS3": {
+                        "code": "DE269"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=395322#map=17/49.84223/9.14805",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.84223/9.14805&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.84223&mlon=9.14805#map=17/49.84223/9.14805"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0ye81t2hbvt476fr9dk",
+                "qibla": 128.39,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018320,
+                        "astronomical": 1714010460,
+                        "civil": 1714016160,
+                        "nautical": 1714013520
+                    },
+                    "set": {
+                        "apparent": 1714069920,
+                        "astronomical": 1714077840,
+                        "civil": 1714072020,
+                        "nautical": 1714074720
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "nectarines.advert.samosas"
+                },
+                "wikidata": "Q503030"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.8578944,
+                    "lng": 9.1559762
+                },
+                "southwest": {
+                    "lat": 49.7900754,
+                    "lng": 9.0771755
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Obernburg am Main",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Miltenberg",
+                "political_union": "European Union",
+                "postcode": "63785",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Obernburg am Main"
+            },
+            "confidence": 7,
+            "formatted": "63785 Obernburg am Main, Germany",
+            "geometry": {
+                "lat": 49.842229,
+                "lng": 9.1480461
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:02:04 GMT",
+        "created_unix": 1714006924
+    },
+    "total_results": 1
+}

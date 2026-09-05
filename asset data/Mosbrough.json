@@ -1,0 +1,130 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1509,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 19' 0.01200'' N",
+                    "lng": "1\u00b0 22' 0.01200'' W"
+                },
+                "MGRS": "30UXE0880508742",
+                "Maidenhead": "IO93hh56xa",
+                "Mercator": {
+                    "x": -152137.008,
+                    "y": 7007498.823
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.31667/-1.36667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.31667&mlon=-1.36667#map=17/53.31667/-1.36667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcrp2fhb478uzx4vbeeq",
+                "qibla": 119.27,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714710480,
+                        "astronomical": 1714700280,
+                        "civil": 1714708020,
+                        "nautical": 1714704720
+                    },
+                    "set": {
+                        "apparent": 1714765080,
+                        "astronomical": 1714775460,
+                        "civil": 1714767540,
+                        "nautical": 1714770840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "thickened.rocker.cheered"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SHF"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mosborough",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Sheffield",
+                "county_code": "SHF",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Mosborough"
+            },
+            "confidence": 9,
+            "formatted": "Mosborough, Sheffield, England, United Kingdom",
+            "geometry": {
+                "lat": 53.31667,
+                "lng": -1.36667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:47:46 GMT",
+        "created_unix": 1714697266
+    },
+    "total_results": 1
+}

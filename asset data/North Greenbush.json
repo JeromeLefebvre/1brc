@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2122,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 40' 30.00000'' N",
+                    "lng": "73\u00b0 39' 29.00160'' W"
+                },
+                "FIPS": {
+                    "county": "36083",
+                    "state": "36"
+                },
+                "MGRS": "18TXN0995525598",
+                "Maidenhead": "FN32eq12aa",
+                "Mercator": {
+                    "x": -8199577.287,
+                    "y": 5233661.768
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2661515#map=17/42.67500/-73.65806",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.67500/-73.65806&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.67500&mlon=-73.65806#map=17/42.67500/-73.65806"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dredgbezfusdu2szzssf",
+                "qibla": 58.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711881480,
+                        "astronomical": 1711875720,
+                        "civil": 1711879800,
+                        "nautical": 1711877760
+                    },
+                    "set": {
+                        "apparent": 1711927140,
+                        "astronomical": 1711846620,
+                        "civil": 1711928880,
+                        "nautical": 1711844520
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "decreased.chimp.plot"
+                },
+                "wikidata": "Q3709311"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.703409,
+                    "lng": -73.608386
+                },
+                "southwest": {
+                    "lat": 42.635792,
+                    "lng": -73.729217
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of North Greenbush",
+                "_type": "municipality",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Rensselaer County",
+                "municipality": "Town of North Greenbush",
+                "postcode": "12198",
+                "state": "New York",
+                "state_code": "NY"
+            },
+            "confidence": 7,
+            "formatted": "North Greenbush, NY 12198, United States of America",
+            "geometry": {
+                "lat": 42.675,
+                "lng": -73.658056
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:40:10 GMT",
+        "created_unix": 1711917610
+    },
+    "total_results": 1
+}

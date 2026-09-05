@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1959,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 32' 21.88320'' N",
+                    "lng": "90\u00b0 36' 56.13336'' W"
+                },
+                "FIPS": {
+                    "county": "05107",
+                    "state": "05"
+                },
+                "MGRS": "15SYU1881624549",
+                "Maidenhead": "EM44qm69dl",
+                "Mercator": {
+                    "x": -10087281.626,
+                    "y": 4077238.091
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111232#map=17/34.53941/-90.61559",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.53941/-90.61559&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.53941&mlon=-90.61559#map=17/34.53941/-90.61559"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yps3zxwxthfh2jkkeeq",
+                "qibla": 47.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713957600,
+                        "astronomical": 1713952140,
+                        "civil": 1713956040,
+                        "nautical": 1713954120
+                    },
+                    "set": {
+                        "apparent": 1713919260,
+                        "astronomical": 1713924720,
+                        "civil": 1713920880,
+                        "nautical": 1713922740
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "jumbled.boggles.endings"
+                },
+                "wikidata": "Q79676"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.5756525,
+                    "lng": -90.5756584
+                },
+                "southwest": {
+                    "lat": 34.4936261,
+                    "lng": -90.6750829
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Helena-West Helena",
+                "_type": "city",
+                "city": "Helena-West Helena",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Phillips County",
+                "state": "Arkansas",
+                "state_code": "AR"
+            },
+            "confidence": 7,
+            "formatted": "Helena-West Helena, Arkansas, United States of America",
+            "geometry": {
+                "lat": 34.539412,
+                "lng": -90.6155926
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:27:51 GMT",
+        "created_unix": 1713994071
+    },
+    "total_results": 1
+}

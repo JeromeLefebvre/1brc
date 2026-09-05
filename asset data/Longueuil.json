@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 585,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 31' 18.86160'' N",
+                    "lng": "73\u00b0 27' 52.04808'' W"
+                },
+                "MGRS": "18TXR1992042076",
+                "Maidenhead": "FN35gm45gg",
+                "Mercator": {
+                    "x": -8178026.034,
+                    "y": 5673562.298
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6948543#map=17/45.52191/-73.46446",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.52191/-73.46446&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.52191&mlon=-73.46446#map=17/45.52191/-73.46446"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f25fbr0b643ft3ue1u9k",
+                "qibla": 58.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713952380,
+                        "astronomical": 1713945540,
+                        "civil": 1713950460,
+                        "nautical": 1713948120
+                    },
+                    "set": {
+                        "apparent": 1714002720,
+                        "astronomical": 1713923220,
+                        "civil": 1713918240,
+                        "nautical": 1713920580
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "inch.slave.tailed"
+                },
+                "wikidata": "Q139398"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.5890675,
+                    "lng": -73.3389814
+                },
+                "southwest": {
+                    "lat": 45.4326789,
+                    "lng": -73.5306573
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-QC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Longueuil",
+                "_type": "city",
+                "city": "Longueuil",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Urban agglomeration of Longueuil",
+                "region": "Mont\u00e9r\u00e9gie",
+                "state": "Quebec",
+                "state_code": "QC"
+            },
+            "confidence": 5,
+            "formatted": "Longueuil, QC, Canada",
+            "geometry": {
+                "lat": 45.521906,
+                "lng": -73.4644578
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:15:03 GMT",
+        "created_unix": 1713996903
+    },
+    "total_results": 1
+}

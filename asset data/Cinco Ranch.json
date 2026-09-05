@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1538,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 44' 19.83048'' N",
+                    "lng": "95\u00b0 45' 28.81728'' W"
+                },
+                "FIPS": {
+                    "county": "48157",
+                    "state": "48"
+                },
+                "MGRS": "15RTN3325093033",
+                "Maidenhead": "EL29cr97ah",
+                "Mercator": {
+                    "x": -10659732.334,
+                    "y": 3448832.658
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2365890#map=17/29.73884/-95.75800",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/29.73884/-95.75800&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=29.73884&mlon=-95.75800#map=17/29.73884/-95.75800"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9v7chvz1kcbmmf73ffu6",
+                "qibla": 45.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713959220,
+                        "astronomical": 1713954180,
+                        "civil": 1713957720,
+                        "nautical": 1713955980
+                    },
+                    "set": {
+                        "apparent": 1713920100,
+                        "astronomical": 1713925200,
+                        "civil": 1713921600,
+                        "nautical": 1713923400
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "snowy.cuppa.alienated"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 29.7640683,
+                    "lng": -95.7282887
+                },
+                "southwest": {
+                    "lat": 29.696202,
+                    "lng": -95.8529592
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cinco Ranch",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Fort Bend County",
+                "hamlet": "Cinco Ranch",
+                "postcode": "25826",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 6,
+            "formatted": "Cinco Ranch, Fort Bend County, TX 25826, United States of America",
+            "geometry": {
+                "lat": 29.7388418,
+                "lng": -95.7580048
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:42:22 GMT",
+        "created_unix": 1713994942
+    },
+    "total_results": 1
+}

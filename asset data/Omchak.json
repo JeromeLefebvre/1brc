@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2012,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "61\u00b0 38' 35.98800'' N",
+                    "lng": "147\u00b0 52' 37.41600'' E"
+                },
+                "MGRS": "55VEJ4647334760",
+                "Maidenhead": "QP31wp54fj",
+                "Mercator": {
+                    "x": 16461599.019,
+                    "y": 8737421.705
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/61.64333/147.87706&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=61.64333&mlon=147.87706#map=17/61.64333/147.87706"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "z6cntjbf3jxfegf7jd34",
+                "qibla": 295.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711913820,
+                        "astronomical": 1711903740,
+                        "civil": 1711911120,
+                        "nautical": 1711907760
+                    },
+                    "set": {
+                        "apparent": 1711875000,
+                        "astronomical": 1711885200,
+                        "civil": 1711877760,
+                        "nautical": 1711881120
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Magadan",
+                    "now_in_dst": 0,
+                    "offset_sec": 39600,
+                    "offset_string": "+1100",
+                    "short_name": "+11"
+                },
+                "what3words": {
+                    "words": "atrium.deviancy.shop"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Omchak",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Magadanskaya Oblast\u2019",
+                "town": "Omchak"
+            },
+            "confidence": 9,
+            "formatted": "Omchak, Magadanskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 61.64333,
+                "lng": 147.87706
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:43:38 GMT",
+        "created_unix": 1711917818
+    },
+    "total_results": 1
+}

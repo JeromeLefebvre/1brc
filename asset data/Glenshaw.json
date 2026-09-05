@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1431,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 31' 58.24632'' N",
+                    "lng": "79\u00b0 58' 3.19296'' W"
+                },
+                "FIPS": {
+                    "county": "42003",
+                    "state": "42"
+                },
+                "MGRS": "17TNE8744187412",
+                "Maidenhead": "FN00am37vv",
+                "Mercator": {
+                    "x": -8901947.347,
+                    "y": 4915904.142
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158521080#map=17/40.53285/-79.96755",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.53285/-79.96755&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.53285&mlon=-79.96755#map=17/40.53285/-79.96755"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dppns6c2uynjx7xmy0nx",
+                "qibla": 54.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714904040,
+                        "astronomical": 1714897620,
+                        "civil": 1714902240,
+                        "nautical": 1714900020
+                    },
+                    "set": {
+                        "apparent": 1714868340,
+                        "astronomical": 1714874820,
+                        "civil": 1714870200,
+                        "nautical": 1714872360
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "draw.awake.begins"
+                },
+                "wikidata": "Q5569331"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.5528462,
+                    "lng": -79.9475536
+                },
+                "southwest": {
+                    "lat": 40.5128462,
+                    "lng": -79.9875536
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Shaler Township",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Allegheny County",
+                "hamlet": "Glenshaw",
+                "postcode": "15116",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "town": "Shaler Township"
+            },
+            "confidence": 7,
+            "formatted": "Glenshaw, Shaler Township, PA 15116, United States of America",
+            "geometry": {
+                "lat": 40.5328462,
+                "lng": -79.9675536
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:28:59 GMT",
+        "created_unix": 1714901339
+    },
+    "total_results": 1
+}

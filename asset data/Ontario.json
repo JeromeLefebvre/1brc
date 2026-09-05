@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1423,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 0' 2.44080'' N",
+                    "lng": "86\u00b0 0' 3.51720'' W"
+                },
+                "MGRS": "16UEA7159539184",
+                "Maidenhead": "EO60xa90vd",
+                "Mercator": {
+                    "x": -9573584.967,
+                    "y": 6413641.687
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=68841#map=17/50.00068/-86.00098",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.00068/-86.00098&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.00068&mlon=-86.00098#map=17/50.00068/-86.00098"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f0fu6yrgpczwjw9fnrc8",
+                "qibla": 49.17,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714645080,
+                        "astronomical": 1714636620,
+                        "civil": 1714642860,
+                        "nautical": 1714640040
+                    },
+                    "set": {
+                        "apparent": 1714611840,
+                        "astronomical": 1714620420,
+                        "civil": 1714614120,
+                        "nautical": 1714616940
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "unnamed.proverbs.wended"
+                },
+                "wikidata": "Q1904"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.8613501,
+                    "lng": -74.3201062
+                },
+                "southwest": {
+                    "lat": 41.6765556,
+                    "lng": -95.1560176
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-ON"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "state": "Ontario",
+                "state_code": "ON"
+            },
+            "confidence": 1,
+            "formatted": "ON, Canada",
+            "geometry": {
+                "lat": 50.000678,
+                "lng": -86.000977
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:40:54 GMT",
+        "created_unix": 1714693254
+    },
+    "total_results": 1
+}

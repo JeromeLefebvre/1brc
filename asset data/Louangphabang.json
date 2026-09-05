@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 480,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 12' 41.54940'' N",
+                    "lng": "102\u00b0 36' 45.66240'' E"
+                },
+                "MGRS": "48QTH5055436686",
+                "Maidenhead": "OL10hf30ms",
+                "Mercator": {
+                    "x": 11422791.732,
+                    "y": 2283352.4
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5831660#map=17/20.21154/102.61268",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/20.21154/102.61268&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=20.21154&mlon=102.61268#map=17/20.21154/102.61268"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "LA": "418",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 856,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u20adN"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20AD;",
+                    "iso_code": "LAK",
+                    "iso_numeric": "418",
+                    "name": "Lao Kip",
+                    "smallest_denomination": 10,
+                    "subunit": "Att",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ad",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf1\ud83c\udde6",
+                "geohash": "w78fzp2kbb6v69zyyv8r",
+                "qibla": 283.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711753620,
+                        "astronomical": 1711749180,
+                        "civil": 1711752300,
+                        "nautical": 1711750740
+                    },
+                    "set": {
+                        "apparent": 1711711320,
+                        "astronomical": 1711715760,
+                        "civil": 1711712640,
+                        "nautical": 1711714200
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Vientiane",
+                    "now_in_dst": 0,
+                    "offset_sec": 25200,
+                    "offset_string": "+0700",
+                    "short_name": "+07"
+                },
+                "what3words": {
+                    "words": "metropolis.toehold.payout"
+                },
+                "wikidata": "Q747881"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 21.1357046,
+                    "lng": 103.4004697
+                },
+                "southwest": {
+                    "lat": 19.0422543,
+                    "lng": 101.7223839
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "LA",
+                "ISO_3166-1_alpha-3": "LAO",
+                "ISO_3166-2": [
+                    "LA-LP"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "Asia",
+                "country": "Laos",
+                "country_code": "la",
+                "state": "Luang Prabang",
+                "state_code": "LP"
+            },
+            "confidence": 1,
+            "formatted": "Luang Prabang, Laos",
+            "geometry": {
+                "lat": 20.2115415,
+                "lng": 102.612684
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:55:50 GMT",
+        "created_unix": 1711752950
+    },
+    "total_results": 1
+}

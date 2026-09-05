@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1464,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 2' 26.12580'' S",
+                    "lng": "18\u00b0 40' 2.71236'' E"
+                },
+                "MGRS": "34HBH8467130889",
+                "Maidenhead": "JF95ix00cg",
+                "Mercator": {
+                    "x": 2078047.7,
+                    "y": -4010335.601
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262720812#map=16/-34.04059/18.66742",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-34.04059/18.66742&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-34.04059&mlon=18.66742#map=16/-34.04059/18.66742"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "k3vq2g15nqj21s8n9ngh",
+                "qibla": 23.08,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714540860,
+                        "astronomical": 1714535820,
+                        "civil": 1714539360,
+                        "nautical": 1714537560
+                    },
+                    "set": {
+                        "apparent": 1714579380,
+                        "astronomical": 1714584480,
+                        "civil": 1714580940,
+                        "nautical": 1714582680
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "strong.february.natively"
+                },
+                "wikidata": "Q741111"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -34.0005905,
+                    "lng": 18.7074201
+                },
+                "southwest": {
+                    "lat": -34.0805905,
+                    "lng": 18.6274201
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-WC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Khayelitsha",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "City of Cape Town",
+                "postcode": "7783",
+                "state": "Western Cape",
+                "state_code": "WC",
+                "town": "Khayelitsha"
+            },
+            "confidence": 7,
+            "formatted": "Khayelitsha, 7783, South Africa",
+            "geometry": {
+                "lat": -34.0405905,
+                "lng": 18.6674201
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:07:00 GMT",
+        "created_unix": 1714532820
+    },
+    "total_results": 1
+}

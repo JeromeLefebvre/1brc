@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 240,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 58' 40.39752'' N",
+                    "lng": "77\u00b0 0' 26.91540'' W"
+                },
+                "FIPS": {
+                    "county": "24031",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ2610716239",
+                "Maidenhead": "FM18lx94cq",
+                "Mercator": {
+                    "x": -8572433.071,
+                    "y": 4691623.283
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=133257#map=16/38.97789/-77.00748",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/38.97789/-77.00748&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.97789&mlon=-77.00748#map=16/38.97789/-77.00748"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcjxxsyeszxy6bn0461",
+                "qibla": 56.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711796160,
+                        "astronomical": 1711790700,
+                        "civil": 1711794540,
+                        "nautical": 1711792620
+                    },
+                    "set": {
+                        "apparent": 1711841340,
+                        "astronomical": 1711760400,
+                        "civil": 1711842960,
+                        "nautical": 1711758480
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "jolly.bound.legal"
+                },
+                "wikidata": "Q754271"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.9981205,
+                    "lng": -76.9847304
+                },
+                "southwest": {
+                    "lat": 38.9656933,
+                    "lng": -77.0230767
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Takoma Park",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Montgomery County",
+                "postcode": "20912",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "Takoma Park"
+            },
+            "confidence": 7,
+            "formatted": "Takoma Park, MD 20912, United States of America",
+            "geometry": {
+                "lat": 38.9778882,
+                "lng": -77.0074765
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:43:46 GMT",
+        "created_unix": 1711835026
+    },
+    "total_results": 1
+}

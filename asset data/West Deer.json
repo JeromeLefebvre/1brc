@@ -1,0 +1,867 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 625,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 23' 28.32936'' N",
+                    "lng": "0\u00b0 39' 2.20680'' E"
+                },
+                "MGRS": "31UCU4013407147",
+                "Maidenhead": "JO02hj83bv",
+                "Mercator": {
+                    "x": 72425.908,
+                    "y": 6837298.938
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=693928692#map=17/52.39120/0.65061",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.39120/0.65061&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.39120&mlon=0.65061#map=17/52.39120/0.65061"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "u126nc9bbkh0yuevrptj",
+                "qibla": 120.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Deer",
+                    "road_type": "cycleway",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713933660,
+                        "astronomical": 1713925020,
+                        "civil": 1713931380,
+                        "nautical": 1713928500
+                    },
+                    "set": {
+                        "apparent": 1713985860,
+                        "astronomical": 1713994620,
+                        "civil": 1713988140,
+                        "nautical": 1713991080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "tolls.rotate.shadowing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.3913223,
+                    "lng": 0.650613
+                },
+                "southwest": {
+                    "lat": 52.3912026,
+                    "lng": 0.6504898
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SFK"
+                ],
+                "_category": "road",
+                "_normalized_city": "West Suffolk",
+                "_type": "road",
+                "city": "West Suffolk",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Suffolk",
+                "county_code": "SFK",
+                "hamlet": "Elveden",
+                "postcode": "IP27 0YZ",
+                "road": "Deer",
+                "road_type": "cycleway",
+                "state": "England",
+                "state_code": "ENG"
+            },
+            "confidence": 9,
+            "formatted": "Deer, West Suffolk, IP27 0YZ, United Kingdom",
+            "geometry": {
+                "lat": 52.3912026,
+                "lng": 0.650613
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 33' 32.92128'' N",
+                    "lng": "83\u00b0 25' 40.93464'' W"
+                },
+                "FIPS": {
+                    "county": "26125",
+                    "state": "26"
+                },
+                "MGRS": "17TLH0068014717",
+                "Maidenhead": "EN82gn84pe",
+                "Mercator": {
+                    "x": -9287166.641,
+                    "y": 5216199.98
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=785758446#map=17/42.55914/-83.42804",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.55914/-83.42804&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.55914&mlon=-83.42804#map=17/42.55914/-83.42804"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpsdje9sczd7xf8ry3md",
+                "qibla": 51.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "deer",
+                    "road_type": "path",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713955080,
+                        "astronomical": 1713948720,
+                        "civil": 1713953280,
+                        "nautical": 1713951120
+                    },
+                    "set": {
+                        "apparent": 1713918360,
+                        "astronomical": 1713924720,
+                        "civil": 1713920160,
+                        "nautical": 1713922380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "attempt.scar.fans"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.559183,
+                    "lng": -83.4279927
+                },
+                "southwest": {
+                    "lat": 42.5590943,
+                    "lng": -83.4280577
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "road",
+                "_normalized_city": "West Bloomfield Township",
+                "_type": "road",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Oakland County",
+                "postcode": "48390",
+                "road": "deer",
+                "road_type": "path",
+                "state": "Michigan",
+                "state_code": "MI",
+                "suburb": "West Bloomfield Township"
+            },
+            "confidence": 9,
+            "formatted": "deer, West Bloomfield Township, MI 48390, United States of America",
+            "geometry": {
+                "lat": 42.5591448,
+                "lng": -83.4280374
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 33' 29.57076'' N",
+                    "lng": "83\u00b0 25' 37.28064'' W"
+                },
+                "FIPS": {
+                    "county": "26125",
+                    "state": "26"
+                },
+                "MGRS": "17TLH0076014612",
+                "Maidenhead": "EN82gn83sx",
+                "Mercator": {
+                    "x": -9287053.652,
+                    "y": 5216059.837
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=785758896#map=17/42.55821/-83.42702",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.55821/-83.42702&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.55821&mlon=-83.42702#map=17/42.55821/-83.42702"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpsdje6r96p7dxg3y4bb",
+                "qibla": 51.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "deer",
+                    "road_type": "path",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713955080,
+                        "astronomical": 1713948720,
+                        "civil": 1713953280,
+                        "nautical": 1713951120
+                    },
+                    "set": {
+                        "apparent": 1713918360,
+                        "astronomical": 1713924720,
+                        "civil": 1713920160,
+                        "nautical": 1713922380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "rewriting.pouted.darts"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.5582794,
+                    "lng": -83.4269978
+                },
+                "southwest": {
+                    "lat": 42.5581329,
+                    "lng": -83.427074
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "road",
+                "_normalized_city": "West Bloomfield Township",
+                "_type": "road",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Oakland County",
+                "postcode": "48322",
+                "road": "deer",
+                "road_type": "path",
+                "state": "Michigan",
+                "state_code": "MI",
+                "suburb": "West Bloomfield Township"
+            },
+            "confidence": 9,
+            "formatted": "deer, West Bloomfield Township, MI 48322, United States of America",
+            "geometry": {
+                "lat": 42.5582141,
+                "lng": -83.4270224
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 27' 55.58364'' N",
+                    "lng": "80\u00b0 0' 32.95080'' W"
+                },
+                "FIPS": {
+                    "county": "42085",
+                    "state": "42"
+                },
+                "MGRS": "17TNF8274390901",
+                "Maidenhead": "EN91xl81vq",
+                "Mercator": {
+                    "x": -8906578.171,
+                    "y": 5052937.498
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=6540365045#map=17/41.46544/-80.00915",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.46544/-80.00915&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.46544&mlon=-80.00915#map=17/41.46544/-80.00915"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpr5gke1ew5rxpk666ng",
+                "qibla": 54.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Deer Creek Road",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713954420,
+                        "astronomical": 1713948180,
+                        "civil": 1713952620,
+                        "nautical": 1713950520
+                    },
+                    "set": {
+                        "apparent": 1713917400,
+                        "astronomical": 1713923640,
+                        "civil": 1713919200,
+                        "nautical": 1713921300
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "trio.reports.citrus"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.4654899,
+                    "lng": -80.009103
+                },
+                "southwest": {
+                    "lat": 41.4653899,
+                    "lng": -80.009203
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "outdoors/recreation",
+                "_normalized_city": "French Creek Township",
+                "_type": "camp_pitch",
+                "camp_pitch": "West",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Mercer County",
+                "postcode": "16311",
+                "road": "Deer Creek Road",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "village": "French Creek Township"
+            },
+            "confidence": 9,
+            "formatted": "West, Deer Creek Road, French Creek Township, Mercer County, PA 16311, United States of America",
+            "geometry": {
+                "lat": 41.4654399,
+                "lng": -80.009153
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 32' 59.28936'' N",
+                    "lng": "112\u00b0 24' 57.55824'' W"
+                },
+                "FIPS": {
+                    "county": "04013",
+                    "state": "04"
+                },
+                "MGRS": "12SUC6854513138",
+                "Maidenhead": "DM33tn01bw",
+                "Mercator": {
+                    "x": -12514090.586,
+                    "y": 3944897.056
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3257458463#map=17/33.54980/-112.41599",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.54980/-112.41599&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.54980&mlon=-112.41599#map=17/33.54980/-112.41599"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9tbncgt1v87xfzeryfe4",
+                "qibla": 29.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "West Northern Avenue",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713962940,
+                        "astronomical": 1713957540,
+                        "civil": 1713961380,
+                        "nautical": 1713959520
+                    },
+                    "set": {
+                        "apparent": 1713924420,
+                        "astronomical": 1713929820,
+                        "civil": 1713925980,
+                        "nautical": 1713927840
+                    }
+                },
+                "timezone": {
+                    "name": "America/Phoenix",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "disregard.flagging.carry"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.5498526,
+                    "lng": -112.4159384
+                },
+                "southwest": {
+                    "lat": 33.5497526,
+                    "lng": -112.4160384
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AZ"
+                ],
+                "_category": "travel/tourism",
+                "_normalized_city": "Litchfield Park",
+                "_type": "attraction",
+                "attraction": "Deer",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Maricopa County",
+                "house_number": "16501",
+                "postcode": "85340",
+                "road": "West Northern Avenue",
+                "state": "Arizona",
+                "state_code": "AZ",
+                "village": "Litchfield Park"
+            },
+            "confidence": 9,
+            "formatted": "Deer, 16501 West Northern Avenue, Litchfield Park, Maricopa County, AZ 85340, United States of America",
+            "geometry": {
+                "lat": 33.5498026,
+                "lng": -112.4159884
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 58' 39.82152'' N",
+                    "lng": "72\u00b0 50' 17.54664'' E"
+                },
+                "MGRS": "43QBA7239899759",
+                "Maidenhead": "MK68kx04op",
+                "Mercator": {
+                    "x": 8108312.152,
+                    "y": 2138425.36
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=1052761654#map=17/18.97773/72.83821",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.97773/72.83821&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.97773&mlon=72.83821#map=17/18.97773/72.83821"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "te7gcqz1m0zykc6hxhn8",
+                "qibla": 280.23,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Sant Savata Marg",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713919560,
+                        "astronomical": 1714001400,
+                        "civil": 1713918240,
+                        "nautical": 1714003020
+                    },
+                    "set": {
+                        "apparent": 1713965280,
+                        "astronomical": 1713969840,
+                        "civil": 1713966600,
+                        "nautical": 1713968220
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "vocal.inert.smaller"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.9778141,
+                    "lng": 72.8382739
+                },
+                "southwest": {
+                    "lat": 18.9776423,
+                    "lng": 72.8381408
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-MH"
+                ],
+                "_category": "building",
+                "_normalized_city": "Mumbai",
+                "_type": "building",
+                "building": "Deer",
+                "city": "Mumbai",
+                "city_district": "Mumbai",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "neighbourhood": "E Ward",
+                "postcode": "400027",
+                "road": "Sant Savata Marg",
+                "state": "Maharashtra",
+                "state_code": "MH",
+                "suburb": "Zone 1"
+            },
+            "confidence": 10,
+            "formatted": "Deer, Sant Savata Marg, Zone 1, Mumbai - 400027, Maharashtra, India",
+            "geometry": {
+                "lat": 18.9777282,
+                "lng": 72.8382074
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 38' 6.14400'' N",
+                    "lng": "79\u00b0 52' 9.44400'' W"
+                },
+                "FIPS": {
+                    "county": "42003",
+                    "state": "42"
+                },
+                "MGRS": "17TNE9561798858",
+                "Maidenhead": "FN00bp52qj",
+                "Mercator": {
+                    "x": -8891008.693,
+                    "y": 4930825.548
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.63504/-79.86929&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.63504&mlon=-79.86929#map=17/40.63504/-79.86929"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpppnt2uq8kzkk1f675v",
+                "qibla": 54.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713954480,
+                        "astronomical": 1713948360,
+                        "civil": 1713952740,
+                        "nautical": 1713950640
+                    },
+                    "set": {
+                        "apparent": 1713917280,
+                        "astronomical": 1713923400,
+                        "civil": 1713919020,
+                        "nautical": 1713921120
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "artist.shrunk.obscure"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.6914978,
+                    "lng": -79.8274078
+                },
+                "southwest": {
+                    "lat": 40.5836296,
+                    "lng": -79.8945618
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "West Deer Township",
+                "_type": "municipality",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Allegheny County",
+                "local_administrative_area": "West Deer Township",
+                "state": "Pennsylvania",
+                "state_code": "PA"
+            },
+            "confidence": 7,
+            "formatted": "West Deer Township, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.63504,
+                "lng": -79.86929
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:13:41 GMT",
+        "created_unix": 1713996821
+    },
+    "total_results": 7
+}

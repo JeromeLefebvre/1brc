@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 325,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 46' 51.57264'' N",
+                    "lng": "37\u00b0 14' 45.87756'' E"
+                },
+                "MGRS": "37TCN6861493448",
+                "Maidenhead": "KN87os97mk",
+                "Mercator": {
+                    "x": 4146214.337,
+                    "y": 6038836.903
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3940403#map=17/47.78099/37.24608",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.78099/37.24608&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.78099&mlon=37.24608#map=17/47.78099/37.24608"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "ub6rzd3b2w81bgn12604",
+                "qibla": 174.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713925560,
+                        "astronomical": 1713918300,
+                        "civil": 1713923580,
+                        "nautical": 1713921060
+                    },
+                    "set": {
+                        "apparent": 1713976380,
+                        "astronomical": 1713983700,
+                        "civil": 1713978360,
+                        "nautical": 1713980880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "elapsed.superego.bailing"
+                },
+                "wikidata": "Q2416423"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.8010364,
+                    "lng": 37.2740098
+                },
+                "southwest": {
+                    "lat": 47.7537917,
+                    "lng": 37.2373455
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "ISO_3166-2": [
+                    "UA-14"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vuhledar",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "district": "Volnovakha Raion",
+                "municipality": "Vuhledar Urban Hromada",
+                "postcode": "85670",
+                "state": "Donetsk Oblast",
+                "town": "Vuhledar"
+            },
+            "confidence": 7,
+            "formatted": "Volnovakha Raion, Vuhledar, Donetsk Oblast, 85670, Ukraine",
+            "geometry": {
+                "lat": 47.7809924,
+                "lng": 37.2460771
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:23:59 GMT",
+        "created_unix": 1713997439
+    },
+    "total_results": 1
+}

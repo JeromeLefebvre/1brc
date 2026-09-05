@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2088,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 29' 39.48000'' N",
+                    "lng": "122\u00b0 14' 27.31200'' W"
+                },
+                "FIPS": {
+                    "county": "53033",
+                    "state": "53"
+                },
+                "MGRS": "10TET5717460375",
+                "Maidenhead": "CN87vl18cp",
+                "Mercator": {
+                    "x": -13607796.969,
+                    "y": 5991617.546
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.49430/-122.24092&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.49430&mlon=-122.24092#map=17/47.49430/-122.24092"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c23n4q4fk55x565fj2m9",
+                "qibla": 17.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714654200,
+                        "astronomical": 1714646520,
+                        "civil": 1714652160,
+                        "nautical": 1714649520
+                    },
+                    "set": {
+                        "apparent": 1714620120,
+                        "astronomical": 1714627920,
+                        "civil": 1714622220,
+                        "nautical": 1714624860
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "bricks.lifts.curl"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.509728,
+                    "lng": -122.218849
+                },
+                "southwest": {
+                    "lat": 47.479248,
+                    "lng": -122.268528
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bryn Mawr-Skyway",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "King County",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "Bryn Mawr-Skyway"
+            },
+            "confidence": 7,
+            "formatted": "Bryn Mawr-Skyway, Washington, United States of America",
+            "geometry": {
+                "lat": 47.4943,
+                "lng": -122.24092
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:16:47 GMT",
+        "created_unix": 1714691807
+    },
+    "total_results": 1
+}

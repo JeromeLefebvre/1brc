@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 959,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 39' 19.65600'' N",
+                    "lng": "9\u00b0 46' 35.26572'' E"
+                },
+                "MGRS": "32UNB5488611799",
+                "Maidenhead": "JO40vp37eh",
+                "Mercator": {
+                    "x": 1088310.85,
+                    "y": 6527509.077
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE7"
+                    },
+                    "NUTS2": {
+                        "code": "DE73"
+                    },
+                    "NUTS3": {
+                        "code": "DE732"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=454865#map=17/50.65546/9.77646",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.65546/9.77646&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.65546&mlon=9.77646#map=17/50.65546/9.77646"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1nbnmx12n4uyrr3p237",
+                "qibla": 130.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714880940,
+                        "astronomical": 1714871940,
+                        "civil": 1714878660,
+                        "nautical": 1714875660
+                    },
+                    "set": {
+                        "apparent": 1714934820,
+                        "astronomical": 1714943940,
+                        "civil": 1714937100,
+                        "nautical": 1714940100
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "grids.escalating.wriggle"
+                },
+                "wikidata": "Q569692"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.7424824,
+                    "lng": 9.8538905
+                },
+                "southwest": {
+                    "lat": 50.5966529,
+                    "lng": 9.6201665
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "H\u00fcnfeld",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Fulda",
+                "municipality": "H\u00fcnfeld",
+                "political_union": "European Union",
+                "postcode": "36088",
+                "state": "Hesse",
+                "state_code": "HE"
+            },
+            "confidence": 5,
+            "formatted": "36088 H\u00fcnfeld, Germany",
+            "geometry": {
+                "lat": 50.65546,
+                "lng": 9.7764627
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:21:23 GMT",
+        "created_unix": 1714947683
+    },
+    "total_results": 1
+}

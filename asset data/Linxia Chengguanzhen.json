@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 202,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 36' 1.00800'' N",
+                    "lng": "103\u00b0 12' 23.00400'' E"
+                },
+                "MGRS": "48SUE3752541095",
+                "Maidenhead": "OM15oo44sb",
+                "Mercator": {
+                    "x": 11488882.781,
+                    "y": 4220884.708
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.60028/103.20639&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.60028&mlon=103.20639#map=17/35.60028/103.20639"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wq36s8bdejnn5eyvc3nh",
+                "qibla": 273.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714947180,
+                        "astronomical": 1714941420,
+                        "civil": 1714945500,
+                        "nautical": 1714943520
+                    },
+                    "set": {
+                        "apparent": 1714910160,
+                        "astronomical": 1714915920,
+                        "civil": 1714911780,
+                        "nautical": 1714913820
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "fuzzy.walled.banana"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.608322,
+                    "lng": 103.21312
+                },
+                "southwest": {
+                    "lat": 35.589897,
+                    "lng": 103.198357
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "_category": "place",
+                "_normalized_city": "Linxia Chengguanzhen",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Gansu Sheng",
+                "town": "Linxia Chengguanzhen"
+            },
+            "confidence": 8,
+            "formatted": "Linxia Chengguanzhen, Gansu Sheng, China",
+            "geometry": {
+                "lat": 35.60028,
+                "lng": 103.20639
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:55:15 GMT",
+        "created_unix": 1714949715
+    },
+    "total_results": 1
+}

@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 167,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 4' 5.38608'' N",
+                    "lng": "5\u00b0 5' 21.83064'' E"
+                },
+                "MGRS": "31UFS4639059481",
+                "Maidenhead": "JO21nb06ri",
+                "Mercator": {
+                    "x": 566549.127,
+                    "y": 6600100.575
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE22"
+                    },
+                    "NUTS3": {
+                        "code": "BE224"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1229643#map=16/51.06816/5.08940",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/51.06816/5.08940&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.06816&mlon=5.08940#map=16/51.06816/5.08940"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u15deb9vxe9c04m5ngnt",
+                "qibla": 124.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795680,
+                        "astronomical": 1714786620,
+                        "civil": 1714793400,
+                        "nautical": 1714790400
+                    },
+                    "set": {
+                        "apparent": 1714849560,
+                        "astronomical": 1714858740,
+                        "civil": 1714851840,
+                        "nautical": 1714854900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "booklet.wagers.ponies"
+                },
+                "wikidata": "Q740852"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.0854665,
+                    "lng": 5.1838933
+                },
+                "southwest": {
+                    "lat": 51.0154516,
+                    "lng": 4.9800804
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VLI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tessenderlo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Hasselt",
+                "political_union": "European Union",
+                "postcode": "3980",
+                "region": "Flanders",
+                "state": "Limburg",
+                "state_code": "VLI",
+                "town": "Tessenderlo"
+            },
+            "confidence": 6,
+            "formatted": "3980 Tessenderlo, Belgium",
+            "geometry": {
+                "lat": 51.0681628,
+                "lng": 5.0893974
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:11:16 GMT",
+        "created_unix": 1714795876
+    },
+    "total_results": 1
+}

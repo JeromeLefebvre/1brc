@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2302,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "6\u00b0 9' 0.00000'' S",
+                    "lng": "36\u00b0 52' 0.01200'' E"
+                },
+                "MGRS": "37MBP6391719743",
+                "Maidenhead": "KI83ku44aa",
+                "Mercator": {
+                    "x": 4103978.932,
+                    "y": -681358.893
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-6.15000/36.86667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-6.15000&mlon=36.86667#map=17/-6.15000/36.86667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "TZ": "834",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 255,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "TZS",
+                    "iso_numeric": "834",
+                    "name": "Tanzanian Shilling",
+                    "smallest_denomination": 5000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "Sh",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddff",
+                "geohash": "kyfjnbmmxsvt4bkvshbm",
+                "qibla": 5.93,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713843240,
+                        "astronomical": 1713839040,
+                        "civil": 1713841980,
+                        "nautical": 1713840480
+                    },
+                    "set": {
+                        "apparent": 1713886080,
+                        "astronomical": 1713890280,
+                        "civil": 1713887340,
+                        "nautical": 1713888780
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Dar_es_Salaam",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "hemmed.downpours.overcoming"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -6.135167,
+                    "lng": 36.872692
+                },
+                "southwest": {
+                    "lat": -6.163645,
+                    "lng": 36.845398
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TZ",
+                "ISO_3166-1_alpha-3": "TZA",
+                "_category": "place",
+                "_normalized_city": "Geiro",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Tanzania",
+                "country_code": "tz",
+                "state": "Morogoro",
+                "town": "Geiro"
+            },
+            "confidence": 7,
+            "formatted": "Geiro, Morogoro, Tanzania",
+            "geometry": {
+                "lat": -6.15,
+                "lng": 36.86667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:11:21 GMT",
+        "created_unix": 1713831081
+    },
+    "total_results": 1
+}

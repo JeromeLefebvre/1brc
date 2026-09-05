@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 400,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 48' 39.33900'' N",
+                    "lng": "11\u00b0 30' 1.37952'' E"
+                },
+                "MGRS": "32UPV8356709452",
+                "Maidenhead": "JN58st04bo",
+                "Mercator": {
+                    "x": 1280216.802,
+                    "y": 6210668.001
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE21"
+                    },
+                    "NUTS3": {
+                        "code": "DE219"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=943540#map=16/48.81093/11.50038",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/48.81093/11.50038&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.81093&mlon=11.50038#map=16/48.81093/11.50038"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u28jtty2627hpbgsk6yh",
+                "qibla": 130.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714880880,
+                        "astronomical": 1714872600,
+                        "civil": 1714878720,
+                        "nautical": 1714875960
+                    },
+                    "set": {
+                        "apparent": 1714934040,
+                        "astronomical": 1714942380,
+                        "civil": 1714936260,
+                        "nautical": 1714939020
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "flagged.prattled.face"
+                },
+                "wikidata": "Q519663"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.9003648,
+                    "lng": 11.5709333
+                },
+                "southwest": {
+                    "lat": 48.7842939,
+                    "lng": 11.4684589
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "K\u00f6sching",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Eichst\u00e4tt",
+                "political_union": "European Union",
+                "postcode": "85092",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "village": "K\u00f6sching"
+            },
+            "confidence": 6,
+            "formatted": "85092 K\u00f6sching, Germany",
+            "geometry": {
+                "lat": 48.8109275,
+                "lng": 11.5003832
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:44:53 GMT",
+        "created_unix": 1714949093
+    },
+    "total_results": 1
+}

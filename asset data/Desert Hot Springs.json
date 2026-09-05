@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 435,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 57' 40.04640'' N",
+                    "lng": "116\u00b0 30' 6.04224'' W"
+                },
+                "FIPS": {
+                    "county": "06065",
+                    "state": "06"
+                },
+                "MGRS": "11SNT4604057957",
+                "Maidenhead": "DM13rx90tq",
+                "Mercator": {
+                    "x": -12968907.516,
+                    "y": 3999714.28
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111999#map=17/33.96112/-116.50168",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.96112/-116.50168&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.96112&mlon=-116.50168#map=17/33.96112/-116.50168"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qj1hyqjfhk7dnuj40rn",
+                "qibla": 25.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713877560,
+                        "astronomical": 1713872160,
+                        "civil": 1713875940,
+                        "nautical": 1713874080
+                    },
+                    "set": {
+                        "apparent": 1713838980,
+                        "astronomical": 1713844380,
+                        "civil": 1713840540,
+                        "nautical": 1713842460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "boatload.trout.forgives"
+                },
+                "wikidata": "Q573096"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.9909054,
+                    "lng": -116.4574623
+                },
+                "southwest": {
+                    "lat": 33.9320388,
+                    "lng": -116.6327308
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Desert Hot Springs",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Riverside County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Desert Hot Springs"
+            },
+            "confidence": 6,
+            "formatted": "Desert Hot Springs, California, United States of America",
+            "geometry": {
+                "lat": 33.961124,
+                "lng": -116.5016784
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:27:00 GMT",
+        "created_unix": 1713853620
+    },
+    "total_results": 1
+}

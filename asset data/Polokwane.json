@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 616,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23\u00b0 54' 20.99988'' S",
+                    "lng": "29\u00b0 27' 41.00004'' E"
+                },
+                "MGRS": "35KQP5058454016",
+                "Maidenhead": "KG46rc52io",
+                "Mercator": {
+                    "x": 3279626.81,
+                    "y": -2724628.756
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=304577692#map=17/-23.90583/29.46139",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-23.90583/29.46139&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-23.90583&mlon=29.46139#map=17/-23.90583/29.46139"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "keubn2j4kjev9nz1kvku",
+                "qibla": 13.36,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714710300,
+                        "astronomical": 1714705680,
+                        "civil": 1714708860,
+                        "nautical": 1714707300
+                    },
+                    "set": {
+                        "apparent": 1714750380,
+                        "astronomical": 1714755000,
+                        "civil": 1714751760,
+                        "nautical": 1714753380
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "breezes.browser.hamper"
+                },
+                "wikidata": "Q131662"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -23.7458333,
+                    "lng": 29.6213889
+                },
+                "southwest": {
+                    "lat": -24.0658333,
+                    "lng": 29.3013889
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-LP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Polokwane",
+                "_type": "city",
+                "city": "Polokwane",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Capricorn District Municipality",
+                "postcode": "0699",
+                "state": "Limpopo",
+                "state_code": "LP"
+            },
+            "confidence": 3,
+            "formatted": "Polokwane, Capricorn District Municipality, South Africa",
+            "geometry": {
+                "lat": -23.9058333,
+                "lng": 29.4613889
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:21:02 GMT",
+        "created_unix": 1714699262
+    },
+    "total_results": 1
+}

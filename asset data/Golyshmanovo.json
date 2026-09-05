@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2274,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 23' 52.44000'' N",
+                    "lng": "68\u00b0 22' 22.04400'' E"
+                },
+                "MGRS": "42VVH6128550542",
+                "Maidenhead": "MO46ej45rl",
+                "Mercator": {
+                    "x": 7611224.167,
+                    "y": 7602419.391
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/56.39790/68.37279&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.39790&mlon=68.37279#map=17/56.39790/68.37279"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "vd08gfgt96x3uedyhsfz",
+                "qibla": 222.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713399180,
+                        "astronomical": 1713475920,
+                        "civil": 1713483120,
+                        "nautical": 1713479940
+                    },
+                    "set": {
+                        "apparent": 1713451200,
+                        "astronomical": 1713460980,
+                        "civil": 1713453660,
+                        "nautical": 1713456900
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "intelligible.conform.visitor"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.4056664,
+                    "lng": 68.395752
+                },
+                "southwest": {
+                    "lat": 56.3801117,
+                    "lng": 68.3415527
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Golyshmanovo",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Tyumenskaya Oblast\u2019",
+                "town": "Golyshmanovo"
+            },
+            "confidence": 7,
+            "formatted": "Golyshmanovo, Tyumenskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 56.3979,
+                "lng": 68.37279
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:23:47 GMT",
+        "created_unix": 1713439427
+    },
+    "total_results": 1
+}

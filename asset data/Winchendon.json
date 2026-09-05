@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2293,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 40' 53.44536'' N",
+                    "lng": "72\u00b0 2' 59.91612'' W"
+                },
+                "FIPS": {
+                    "county": "25027",
+                    "state": "25"
+                },
+                "MGRS": "18TYN4169829668",
+                "Maidenhead": "FN32xq43an",
+                "Mercator": {
+                    "x": -8020566.718,
+                    "y": 5234644.325
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1844208#map=17/42.68151/-72.04998",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.68151/-72.04998&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.68151&mlon=-72.04998#map=17/42.68151/-72.04998"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drsfb3yvcfe7zn6b68t2",
+                "qibla": 59.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714556580,
+                        "astronomical": 1714549980,
+                        "civil": 1714554720,
+                        "nautical": 1714552440
+                    },
+                    "set": {
+                        "apparent": 1714607280,
+                        "astronomical": 1714527540,
+                        "civil": 1714522740,
+                        "nautical": 1714525020
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "extremists.handcuffed.cubic"
+                },
+                "wikidata": "Q4020333"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.7172323,
+                    "lng": -71.981431
+                },
+                "southwest": {
+                    "lat": 42.6018511,
+                    "lng": -72.1166312
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Winchendon",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Worcester County",
+                "postcode": "01475",
+                "state": "Massachusetts",
+                "state_code": "MA",
+                "town": "Winchendon"
+            },
+            "confidence": 6,
+            "formatted": "Winchendon, MA 01475, United States of America",
+            "geometry": {
+                "lat": 42.6815126,
+                "lng": -72.0499767
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:08:45 GMT",
+        "created_unix": 1714522125
+    },
+    "total_results": 1
+}

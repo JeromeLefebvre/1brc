@@ -1,0 +1,122 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1021,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 26' 3.04908'' N",
+                    "lng": "21\u00b0 2' 10.84128'' E"
+                },
+                "MGRS": "34TEM0298997985",
+                "Maidenhead": "KN02mk44ie",
+                "Mercator": {
+                    "x": 2341755.191,
+                    "y": 5197401.802
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=282425103#map=17/42.43418/21.03634",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.43418/21.03634&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.43418&mlon=21.03634#map=17/42.43418/21.03634"
+                },
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "geohash": "srwcqsyjn2e969f6kj58",
+                "qibla": 137.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713930120,
+                        "astronomical": 1713923760,
+                        "civil": 1713928320,
+                        "nautical": 1713926100
+                    },
+                    "set": {
+                        "apparent": 1713979620,
+                        "astronomical": 1713985980,
+                        "civil": 1713981420,
+                        "nautical": 1713983640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Belgrade",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "tenderloin.measured.covet"
+                },
+                "wikidata": "Q994737"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4741803,
+                    "lng": 21.0763448
+                },
+                "southwest": {
+                    "lat": 42.3941803,
+                    "lng": 20.9963448
+                }
+            },
+            "components": {
+                "_category": "place",
+                "_normalized_city": "Shtime",
+                "_type": "neighbourhood",
+                "continent": "Europe",
+                "country": "Kosovo",
+                "country_code": "xk",
+                "district": "District of Ferizaj",
+                "municipality": "Municipality of \u0160timlje",
+                "postcode": "72000",
+                "town": "Shtime"
+            },
+            "confidence": 7,
+            "formatted": "Shtime 72000, Kosovo",
+            "geometry": {
+                "lat": 42.4341803,
+                "lng": 21.0363448
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:00:07 GMT",
+        "created_unix": 1713996007
+    },
+    "total_results": 1
+}

@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2252,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 5' 54.60000'' N",
+                    "lng": "28\u00b0 19' 59.16000'' E"
+                },
+                "MGRS": "35UNV8717595302",
+                "Maidenhead": "KO44dc93xp",
+                "Mercator": {
+                    "x": 3154026.265,
+                    "y": 7154196.119
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.09850/28.33310&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.09850&mlon=28.33310#map=17/54.09850/28.33310"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u9s5u8rd956de6v1net3",
+                "qibla": 160.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714616940,
+                        "astronomical": 1714692780,
+                        "civil": 1714614420,
+                        "nautical": 1714611060
+                    },
+                    "set": {
+                        "apparent": 1714671600,
+                        "astronomical": 1714682340,
+                        "civil": 1714674120,
+                        "nautical": 1714677540
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "reports.person.surviving"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.09927,
+                    "lng": 28.314091
+                },
+                "southwest": {
+                    "lat": 54.080441,
+                    "lng": 28.295803
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "_category": "place",
+                "_normalized_city": "Zhodzina",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "state": "Minsk",
+                "state_code": "HM",
+                "town": "Zhodzina"
+            },
+            "confidence": 8,
+            "formatted": "Zhodzina, Minsk, Belarus",
+            "geometry": {
+                "lat": 54.0985,
+                "lng": 28.3331
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:10:53 GMT",
+        "created_unix": 1714691453
+    },
+    "total_results": 1
+}

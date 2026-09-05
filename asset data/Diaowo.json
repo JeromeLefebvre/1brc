@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1681,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 29' 48.83388'' N",
+                    "lng": "116\u00b0 4' 52.24044'' E"
+                },
+                "MGRS": "50SMJ2099672323",
+                "Maidenhead": "OM89al99rg",
+                "Mercator": {
+                    "x": 12922097.615,
+                    "y": 4765918.167
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8172814152#map=17/39.49690/116.08118",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.49690/116.08118&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.49690&mlon=116.08118#map=17/39.49690/116.08118"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wx489qpwp7rz9jggehws",
+                "qibla": 278.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711922580,
+                        "astronomical": 1711917120,
+                        "civil": 1711920960,
+                        "nautical": 1711919040
+                    },
+                    "set": {
+                        "apparent": 1711881420,
+                        "astronomical": 1711886940,
+                        "civil": 1711883040,
+                        "nautical": 1711884960
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "encrypted.signposts.exposing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.5168983,
+                    "lng": 116.1011779
+                },
+                "southwest": {
+                    "lat": 39.4768983,
+                    "lng": 116.0611779
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Baoding City",
+                "_type": "village",
+                "city": "Baoding City",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Hebei",
+                "village": "Diaowo"
+            },
+            "confidence": 7,
+            "formatted": "Baoding City, Hebei, China",
+            "geometry": {
+                "lat": 39.4968983,
+                "lng": 116.0811779
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:54:03 GMT",
+        "created_unix": 1711918443
+    },
+    "total_results": 1
+}

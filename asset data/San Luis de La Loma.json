@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 215,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 16' 14.00160'' N",
+                    "lng": "100\u00b0 53' 38.00040'' W"
+                },
+                "MGRS": "14QKE9866910473",
+                "Maidenhead": "DK97ng24rw",
+                "Mercator": {
+                    "x": -11231456.348,
+                    "y": 1939663.463
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=849912580#map=17/17.27056/-100.89389",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/17.27056/-100.89389&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.27056&mlon=-100.89389#map=17/17.27056/-100.89389"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g0620523bzx7qmurvx7",
+                "qibla": 46.33,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714825020,
+                        "astronomical": 1714820400,
+                        "civil": 1714823640,
+                        "nautical": 1714822020
+                    },
+                    "set": {
+                        "apparent": 1714784640,
+                        "astronomical": 1714789260,
+                        "civil": 1714786020,
+                        "nautical": 1714787580
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "hogs.transformers.aggressively"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 17.290556,
+                    "lng": -100.873889
+                },
+                "southwest": {
+                    "lat": 17.250556,
+                    "lng": -100.913889
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-GRO"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Luis de la Loma",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "T\u00e9cpan de Galeana",
+                "state": "Guerrero",
+                "state_code": "GRO",
+                "village": "San Luis de la Loma"
+            },
+            "confidence": 7,
+            "formatted": "San Luis de la Loma, T\u00e9cpan de Galeana, Mexico",
+            "geometry": {
+                "lat": 17.270556,
+                "lng": -100.893889
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:09:26 GMT",
+        "created_unix": 1714795766
+    },
+    "total_results": 1
+}

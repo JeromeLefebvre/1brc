@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1272,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 6' 24.82164'' N",
+                    "lng": "93\u00b0 12' 27.33516'' W"
+                },
+                "FIPS": {
+                    "county": "27123",
+                    "state": "27"
+                },
+                "MGRS": "15TVK8366894846",
+                "Maidenhead": "EN35jc55cp",
+                "Mercator": {
+                    "x": -10375821.802,
+                    "y": 5608083.596
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=136629#map=17/45.10689/-93.20759",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.10689/-93.20759&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.10689&mlon=-93.20759#map=17/45.10689/-93.20759"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "cbj8x52q9wthzmmd5gt1",
+                "qibla": 43.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713698220,
+                        "astronomical": 1713691560,
+                        "civil": 1713696360,
+                        "nautical": 1713694080
+                    },
+                    "set": {
+                        "apparent": 1713661560,
+                        "astronomical": 1713668280,
+                        "civil": 1713663480,
+                        "nautical": 1713665760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "nights.mason.chats"
+                },
+                "wikidata": "Q1958703"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.1245495,
+                    "lng": -93.187322
+                },
+                "southwest": {
+                    "lat": 45.08631,
+                    "lng": -93.2278384
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mounds View",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Ramsey County",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Mounds View"
+            },
+            "confidence": 7,
+            "formatted": "Mounds View, Minnesota, United States of America",
+            "geometry": {
+                "lat": 45.1068949,
+                "lng": -93.2075931
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:59:21 GMT",
+        "created_unix": 1713664761
+    },
+    "total_results": 1
+}

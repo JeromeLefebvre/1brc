@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 243,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 31' 14.01600'' N",
+                    "lng": "89\u00b0 12' 52.74000'' E"
+                },
+                "MGRS": "45RYJ2256324444",
+                "Maidenhead": "NL45om54sw",
+                "Mercator": {
+                    "x": 9931329.409,
+                    "y": 2921417.127
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/25.52056/89.21465&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.52056&mlon=89.21465#map=17/25.52056/89.21465"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "BD": "050",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 880,
+                "currency": {
+                    "alternate_symbols": [
+                        "Tk"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "BDT",
+                    "iso_numeric": "050",
+                    "name": "Bangladeshi Taka",
+                    "smallest_denomination": 1,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u09f3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\udde9",
+                "geohash": "tux3njuhh10w5pf9b0h2",
+                "qibla": 275.54,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713656220,
+                        "astronomical": 1713651420,
+                        "civil": 1713654780,
+                        "nautical": 1713653160
+                    },
+                    "set": {
+                        "apparent": 1713616020,
+                        "astronomical": 1713620820,
+                        "civil": 1713617460,
+                        "nautical": 1713619140
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dhaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "plurals.completions.deviation"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BD",
+                "ISO_3166-1_alpha-3": "BGD",
+                "_category": "place",
+                "_normalized_city": "Rangapukur",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Bangladesh",
+                "country_code": "bd",
+                "state": "Rangpur Division",
+                "state_code": "F",
+                "town": "Rangapukur"
+            },
+            "confidence": 9,
+            "formatted": "Rangapukur, Rangpur Division, Bangladesh",
+            "geometry": {
+                "lat": 25.52056,
+                "lng": 89.21465
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:01:45 GMT",
+        "created_unix": 1713650505
+    },
+    "total_results": 1
+}

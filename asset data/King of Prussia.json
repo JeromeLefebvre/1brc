@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 275,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 5' 21.37200'' N",
+                    "lng": "75\u00b0 23' 45.67200'' W"
+                },
+                "FIPS": {
+                    "county": "42091",
+                    "state": "42"
+                },
+                "MGRS": "18TVK6623937740",
+                "Maidenhead": "FN20hc21lk",
+                "Mercator": {
+                    "x": -8393046.554,
+                    "y": 4851401.294
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.08927/-75.39602&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.08927&mlon=-75.39602#map=17/40.08927/-75.39602"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4kh642cmsf806ncnd2",
+                "qibla": 57.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714816680,
+                        "astronomical": 1714810380,
+                        "civil": 1714814880,
+                        "nautical": 1714812720
+                    },
+                    "set": {
+                        "apparent": 1714867140,
+                        "astronomical": 1714787100,
+                        "civil": 1714782540,
+                        "nautical": 1714784700
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "kinds.sleepy.crisp"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.118156,
+                    "lng": -75.343446
+                },
+                "southwest": {
+                    "lat": 40.072017,
+                    "lng": -75.420054
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "King of Prussia",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Montgomery County",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "town": "King of Prussia"
+            },
+            "confidence": 7,
+            "formatted": "King of Prussia, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.08927,
+                "lng": -75.39602
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:07:12 GMT",
+        "created_unix": 1714795632
+    },
+    "total_results": 1
+}

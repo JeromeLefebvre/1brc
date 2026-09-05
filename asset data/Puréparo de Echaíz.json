@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 256,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 54' 37.40400'' N",
+                    "lng": "102\u00b0 0' 22.50000'' W"
+                },
+                "MGRS": "13QHC1344904355",
+                "Maidenhead": "DK89xv98gl",
+                "Mercator": {
+                    "x": -11355283.808,
+                    "y": 2247873.949
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.91039/-102.00625&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.91039&mlon=-102.00625#map=17/19.91039/-102.00625"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9ex3qb966jensh7zp6tv",
+                "qibla": 44.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713702360,
+                        "astronomical": 1713697800,
+                        "civil": 1713700980,
+                        "nautical": 1713699420
+                    },
+                    "set": {
+                        "apparent": 1713661620,
+                        "astronomical": 1713666240,
+                        "civil": 1713663000,
+                        "nautical": 1713664620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "flawlessly.brickyard.reckon"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.9248997,
+                    "lng": -101.9792696
+                },
+                "southwest": {
+                    "lat": 19.8893092,
+                    "lng": -102.0255848
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Pur\u00e9paro de Echa\u00edz",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Michoac\u00e1n de Ocampo",
+                "state_code": "MIC",
+                "town": "Pur\u00e9paro de Echa\u00edz"
+            },
+            "confidence": 7,
+            "formatted": "Pur\u00e9paro de Echa\u00edz, Michoac\u00e1n de Ocampo, Mexico",
+            "geometry": {
+                "lat": 19.91039,
+                "lng": -102.00625
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:42:03 GMT",
+        "created_unix": 1713667323
+    },
+    "total_results": 1
+}

@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 236,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 36' 52.30800'' N",
+                    "lng": "69\u00b0 42' 18.90000'' E"
+                },
+                "MGRS": "42SWG6224263281",
+                "Maidenhead": "MM47uo47pl",
+                "Mercator": {
+                    "x": 7759552.936,
+                    "y": 4499031.983
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/37.61453/69.70525&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.61453&mlon=69.70525#map=16/37.61453/69.70525"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "TJ": "762",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 992,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "TJS",
+                    "iso_numeric": "972",
+                    "name": "Tajikistani Somoni",
+                    "smallest_denomination": 1,
+                    "subunit": "Diram",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0405\u041c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddef",
+                "geohash": "tw9tfptbd09e6sekqzye",
+                "qibla": 246.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714868520,
+                        "astronomical": 1714948980,
+                        "civil": 1714953240,
+                        "nautical": 1714951200
+                    },
+                    "set": {
+                        "apparent": 1714918440,
+                        "astronomical": 1714924440,
+                        "civil": 1714920120,
+                        "nautical": 1714922220
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dushanbe",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "assisted.tablespoons.editors"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TJ",
+                "ISO_3166-1_alpha-3": "TJK",
+                "_category": "place",
+                "_normalized_city": "Chubek",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Tajikistan",
+                "country_code": "tj",
+                "state": "Viloyati Khatlon",
+                "town": "Chubek"
+            },
+            "confidence": 9,
+            "formatted": "Chubek, Viloyati Khatlon, Tajikistan",
+            "geometry": {
+                "lat": 37.61453,
+                "lng": 69.70525
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:53:51 GMT",
+        "created_unix": 1714949631
+    },
+    "total_results": 1
+}

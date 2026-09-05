@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1644,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 35' 0.09384'' S",
+                    "lng": "70\u00b0 37' 47.37720'' W"
+                },
+                "MGRS": "19HCC4875082848",
+                "Maidenhead": "FF46qj49kx",
+                "Mercator": {
+                    "x": -7862476.376,
+                    "y": -3949359.289
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=191216#map=17/-33.58336/-70.62983",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-33.58336/-70.62983&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-33.58336&mlon=-70.62983#map=17/-33.58336/-70.62983"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CL": "152",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 56,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "CLP",
+                    "html_entity": "&#36;",
+                    "iso_code": "CLP",
+                    "iso_numeric": "152",
+                    "name": "Chilean Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Peso",
+                    "subunit_to_unit": 1,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf1",
+                "geohash": "66jbby2fv8pcfug0mw5s",
+                "qibla": 81.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714562280,
+                        "astronomical": 1714557240,
+                        "civil": 1714560720,
+                        "nautical": 1714558980
+                    },
+                    "set": {
+                        "apparent": 1714600800,
+                        "astronomical": 1714605900,
+                        "civil": 1714602360,
+                        "nautical": 1714604160
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santiago",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "-04"
+                },
+                "what3words": {
+                    "words": "homework.fence.rare"
+                },
+                "wikidata": "Q14464"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -33.5549779,
+                    "lng": -70.604987
+                },
+                "southwest": {
+                    "lat": -33.6274822,
+                    "lng": -70.6705718
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CL",
+                "ISO_3166-1_alpha-3": "CHL",
+                "ISO_3166-2": [
+                    "CL-RM"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Pintana",
+                "_type": "neighbourhood",
+                "continent": "South America",
+                "country": "Chile",
+                "country_code": "cl",
+                "county": "Provincia de Santiago",
+                "state": "Santiago Metropolitan Region",
+                "suburb": "La Pintana"
+            },
+            "confidence": 7,
+            "formatted": "La Pintana, Provincia de Santiago, Chile",
+            "geometry": {
+                "lat": -33.5833594,
+                "lng": -70.629827
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:59:30 GMT",
+        "created_unix": 1714532370
+    },
+    "total_results": 1
+}

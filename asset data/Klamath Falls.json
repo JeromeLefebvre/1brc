@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 56,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 13' 29.52120'' N",
+                    "lng": "121\u00b0 46' 54.01200'' W"
+                },
+                "FIPS": {
+                    "county": "41035",
+                    "state": "41"
+                },
+                "MGRS": "10TFM0054375461",
+                "Maidenhead": "CN92cf63ex",
+                "Mercator": {
+                    "x": -13556673.492,
+                    "y": 5165999.571
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=186599#map=17/42.22487/-121.78167",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.22487/-121.78167&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.22487&mlon=-121.78167#map=17/42.22487/-121.78167"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9r92hyc39mtnz4y9w8vt",
+                "qibla": 18.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713964320,
+                        "astronomical": 1713958020,
+                        "civil": 1713962520,
+                        "nautical": 1713960360
+                    },
+                    "set": {
+                        "apparent": 1713927540,
+                        "astronomical": 1713933900,
+                        "civil": 1713929340,
+                        "nautical": 1713931500
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "sunset.sulk.solve"
+                },
+                "wikidata": "Q846146"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.268335,
+                    "lng": -121.6982882
+                },
+                "southwest": {
+                    "lat": 42.140876,
+                    "lng": -121.8511934
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Klamath Falls",
+                "_type": "city",
+                "city": "Klamath Falls",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Klamath County",
+                "postcode": "97601",
+                "state": "Oregon",
+                "state_code": "OR"
+            },
+            "confidence": 6,
+            "formatted": "Klamath Falls, Oregon, United States of America",
+            "geometry": {
+                "lat": 42.224867,
+                "lng": -121.78167
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:34:03 GMT",
+        "created_unix": 1713998043
+    },
+    "total_results": 1
+}

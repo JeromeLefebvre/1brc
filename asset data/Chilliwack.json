@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2014,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 10' 15.52368'' N",
+                    "lng": "121\u00b0 57' 9.18000'' W"
+                },
+                "MGRS": "10UEV7634946991",
+                "Maidenhead": "CN99ae51qa",
+                "Mercator": {
+                    "x": -13575695.767,
+                    "y": 6271573.71
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2221183#map=16/49.17098/-121.95255",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/49.17098/-121.95255&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.17098&mlon=-121.95255#map=16/49.17098/-121.95255"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c29r8zkcewgcew4usns7",
+                "qibla": 17.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714826460,
+                        "astronomical": 1714818120,
+                        "civil": 1714824300,
+                        "nautical": 1714821480
+                    },
+                    "set": {
+                        "apparent": 1714793340,
+                        "astronomical": 1714801800,
+                        "civil": 1714795560,
+                        "nautical": 1714798380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Vancouver",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "perfume.backward.funds"
+                },
+                "wikidata": "Q983026"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.2256076,
+                    "lng": -121.7779185
+                },
+                "southwest": {
+                    "lat": 49.0457035,
+                    "lng": -122.1261538
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-BC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chilliwack",
+                "_type": "city",
+                "city": "Chilliwack",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Fraser Valley Regional District",
+                "state": "British Columbia",
+                "state_code": "BC"
+            },
+            "confidence": 4,
+            "formatted": "Chilliwack, BC, Canada",
+            "geometry": {
+                "lat": 49.1709788,
+                "lng": -121.95255
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:38:48 GMT",
+        "created_unix": 1714786728
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 927,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 13' 33.31200'' N",
+                    "lng": "99\u00b0 48' 56.01600'' W"
+                },
+                "MGRS": "14QMH1480836691",
+                "Maidenhead": "EL00cf24df",
+                "Mercator": {
+                    "x": -11111417.312,
+                    "y": 2285048.05
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/20.22592/-99.81556&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=20.22592&mlon=-99.81556#map=17/20.22592/-99.81556"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g950dh88bgbrsgnwg43",
+                "qibla": 45.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713529080,
+                        "astronomical": 1713524520,
+                        "civil": 1713527760,
+                        "nautical": 1713526140
+                    },
+                    "set": {
+                        "apparent": 1713488280,
+                        "astronomical": 1713492840,
+                        "civil": 1713489660,
+                        "nautical": 1713491220
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "faintly.spruce.decors"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 20.2378886,
+                    "lng": -99.7996105
+                },
+                "southwest": {
+                    "lat": 20.2106671,
+                    "lng": -99.8287877
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Polotitl\u00e1n de la Ilustraci\u00f3n",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "M\u00e9xico",
+                "town": "Polotitl\u00e1n de la Ilustraci\u00f3n"
+            },
+            "confidence": 7,
+            "formatted": "Polotitl\u00e1n de la Ilustraci\u00f3n, M\u00e9xico, Mexico",
+            "geometry": {
+                "lat": 20.22592,
+                "lng": -99.81556
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:12:10 GMT",
+        "created_unix": 1713521530
+    },
+    "total_results": 1
+}

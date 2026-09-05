@@ -1,0 +1,107 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1763,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 38' 43.98000'' N",
+                    "lng": "21\u00b0 11' 53.73600'' E"
+                },
+                "MGRS": "34TEN1625221473",
+                "Maidenhead": "KN02op34sw",
+                "Mercator": {
+                    "x": 2359779.509,
+                    "y": 5229219.937
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.64555/21.19826&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.64555&mlon=21.19826#map=17/42.64555/21.19826"
+                },
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "geohash": "srx4d7kh768q9tz2z92u",
+                "qibla": 137.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714534260,
+                        "astronomical": 1714527660,
+                        "civil": 1714532400,
+                        "nautical": 1714530120
+                    },
+                    "set": {
+                        "apparent": 1714584900,
+                        "astronomical": 1714591500,
+                        "civil": 1714586700,
+                        "nautical": 1714588980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Belgrade",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "cheeks.movies.coached"
+                }
+            },
+            "components": {
+                "_category": "place",
+                "_normalized_city": "Matiqan",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Kosovo",
+                "country_code": "xk",
+                "town": "Matiqan"
+            },
+            "confidence": 9,
+            "formatted": "Matiqan, Kosovo",
+            "geometry": {
+                "lat": 42.64555,
+                "lng": 21.19826
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:54:32 GMT",
+        "created_unix": 1714532072
+    },
+    "total_results": 1
+}

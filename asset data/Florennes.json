@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 629,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 15' 5.12172'' N",
+                    "lng": "4\u00b0 36' 10.86732'' E"
+                },
+                "MGRS": "31UFR1428067814",
+                "Maidenhead": "JO20hg20ii",
+                "Mercator": {
+                    "x": 512405.698,
+                    "y": 6457060.374
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE3"
+                    },
+                    "NUTS2": {
+                        "code": "BE35"
+                    },
+                    "NUTS3": {
+                        "code": "BE353"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2048709#map=17/50.25142/4.60302",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.25142/4.60302&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.25142&mlon=4.60302#map=17/50.25142/4.60302"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u0gmbezzf05s87691y91",
+                "qibla": 123.19,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713933060,
+                        "astronomical": 1713925140,
+                        "civil": 1713930900,
+                        "nautical": 1713928200
+                    },
+                    "set": {
+                        "apparent": 1713984600,
+                        "astronomical": 1713992580,
+                        "civil": 1713986700,
+                        "nautical": 1713989400
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "schemers.python.rejoiced"
+                },
+                "wikidata": "Q720429"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.323089,
+                    "lng": 4.7882107
+                },
+                "southwest": {
+                    "lat": 50.1977222,
+                    "lng": 4.5047793
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-WAL",
+                    "BE-WNA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Florennes",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Philippeville",
+                "political_union": "European Union",
+                "postcode": "5620",
+                "region": "Wallonia",
+                "state": "Namur",
+                "state_code": "WNA",
+                "town": "Florennes"
+            },
+            "confidence": 5,
+            "formatted": "5620 Florennes, Belgium",
+            "geometry": {
+                "lat": 50.2514227,
+                "lng": 4.6030187
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:13:33 GMT",
+        "created_unix": 1713996813
+    },
+    "total_results": 1
+}

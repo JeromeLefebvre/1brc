@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 260,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 21' 4.35600'' N",
+                    "lng": "42\u00b0 59' 55.46400'' E"
+                },
+                "MGRS": "38TLM3517190711",
+                "Maidenhead": "LN12li94ug",
+                "Mercator": {
+                    "x": 4786597.842,
+                    "y": 5184941.584
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.35121/42.99874&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.35121&mlon=42.99874#map=17/42.35121/42.99874"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "GE": "268",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 995,
+                "currency": {
+                    "alternate_symbols": [
+                        "lari"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "GEL",
+                    "iso_numeric": "981",
+                    "name": "Georgian Lari",
+                    "smallest_denomination": 1,
+                    "subunit": "Tetri",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20be",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\uddea",
+                "geohash": "szw8fmy9xmb2hqh33wyc",
+                "qibla": 188.23,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713406980,
+                        "astronomical": 1713400860,
+                        "civil": 1713405240,
+                        "nautical": 1713403140
+                    },
+                    "set": {
+                        "apparent": 1713455520,
+                        "astronomical": 1713461700,
+                        "civil": 1713457260,
+                        "nautical": 1713459420
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tbilisi",
+                    "now_in_dst": 0,
+                    "offset_sec": 14400,
+                    "offset_string": "+0400",
+                    "short_name": "+04"
+                },
+                "what3words": {
+                    "words": "february.grouping.populate"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4746284,
+                    "lng": 43.0554199
+                },
+                "southwest": {
+                    "lat": 42.2943001,
+                    "lng": 42.7539825
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GE",
+                "ISO_3166-1_alpha-3": "GEO",
+                "_category": "place",
+                "_normalized_city": "Tqibuli",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Georgia",
+                "country_code": "ge",
+                "town": "Tqibuli"
+            },
+            "confidence": 4,
+            "formatted": "Tqibuli, Georgia",
+            "geometry": {
+                "lat": 42.35121,
+                "lng": 42.99874
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:30:12 GMT",
+        "created_unix": 1713443412
+    },
+    "total_results": 1
+}

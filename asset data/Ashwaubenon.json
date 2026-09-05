@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1310,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 28' 30.93816'' N",
+                    "lng": "88\u00b0 3' 38.64600'' W"
+                },
+                "FIPS": {
+                    "county": "55009",
+                    "state": "55"
+                },
+                "MGRS": "16TDQ1563825208",
+                "Maidenhead": "EN54xl24rb",
+                "Mercator": {
+                    "x": -9802876.179,
+                    "y": 5509339.987
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=242804#map=16/44.47526/-88.06073",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.47526/-88.06073&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.47526&mlon=-88.06073#map=16/44.47526/-88.06073"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpcmh0kphjkz939qphfy",
+                "qibla": 48.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714905420,
+                        "astronomical": 1714898340,
+                        "civil": 1714903500,
+                        "nautical": 1714901040
+                    },
+                    "set": {
+                        "apparent": 1714870860,
+                        "astronomical": 1714878060,
+                        "civil": 1714872840,
+                        "nautical": 1714875300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "leaned.tender.call"
+                },
+                "wikidata": "Q2214450"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.510997,
+                    "lng": -88.037684
+                },
+                "southwest": {
+                    "lat": 44.445118,
+                    "lng": -88.149879
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ashwaubenon",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Brown County",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "Ashwaubenon"
+            },
+            "confidence": 7,
+            "formatted": "Ashwaubenon, Wisconsin, United States of America",
+            "geometry": {
+                "lat": 44.4752606,
+                "lng": -88.060735
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:33:38 GMT",
+        "created_unix": 1714901618
+    },
+    "total_results": 1
+}

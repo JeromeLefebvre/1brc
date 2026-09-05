@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 819,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 49' 49.36944'' N",
+                    "lng": "105\u00b0 20' 6.79056'' W"
+                },
+                "MGRS": "13RDH6612646207",
+                "Maidenhead": "DL74ht99sg",
+                "Mercator": {
+                    "x": -11725863.008,
+                    "y": 2836987.777
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3044786830#map=16/24.83038/-105.33522",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/24.83038/-105.33522&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=24.83038&mlon=-105.33522#map=16/24.83038/-105.33522"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9smj701prqrkx6n2kfvs",
+                "qibla": 39.19,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713789180,
+                        "astronomical": 1713784440,
+                        "civil": 1713787800,
+                        "nautical": 1713786120
+                    },
+                    "set": {
+                        "apparent": 1713749160,
+                        "astronomical": 1713753960,
+                        "civil": 1713750600,
+                        "nautical": 1713752280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Monterrey",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "amenity.stumpy.foreseeable"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 24.8503804,
+                    "lng": -105.3152196
+                },
+                "southwest": {
+                    "lat": 24.8103804,
+                    "lng": -105.3552196
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-DUR"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Miguel de Papasquiaro",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Santiago Papasquiaro",
+                "state": "Durango",
+                "state_code": "DUR",
+                "village": "San Miguel de Papasquiaro"
+            },
+            "confidence": 7,
+            "formatted": "San Miguel de Papasquiaro, Santiago Papasquiaro, Mexico",
+            "geometry": {
+                "lat": 24.8303804,
+                "lng": -105.3352196
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:19:52 GMT",
+        "created_unix": 1713781192
+    },
+    "total_results": 1
+}

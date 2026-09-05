@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2400,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 38' 33.82692'' N",
+                    "lng": "80\u00b0 7' 49.26216'' E"
+                },
+                "MGRS": "44QMD0725540234",
+                "Maidenhead": "NK06bp54pg",
+                "Mercator": {
+                    "x": 8920069.826,
+                    "y": 1867045.022
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5377980336#map=17/16.64273/80.13035",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.64273/80.13035&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.64273&mlon=80.13035#map=17/16.64273/80.13035"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tfbyxmtnut8j8npgf3kt",
+                "qibla": 283.68,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713917940,
+                        "astronomical": 1713999900,
+                        "civil": 1714003020,
+                        "nautical": 1714001460
+                    },
+                    "set": {
+                        "apparent": 1713963360,
+                        "astronomical": 1713967860,
+                        "civil": 1713964680,
+                        "nautical": 1713966240
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "packaged.discrepancy.smartest"
+                },
+                "wikidata": "Q5069475"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 16.6627297,
+                    "lng": 80.1503506
+                },
+                "southwest": {
+                    "lat": 16.6227297,
+                    "lng": 80.1103506
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-AP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chamarru",
+                "_type": "village",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Atchampet",
+                "postcode": "522409",
+                "state": "Andhra Pradesh",
+                "state_code": "AP",
+                "state_district": "Palnadu",
+                "village": "Chamarru"
+            },
+            "confidence": 7,
+            "formatted": "Palnadu, Chamarru - 522409, Andhra Pradesh, India",
+            "geometry": {
+                "lat": 16.6427297,
+                "lng": 80.1303506
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:12:48 GMT",
+        "created_unix": 1713993168
+    },
+    "total_results": 1
+}

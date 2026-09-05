@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2445,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 39' 17.11800'' N",
+                    "lng": "42\u00b0 43' 29.85600'' E"
+                },
+                "MGRS": "38ULD4611636295",
+                "Maidenhead": "LO12ip67xd",
+                "Mercator": {
+                    "x": 4756120.791,
+                    "y": 6885398.113
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1777923#map=17/52.65476/42.72496",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.65476/42.72496&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.65476&mlon=42.72496#map=17/52.65476/42.72496"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ucq7s1x25tz0pnkhdkdq",
+                "qibla": 185.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713923520,
+                        "astronomical": 1714001220,
+                        "civil": 1713921240,
+                        "nautical": 1713918360
+                    },
+                    "set": {
+                        "apparent": 1713975780,
+                        "astronomical": 1713984600,
+                        "civil": 1713978060,
+                        "nautical": 1713981000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "cling.jigsaw.repay"
+                },
+                "wikidata": "Q153655"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.6662404,
+                    "lng": 42.8312595
+                },
+                "southwest": {
+                    "lat": 52.6358128,
+                    "lng": 42.6927006
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-TAM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kirsanov",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Central Federal District",
+                "state": "Tambov Oblast",
+                "town": "Kirsanov"
+            },
+            "confidence": 7,
+            "formatted": "Kirsanov, Tambov Oblast, Russia",
+            "geometry": {
+                "lat": 52.654755,
+                "lng": 42.72496
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:11:16 GMT",
+        "created_unix": 1713993076
+    },
+    "total_results": 1
+}

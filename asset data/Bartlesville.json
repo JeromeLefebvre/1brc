@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 632,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 44' 31.59204'' N",
+                    "lng": "95\u00b0 57' 10.39572'' W"
+                },
+                "FIPS": {
+                    "county": "40147",
+                    "state": "40"
+                },
+                "MGRS": "15STA3634570330",
+                "Maidenhead": "EM26ar58pc",
+                "Mercator": {
+                    "x": -10681426.599,
+                    "y": 4377658.015
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=184988#map=17/36.74211/-95.95289",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.74211/-95.95289&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.74211&mlon=-95.95289#map=17/36.74211/-95.95289"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yec089nr9t0ydr3m7n3",
+                "qibla": 43.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714131360,
+                        "astronomical": 1714125660,
+                        "civil": 1714129680,
+                        "nautical": 1714127760
+                    },
+                    "set": {
+                        "apparent": 1714093680,
+                        "astronomical": 1714099380,
+                        "civil": 1714095300,
+                        "nautical": 1714097280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "rooms.buck.needed"
+                },
+                "wikidata": "Q809450"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.783389,
+                    "lng": -95.889793
+                },
+                "southwest": {
+                    "lat": 36.572062,
+                    "lng": -96.012763
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bartlesville",
+                "_type": "city",
+                "city": "Bartlesville",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Washington County",
+                "state": "Oklahoma",
+                "state_code": "OK"
+            },
+            "confidence": 5,
+            "formatted": "Bartlesville, Oklahoma, United States of America",
+            "geometry": {
+                "lat": 36.7421089,
+                "lng": -95.9528877
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 23:06:59 GMT",
+        "created_unix": 1714172819
+    },
+    "total_results": 1
+}

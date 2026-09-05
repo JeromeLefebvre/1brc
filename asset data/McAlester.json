@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 303,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 56' 0.59316'' N",
+                    "lng": "95\u00b0 46' 11.25624'' W"
+                },
+                "FIPS": {
+                    "county": "40121",
+                    "state": "40"
+                },
+                "MGRS": "15STU4701369171",
+                "Maidenhead": "EM24cw74pa",
+                "Mercator": {
+                    "x": -10661044.635,
+                    "y": 4130379.79
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=184307#map=17/34.93350/-95.76979",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.93350/-95.76979&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.93350&mlon=-95.76979#map=17/34.93350/-95.76979"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9y5ysxqw6h41nvhfemqp",
+                "qibla": 43.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713958800,
+                        "astronomical": 1713953340,
+                        "civil": 1713957240,
+                        "nautical": 1713955320
+                    },
+                    "set": {
+                        "apparent": 1713920520,
+                        "astronomical": 1713926040,
+                        "civil": 1713922140,
+                        "nautical": 1713924060
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "crib.pepper.gross"
+                },
+                "wikidata": "Q1994656"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.967205,
+                    "lng": -95.723596
+                },
+                "southwest": {
+                    "lat": 34.870818,
+                    "lng": -95.836456
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OK"
+                ],
+                "_category": "place",
+                "_normalized_city": "McAlester",
+                "_type": "city",
+                "city": "McAlester",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pittsburg County",
+                "postcode": "74501",
+                "state": "Oklahoma",
+                "state_code": "OK"
+            },
+            "confidence": 6,
+            "formatted": "McAlester, Oklahoma, United States of America",
+            "geometry": {
+                "lat": 34.9334981,
+                "lng": -95.7697934
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:24:44 GMT",
+        "created_unix": 1713997484
+    },
+    "total_results": 1
+}

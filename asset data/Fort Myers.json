@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1958,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 38' 26.26080'' N",
+                    "lng": "81\u00b0 52' 20.31024'' W"
+                },
+                "FIPS": {
+                    "county": "12071",
+                    "state": "12"
+                },
+                "MGRS": "17RMK1317846928",
+                "Maidenhead": "EL96bp53hs",
+                "Mercator": {
+                    "x": -9113983.681,
+                    "y": 3059490.331
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=118879#map=17/26.64063/-81.87231",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.64063/-81.87231&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.64063&mlon=-81.87231#map=17/26.64063/-81.87231"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhtz8cy2uvn05eu28rur",
+                "qibla": 55.43,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714042500,
+                        "astronomical": 1714037580,
+                        "civil": 1714041060,
+                        "nautical": 1714039320
+                    },
+                    "set": {
+                        "apparent": 1714089360,
+                        "astronomical": 1714007880,
+                        "civil": 1714004400,
+                        "nautical": 1714006140
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "ferrets.fakes.victory"
+                },
+                "wikidata": "Q506451"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.689176,
+                    "lng": -81.7511414
+                },
+                "southwest": {
+                    "lat": 26.5476424,
+                    "lng": -81.9126085
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fort Myers",
+                "_type": "city",
+                "city": "Fort Myers",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lee County",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 5,
+            "formatted": "Fort Myers, Florida, United States of America",
+            "geometry": {
+                "lat": 26.640628,
+                "lng": -81.8723084
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:24:35 GMT",
+        "created_unix": 1714004675
+    },
+    "total_results": 1
+}

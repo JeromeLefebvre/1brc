@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2480,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 29' 48.05340'' N",
+                    "lng": "96\u00b0 24' 21.16152'' W"
+                },
+                "FIPS": {
+                    "county": "19193",
+                    "state": "19"
+                },
+                "MGRS": "14TQN1316608185",
+                "Maidenhead": "EN12tl19he",
+                "Mercator": {
+                    "x": -10731853.271,
+                    "y": 5206799.012
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=128576#map=17/42.49668/-96.40588",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.49668/-96.40588&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.49668&mlon=-96.40588#map=17/42.49668/-96.40588"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ze3y0r3h5x52rs5pxsj",
+                "qibla": 41.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713958200,
+                        "astronomical": 1713951840,
+                        "civil": 1713956400,
+                        "nautical": 1713954240
+                    },
+                    "set": {
+                        "apparent": 1713921480,
+                        "astronomical": 1713927840,
+                        "civil": 1713923280,
+                        "nautical": 1713925440
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "paint.dates.nation"
+                },
+                "wikidata": "Q489255"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.5654171,
+                    "lng": -96.2995598
+                },
+                "southwest": {
+                    "lat": 42.3700699,
+                    "lng": -96.4989872
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sioux City",
+                "_type": "city",
+                "city": "Sioux City",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Woodbury County",
+                "state": "Iowa",
+                "state_code": "IA"
+            },
+            "confidence": 5,
+            "formatted": "Sioux City, Iowa, United States of America",
+            "geometry": {
+                "lat": 42.4966815,
+                "lng": -96.4058782
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:10:04 GMT",
+        "created_unix": 1713993004
+    },
+    "total_results": 1
+}

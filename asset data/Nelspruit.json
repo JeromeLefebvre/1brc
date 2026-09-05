@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1729,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 28' 54.99840'' S",
+                    "lng": "30\u00b0 59' 4.99920'' E"
+                },
+                "MGRS": "36JTS9741280152",
+                "Maidenhead": "KG54lm84ei",
+                "Mercator": {
+                    "x": 3449203.475,
+                    "y": -2916680.416
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30211883#map=16/-25.48194/30.98472",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-25.48194/30.98472&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-25.48194&mlon=30.98472#map=16/-25.48194/30.98472"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "keqp114kum770v3uu97n",
+                "qibla": 11.16,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932220,
+                        "astronomical": 1713927540,
+                        "civil": 1713930780,
+                        "nautical": 1713929160
+                    },
+                    "set": {
+                        "apparent": 1713972660,
+                        "astronomical": 1713977340,
+                        "civil": 1713974100,
+                        "nautical": 1713975720
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "river.volume.beefed"
+                },
+                "wikidata": "Q170313"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -25.321944,
+                    "lng": 31.144722
+                },
+                "southwest": {
+                    "lat": -25.641944,
+                    "lng": 30.824722
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-MP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mbombela",
+                "_type": "city",
+                "city": "Mbombela",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Ehlanzeni District Municipality",
+                "postcode": "1201",
+                "state": "Mpumalanga",
+                "state_code": "MP"
+            },
+            "confidence": 3,
+            "formatted": "Mbombela, Ehlanzeni District Municipality, South Africa",
+            "geometry": {
+                "lat": -25.481944,
+                "lng": 30.984722
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:35:49 GMT",
+        "created_unix": 1713994549
+    },
+    "total_results": 1
+}

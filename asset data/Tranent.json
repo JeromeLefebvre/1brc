@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 263,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 56' 40.18992'' N",
+                    "lng": "2\u00b0 57' 12.57768'' W"
+                },
+                "MGRS": "30UWG0290499903",
+                "Maidenhead": "IO85mw56nq",
+                "Mercator": {
+                    "x": -328781.426,
+                    "y": 7511945.381
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=292318332#map=17/55.94450/-2.95349",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.94450/-2.95349&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.94450&mlon=-2.95349#map=17/55.94450/-2.95349"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcvykb3k6d5kufh2nx6q",
+                "qibla": 119.76,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714020120,
+                        "astronomical": 1714009500,
+                        "civil": 1714017600,
+                        "nautical": 1714014180
+                    },
+                    "set": {
+                        "apparent": 1714073940,
+                        "astronomical": 1714084740,
+                        "civil": 1714076460,
+                        "nautical": 1714079940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "earpiece.cries.explains"
+                },
+                "wikidata": "Q1011336"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.9844972,
+                    "lng": -2.9134938
+                },
+                "southwest": {
+                    "lat": 55.9044972,
+                    "lng": -2.9934938
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-ELN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tranent",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "East Lothian",
+                "county_code": "ELN",
+                "postcode": "EH33 1AF",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Tranent"
+            },
+            "confidence": 7,
+            "formatted": "Tranent, EH33 1AF, United Kingdom",
+            "geometry": {
+                "lat": 55.9444972,
+                "lng": -2.9534938
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:16:16 GMT",
+        "created_unix": 1714011376
+    },
+    "total_results": 1
+}

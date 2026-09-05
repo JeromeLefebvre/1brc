@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 184,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 17' 20.40000'' N",
+                    "lng": "62\u00b0 35' 2.76000'' E"
+                },
+                "MGRS": "41VMC7425538322",
+                "Maidenhead": "MO16hg09ci",
+                "Mercator": {
+                    "x": 6966830.144,
+                    "y": 7580590.867
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/56.28900/62.58410&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.28900&mlon=62.58410#map=16/56.28900/62.58410"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v6h80ph75npk11cxqe4r",
+                "qibla": 215.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713745620,
+                        "astronomical": 1713821820,
+                        "civil": 1713829500,
+                        "nautical": 1713826140
+                    },
+                    "set": {
+                        "apparent": 1713798660,
+                        "astronomical": 1713809040,
+                        "civil": 1713801180,
+                        "nautical": 1713804540
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "stopwatches.interactive.hybrid"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.3146095,
+                    "lng": 62.6270294
+                },
+                "southwest": {
+                    "lat": 56.2616959,
+                    "lng": 62.5221405
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Kataysk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Kurganskaya Oblast\u2019",
+                "town": "Kataysk"
+            },
+            "confidence": 7,
+            "formatted": "Kataysk, Kurganskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 56.289,
+                "lng": 62.5841
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:43:56 GMT",
+        "created_unix": 1713782636
+    },
+    "total_results": 1
+}

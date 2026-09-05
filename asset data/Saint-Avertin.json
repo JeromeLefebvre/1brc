@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1341,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 21' 27.72000'' N",
+                    "lng": "0\u00b0 44' 23.72280'' E"
+                },
+                "MGRS": "31TCN2933047391",
+                "Maidenhead": "JN07ii85su",
+                "Mercator": {
+                    "x": 82367.852,
+                    "y": 5969210.224
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRB"
+                    },
+                    "NUTS2": {
+                        "code": "FRB0"
+                    },
+                    "NUTS3": {
+                        "code": "FRB04"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=77336#map=17/47.35770/0.73992",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.35770/0.73992&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.35770&mlon=0.73992#map=17/47.35770/0.73992"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u02t2v4y97ns66rkkrt3",
+                "qibla": 115.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714452180,
+                        "astronomical": 1714444680,
+                        "civil": 1714450140,
+                        "nautical": 1714447560
+                    },
+                    "set": {
+                        "apparent": 1714503960,
+                        "astronomical": 1714511580,
+                        "civil": 1714506060,
+                        "nautical": 1714508580
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "shirts.dominate.grid"
+                },
+                "wikidata": "Q932130"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.3765983,
+                    "lng": 0.7638028
+                },
+                "southwest": {
+                    "lat": 47.3327624,
+                    "lng": 0.7045258
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-CVL",
+                    "FR-37"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saint-Avertin",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Indre-et-Loire",
+                "municipality": "Tours",
+                "political_union": "European Union",
+                "postcode": "37550",
+                "region": "Metropolitan France",
+                "state": "Centre-Val de Loire",
+                "state_code": "CVL",
+                "town": "Saint-Avertin"
+            },
+            "confidence": 7,
+            "formatted": "37550 Saint-Avertin, France",
+            "geometry": {
+                "lat": 47.3577,
+                "lng": 0.739923
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:54:16 GMT",
+        "created_unix": 1714521256
+    },
+    "total_results": 1
+}

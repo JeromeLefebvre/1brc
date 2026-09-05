@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1918,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 27' 48.73032'' N",
+                    "lng": "74\u00b0 21' 42.65964'' W"
+                },
+                "FIPS": {
+                    "county": "34023",
+                    "state": "34"
+                },
+                "MGRS": "18TWK5410279402",
+                "Maidenhead": "FN20tl61nf",
+                "Mercator": {
+                    "x": -8277923.265,
+                    "y": 4905797.178
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=170543#map=17/40.46354/-74.36185",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.46354/-74.36185&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.46354&mlon=-74.36185#map=17/40.46354/-74.36185"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5n5y5m5mcg7gd944st",
+                "qibla": 58.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711881780,
+                        "astronomical": 1711876140,
+                        "civil": 1711880100,
+                        "nautical": 1711878180
+                    },
+                    "set": {
+                        "apparent": 1711927260,
+                        "astronomical": 1711846440,
+                        "civil": 1711928880,
+                        "nautical": 1711844460
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "tile.remove.films"
+                },
+                "wikidata": "Q1013228"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.509307,
+                    "lng": -74.2438105
+                },
+                "southwest": {
+                    "lat": 40.4166027,
+                    "lng": -74.386158
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sayreville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Middlesex County",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "town": "Sayreville"
+            },
+            "confidence": 6,
+            "formatted": "Sayreville, New Jersey, United States of America",
+            "geometry": {
+                "lat": 40.4635362,
+                "lng": -74.3618499
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:46:35 GMT",
+        "created_unix": 1711917995
+    },
+    "total_results": 1
+}

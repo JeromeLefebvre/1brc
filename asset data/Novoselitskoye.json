@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1289,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 45' 2.98800'' N",
+                    "lng": "43\u00b0 26' 12.98400'' E"
+                },
+                "MGRS": "38TLQ7627456459",
+                "Maidenhead": "LN14rs20ke",
+                "Mercator": {
+                    "x": 4835378.042,
+                    "y": 5552286.152
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.75083/43.43694&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.75083&mlon=43.43694#map=17/44.75083/43.43694"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "szyys6tu6p3gp9tp3067",
+                "qibla": 188.45,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714442340,
+                        "astronomical": 1714435380,
+                        "civil": 1714440420,
+                        "nautical": 1714438020
+                    },
+                    "set": {
+                        "apparent": 1714493340,
+                        "astronomical": 1714500300,
+                        "civil": 1714495260,
+                        "nautical": 1714497660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "awarded.helicopter.blemished"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.7648201,
+                    "lng": 43.4653473
+                },
+                "southwest": {
+                    "lat": 44.734684,
+                    "lng": 43.4062347
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Novoselitskoye",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Stavropol\u2019skiy Kray",
+                "town": "Novoselitskoye"
+            },
+            "confidence": 7,
+            "formatted": "Novoselitskoye, Stavropol\u2019skiy Kray, Russia",
+            "geometry": {
+                "lat": 44.75083,
+                "lng": 43.43694
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:56:24 GMT",
+        "created_unix": 1714521384
+    },
+    "total_results": 1
+}

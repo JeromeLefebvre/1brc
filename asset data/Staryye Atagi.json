@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1825,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 5' 11.58000'' N",
+                    "lng": "45\u00b0 43' 13.26000'' E"
+                },
+                "MGRS": "38TNN5863270677",
+                "Maidenhead": "LN23uc60ks",
+                "Mercator": {
+                    "x": 5089566.081,
+                    "y": 5295957.624
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.08655/45.72035&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.08655&mlon=45.72035#map=17/43.08655/45.72035"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "tp8t07st375fhsb2ce08",
+                "qibla": 194.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714441980,
+                        "astronomical": 1714435380,
+                        "civil": 1714440120,
+                        "nautical": 1714437840
+                    },
+                    "set": {
+                        "apparent": 1714492560,
+                        "astronomical": 1714499220,
+                        "civil": 1714494420,
+                        "nautical": 1714496700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "jetting.cufflinks.rampant"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.1351967,
+                    "lng": 45.7505951
+                },
+                "southwest": {
+                    "lat": 43.1012764,
+                    "lng": 45.7235947
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Staryye Atagi",
+                "_type": "neighbourhood",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Chechnya",
+                "suburb": "Staryye Atagi"
+            },
+            "confidence": 7,
+            "formatted": "Staryye Atagi, Chechnya, Russia",
+            "geometry": {
+                "lat": 43.08655,
+                "lng": 45.72035
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:15:47 GMT",
+        "created_unix": 1714518947
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 876,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 20' 29.24700'' N",
+                    "lng": "64\u00b0 56' 0.66228'' W"
+                },
+                "FIPS": {
+                    "state": "78"
+                },
+                "MGRS": "20QKF9567929048",
+                "Maidenhead": "FK78mi71xw",
+                "Mercator": {
+                    "x": -7228366.081,
+                    "y": 2064115.481
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=255299#map=17/18.34146/-64.93352",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.34146/-64.93352&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.34146&mlon=-64.93352#map=17/18.34146/-64.93352"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "LATIN_AMERICA": "419",
+                        "VI": "850",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfb\ud83c\uddee",
+                "geohash": "de3b66uyerkpwx60mxyh",
+                "qibla": 64.92,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713607200,
+                        "astronomical": 1713602700,
+                        "civil": 1713605880,
+                        "nautical": 1713604320
+                    },
+                    "set": {
+                        "apparent": 1713652620,
+                        "astronomical": 1713657120,
+                        "civil": 1713654000,
+                        "nautical": 1713655560
+                    }
+                },
+                "timezone": {
+                    "name": "America/St_Thomas",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "exonerate.cure.helped"
+                },
+                "wikidata": "Q51681"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.348861,
+                    "lng": -64.9146473
+                },
+                "southwest": {
+                    "lat": 18.333702,
+                    "lng": -64.9480846
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "VI",
+                "ISO_3166-1_alpha-3": "VIR",
+                "ISO_3166-2": [
+                    "US-VI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Charlotte Amalie",
+                "_type": "city",
+                "city": "Charlotte Amalie",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Thomas - Saint John District",
+                "state": "US Virgin Islands",
+                "state_code": "VI"
+            },
+            "confidence": 7,
+            "formatted": "Charlotte Amalie, US Virgin Islands, United States of America",
+            "geometry": {
+                "lat": 18.3414575,
+                "lng": -64.9335173
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:32:00 GMT",
+        "created_unix": 1713648720
+    },
+    "total_results": 1
+}

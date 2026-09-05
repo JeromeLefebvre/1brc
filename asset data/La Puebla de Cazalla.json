@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2425,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 13' 19.18740'' N",
+                    "lng": "5\u00b0 18' 43.08048'' W"
+                },
+                "MGRS": "30STG9487422003",
+                "Maidenhead": "IM77if23ng",
+                "Mercator": {
+                    "x": -591325.439,
+                    "y": 4444246.425
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES6"
+                    },
+                    "NUTS2": {
+                        "code": "ES61"
+                    },
+                    "NUTS3": {
+                        "code": "ES618"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=340888#map=17/37.22200/-5.31197",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.22200/-5.31197&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.22200&mlon=-5.31197#map=17/37.22200/-5.31197"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "eys5z05cy5n3z5dby4pp",
+                "qibla": 99.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713764280,
+                        "astronomical": 1713758640,
+                        "civil": 1713762660,
+                        "nautical": 1713760680
+                    },
+                    "set": {
+                        "apparent": 1713812520,
+                        "astronomical": 1713818160,
+                        "civil": 1713814140,
+                        "nautical": 1713816120
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "hype.spelled.goodness"
+                },
+                "wikidata": "Q1146831"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.2650043,
+                    "lng": -5.1984902
+                },
+                "southwest": {
+                    "lat": 37.0604629,
+                    "lng": -5.3613315
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-AN",
+                    "ES-SE"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Puebla de Cazalla",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "41540",
+                "province": "Sevilla",
+                "state": "Andalusia",
+                "state_code": "AN",
+                "town": "La Puebla de Cazalla"
+            },
+            "confidence": 5,
+            "formatted": "41540 La Puebla de Cazalla, Spain",
+            "geometry": {
+                "lat": 37.2219965,
+                "lng": -5.3119668
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:11:29 GMT",
+        "created_unix": 1713744689
+    },
+    "total_results": 1
+}

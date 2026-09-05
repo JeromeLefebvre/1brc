@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 371,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 50' 20.38308'' N",
+                    "lng": "2\u00b0 43' 1.59096'' E"
+                },
+                "MGRS": "31UDQ7924209596",
+                "Maidenhead": "JN18iu61bi",
+                "Mercator": {
+                    "x": 302467.146,
+                    "y": 6215400.04
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR102"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=403039#map=17/48.83900/2.71711",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.83900/2.71711&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.83900&mlon=2.71711#map=17/48.83900/2.71711"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09vvffec0x4bx1py40n",
+                "qibla": 119.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796640,
+                        "astronomical": 1714788480,
+                        "civil": 1714794480,
+                        "nautical": 1714791780
+                    },
+                    "set": {
+                        "apparent": 1714849680,
+                        "astronomical": 1714857960,
+                        "civil": 1714851840,
+                        "nautical": 1714854660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "smiles.economies.passages"
+                },
+                "wikidata": "Q259382"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.85265,
+                    "lng": 2.7512923
+                },
+                "southwest": {
+                    "lat": 48.7971801,
+                    "lng": 2.6665323
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-77"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bussy-Saint-Georges",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Seine-et-Marne",
+                "municipality": "Torcy",
+                "political_union": "European Union",
+                "postcode": "77600",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Bussy-Saint-Georges"
+            },
+            "confidence": 7,
+            "formatted": "77600 Bussy-Saint-Georges, France",
+            "geometry": {
+                "lat": 48.8389953,
+                "lng": 2.7171086
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:03:36 GMT",
+        "created_unix": 1714795416
+    },
+    "total_results": 1
+}

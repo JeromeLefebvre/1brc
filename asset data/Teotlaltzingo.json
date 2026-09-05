@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 38,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 14' 0.38400'' N",
+                    "lng": "98\u00b0 30' 6.30000'' W"
+                },
+                "MGRS": "14QNG5236726732",
+                "Maidenhead": "EK09rf96sa",
+                "Mercator": {
+                    "x": -10965164.652,
+                    "y": 2168370.286
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.23344/-98.50175&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.23344&mlon=-98.50175#map=17/19.23344/-98.50175"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g3vqt34yv5dx714gqwd",
+                "qibla": 47.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713701580,
+                        "astronomical": 1713697020,
+                        "civil": 1713700200,
+                        "nautical": 1713698640
+                    },
+                    "set": {
+                        "apparent": 1713660780,
+                        "astronomical": 1713665340,
+                        "civil": 1713662100,
+                        "nautical": 1713663720
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "wagers.chaotic.wheeze"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.2479224,
+                    "lng": -98.49125
+                },
+                "southwest": {
+                    "lat": 19.2201728,
+                    "lng": -98.5107016
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Teotlaltzingo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Puebla",
+                "state_code": "PUE",
+                "town": "Teotlaltzingo"
+            },
+            "confidence": 7,
+            "formatted": "Teotlaltzingo, Puebla, Mexico",
+            "geometry": {
+                "lat": 19.23344,
+                "lng": -98.50175
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:50:59 GMT",
+        "created_unix": 1713667859
+    },
+    "total_results": 1
+}

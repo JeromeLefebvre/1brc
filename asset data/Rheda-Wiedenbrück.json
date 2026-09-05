@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2440,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 50' 34.15272'' N",
+                    "lng": "8\u00b0 17' 54.82140'' E"
+                },
+                "MGRS": "32UMC5167743789",
+                "Maidenhead": "JO41du52tg",
+                "Mercator": {
+                    "x": 923791.64,
+                    "y": 6738134.652
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA4"
+                    },
+                    "NUTS3": {
+                        "code": "DEA42"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=78727#map=17/51.84282/8.29856",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.84282/8.29856&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.84282&mlon=8.29856#map=17/51.84282/8.29856"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1jyuvdy66puqq8prdub",
+                "qibla": 129.29,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714104480,
+                        "astronomical": 1714095900,
+                        "civil": 1714102200,
+                        "nautical": 1714099320
+                    },
+                    "set": {
+                        "apparent": 1714156920,
+                        "astronomical": 1714165620,
+                        "civil": 1714159200,
+                        "nautical": 1714162140
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "rats.gross.panting"
+                },
+                "wikidata": "Q6896"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.8979135,
+                    "lng": 8.4018021
+                },
+                "southwest": {
+                    "lat": 51.7896083,
+                    "lng": 8.1996258
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rheda-Wiedenbr\u00fcck",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Kreis G\u00fctersloh",
+                "political_union": "European Union",
+                "postcode": "33378",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Rheda-Wiedenbr\u00fcck"
+            },
+            "confidence": 6,
+            "formatted": "33378 Rheda-Wiedenbr\u00fcck, Germany",
+            "geometry": {
+                "lat": 51.8428202,
+                "lng": 8.2985615
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 21:57:11 GMT",
+        "created_unix": 1714168631
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2426,
+        "reset": 1711670400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 11' 31.06428'' N",
+                    "lng": "89\u00b0 27' 17.42472'' W"
+                },
+                "FIPS": {
+                    "county": "55025",
+                    "state": "55"
+                },
+                "MGRS": "16TCN0053085057",
+                "Maidenhead": "EN53ge56kb",
+                "Mercator": {
+                    "x": -9958067.26,
+                    "y": 5311981.451
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=251460#map=17/43.19196/-89.45484",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.19196/-89.45484&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.19196&mlon=-89.45484#map=17/43.19196/-89.45484"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp8msqugrjke582k5vv1",
+                "qibla": 47.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711626360,
+                        "astronomical": 1711620540,
+                        "civil": 1711624680,
+                        "nautical": 1711622640
+                    },
+                    "set": {
+                        "apparent": 1711585200,
+                        "astronomical": 1711591020,
+                        "civil": 1711586880,
+                        "nautical": 1711588920
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "terms.phones.even"
+                },
+                "wikidata": "Q1246532"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.2067093,
+                    "lng": -89.3818852
+                },
+                "southwest": {
+                    "lat": 43.1593601,
+                    "lng": -89.4815327
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Waunakee",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dane County",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "Waunakee"
+            },
+            "confidence": 7,
+            "formatted": "Waunakee, Wisconsin, United States of America",
+            "geometry": {
+                "lat": 43.1919623,
+                "lng": -89.4548402
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 28 Mar 2024 04:14:08 GMT",
+        "created_unix": 1711599248
+    },
+    "total_results": 1
+}

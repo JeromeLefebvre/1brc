@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1820,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 54' 34.79760'' N",
+                    "lng": "97\u00b0 9' 1.39140'' W"
+                },
+                "FIPS": {
+                    "county": "48409",
+                    "state": "48"
+                },
+                "MGRS": "14RPR8202788571",
+                "Maidenhead": "EL17kv18wh",
+                "Mercator": {
+                    "x": -10814731.556,
+                    "y": 3217593.846
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3496792#map=16/27.90967/-97.15039",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/27.90967/-97.15039&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.90967&mlon=-97.15039#map=16/27.90967/-97.15039"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ufyv2c1xfv6skupxn1u",
+                "qibla": 44.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714909560,
+                        "astronomical": 1714904460,
+                        "civil": 1714908060,
+                        "nautical": 1714906260
+                    },
+                    "set": {
+                        "apparent": 1714871100,
+                        "astronomical": 1714876200,
+                        "civil": 1714872600,
+                        "nautical": 1714874340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "indoors.target.shoppers"
+                },
+                "wikidata": "Q626054"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.951577,
+                    "lng": -97.049964
+                },
+                "southwest": {
+                    "lat": 27.8190539,
+                    "lng": -97.1921517
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Aransas Pass",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Patricio County",
+                "postcode": "78336",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "Aransas Pass"
+            },
+            "confidence": 6,
+            "formatted": "Aransas Pass, TX 78336, United States of America",
+            "geometry": {
+                "lat": 27.909666,
+                "lng": -97.1503865
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:13:58 GMT",
+        "created_unix": 1714900438
+    },
+    "total_results": 1
+}

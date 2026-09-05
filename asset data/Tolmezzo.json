@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1995,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 24' 19.32336'' N",
+                    "lng": "13\u00b0 0' 57.00852'' E"
+                },
+                "MGRS": "33TUM4748841001",
+                "Maidenhead": "JN66mj17vg",
+                "Mercator": {
+                    "x": 1448916.202,
+                    "y": 5814589.858
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH4"
+                    },
+                    "NUTS3": {
+                        "code": "ITH42"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=66503352#map=17/46.40537/13.01584",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.40537/13.01584&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.40537&mlon=13.01584#map=17/46.40537/13.01584"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u21rbpvffgw830bm9jkb",
+                "qibla": 129.8,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535700,
+                        "astronomical": 1714528320,
+                        "civil": 1714533660,
+                        "nautical": 1714531200
+                    },
+                    "set": {
+                        "apparent": 1714587360,
+                        "astronomical": 1714594740,
+                        "civil": 1714589400,
+                        "nautical": 1714591920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "done.avoid.goals"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.4453676,
+                    "lng": 13.0558357
+                },
+                "southwest": {
+                    "lat": 46.3653676,
+                    "lng": 12.9758357
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-36",
+                    "IT-UD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tolmezzo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Udine",
+                "political_union": "European Union",
+                "postcode": "33028",
+                "state": "Friuli \u2013 Venezia Giulia",
+                "town": "Tolmezzo"
+            },
+            "confidence": 7,
+            "formatted": "33028 Tolmezzo Udine, Italy",
+            "geometry": {
+                "lat": 46.4053676,
+                "lng": 13.0158357
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:21:26 GMT",
+        "created_unix": 1714522886
+    },
+    "total_results": 1
+}

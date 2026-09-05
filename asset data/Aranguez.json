@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1236,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 38' 27.09384'' N",
+                    "lng": "61\u00b0 26' 34.75464'' W"
+                },
+                "MGRS": "20PPS7031676696",
+                "Maidenhead": "FK90gp63ut",
+                "Mercator": {
+                    "x": -6839802.07,
+                    "y": 1183518.875
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1919830445#map=17/10.64086/-61.44299",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.64086/-61.44299&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.64086&mlon=-61.44299#map=17/10.64086/-61.44299"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "LATIN_AMERICA": "419",
+                        "TT": "780",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "TT$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "TT$",
+                    "format": "%n %u",
+                    "html_entity": "$",
+                    "iso_code": "TTD",
+                    "iso_numeric": "780",
+                    "name": "Trinidad and Tobago Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf9",
+                "geohash": "d9uk9c4e6xgyy1j49gkz",
+                "qibla": 66.73,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711793100,
+                        "astronomical": 1711788900,
+                        "civil": 1711791840,
+                        "nautical": 1711790340
+                    },
+                    "set": {
+                        "apparent": 1711836960,
+                        "astronomical": 1711841160,
+                        "civil": 1711838220,
+                        "nautical": 1711839660
+                    }
+                },
+                "timezone": {
+                    "name": "America/Port_of_Spain",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "invisible.moment.mend"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.6508594,
+                    "lng": -61.4329874
+                },
+                "southwest": {
+                    "lat": 10.6308594,
+                    "lng": -61.4529874
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TT",
+                "ISO_3166-1_alpha-3": "TTO",
+                "ISO_3166-2": [
+                    "TT-SJL"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Juan",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "Trinidad and Tobago",
+                "country_code": "tt",
+                "postcode": "120110",
+                "quarter": "Aranguez",
+                "state": "San Juan-Laventille",
+                "state_code": "SJL",
+                "town": "San Juan"
+            },
+            "confidence": 7,
+            "formatted": "San Juan, 120110, Trinidad and Tobago",
+            "geometry": {
+                "lat": 10.6408594,
+                "lng": -61.4429874
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:12:16 GMT",
+        "created_unix": 1711833136
+    },
+    "total_results": 1
+}

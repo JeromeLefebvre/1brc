@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 256,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 9' 22.02840'' N",
+                    "lng": "5\u00b0 38' 0.90600'' W"
+                },
+                "MGRS": "30STA5162860779",
+                "Maidenhead": "IM72ed37xl",
+                "Mercator": {
+                    "x": -627127.814,
+                    "y": 3761081.883
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2827179#map=16/32.15612/-5.63359",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.15612/-5.63359&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.15612&mlon=-5.63359#map=16/32.15612/-5.63359"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "eveyzvcdzzn93zt7x526",
+                "qibla": 93.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714023780,
+                        "astronomical": 1714018500,
+                        "civil": 1714022220,
+                        "nautical": 1714020420
+                    },
+                    "set": {
+                        "apparent": 1714071480,
+                        "astronomical": 1714076760,
+                        "civil": 1714073040,
+                        "nautical": 1714074840
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "render.mozzarella.tearooms"
+                },
+                "wikidata": "Q2676569"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.2399336,
+                    "lng": -5.3807756
+                },
+                "southwest": {
+                    "lat": 31.8683693,
+                    "lng": -5.8881787
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "ISO_3166-2": [
+                    "MA-08",
+                    "MA-MID"
+                ],
+                "_category": "place",
+                "_normalized_city": "Imilchil",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "cercle d'Imilchil",
+                "municipality": "ca\u00efdat d'Imilchil",
+                "region": "Dr\u00e2a-Tafilalet",
+                "state_district": "Midelt Province",
+                "town": "Imilchil"
+            },
+            "confidence": 2,
+            "formatted": "Imilchil, cercle d'Imilchil, Morocco",
+            "geometry": {
+                "lat": 32.156119,
+                "lng": -5.633585
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:16:31 GMT",
+        "created_unix": 1714011391
+    },
+    "total_results": 1
+}

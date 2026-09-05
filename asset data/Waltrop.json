@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 283,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 37' 25.48416'' N",
+                    "lng": "7\u00b0 24' 3.45240'' E"
+                },
+                "MGRS": "32ULC8931020402",
+                "Maidenhead": "JO31qo89cq",
+                "Mercator": {
+                    "x": 823870.987,
+                    "y": 6698858.774
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA3"
+                    },
+                    "NUTS3": {
+                        "code": "DEA36"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=63510#map=17/51.62375/7.40096",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.62375/7.40096&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.62375&mlon=7.40096#map=17/51.62375/7.40096"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1jm8mv4ngej865msr1s",
+                "qibla": 127.95,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713500760,
+                        "astronomical": 1713492780,
+                        "civil": 1713498600,
+                        "nautical": 1713495900
+                    },
+                    "set": {
+                        "apparent": 1713551640,
+                        "astronomical": 1713559680,
+                        "civil": 1713553800,
+                        "nautical": 1713556500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "cheered.meaning.fence"
+                },
+                "wikidata": "Q161575"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.662764,
+                    "lng": 7.4652912
+                },
+                "southwest": {
+                    "lat": 51.5869781,
+                    "lng": 7.3190736
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Waltrop",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Kreis Recklinghausen",
+                "political_union": "European Union",
+                "postcode": "45731",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Waltrop"
+            },
+            "confidence": 7,
+            "formatted": "45731 Waltrop, Germany",
+            "geometry": {
+                "lat": 51.6237456,
+                "lng": 7.400959
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:32:26 GMT",
+        "created_unix": 1713522746
+    },
+    "total_results": 1
+}

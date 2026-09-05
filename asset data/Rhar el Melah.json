@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2441,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 10' 9.80400'' N",
+                    "lng": "10\u00b0 11' 26.30400'' E"
+                },
+                "MGRS": "32SPG0570514327",
+                "Maidenhead": "JM57ce20vp",
+                "Mercator": {
+                    "x": 1134416.856,
+                    "y": 4436926.097
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.16939/10.19064&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.16939&mlon=10.19064#map=17/37.16939/10.19064"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NORTHERN_AFRICA": "015",
+                        "TN": "788",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 216,
+                "currency": {
+                    "alternate_symbols": [
+                        "TD",
+                        "DT"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "TND",
+                    "iso_numeric": "788",
+                    "name": "Tunisian Dinar",
+                    "smallest_denomination": 10,
+                    "subunit": "Millime",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u062f.\u062a",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf3",
+                "geohash": "snx5rykx7h7zvg9v48hv",
+                "qibla": 113.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713674280,
+                        "astronomical": 1713668640,
+                        "civil": 1713672600,
+                        "nautical": 1713670680
+                    },
+                    "set": {
+                        "apparent": 1713722340,
+                        "astronomical": 1713727980,
+                        "civil": 1713723960,
+                        "nautical": 1713725940
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Tunis",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "secrets.restart.preferably"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.190063,
+                    "lng": 10.24887
+                },
+                "southwest": {
+                    "lat": 37.156418,
+                    "lng": 10.173854
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TN",
+                "ISO_3166-1_alpha-3": "TUN",
+                "_category": "place",
+                "_normalized_city": "Gh\u0101r al Mil\u1e29",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Tunisia",
+                "country_code": "tn",
+                "state": "Gouvernorat de Bizerte",
+                "town": "Gh\u0101r al Mil\u1e29"
+            },
+            "confidence": 7,
+            "formatted": "Gh\u0101r al Mil\u1e29, Gouvernorat de Bizerte, Tunisia",
+            "geometry": {
+                "lat": 37.16939,
+                "lng": 10.19064
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:12:44 GMT",
+        "created_unix": 1713661964
+    },
+    "total_results": 1
+}

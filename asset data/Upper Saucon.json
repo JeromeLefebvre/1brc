@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1154,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 32' 0.63240'' N",
+                    "lng": "75\u00b0 24' 22.27140'' W"
+                },
+                "FIPS": {
+                    "county": "42077",
+                    "state": "42"
+                },
+                "MGRS": "18TVK6559987053",
+                "Maidenhead": "FN20hm18gb",
+                "Mercator": {
+                    "x": -8394178.284,
+                    "y": 4916000.852
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3450168#map=17/40.53351/-75.40619",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.53351/-75.40619&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.53351&mlon=-75.40619#map=17/40.53351/-75.40619"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4qs4fuu98p9vqm2drq",
+                "qibla": 57.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713953400,
+                        "astronomical": 1713947340,
+                        "civil": 1713951660,
+                        "nautical": 1713949560
+                    },
+                    "set": {
+                        "apparent": 1714002600,
+                        "astronomical": 1713922320,
+                        "civil": 1713917940,
+                        "nautical": 1713920040
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "updated.tools.crusaders"
+                },
+                "wikidata": "Q7898906"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.5811535,
+                    "lng": -75.3330483
+                },
+                "southwest": {
+                    "lat": 40.4879842,
+                    "lng": -75.475837
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Upper Saucon",
+                "_type": "city",
+                "city": "Upper Saucon",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lehigh County",
+                "state": "Pennsylvania",
+                "state_code": "PA"
+            },
+            "confidence": 6,
+            "formatted": "Upper Saucon, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.533509,
+                "lng": -75.4061865
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:55:32 GMT",
+        "created_unix": 1713995732
+    },
+    "total_results": 1
+}

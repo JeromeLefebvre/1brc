@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2475,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 30' 23.32296'' N",
+                    "lng": "13\u00b0 4' 56.39628'' E"
+                },
+                "MGRS": "33SUB3050352787",
+                "Maidenhead": "JM67mm91vn",
+                "Mercator": {
+                    "x": 1456318.57,
+                    "y": 4483922.415
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITG"
+                    },
+                    "NUTS2": {
+                        "code": "ITG1"
+                    },
+                    "NUTS3": {
+                        "code": "ITG14"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=39255#map=17/37.50648/13.08233",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.50648/13.08233&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.50648&mlon=13.08233#map=17/37.50648/13.08233"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sq9m3ey706mgxwn00vsh",
+                "qibla": 117.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714882140,
+                        "astronomical": 1714876140,
+                        "civil": 1714880460,
+                        "nautical": 1714878360
+                    },
+                    "set": {
+                        "apparent": 1714932000,
+                        "astronomical": 1714938000,
+                        "civil": 1714933740,
+                        "nautical": 1714935780
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "nets.conclude.stick"
+                },
+                "wikidata": "Q432681"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.6345047,
+                    "lng": 13.2244413
+                },
+                "southwest": {
+                    "lat": 37.4640527,
+                    "lng": 12.9904829
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-82",
+                    "IT-AG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sciacca",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Agrigento",
+                "county_code": "AG",
+                "political_union": "European Union",
+                "postcode": "92019",
+                "state": "Sicily",
+                "town": "Sciacca"
+            },
+            "confidence": 5,
+            "formatted": "92019 Sciacca AG, Italy",
+            "geometry": {
+                "lat": 37.5064786,
+                "lng": 13.0823323
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:48:51 GMT",
+        "created_unix": 1714891731
+    },
+    "total_results": 1
+}

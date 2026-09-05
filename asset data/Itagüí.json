@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 736,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "6\u00b0 10' 20.76672'' N",
+                    "lng": "75\u00b0 36' 33.57144'' W"
+                },
+                "MGRS": "18NVM3258682304",
+                "Maidenhead": "FJ26ee61vj",
+                "Mercator": {
+                    "x": -8416791.603,
+                    "y": 683854.254
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1343279#map=17/6.17244/-75.60933",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/6.17244/-75.60933&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=6.17244&mlon=-75.60933#map=17/6.17244/-75.60933"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CO": "170",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 57,
+                "currency": {
+                    "alternate_symbols": [
+                        "COL$"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "COL$",
+                    "html_entity": "&#36;",
+                    "iso_code": "COP",
+                    "iso_numeric": "170",
+                    "name": "Colombian Peso",
+                    "smallest_denomination": 20,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf4",
+                "geohash": "d345p7wvp12dnvr58h0x",
+                "qibla": 64.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819740,
+                        "astronomical": 1714815420,
+                        "civil": 1714818480,
+                        "nautical": 1714816980
+                    },
+                    "set": {
+                        "apparent": 1714864140,
+                        "astronomical": 1714782060,
+                        "civil": 1714865460,
+                        "nautical": 1714866960
+                    }
+                },
+                "timezone": {
+                    "name": "America/Bogota",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "month.racks.elevate"
+                },
+                "wikidata": "Q1527934"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 6.1992822,
+                    "lng": -75.5808649
+                },
+                "southwest": {
+                    "lat": 6.1536506,
+                    "lng": -75.6462984
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CO",
+                "ISO_3166-1_alpha-3": "COL",
+                "ISO_3166-2": [
+                    "CO-ANT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Itag\u00fc\u00ed",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Colombia",
+                "country_code": "co",
+                "region": "RAP del Agua y la Monta\u00f1a",
+                "state": "Antioquia",
+                "state_code": "ANT",
+                "state_district": "Valle de Aburr\u00e1",
+                "town": "Itag\u00fc\u00ed"
+            },
+            "confidence": 7,
+            "formatted": "Itag\u00fc\u00ed, Valle de Aburr\u00e1, Colombia",
+            "geometry": {
+                "lat": 6.1724352,
+                "lng": -75.6093254
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:50:02 GMT",
+        "created_unix": 1714794602
+    },
+    "total_results": 1
+}

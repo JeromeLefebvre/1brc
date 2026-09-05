@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 606,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 28' 6.48480'' N",
+                    "lng": "5\u00b0 55' 57.64188'' E"
+                },
+                "MGRS": "31UGQ1247083669",
+                "Maidenhead": "JN29xl12wk",
+                "Mercator": {
+                    "x": 660422.727,
+                    "y": 6322233.468
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRF"
+                    },
+                    "NUTS2": {
+                        "code": "FRF3"
+                    },
+                    "NUTS3": {
+                        "code": "FRF31"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=113130#map=17/49.46847/5.93268",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.46847/5.93268&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.46847&mlon=5.93268#map=17/49.46847/5.93268"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u0u1rj2n9qv9fhw6vcgb",
+                "qibla": 123.98,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795800,
+                        "astronomical": 1714787400,
+                        "civil": 1714793580,
+                        "nautical": 1714790760
+                    },
+                    "set": {
+                        "apparent": 1714849020,
+                        "astronomical": 1714857540,
+                        "civil": 1714851240,
+                        "nautical": 1714854060
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "headliners.hops.abbreviated"
+                },
+                "wikidata": "Q733313"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.4854947,
+                    "lng": 5.9428684
+                },
+                "southwest": {
+                    "lat": 49.4466006,
+                    "lng": 5.9118925
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-GES",
+                    "FR-54"
+                ],
+                "_category": "place",
+                "_normalized_city": "Villerupt",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Meurthe-et-Moselle",
+                "municipality": "Val-de-Briey",
+                "political_union": "European Union",
+                "postcode": "54190",
+                "region": "Metropolitan France",
+                "state": "Grand Est",
+                "state_code": "GES",
+                "town": "Villerupt"
+            },
+            "confidence": 7,
+            "formatted": "54190 Villerupt, France",
+            "geometry": {
+                "lat": 49.468468,
+                "lng": 5.9326783
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:54:51 GMT",
+        "created_unix": 1714794891
+    },
+    "total_results": 1
+}

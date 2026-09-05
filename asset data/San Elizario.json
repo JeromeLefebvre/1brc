@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2005,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 35' 13.13808'' N",
+                    "lng": "106\u00b0 15' 57.63960'' W"
+                },
+                "FIPS": {
+                    "county": "48141",
+                    "state": "48"
+                },
+                "MGRS": "13RCQ7988195352",
+                "Maidenhead": "DM61uo80bv",
+                "Mercator": {
+                    "x": -11829478.233,
+                    "y": 3686838.548
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=13082959#map=17/31.58698/-106.26601",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.58698/-106.26601&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.58698&mlon=-106.26601#map=17/31.58698/-106.26601"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ts7ty5rw2r5gd183n3f",
+                "qibla": 35.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711803360,
+                        "astronomical": 1711798440,
+                        "civil": 1711801920,
+                        "nautical": 1711800180
+                    },
+                    "set": {
+                        "apparent": 1711761780,
+                        "astronomical": 1711766700,
+                        "civil": 1711763220,
+                        "nautical": 1711764960
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "interacts.dismisses.dilute"
+                },
+                "wikidata": "Q970898"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.6100134,
+                    "lng": -106.2322003
+                },
+                "southwest": {
+                    "lat": 31.5452573,
+                    "lng": -106.2967855
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Elizario",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "El Paso County",
+                "postcode": "79849",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "San Elizario"
+            },
+            "confidence": 7,
+            "formatted": "San Elizario, TX 79849, United States of America",
+            "geometry": {
+                "lat": 31.5869828,
+                "lng": -106.266011
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:47:51 GMT",
+        "created_unix": 1711831671
+    },
+    "total_results": 1
+}

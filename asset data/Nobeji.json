@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 645,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 52' 0.01200'' N",
+                    "lng": "141\u00b0 7' 33.99600'' E"
+                },
+                "MGRS": "54TWL1062723963",
+                "Maidenhead": "QN00nu58da",
+                "Mercator": {
+                    "x": 15710086.703,
+                    "y": 4964731.501
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.86667/141.12611&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.86667&mlon=141.12611#map=17/40.86667/141.12611"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xpk27rscseqwnkdzqgrz",
+                "qibla": 293.43,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714937460,
+                        "astronomical": 1714931040,
+                        "civil": 1714935660,
+                        "nautical": 1714933440
+                    },
+                    "set": {
+                        "apparent": 1714901700,
+                        "astronomical": 1714908120,
+                        "civil": 1714903500,
+                        "nautical": 1714905720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "subordinates.pronounces.graphs"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Nobeji",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "state": "Aomori",
+                "town": "Nobeji"
+            },
+            "confidence": 9,
+            "formatted": "Nobeji, Aomori, Japan",
+            "geometry": {
+                "lat": 40.86667,
+                "lng": 141.12611
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:34:35 GMT",
+        "created_unix": 1714948475
+    },
+    "total_results": 1
+}

@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 959,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 9' 19.36512'' N",
+                    "lng": "80\u00b0 53' 0.87720'' W"
+                },
+                "MGRS": "17TNJ0930989137",
+                "Maidenhead": "EN94nd37xg",
+                "Mercator": {
+                    "x": -9003918.601,
+                    "y": 5459743.285
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7478452#map=17/44.15538/-80.88358",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.15538/-80.88358&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.15538&mlon=-80.88358#map=17/44.15538/-80.88358"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "dpy7pqnrsp38qsp4mw8z",
+                "qibla": 53.45,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040640,
+                        "astronomical": 1714033980,
+                        "civil": 1714038780,
+                        "nautical": 1714036500
+                    },
+                    "set": {
+                        "apparent": 1714004400,
+                        "astronomical": 1714011060,
+                        "civil": 1714006260,
+                        "nautical": 1714008540
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "password.keepers.ordered"
+                },
+                "wikidata": "Q3492075"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.3424049,
+                    "lng": -80.623695
+                },
+                "southwest": {
+                    "lat": 43.9678634,
+                    "lng": -81.0694145
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-ON"
+                ],
+                "_category": "place",
+                "_normalized_city": "West Grey",
+                "_type": "city",
+                "city": "West Grey",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Grey County",
+                "state": "Ontario",
+                "state_code": "ON"
+            },
+            "confidence": 3,
+            "formatted": "West Grey, ON, Canada",
+            "geometry": {
+                "lat": 44.1553792,
+                "lng": -80.883577
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:09:08 GMT",
+        "created_unix": 1714007348
+    },
+    "total_results": 1
+}

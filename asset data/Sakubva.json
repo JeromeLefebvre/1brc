@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1342,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 59' 41.36784'' S",
+                    "lng": "32\u00b0 38' 26.67444'' E"
+                },
+                "MGRS": "36KVD6218699706",
+                "Maidenhead": "KH61ha61vf",
+                "Mercator": {
+                    "x": 3633550.879,
+                    "y": -2140425.939
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=4664487378#map=17/-18.99482/32.64074",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-18.99482/32.64074&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-18.99482&mlon=32.64074#map=17/-18.99482/32.64074"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZW": "716"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 263,
+                "flag": "\ud83c\uddff\ud83c\uddfc",
+                "geohash": "ksx5yy070kjfysu48uf2",
+                "qibla": 10.22,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711857420,
+                        "astronomical": 1711853040,
+                        "civil": 1711856100,
+                        "nautical": 1711854600
+                    },
+                    "set": {
+                        "apparent": 1711900200,
+                        "astronomical": 1711904520,
+                        "civil": 1711901520,
+                        "nautical": 1711903020
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Harare",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "musical.skimmers.parting"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -18.9748244,
+                    "lng": 32.6607429
+                },
+                "southwest": {
+                    "lat": -19.0148244,
+                    "lng": 32.6207429
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZW",
+                "ISO_3166-1_alpha-3": "ZWE",
+                "ISO_3166-2": [
+                    "ZW-MA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mutare",
+                "_type": "neighbourhood",
+                "city": "Mutare",
+                "continent": "Africa",
+                "country": "Zimbabwe",
+                "country_code": "zw",
+                "county": "Mutare",
+                "state": "Manicaland Province",
+                "suburb": "Sakubva"
+            },
+            "confidence": 7,
+            "formatted": "Sakubva, Mutare, Zimbabwe",
+            "geometry": {
+                "lat": -18.9948244,
+                "lng": 32.6407429
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:05:42 GMT",
+        "created_unix": 1711919142
+    },
+    "total_results": 1
+}

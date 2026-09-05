@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 907,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 5' 49.09920'' N",
+                    "lng": "71\u00b0 27' 55.36080'' W"
+                },
+                "FIPS": {
+                    "county": "33013",
+                    "state": "33"
+                },
+                "MGRS": "19TBH9936374533",
+                "Maidenhead": "FN43gc43dg",
+                "Mercator": {
+                    "x": -7955489.488,
+                    "y": 5297540.644
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=308153#map=17/43.09697/-71.46538",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.09697/-71.46538&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.09697&mlon=-71.46538#map=17/43.09697/-71.46538"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drtjjv86pczgg3th56uw",
+                "qibla": 60.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714642680,
+                        "astronomical": 1714635960,
+                        "civil": 1714640820,
+                        "nautical": 1714638540
+                    },
+                    "set": {
+                        "apparent": 1714693680,
+                        "astronomical": 1714614060,
+                        "civil": 1714609140,
+                        "nautical": 1714611480
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "prying.uncool.sliding"
+                },
+                "wikidata": "Q2418271"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.1222516,
+                    "lng": -71.3561163
+                },
+                "southwest": {
+                    "lat": 43.0093035,
+                    "lng": -71.5174767
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hooksett",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Merrimack County",
+                "postcode": "03106",
+                "state": "New Hampshire",
+                "state_code": "NH",
+                "town": "Hooksett"
+            },
+            "confidence": 6,
+            "formatted": "Hooksett, NH 03106, United States of America",
+            "geometry": {
+                "lat": 43.096972,
+                "lng": -71.465378
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:59:32 GMT",
+        "created_unix": 1714694372
+    },
+    "total_results": 1
+}

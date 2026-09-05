@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2147,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "9\u00b0 45' 58.60080'' N",
+                    "lng": "1\u00b0 6' 30.27240'' E"
+                },
+                "MGRS": "31PBL9250780152",
+                "Maidenhead": "JJ09ns33av",
+                "Mercator": {
+                    "x": 123387.525,
+                    "y": 1085236.968
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1947343028#map=17/9.76628/1.10841",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/9.76628/1.10841&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=9.76628&mlon=1.10841#map=17/9.76628/1.10841"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "TG": "768",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LDC"
+                    ]
+                },
+                "callingcode": 228,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddec",
+                "geohash": "s18z91zhey1tsbt7qhcn",
+                "qibla": 67.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714628340,
+                        "astronomical": 1714623960,
+                        "civil": 1714627020,
+                        "nautical": 1714625520
+                    },
+                    "set": {
+                        "apparent": 1714673160,
+                        "astronomical": 1714677540,
+                        "civil": 1714674480,
+                        "nautical": 1714675980
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Lome",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "seriously.earphones.notched"
+                },
+                "wikidata": "Q201342"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 9.806278,
+                    "lng": 1.148409
+                },
+                "southwest": {
+                    "lat": 9.726278,
+                    "lng": 1.068409
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TG",
+                "ISO_3166-1_alpha-3": "TGO",
+                "ISO_3166-2": [
+                    "TG-K"
+                ],
+                "_category": "place",
+                "_normalized_city": "Niamtougou",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Togo",
+                "country_code": "tg",
+                "county": "Doufelgou",
+                "state": "Kara Region",
+                "town": "Niamtougou"
+            },
+            "confidence": 7,
+            "formatted": "Niamtougou, Doufelgou, Togo",
+            "geometry": {
+                "lat": 9.766278,
+                "lng": 1.108409
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:14:39 GMT",
+        "created_unix": 1714691679
+    },
+    "total_results": 1
+}

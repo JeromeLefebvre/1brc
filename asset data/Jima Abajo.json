@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1610,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 7' 52.99644'' N",
+                    "lng": "70\u00b0 22' 22.57248'' W"
+                },
+                "MGRS": "19QCB5560115932",
+                "Maidenhead": "FK49td51fm",
+                "Mercator": {
+                    "x": -7833879.49,
+                    "y": 2156413.936
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7373852#map=16/19.13139/-70.37294",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/19.13139/-70.37294&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.13139&mlon=-70.37294#map=16/19.13139/-70.37294"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7muydgbrtpn1g2yr7jy",
+                "qibla": 62.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713694800,
+                        "astronomical": 1713690300,
+                        "civil": 1713693480,
+                        "nautical": 1713691860
+                    },
+                    "set": {
+                        "apparent": 1713740400,
+                        "astronomical": 1713658560,
+                        "civil": 1713741720,
+                        "nautical": 1713743340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "rifling.scruffy.trifles"
+                },
+                "wikidata": "Q3808393"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.1874665,
+                    "lng": -70.3228798
+                },
+                "southwest": {
+                    "lat": 19.0493228,
+                    "lng": -70.4807267
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jima Abajo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "La Vega",
+                "town": "Jima Abajo"
+            },
+            "confidence": 5,
+            "formatted": "Jima Abajo, La Vega, Dominican Republic",
+            "geometry": {
+                "lat": 19.1313879,
+                "lng": -70.3729368
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:45:58 GMT",
+        "created_unix": 1713663958
+    },
+    "total_results": 1
+}

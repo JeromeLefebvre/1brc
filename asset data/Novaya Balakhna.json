@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2238,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 29' 23.60400'' N",
+                    "lng": "43\u00b0 36' 4.10400'' E"
+                },
+                "MGRS": "38VMH1386661481",
+                "Maidenhead": "LO16tl27dn",
+                "Mercator": {
+                    "x": 4853656.703,
+                    "y": 7620907.283
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/56.48989/43.60114&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.48989&mlon=43.60114#map=16/56.48989/43.60114"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ufp125tmknwrs6befvez",
+                "qibla": 186.11,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713750120,
+                        "astronomical": 1713826140,
+                        "civil": 1713747600,
+                        "nautical": 1713744240
+                    },
+                    "set": {
+                        "apparent": 1713803280,
+                        "astronomical": 1713813840,
+                        "civil": 1713805800,
+                        "nautical": 1713809220
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "fixated.ship.reclaim"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Balakhna",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Nizhegorodskaya Oblast\u2019",
+                "town": "Balakhna"
+            },
+            "confidence": 9,
+            "formatted": "Balakhna, Nizhegorodskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 56.48989,
+                "lng": 43.60114
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:18:57 GMT",
+        "created_unix": 1713745137
+    },
+    "total_results": 1
+}

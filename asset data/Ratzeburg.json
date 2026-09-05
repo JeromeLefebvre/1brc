@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1855,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 42' 3.98196'' N",
+                    "lng": "10\u00b0 46' 27.43680'' E"
+                },
+                "MGRS": "32UPE1712951729",
+                "Maidenhead": "JO53jq28vg",
+                "Mercator": {
+                    "x": 1199388.254,
+                    "y": 7079289.611
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEF"
+                    },
+                    "NUTS2": {
+                        "code": "DEF0"
+                    },
+                    "NUTS3": {
+                        "code": "DEF06"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1471100#map=16/53.70111/10.77429",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/53.70111/10.77429&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.70111&mlon=10.77429#map=16/53.70111/10.77429"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1x9mpvxe5erts3k5sp1",
+                "qibla": 134.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714017300,
+                        "astronomical": 1714008000,
+                        "civil": 1714014900,
+                        "nautical": 1714011840
+                    },
+                    "set": {
+                        "apparent": 1714070160,
+                        "astronomical": 1714079580,
+                        "civil": 1714072560,
+                        "nautical": 1714075680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "harmed.candlelit.anteater"
+                },
+                "wikidata": "Q490025"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.7814364,
+                    "lng": 10.8268765
+                },
+                "southwest": {
+                    "lat": 53.6702922,
+                    "lng": 10.7266958
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-SH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ratzeburg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Herzogtum Lauenburg",
+                "political_union": "European Union",
+                "state": "Schleswig-Holstein",
+                "state_code": "SH",
+                "town": "Ratzeburg"
+            },
+            "confidence": 7,
+            "formatted": "Ratzeburg, Schleswig-Holstein, Germany",
+            "geometry": {
+                "lat": 53.7011061,
+                "lng": 10.774288
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:29:11 GMT",
+        "created_unix": 1714004951
+    },
+    "total_results": 1
+}

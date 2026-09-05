@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 3,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 15' 11.39076'' N",
+                    "lng": "70\u00b0 9' 56.99556'' W"
+                },
+                "MGRS": "19QCA7675218587",
+                "Maidenhead": "FK48wg00cs",
+                "Mercator": {
+                    "x": -7810824.7,
+                    "y": 2053825.811
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7159795#map=17/18.25316/-70.16583",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.25316/-70.16583&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.25316&mlon=-70.16583#map=17/18.25316/-70.16583"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7npg6fu3s7t06t4s285",
+                "qibla": 62.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714903920,
+                        "astronomical": 1714899300,
+                        "civil": 1714902540,
+                        "nautical": 1714900920
+                    },
+                    "set": {
+                        "apparent": 1714950180,
+                        "astronomical": 1714868400,
+                        "civil": 1714951500,
+                        "nautical": 1714953180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "courier.assassins.ballparks"
+                },
+                "wikidata": "Q3944201"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.2890644,
+                    "lng": -70.1228174
+                },
+                "southwest": {
+                    "lat": 18.2272646,
+                    "lng": -70.1922491
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-21"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sabana Grande de Palenque",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "San Crist\u00f3bal",
+                "town": "Sabana Grande de Palenque"
+            },
+            "confidence": 7,
+            "formatted": "Sabana Grande de Palenque, San Crist\u00f3bal, Dominican Republic",
+            "geometry": {
+                "lat": 18.2531641,
+                "lng": -70.1658321
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 23:03:33 GMT",
+        "created_unix": 1714950213
+    },
+    "total_results": 1
+}

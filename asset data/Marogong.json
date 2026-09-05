@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1333,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 40' 31.78524'' N",
+                    "lng": "124\u00b0 9' 11.88720'' E"
+                },
+                "MGRS": "51NXJ2719948594",
+                "Maidenhead": "PJ27bq82jc",
+                "Mercator": {
+                    "x": 13820682.359,
+                    "y": 851296.399
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198529424#map=17/7.67550/124.15330",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/7.67550/124.15330&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.67550&mlon=124.15330#map=17/7.67550/124.15330"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wc279jm9j85u2x9g74pk",
+                "qibla": 290.68,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713907980,
+                        "astronomical": 1713903660,
+                        "civil": 1713906660,
+                        "nautical": 1713905160
+                    },
+                    "set": {
+                        "apparent": 1713865860,
+                        "astronomical": 1713870120,
+                        "civil": 1713867120,
+                        "nautical": 1713868620
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "whiskered.hugely.storerooms"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 7.7154959,
+                    "lng": 124.193302
+                },
+                "southwest": {
+                    "lat": 7.6354959,
+                    "lng": 124.113302
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-14",
+                    "PH-LAS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Marogong",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "region": "Bangsamoro",
+                "state": "Lanao del Sur",
+                "state_code": "LAS",
+                "town": "Marogong"
+            },
+            "confidence": 7,
+            "formatted": "Marogong, Lanao del Sur, Philippines",
+            "geometry": {
+                "lat": 7.6754959,
+                "lng": 124.153302
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:22:19 GMT",
+        "created_unix": 1713842539
+    },
+    "total_results": 1
+}

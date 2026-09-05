@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 139,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 7' 22.79892'' N",
+                    "lng": "120\u00b0 15' 36.63144'' W"
+                },
+                "FIPS": {
+                    "county": "06039",
+                    "state": "06"
+                },
+                "MGRS": "10SGG4341012031",
+                "Maidenhead": "CM97uc89sm",
+                "Mercator": {
+                    "x": -13387301.488,
+                    "y": 4430475.033
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=112151#map=16/37.12300/-120.26018",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/37.12300/-120.26018&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.12300&mlon=-120.26018#map=16/37.12300/-120.26018"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qd7pqj1nu9yfqr0rvr4",
+                "qibla": 21.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713878160,
+                        "astronomical": 1713872460,
+                        "civil": 1713876540,
+                        "nautical": 1713874560
+                    },
+                    "set": {
+                        "apparent": 1713840180,
+                        "astronomical": 1713845880,
+                        "civil": 1713841800,
+                        "nautical": 1713843780
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "remover.address.comfort"
+                },
+                "wikidata": "Q985260"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.13776,
+                    "lng": -120.1471663
+                },
+                "southwest": {
+                    "lat": 37.0837081,
+                    "lng": -120.293018
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chowchilla",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Madera County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Chowchilla"
+            },
+            "confidence": 6,
+            "formatted": "Chowchilla, California, United States of America",
+            "geometry": {
+                "lat": 37.1229997,
+                "lng": -120.2601754
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:38:43 GMT",
+        "created_unix": 1713854323
+    },
+    "total_results": 1
+}

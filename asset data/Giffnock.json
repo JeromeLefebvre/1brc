@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1908,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 48' 17.39448'' N",
+                    "lng": "4\u00b0 17' 40.82748'' W"
+                },
+                "MGRS": "30UVG1885085116",
+                "Maidenhead": "IO75ut43pd",
+                "Mercator": {
+                    "x": -478080.956,
+                    "y": 7484290.385
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=28219991#map=17/55.80483/-4.29467",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.80483/-4.29467&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.80483&mlon=-4.29467#map=17/55.80483/-4.29467"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcuvqqbwwydspxurew10",
+                "qibla": 118.2,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714020480,
+                        "astronomical": 1714009980,
+                        "civil": 1714017960,
+                        "nautical": 1714014540
+                    },
+                    "set": {
+                        "apparent": 1714074180,
+                        "astronomical": 1714084920,
+                        "civil": 1714076760,
+                        "nautical": 1714080180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "tree.senses.mini"
+                },
+                "wikidata": "Q1016935"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.8448318,
+                    "lng": -4.2546743
+                },
+                "southwest": {
+                    "lat": 55.7648318,
+                    "lng": -4.3346743
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-ERW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Giffnock",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "East Renfrewshire",
+                "county_code": "ERW",
+                "postcode": "G46 6XW",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Giffnock"
+            },
+            "confidence": 7,
+            "formatted": "Giffnock, G46 6XW, United Kingdom",
+            "geometry": {
+                "lat": 55.8048318,
+                "lng": -4.2946743
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:26:46 GMT",
+        "created_unix": 1714004806
+    },
+    "total_results": 1
+}

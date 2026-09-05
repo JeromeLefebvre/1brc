@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1877,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "4\u00b0 32' 19.25052'' S",
+                    "lng": "120\u00b0 19' 39.68076'' E"
+                },
+                "MGRS": "51MTQ0345897781",
+                "Maidenhead": "PI05dl90hr",
+                "Mercator": {
+                    "x": 13394817.079,
+                    "y": -502394.052
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5971681087#map=17/-4.53868/120.32769",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-4.53868/120.32769&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-4.53868&mlon=120.32769#map=17/-4.53868/120.32769"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "ID": "360",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 62,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "",
+                    "iso_code": "IDR",
+                    "iso_numeric": "360",
+                    "name": "Indonesian Rupiah",
+                    "smallest_denomination": 5000,
+                    "subunit": "Sen",
+                    "subunit_to_unit": 100,
+                    "symbol": "Rp",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\udde9",
+                "geohash": "qxjw4jgbq2s511hvtysv",
+                "qibla": 292.28,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713995940,
+                        "astronomical": 1713991680,
+                        "civil": 1713994620,
+                        "nautical": 1713993180
+                    },
+                    "set": {
+                        "apparent": 1713952500,
+                        "astronomical": 1713956700,
+                        "civil": 1713953760,
+                        "nautical": 1713955260
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Makassar",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "WITA"
+                },
+                "what3words": {
+                    "words": "systems.solve.reset"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -4.4986807,
+                    "lng": 120.3676891
+                },
+                "southwest": {
+                    "lat": -4.5786807,
+                    "lng": 120.2876891
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ID",
+                "ISO_3166-1_alpha-3": "IDN",
+                "ISO_3166-2": [
+                    "ID-SL",
+                    "ID-SN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Watampone",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Indonesia",
+                "country_code": "id",
+                "postcode": "92712",
+                "region": "Sulawesi",
+                "state": "South Sulawesi",
+                "state_code": "SN",
+                "town": "Watampone"
+            },
+            "confidence": 7,
+            "formatted": "Watampone 92712, South Sulawesi, Indonesia",
+            "geometry": {
+                "lat": -4.5386807,
+                "lng": 120.3276891
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:30:45 GMT",
+        "created_unix": 1713994245
+    },
+    "total_results": 1
+}

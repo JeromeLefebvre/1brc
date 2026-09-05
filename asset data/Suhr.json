@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2230,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 22' 23.39760'' N",
+                    "lng": "8\u00b0 4' 46.32240'' E"
+                },
+                "MGRS": "32TMT3051047044",
+                "Maidenhead": "JN47ai99nn",
+                "Mercator": {
+                    "x": 899409.611,
+                    "y": 5971744.271
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH03"
+                    },
+                    "NUTS3": {
+                        "code": "CH033"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1684435#map=17/47.37317/8.07953",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.37317/8.07953&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.37317&mlon=8.07953#map=17/47.37317/8.07953"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0mtxb52dy1nwe3nzkgv",
+                "qibla": 124.38,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795620,
+                        "astronomical": 1714787880,
+                        "civil": 1714793580,
+                        "nautical": 1714790940
+                    },
+                    "set": {
+                        "apparent": 1714848180,
+                        "astronomical": 1714855980,
+                        "civil": 1714850220,
+                        "nautical": 1714852860
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "sponsors.mingles.pebble"
+                },
+                "wikidata": "Q65195"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.400258,
+                    "lng": 8.1163703
+                },
+                "southwest": {
+                    "lat": 47.3489653,
+                    "lng": 8.0544774
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-AG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Suhr",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "county": "Bezirk Aarau",
+                "local_administrative_area": "Suhr",
+                "postcode": "5034",
+                "state": "Aargau",
+                "state_code": "AG",
+                "town": "Suhr"
+            },
+            "confidence": 7,
+            "formatted": "5034 Suhr, Switzerland",
+            "geometry": {
+                "lat": 47.373166,
+                "lng": 8.079534
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:31:47 GMT",
+        "created_unix": 1714786307
+    },
+    "total_results": 1
+}

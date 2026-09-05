@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 489,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 32' 51.25200'' N",
+                    "lng": "19\u00b0 15' 44.89200'' E"
+                },
+                "MGRS": "34TCT6926067479",
+                "Maidenhead": "JN97pn11lk",
+                "Mercator": {
+                    "x": 2144288.352,
+                    "y": 6000371.637
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "HU"
+                    },
+                    "NUTS1": {
+                        "code": "HU1"
+                    },
+                    "NUTS2": {
+                        "code": "HU12"
+                    },
+                    "NUTS3": {
+                        "code": "HU120"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.54757/19.26247&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.54757&mlon=19.26247#map=17/47.54757/19.26247"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "HU": "348",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 36,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "HUF",
+                    "iso_numeric": "348",
+                    "name": "Hungarian Forint",
+                    "smallest_denomination": 5,
+                    "subunit": "",
+                    "subunit_to_unit": 1,
+                    "symbol": "Ft",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udded\ud83c\uddfa",
+                "geohash": "u2mwqrf88j6wvptrgeq2",
+                "qibla": 140.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711772760,
+                        "astronomical": 1711766400,
+                        "civil": 1711770900,
+                        "nautical": 1711768680
+                    },
+                    "set": {
+                        "apparent": 1711818540,
+                        "astronomical": 1711824960,
+                        "civil": 1711820400,
+                        "nautical": 1711822620
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Budapest",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "pure.whoever.paths"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5592084,
+                    "lng": 19.2757695
+                },
+                "southwest": {
+                    "lat": 47.531438,
+                    "lng": 19.2368714
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "HU",
+                "ISO_3166-1_alpha-3": "HUN",
+                "_category": "place",
+                "_normalized_city": "Kistarcsa",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Hungary",
+                "country_code": "hu",
+                "political_union": "European Union",
+                "state": "Pest megye",
+                "town": "Kistarcsa"
+            },
+            "confidence": 7,
+            "formatted": "Kistarcsa, Pest megye, Hungary",
+            "geometry": {
+                "lat": 47.54757,
+                "lng": 19.26247
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:35:56 GMT",
+        "created_unix": 1711834556
+    },
+    "total_results": 1
+}

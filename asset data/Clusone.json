@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 840,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 53' 13.51680'' N",
+                    "lng": "9\u00b0 56' 58.76160'' E"
+                },
+                "MGRS": "32TNR7368381940",
+                "Maidenhead": "JN45xv32xv",
+                "Mercator": {
+                    "x": 1107590.639,
+                    "y": 5731582.459
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC46"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=46343#map=17/45.88709/9.94966",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.88709/9.94966&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.88709&mlon=9.94966#map=17/45.88709/9.94966"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0pj43mpev1np96bv8fx",
+                "qibla": 125.05,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713846060,
+                        "astronomical": 1713839220,
+                        "civil": 1713844140,
+                        "nautical": 1713841800
+                    },
+                    "set": {
+                        "apparent": 1713896220,
+                        "astronomical": 1713903120,
+                        "civil": 1713898140,
+                        "nautical": 1713900480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "blondie.update.buddies"
+                },
+                "wikidata": "Q100388"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.9082004,
+                    "lng": 9.972889
+                },
+                "southwest": {
+                    "lat": 45.8431886,
+                    "lng": 9.900029
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-BG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Clusone",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Bergamo",
+                "county_code": "BG",
+                "political_union": "European Union",
+                "postcode": "24023",
+                "state": "Lombardy",
+                "town": "Clusone"
+            },
+            "confidence": 7,
+            "formatted": "24023 Clusone BG, Italy",
+            "geometry": {
+                "lat": 45.887088,
+                "lng": 9.949656
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:10:36 GMT",
+        "created_unix": 1713852636
+    },
+    "total_results": 1
+}

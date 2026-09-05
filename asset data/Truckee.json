@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2004,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 19' 40.66320'' N",
+                    "lng": "120\u00b0 10' 59.71188'' W"
+                },
+                "FIPS": {
+                    "county": "06057",
+                    "state": "06"
+                },
+                "MGRS": "10SGJ4279656955",
+                "Maidenhead": "CM99vh88ar",
+                "Mercator": {
+                    "x": -13378738.559,
+                    "y": 4741674.483
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11049252#map=17/39.32796/-120.18325",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.32796/-120.18325&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.32796&mlon=-120.18325#map=17/39.32796/-120.18325"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qfx9pmjzprp7kbf4622",
+                "qibla": 20.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714568520,
+                        "astronomical": 1714562400,
+                        "civil": 1714566780,
+                        "nautical": 1714564680
+                    },
+                    "set": {
+                        "apparent": 1714532040,
+                        "astronomical": 1714538220,
+                        "civil": 1714533780,
+                        "nautical": 1714535880
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "overlooked.gagging.packers"
+                },
+                "wikidata": "Q506402"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.3867564,
+                    "lng": -120.0766776
+                },
+                "southwest": {
+                    "lat": 39.3161564,
+                    "lng": -120.3006084
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Truckee",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Nevada County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Truckee"
+            },
+            "confidence": 6,
+            "formatted": "Truckee, California, United States of America",
+            "geometry": {
+                "lat": 39.327962,
+                "lng": -120.1832533
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:21:04 GMT",
+        "created_unix": 1714522864
+    },
+    "total_results": 1
+}

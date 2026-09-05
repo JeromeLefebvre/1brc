@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2207,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 6' 4.79340'' N",
+                    "lng": "83\u00b0 6' 31.12488'' W"
+                },
+                "MGRS": "17TLG2564063178",
+                "Maidenhead": "EN82kc64xh",
+                "Mercator": {
+                    "x": -9251612.131,
+                    "y": 5147515.36
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7429830#map=17/42.10133/-83.10865",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.10133/-83.10865&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.10133&mlon=-83.10865#map=17/42.10133/-83.10865"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "dpkzsb64h1n0uhn0f31p",
+                "qibla": 52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714041420,
+                        "astronomical": 1714035060,
+                        "civil": 1714039620,
+                        "nautical": 1714037400
+                    },
+                    "set": {
+                        "apparent": 1714004700,
+                        "astronomical": 1714011060,
+                        "civil": 1714006500,
+                        "nautical": 1714008660
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "griddled.weeklies.accusing"
+                },
+                "wikidata": "Q385335"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.1913083,
+                    "lng": -82.9674032
+                },
+                "southwest": {
+                    "lat": 41.8386072,
+                    "lng": -83.1496944
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-ON"
+                ],
+                "_category": "place",
+                "_normalized_city": "Amherstburg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Essex County",
+                "state": "Ontario",
+                "state_code": "ON",
+                "town": "Amherstburg"
+            },
+            "confidence": 4,
+            "formatted": "Amherstburg, ON, Canada",
+            "geometry": {
+                "lat": 42.1013315,
+                "lng": -83.1086458
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:13:13 GMT",
+        "created_unix": 1714003993
+    },
+    "total_results": 1
+}

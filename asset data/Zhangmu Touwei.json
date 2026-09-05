@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 359,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 53' 44.08800'' N",
+                    "lng": "114\u00b0 4' 29.92800'' E"
+                },
+                "MGRS": "50QJL9991734942",
+                "Maidenhead": "OL72av84xw",
+                "Mercator": {
+                    "x": 12698768.686,
+                    "y": 2602778.413
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/22.89558/114.07498&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=22.89558&mlon=114.07498#map=17/22.89558/114.07498"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "ws147b4b7tqnweevur4r",
+                "qibla": 284.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714082160,
+                        "astronomical": 1714077480,
+                        "civil": 1714080780,
+                        "nautical": 1714079160
+                    },
+                    "set": {
+                        "apparent": 1714042020,
+                        "astronomical": 1714046760,
+                        "civil": 1714043460,
+                        "nautical": 1714045080
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "locator.requires.tiptoes"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "_category": "place",
+                "_normalized_city": "Zhangmu Touwei",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Guangdong",
+                "town": "Zhangmu Touwei"
+            },
+            "confidence": 9,
+            "formatted": "Zhangmu Touwei, Guangdong, China",
+            "geometry": {
+                "lat": 22.89558,
+                "lng": 114.07498
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:12:40 GMT",
+        "created_unix": 1714011160
+    },
+    "total_results": 1
+}

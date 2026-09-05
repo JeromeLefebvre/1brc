@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2140,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 51' 47.44800'' N",
+                    "lng": "3\u00b0 52' 49.26000'' E"
+                },
+                "MGRS": "31SEA7847180056",
+                "Maidenhead": "JM16wu57pd",
+                "Mercator": {
+                    "x": 431958.586,
+                    "y": 4394417.765
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.86318/3.88035&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.86318&mlon=3.88035#map=17/36.86318/3.88035"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "DZ": "012",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 213,
+                "currency": {
+                    "alternate_symbols": [
+                        "DA"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DZD",
+                    "iso_numeric": "012",
+                    "name": "Algerian Dinar",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u062c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddff",
+                "geohash": "sndc8q9xddydj6p6pp5c",
+                "qibla": 106.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711776840,
+                        "astronomical": 1711771560,
+                        "civil": 1711775280,
+                        "nautical": 1711773420
+                    },
+                    "set": {
+                        "apparent": 1711821840,
+                        "astronomical": 1711827120,
+                        "civil": 1711823400,
+                        "nautical": 1711825260
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Algiers",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "retinas.pedometers.clerics"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DZ",
+                "ISO_3166-1_alpha-3": "DZA",
+                "_category": "place",
+                "_normalized_city": "Ben N\u2019Choud",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Algeria",
+                "country_code": "dz",
+                "state": "Wilaya de Boumerdes",
+                "town": "Ben N\u2019Choud"
+            },
+            "confidence": 9,
+            "formatted": "Ben N\u2019Choud, Wilaya de Boumerdes, Algeria",
+            "geometry": {
+                "lat": 36.86318,
+                "lng": 3.88035
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:43:35 GMT",
+        "created_unix": 1711831415
+    },
+    "total_results": 1
+}

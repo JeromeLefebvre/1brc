@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1680,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "22\u00b0 19' 48.57420'' N",
+                    "lng": "114\u00b0 11' 23.77248'' E"
+                },
+                "MGRS": "50QKK1053572070",
+                "Maidenhead": "OL72ch29tf",
+                "Mercator": {
+                    "x": 12711565.618,
+                    "y": 2534983.344
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2390266377#map=17/22.33016/114.18994",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/22.33016/114.18994&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=22.33016&mlon=114.18994#map=17/22.33016/114.18994"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "HK": "344",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 852,
+                "currency": {
+                    "alternate_symbols": [
+                        "HK$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "HK$",
+                    "html_entity": "$",
+                    "iso_code": "HKD",
+                    "iso_numeric": "344",
+                    "name": "Hong Kong Dollar",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udded\ud83c\uddf0",
+                "geohash": "wecpn3ndd7kjywwc1bmx",
+                "qibla": 285.14,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714600320,
+                        "astronomical": 1714595580,
+                        "civil": 1714598940,
+                        "nautical": 1714597260
+                    },
+                    "set": {
+                        "apparent": 1714560540,
+                        "astronomical": 1714565280,
+                        "civil": 1714561920,
+                        "nautical": 1714563600
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Hong_Kong",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "HKT"
+                },
+                "what3words": {
+                    "words": "texts.unity.situated"
+                },
+                "wikidata": "Q1189342"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 22.3501595,
+                    "lng": 114.2099368
+                },
+                "southwest": {
+                    "lat": 22.3101595,
+                    "lng": 114.1699368
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "HK",
+                "ISO_3166-1_alpha-3": "HKG",
+                "ISO_3166-2": [
+                    "CN-HK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kowloon",
+                "_type": "neighbourhood",
+                "city": "Kowloon",
+                "city_district": "Kowloon City District",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "postcode": "000000",
+                "state": "Hong Kong",
+                "suburb": "Kowloon City"
+            },
+            "confidence": 7,
+            "formatted": "000000 China, Hong Kong, Kowloon, Kowloon City",
+            "geometry": {
+                "lat": 22.3301595,
+                "lng": 114.1899368
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:57:58 GMT",
+        "created_unix": 1714532278
+    },
+    "total_results": 1
+}

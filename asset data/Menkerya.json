@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2031,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "67\u00b0 59' 28.96620'' N",
+                    "lng": "123\u00b0 20' 36.38868'' E"
+                },
+                "MGRS": "51WWR1436241943",
+                "Maidenhead": "PP17qx17fw",
+                "Mercator": {
+                    "x": 13730529.078,
+                    "y": 10404773.713
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3292396041#map=17/67.99138/123.34344",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/67.99138/123.34344&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=67.99138&mlon=123.34344#map=17/67.99138/123.34344"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "yspdy9ryqrzbgs99wt6y",
+                "qibla": 272.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714589220,
+                        "astronomical": 0,
+                        "civil": 1714582680,
+                        "nautical": 0
+                    },
+                    "set": {
+                        "apparent": 1714567440,
+                        "astronomical": 0,
+                        "civil": 1714574400,
+                        "nautical": 0
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yakutsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "+09"
+                },
+                "what3words": {
+                    "words": "unruly.outdoes.verily"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 68.0013795,
+                    "lng": 123.3534413
+                },
+                "southwest": {
+                    "lat": 67.9813795,
+                    "lng": 123.3334413
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-SA"
+                ],
+                "_category": "place",
+                "_normalized_city": "\u042d\u0432\u0435\u043d\u043a\u0438\u0439\u0441\u043a\u043e\u0435 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \"\u041a\u044b\u0441\u0442\u0430\u0442\u044b\u0430\u043c\"",
+                "_type": "hamlet",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Zhigansky Ulus",
+                "locality": "Menkerya",
+                "municipality": "\u042d\u0432\u0435\u043d\u043a\u0438\u0439\u0441\u043a\u043e\u0435 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \"\u041a\u044b\u0441\u0442\u0430\u0442\u044b\u0430\u043c\"",
+                "region": "Far Eastern Federal District",
+                "state": "Sakha Republic"
+            },
+            "confidence": 8,
+            "formatted": "Menkerya, \u042d\u0432\u0435\u043d\u043a\u0438\u0439\u0441\u043a\u043e\u0435 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \"\u041a\u044b\u0441\u0442\u0430\u0442\u044b\u0430\u043c\", Zhigansky Ulus, Russia",
+            "geometry": {
+                "lat": 67.9913795,
+                "lng": 123.3434413
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:19:53 GMT",
+        "created_unix": 1714522793
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2205,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 36' 40.63176'' N",
+                    "lng": "25\u00b0 55' 33.04740'' E"
+                },
+                "MGRS": "35RLQ9811297851",
+                "Maidenhead": "KM21xo16cr",
+                "Mercator": {
+                    "x": 2886052.031,
+                    "y": 3689999.536
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=769131130#map=17/31.61129/25.92585",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.61129/25.92585&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.61129&mlon=25.92585#map=17/31.61129/25.92585"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "std7vfwth4bm9s1d152x",
+                "qibla": 126.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713670920,
+                        "astronomical": 1713665760,
+                        "civil": 1713669420,
+                        "nautical": 1713667620
+                    },
+                    "set": {
+                        "apparent": 1713718080,
+                        "astronomical": 1713723300,
+                        "civil": 1713719640,
+                        "nautical": 1713721440
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "washcloth.retina.mouthwash"
+                },
+                "wikidata": "Q1018010"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.6312866,
+                    "lng": 25.9458465
+                },
+                "southwest": {
+                    "lat": 31.5912866,
+                    "lng": 25.9058465
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-MT"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sidi Barrani",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "postcode": "51712",
+                "state": "Matruh",
+                "village": "Sidi Barrani"
+            },
+            "confidence": 7,
+            "formatted": "Sidi Barrani, 51712, Egypt",
+            "geometry": {
+                "lat": 31.6112866,
+                "lng": 25.9258465
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:22:06 GMT",
+        "created_unix": 1713662526
+    },
+    "total_results": 1
+}

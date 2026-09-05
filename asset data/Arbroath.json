@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1313,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 33' 31.22244'' N",
+                    "lng": "2\u00b0 34' 53.64084'' W"
+                },
+                "MGRS": "30VWH2571868339",
+                "Maidenhead": "IO86rn04fb",
+                "Mercator": {
+                    "x": -287378.713,
+                    "y": 7634760.51
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5305193765#map=17/56.55867/-2.58157",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/56.55867/-2.58157&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.55867&mlon=-2.58157#map=17/56.55867/-2.58157"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gfn1v20njhu1w6kb1cwv",
+                "qibla": 120.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713933660,
+                        "astronomical": 1713922800,
+                        "civil": 1713931080,
+                        "nautical": 1713927600
+                    },
+                    "set": {
+                        "apparent": 1713987420,
+                        "astronomical": 1713998520,
+                        "civil": 1713990060,
+                        "nautical": 1713993540
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "free.cares.catch"
+                },
+                "wikidata": "Q630668"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.5986729,
+                    "lng": -2.5415669
+                },
+                "southwest": {
+                    "lat": 56.5186729,
+                    "lng": -2.6215669
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-ANS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Arbroath",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Angus",
+                "county_code": "ANS",
+                "postcode": "DD11 1DP",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Arbroath"
+            },
+            "confidence": 7,
+            "formatted": "Arbroath, DD11 1DP, United Kingdom",
+            "geometry": {
+                "lat": 56.5586729,
+                "lng": -2.5815669
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:50:05 GMT",
+        "created_unix": 1713995405
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 429,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 9' 7.86564'' N",
+                    "lng": "69\u00b0 54' 12.29004'' W"
+                },
+                "MGRS": "19QDB0499917912",
+                "Maidenhead": "FK59bd16om",
+                "Mercator": {
+                    "x": -7781612.443,
+                    "y": 2158849.889
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7386377#map=17/19.15218/-69.90341",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.15218/-69.90341&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.15218&mlon=-69.90341#map=17/19.15218/-69.90341"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7qkcq9cs6h9jcmqpudg",
+                "qibla": 62.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714903800,
+                        "astronomical": 1714899120,
+                        "civil": 1714902420,
+                        "nautical": 1714900800
+                    },
+                    "set": {
+                        "apparent": 1714950180,
+                        "astronomical": 1714868460,
+                        "civil": 1714951560,
+                        "nautical": 1714953180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "reflects.give.precautions"
+                },
+                "wikidata": "Q949768"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.2603334,
+                    "lng": -69.7201731
+                },
+                "southwest": {
+                    "lat": 19.0440368,
+                    "lng": -69.9994858
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-06"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "county": "Villa Riva",
+                "state": "Duarte"
+            },
+            "confidence": 4,
+            "formatted": "Villa Riva, Dominican Republic",
+            "geometry": {
+                "lat": 19.1521849,
+                "lng": -69.9034139
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:43:40 GMT",
+        "created_unix": 1714949020
+    },
+    "total_results": 1
+}

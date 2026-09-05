@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 471,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 2' 30.02892'' N",
+                    "lng": "8\u00b0 8' 57.79608'' E"
+                },
+                "MGRS": "32UMC4165966014",
+                "Maidenhead": "JO42bb70wa",
+                "Mercator": {
+                    "x": 907185.7,
+                    "y": 6773952.13
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA4"
+                    },
+                    "NUTS3": {
+                        "code": "DEA42"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=138699#map=16/52.04167/8.14939",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/52.04167/8.14939&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.04167&mlon=8.14939#map=16/52.04167/8.14939"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1mb13yhwrrcz0hpvjx8",
+                "qibla": 129.29,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535880,
+                        "astronomical": 1714526700,
+                        "civil": 1714533540,
+                        "nautical": 1714530540
+                    },
+                    "set": {
+                        "apparent": 1714589520,
+                        "astronomical": 1714598820,
+                        "civil": 1714591860,
+                        "nautical": 1714594920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "seating.landed.stocks"
+                },
+                "wikidata": "Q225334"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.0875266,
+                    "lng": 8.2613538
+                },
+                "southwest": {
+                    "lat": 51.9970879,
+                    "lng": 8.0756012
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Versmold",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Kreis G\u00fctersloh",
+                "political_union": "European Union",
+                "postcode": "33775",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Versmold"
+            },
+            "confidence": 6,
+            "formatted": "33775 Versmold, Germany",
+            "geometry": {
+                "lat": 52.0416747,
+                "lng": 8.1493878
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:21:21 GMT",
+        "created_unix": 1714544481
+    },
+    "total_results": 1
+}

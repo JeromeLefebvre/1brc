@@ -1,0 +1,130 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2378,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "9\u00b0 53' 31.34400'' N",
+                    "lng": "1\u00b0 46' 29.02800'' E"
+                },
+                "MGRS": "31PCL6566293722",
+                "Maidenhead": "JJ09vv24xc",
+                "Mercator": {
+                    "x": 197562.04,
+                    "y": 1099352.932
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/9.89204/1.77473&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=9.89204&mlon=1.77473#map=16/9.89204/1.77473"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BJ": "204",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 229,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddef",
+                "geohash": "s1c222u361yt562b0h6p",
+                "qibla": 67.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713850800,
+                        "astronomical": 1713846480,
+                        "civil": 1713849480,
+                        "nautical": 1713847980
+                    },
+                    "set": {
+                        "apparent": 1713895380,
+                        "astronomical": 1713899700,
+                        "civil": 1713896640,
+                        "nautical": 1713898140
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Porto-Novo",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "unbreakable.laced.woefully"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BJ",
+                "ISO_3166-1_alpha-3": "BEN",
+                "_category": "place",
+                "_normalized_city": "Kolokond\u00e9",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Benin",
+                "country_code": "bj",
+                "state": "Donga",
+                "state_code": "DO",
+                "town": "Kolokond\u00e9"
+            },
+            "confidence": 9,
+            "formatted": "Kolokond\u00e9, Donga, Benin",
+            "geometry": {
+                "lat": 9.89204,
+                "lng": 1.77473
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:08:17 GMT",
+        "created_unix": 1713830897
+    },
+    "total_results": 1
+}

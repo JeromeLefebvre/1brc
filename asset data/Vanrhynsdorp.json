@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1925,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 36' 32.00004'' S",
+                    "lng": "18\u00b0 44' 30.00012'' E"
+                },
+                "MGRS": "34JBL8576200701",
+                "Maidenhead": "JF98ij93au",
+                "Mercator": {
+                    "x": 2086312.794,
+                    "y": -3689687.651
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262722400#map=17/-31.60889/18.74167",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-31.60889/18.74167&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-31.60889&mlon=18.74167#map=17/-31.60889/18.74167"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "k6mk4mz2bkp94qsr8ewg",
+                "qibla": 23.61,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713935580,
+                        "astronomical": 1713930660,
+                        "civil": 1713934080,
+                        "nautical": 1713932340
+                    },
+                    "set": {
+                        "apparent": 1713975180,
+                        "astronomical": 1713980100,
+                        "civil": 1713976680,
+                        "nautical": 1713978420
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "penthouses.carpenters.soldiers"
+                },
+                "wikidata": "Q943414"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -31.5688889,
+                    "lng": 18.7816667
+                },
+                "southwest": {
+                    "lat": -31.6488889,
+                    "lng": 18.7016667
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-WC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Matzikama Local Municipality",
+                "_type": "city",
+                "city": "Matzikama Local Municipality",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "West Coast District Municipality",
+                "postcode": "8170",
+                "state": "Western Cape",
+                "state_code": "WC",
+                "town": "Vanrhynsdorp"
+            },
+            "confidence": 7,
+            "formatted": "Matzikama Local Municipality, West Coast District Municipality, South Africa",
+            "geometry": {
+                "lat": -31.6088889,
+                "lng": 18.7416667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:29:05 GMT",
+        "created_unix": 1713994145
+    },
+    "total_results": 1
+}

@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2328,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 32' 56.32944'' N",
+                    "lng": "12\u00b0 10' 32.98728'' E"
+                },
+                "MGRS": "33TTJ7186125656",
+                "Maidenhead": "JN63cn11cs",
+                "Mercator": {
+                    "x": 1355407.173,
+                    "y": 5366460.271
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI2"
+                    },
+                    "NUTS3": {
+                        "code": "ITI21"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42523#map=17/43.54898/12.17583",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.54898/12.17583&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.54898&mlon=12.17583#map=17/43.54898/12.17583"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr8xtpf5jqkdztb7znhd",
+                "qibla": 125.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622580,
+                        "astronomical": 1714615800,
+                        "civil": 1714620720,
+                        "nautical": 1714618380
+                    },
+                    "set": {
+                        "apparent": 1714673640,
+                        "astronomical": 1714680480,
+                        "civil": 1714675500,
+                        "nautical": 1714677840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "pumpkin.spinach.accompanied"
+                },
+                "wikidata": "Q20518"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.6108907,
+                    "lng": 12.3113396
+                },
+                "southwest": {
+                    "lat": 43.4990163,
+                    "lng": 12.1532312
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-55",
+                    "IT-PG"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Giustino",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Perugia",
+                "county_code": "PG",
+                "political_union": "European Union",
+                "postcode": "06016",
+                "state": "Umbria",
+                "state_code": "UMB",
+                "town": "San Giustino"
+            },
+            "confidence": 6,
+            "formatted": "06016 San Giustino PG, Italy",
+            "geometry": {
+                "lat": 43.5489804,
+                "lng": 12.1758298
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:08:11 GMT",
+        "created_unix": 1714691291
+    },
+    "total_results": 1
+}

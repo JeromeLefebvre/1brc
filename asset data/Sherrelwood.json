@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 781,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 50' 26.59632'' N",
+                    "lng": "105\u00b0 0' 11.38248'' W"
+                },
+                "FIPS": {
+                    "county": "08001",
+                    "state": "08"
+                },
+                "MGRS": "13SDE9972910079",
+                "Maidenhead": "DM79lu91os",
+                "Mercator": {
+                    "x": -11688898.503,
+                    "y": 4815443.646
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=151406517#map=17/39.84072/-105.00316",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.84072/-105.00316&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.84072&mlon=-105.00316#map=17/39.84072/-105.00316"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9xj6dsg10bxxpjmz026f",
+                "qibla": 34.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713701580,
+                        "astronomical": 1713695700,
+                        "civil": 1713699900,
+                        "nautical": 1713697860
+                    },
+                    "set": {
+                        "apparent": 1713663840,
+                        "astronomical": 1713669780,
+                        "civil": 1713665580,
+                        "nautical": 1713667620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Denver",
+                    "now_in_dst": 1,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "MDT"
+                },
+                "what3words": {
+                    "words": "loft.among.turkey"
+                },
+                "wikidata": "Q1729611"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.8607212,
+                    "lng": -104.9831618
+                },
+                "southwest": {
+                    "lat": 39.8207212,
+                    "lng": -105.0231618
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Western Hills",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Adams County",
+                "hamlet": "Sherrelwood",
+                "postcode": "80260",
+                "state": "Colorado",
+                "state_code": "CO",
+                "village": "Western Hills"
+            },
+            "confidence": 7,
+            "formatted": "Western Hills, Adams County, CO 80260, United States of America",
+            "geometry": {
+                "lat": 39.8407212,
+                "lng": -105.0031618
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:20:56 GMT",
+        "created_unix": 1713666056
+    },
+    "total_results": 1
+}

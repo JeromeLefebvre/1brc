@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2002,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 12' 4.05360'' N",
+                    "lng": "86\u00b0 14' 20.20560'' W"
+                },
+                "FIPS": {
+                    "county": "26121",
+                    "state": "26"
+                },
+                "MGRS": "16TEN6182983431",
+                "Maidenhead": "EN63ve18hg",
+                "Mercator": {
+                    "x": -9600075.555,
+                    "y": 5313375.75
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=134425#map=17/43.20113/-86.23895",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.20113/-86.23895&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.20113&mlon=-86.23895#map=17/43.20113/-86.23895"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpdtv8d8yct4s59d23cx",
+                "qibla": 49.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714559880,
+                        "astronomical": 1714553220,
+                        "civil": 1714558020,
+                        "nautical": 1714555740
+                    },
+                    "set": {
+                        "apparent": 1714524360,
+                        "astronomical": 1714531140,
+                        "civil": 1714526280,
+                        "nautical": 1714528560
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "putter.moats.proving"
+                },
+                "wikidata": "Q2745116"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.216116,
+                    "lng": -86.2244897
+                },
+                "southwest": {
+                    "lat": 43.185192,
+                    "lng": -86.26037
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Muskegon Heights",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Muskegon County",
+                "state": "Michigan",
+                "state_code": "MI",
+                "town": "Muskegon Heights"
+            },
+            "confidence": 7,
+            "formatted": "Muskegon Heights, Michigan, United States of America",
+            "geometry": {
+                "lat": 43.201126,
+                "lng": -86.238946
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:21:09 GMT",
+        "created_unix": 1714522869
+    },
+    "total_results": 1
+}

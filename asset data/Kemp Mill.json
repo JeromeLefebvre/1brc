@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2363,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 2' 20.39352'' N",
+                    "lng": "77\u00b0 1' 8.91696'' W"
+                },
+                "FIPS": {
+                    "county": "24031",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ2524723044",
+                "Maidenhead": "FM19la79qi",
+                "Mercator": {
+                    "x": -8573731.847,
+                    "y": 4700342.33
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158352536#map=17/39.03900/-77.01914",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.03900/-77.01914&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.03900&mlon=-77.01914#map=17/39.03900/-77.01914"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcnp6u6eusp4qhgdn2q",
+                "qibla": 56.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714126560,
+                        "astronomical": 1714120620,
+                        "civil": 1714124880,
+                        "nautical": 1714122840
+                    },
+                    "set": {
+                        "apparent": 1714175760,
+                        "astronomical": 1714095300,
+                        "civil": 1714091040,
+                        "nautical": 1714093140
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "ducks.shrimp.send"
+                },
+                "wikidata": "Q753650"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.0589982,
+                    "lng": -76.9991436
+                },
+                "southwest": {
+                    "lat": 39.0189982,
+                    "lng": -77.0391436
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kemp Mill",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Montgomery County",
+                "postcode": "20901",
+                "state": "Maryland",
+                "state_code": "MD",
+                "village": "Kemp Mill"
+            },
+            "confidence": 7,
+            "formatted": "Kemp Mill, Montgomery County, MD 20901, United States of America",
+            "geometry": {
+                "lat": 39.0389982,
+                "lng": -77.0191436
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:00:21 GMT",
+        "created_unix": 1714168821
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 58,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 4' 13.39680'' N",
+                    "lng": "76\u00b0 32' 42.86724'' W"
+                },
+                "FIPS": {
+                    "county": "24003",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ6632425723",
+                "Maidenhead": "FM19rb46nv",
+                "Mercator": {
+                    "x": -8520977.24,
+                    "y": 4704823.917
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158562564#map=17/39.07039/-76.54524",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.07039/-76.54524&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.07039&mlon=-76.54524#map=17/39.07039/-76.54524"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcw60t3w85w9k8chg8c",
+                "qibla": 56.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713522240,
+                        "astronomical": 1713516420,
+                        "civil": 1713520560,
+                        "nautical": 1713518580
+                    },
+                    "set": {
+                        "apparent": 1713570420,
+                        "astronomical": 1713489840,
+                        "civil": 1713485700,
+                        "nautical": 1713487740
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "wiring.spoon.friday"
+                },
+                "wikidata": "Q755102"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.110388,
+                    "lng": -76.5052409
+                },
+                "southwest": {
+                    "lat": 39.030388,
+                    "lng": -76.5852409
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Severna Park",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Anne Arundel County",
+                "postcode": "21146",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "Severna Park"
+            },
+            "confidence": 7,
+            "formatted": "Severna Park, MD 21146, United States of America",
+            "geometry": {
+                "lat": 39.070388,
+                "lng": -76.5452409
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:39:32 GMT",
+        "created_unix": 1713523172
+    },
+    "total_results": 1
+}

@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 159,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 45' 16.38000'' N",
+                    "lng": "135\u00b0 50' 52.89360'' E"
+                },
+                "MGRS": "53SNU7761546151",
+                "Maidenhead": "PM74ws11sc",
+                "Mercator": {
+                    "x": 15122533.08,
+                    "y": 4106217.3
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=358625#map=16/34.75455/135.84803",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/34.75455/135.84803&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.75455&mlon=135.84803#map=16/34.75455/135.84803"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn0teqcebmwn0t1nejbb",
+                "qibla": 291.02,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714594080,
+                        "astronomical": 1714588500,
+                        "civil": 1714592460,
+                        "nautical": 1714590540
+                    },
+                    "set": {
+                        "apparent": 1714556400,
+                        "astronomical": 1714562040,
+                        "civil": 1714558020,
+                        "nautical": 1714560000
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "apostrophe.brand.arrears"
+                },
+                "wikidata": "Q990352"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.803346,
+                    "lng": 135.922069
+                },
+                "southwest": {
+                    "lat": 34.705754,
+                    "lng": 135.773983
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-26"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kizugawa",
+                "_type": "city",
+                "city": "Kizugawa",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Kyoto Prefecture",
+                "state": "Kyoto Prefecture"
+            },
+            "confidence": 6,
+            "formatted": "Kizugawa, Kyoto Prefecture, Japan",
+            "geometry": {
+                "lat": 34.75455,
+                "lng": 135.848026
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:34:57 GMT",
+        "created_unix": 1714545297
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1555,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 23' 42.48744'' N",
+                    "lng": "93\u00b0 0' 10.03068'' W"
+                },
+                "MGRS": "15QVV9970423267",
+                "Maidenhead": "EK37lj94pt",
+                "Mercator": {
+                    "x": -10353022.81,
+                    "y": 1954102.613
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6000160#map=16/17.39514/-93.00279",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/17.39514/-93.00279&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.39514&mlon=-93.00279#map=16/17.39514/-93.00279"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9gjfgwtqn02288scf8tb",
+                "qibla": 51.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713959460,
+                        "astronomical": 1713954900,
+                        "civil": 1713958080,
+                        "nautical": 1713956520
+                    },
+                    "set": {
+                        "apparent": 1713918600,
+                        "astronomical": 1713923100,
+                        "civil": 1713919920,
+                        "nautical": 1713921480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "possum.numb.occupants"
+                },
+                "wikidata": "Q1500690"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 17.4898414,
+                    "lng": -92.9295623
+                },
+                "southwest": {
+                    "lat": 17.3004466,
+                    "lng": -93.0728987
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-CHP"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Solosuchiapa",
+                "state": "Chiapas",
+                "state_code": "CHP"
+            },
+            "confidence": 5,
+            "formatted": "Solosuchiapa, Mexico",
+            "geometry": {
+                "lat": 17.3951354,
+                "lng": -93.0027863
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:41:45 GMT",
+        "created_unix": 1713994905
+    },
+    "total_results": 1
+}

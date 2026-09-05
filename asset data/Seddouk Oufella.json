@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2381,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 30' 45.46692'' N",
+                    "lng": "4\u00b0 42' 29.19060'' E"
+                },
+                "MGRS": "31SFA5295142165",
+                "Maidenhead": "JM26im43xa",
+                "Mercator": {
+                    "x": 524104.241,
+                    "y": 4345964.424
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=455500550#map=17/36.51263/4.70811",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.51263/4.70811&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.51263&mlon=4.70811#map=17/36.51263/4.70811"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "DZ": "012",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 213,
+                "currency": {
+                    "alternate_symbols": [
+                        "DA"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DZD",
+                    "iso_numeric": "012",
+                    "name": "Algerian Dinar",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u062c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddff",
+                "geohash": "sn7renum6zs0hdk4tg3t",
+                "qibla": 106.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714452600,
+                        "astronomical": 1714446840,
+                        "civil": 1714450920,
+                        "nautical": 1714448940
+                    },
+                    "set": {
+                        "apparent": 1714501680,
+                        "astronomical": 1714507440,
+                        "civil": 1714503300,
+                        "nautical": 1714505340
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Algiers",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "reverb.gamey.propagate"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.5326297,
+                    "lng": 4.7281085
+                },
+                "southwest": {
+                    "lat": 36.4926297,
+                    "lng": 4.6881085
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DZ",
+                "ISO_3166-1_alpha-3": "DZA",
+                "ISO_3166-2": [
+                    "DZ-06"
+                ],
+                "_category": "place",
+                "_normalized_city": "Seddouk",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Algeria",
+                "country_code": "dz",
+                "county": "Seddouk District",
+                "postcode": "06011",
+                "state": "Bejaia",
+                "town": "Seddouk",
+                "village": "Seddouk Oufella"
+            },
+            "confidence": 7,
+            "formatted": "06011 Seddouk, Algeria",
+            "geometry": {
+                "lat": 36.5126297,
+                "lng": 4.7081085
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:52:07 GMT",
+        "created_unix": 1714517527
+    },
+    "total_results": 1
+}

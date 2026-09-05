@@ -1,0 +1,122 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2034,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 44' 7.00800'' N",
+                    "lng": "128\u00b0 6' 29.98800'' E"
+                },
+                "MGRS": "52SDF2038765877",
+                "Maidenhead": "PM46br26xl",
+                "Mercator": {
+                    "x": 14260954.062,
+                    "y": 4376713.492
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.73528/128.10833&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.73528&mlon=128.10833#map=17/36.73528/128.10833"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wye0gpmws2w2ue0ftqw5",
+                "qibla": 286.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714854720,
+                        "astronomical": 1714848840,
+                        "civil": 1714853040,
+                        "nautical": 1714851000
+                    },
+                    "set": {
+                        "apparent": 1714817820,
+                        "astronomical": 1714823700,
+                        "civil": 1714819500,
+                        "nautical": 1714821540
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "bangle.wept.cabinets"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "_category": "place",
+                "_normalized_city": "Bunkei",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr",
+                "state": "Gyeongsangbuk-do",
+                "town": "Bunkei"
+            },
+            "confidence": 9,
+            "formatted": "Bunkei, Gyeongsangbuk-do, South Korea",
+            "geometry": {
+                "lat": 36.73528,
+                "lng": 128.10833
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:38:10 GMT",
+        "created_unix": 1714786690
+    },
+    "total_results": 1
+}

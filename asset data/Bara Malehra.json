@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1970,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 33' 43.23852'' N",
+                    "lng": "79\u00b0 18' 49.55112'' E"
+                },
+                "MGRS": "44RLN2922717496",
+                "Maidenhead": "ML94pn74pv",
+                "Mercator": {
+                    "x": 8829167.843,
+                    "y": 2804287.317
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=16477075#map=16/24.56201/79.31376",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/24.56201/79.31376&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=24.56201&mlon=79.31376#map=16/24.56201/79.31376"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tu27sz6s0dthcwhzy6rk",
+                "qibla": 273.24,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714608480,
+                        "astronomical": 1714690020,
+                        "civil": 1714693440,
+                        "nautical": 1714691760
+                    },
+                    "set": {
+                        "apparent": 1714655520,
+                        "astronomical": 1714660380,
+                        "civil": 1714656960,
+                        "nautical": 1714658640
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "thinning.goofy.untangled"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 24.5778832,
+                    "lng": 79.3286275
+                },
+                "southwest": {
+                    "lat": 24.5460841,
+                    "lng": 79.297354
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-MP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bara Malehra",
+                "_type": "neighbourhood",
+                "city_district": "Bara Malehra",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Bada Malhera Tahsil",
+                "state": "Madhya Pradesh",
+                "state_code": "MP",
+                "state_district": "Chhatarpur District"
+            },
+            "confidence": 7,
+            "formatted": "Bara Malehra, Bada Malhera Tahsil, India",
+            "geometry": {
+                "lat": 24.5620107,
+                "lng": 79.3137642
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:21:05 GMT",
+        "created_unix": 1714692065
+    },
+    "total_results": 1
+}

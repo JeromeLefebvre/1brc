@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 20,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "2\u00b0 1' 24.87216'' N",
+                    "lng": "75\u00b0 59' 42.45360'' W"
+                },
+                "MGRS": "18NUH8933023700",
+                "Maidenhead": "FJ22aa05op",
+                "Mercator": {
+                    "x": -8459738.729,
+                    "y": 223802.561
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1309449#map=16/2.02358/-75.99513",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/2.02358/-75.99513&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=2.02358&mlon=-75.99513#map=16/2.02358/-75.99513"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CO": "170",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 57,
+                "currency": {
+                    "alternate_symbols": [
+                        "COL$"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "COL$",
+                    "html_entity": "&#36;",
+                    "iso_code": "COP",
+                    "iso_numeric": "170",
+                    "name": "Colombian Peso",
+                    "smallest_denomination": 20,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf4",
+                "geohash": "d23gw8qh1jyfwhdd7ncu",
+                "qibla": 65.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713869880,
+                        "astronomical": 1713865620,
+                        "civil": 1713868620,
+                        "nautical": 1713867120
+                    },
+                    "set": {
+                        "apparent": 1713913560,
+                        "astronomical": 1713831420,
+                        "civil": 1713914880,
+                        "nautical": 1713916320
+                    }
+                },
+                "timezone": {
+                    "name": "America/Bogota",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "sliding.griddle.cheeky"
+                },
+                "wikidata": "Q1575433"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 2.1297853,
+                    "lng": -75.9627357
+                },
+                "southwest": {
+                    "lat": 2.0006999,
+                    "lng": -76.1296975
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CO",
+                "ISO_3166-1_alpha-3": "COL",
+                "ISO_3166-2": [
+                    "CO-HUI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Oporapa",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Colombia",
+                "country_code": "co",
+                "region": "RAP (Especial) Central",
+                "state": "Huila",
+                "state_code": "HUI",
+                "state_district": "Sur",
+                "town": "Oporapa"
+            },
+            "confidence": 5,
+            "formatted": "Oporapa, Sur, Colombia",
+            "geometry": {
+                "lat": 2.0235756,
+                "lng": -75.995126
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 07:44:09 GMT",
+        "created_unix": 1713858249
+    },
+    "total_results": 1
+}

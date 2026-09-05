@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2300,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 38' 35.33856'' N",
+                    "lng": "3\u00b0 59' 34.84608'' W"
+                },
+                "MGRS": "30TVK1603699618",
+                "Maidenhead": "IN80ap04ui",
+                "Mercator": {
+                    "x": -444500.152,
+                    "y": 4932010.623
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES3"
+                    },
+                    "NUTS2": {
+                        "code": "ES30"
+                    },
+                    "NUTS3": {
+                        "code": "ES300"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=346306#map=16/40.64315/-3.99301",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.64315/-3.99301&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.64315&mlon=-3.99301#map=16/40.64315/-3.99301"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezjpjnu7s01z52udnxn2",
+                "qibla": 103.97,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714108920,
+                        "astronomical": 1714102800,
+                        "civil": 1714107180,
+                        "nautical": 1714105020
+                    },
+                    "set": {
+                        "apparent": 1714158360,
+                        "astronomical": 1714164540,
+                        "civil": 1714160100,
+                        "nautical": 1714162260
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "splash.tolls.spotted"
+                },
+                "wikidata": "Q735759"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.6807553,
+                    "lng": -3.9464332
+                },
+                "southwest": {
+                    "lat": 40.6161878,
+                    "lng": -4.029665
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Collado Villalba",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "state": "Madrid",
+                "town": "Collado Villalba"
+            },
+            "confidence": 7,
+            "formatted": "Collado Villalba, Madrid, Spain",
+            "geometry": {
+                "lat": 40.6431496,
+                "lng": -3.9930128
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:02:45 GMT",
+        "created_unix": 1714168965
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1081,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 31' 39.00000'' N",
+                    "lng": "10\u00b0 30' 2.98800'' E"
+                },
+                "MGRS": "32SPD3774121669",
+                "Maidenhead": "JM54gm06co",
+                "Mercator": {
+                    "x": 1168947.049,
+                    "y": 4075635.751
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.52750/10.50083&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.52750&mlon=10.50083#map=17/34.52750/10.50083"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NORTHERN_AFRICA": "015",
+                        "TN": "788",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 216,
+                "currency": {
+                    "alternate_symbols": [
+                        "TD",
+                        "DT"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "TND",
+                    "iso_numeric": "788",
+                    "name": "Tunisian Dinar",
+                    "smallest_denomination": 10,
+                    "subunit": "Millime",
+                    "subunit_to_unit": 1000,
+                    "symbol": "\u062f.\u062a",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf3",
+                "geohash": "snpkqvw3r0d25t00hy7g",
+                "qibla": 109.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713760740,
+                        "astronomical": 1713755340,
+                        "civil": 1713759180,
+                        "nautical": 1713757260
+                    },
+                    "set": {
+                        "apparent": 1713808500,
+                        "astronomical": 1713813900,
+                        "civil": 1713810060,
+                        "nautical": 1713811920
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Tunis",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "saunters.overcome.roadie"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.538239,
+                    "lng": 10.510482
+                },
+                "southwest": {
+                    "lat": 34.510082,
+                    "lng": 10.498311
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TN",
+                "ISO_3166-1_alpha-3": "TUN",
+                "_category": "place",
+                "_normalized_city": "Mahires",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Tunisia",
+                "country_code": "tn",
+                "state": "Gouvernorat de Sfax",
+                "town": "Mahires"
+            },
+            "confidence": 7,
+            "formatted": "Mahires, Gouvernorat de Sfax, Tunisia",
+            "geometry": {
+                "lat": 34.5275,
+                "lng": 10.50083
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 09:58:56 GMT",
+        "created_unix": 1713779936
+    },
+    "total_results": 1
+}

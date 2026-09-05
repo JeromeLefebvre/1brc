@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1099,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 11' 28.93956'' N",
+                    "lng": "37\u00b0 16' 42.28500'' E"
+                },
+                "MGRS": "37UCQ7456450156",
+                "Maidenhead": "KN89pe35jw",
+                "Mercator": {
+                    "x": 4149813.897,
+                    "y": 6275036.704
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11179426#map=17/49.19137/37.27841",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.19137/37.27841&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.19137&mlon=37.27841#map=17/49.19137/37.27841"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "ubdxb7129brh3wuk60pj",
+                "qibla": 174.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711854660,
+                        "astronomical": 1711848000,
+                        "civil": 1711852740,
+                        "nautical": 1711850460
+                    },
+                    "set": {
+                        "apparent": 1711900800,
+                        "astronomical": 1711907460,
+                        "civil": 1711902720,
+                        "nautical": 1711905060
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "shifters.rehearsal.floating"
+                },
+                "wikidata": "Q544003"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.2612789,
+                    "lng": 37.3373356
+                },
+                "southwest": {
+                    "lat": 49.1460661,
+                    "lng": 37.2237569
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "ISO_3166-2": [
+                    "UA-63"
+                ],
+                "_category": "place",
+                "_normalized_city": "Izium",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "district": "Izium Raion",
+                "municipality": "\u0406\u0437\u044e\u043c\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0433\u0440\u043e\u043c\u0430\u0434\u0430",
+                "state": "Kharkiv Oblast",
+                "town": "Izium"
+            },
+            "confidence": 6,
+            "formatted": "Izium, Izium Raion, Ukraine",
+            "geometry": {
+                "lat": 49.1913721,
+                "lng": 37.2784125
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:13:20 GMT",
+        "created_unix": 1711919600
+    },
+    "total_results": 1
+}

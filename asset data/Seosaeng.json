@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1759,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 20' 46.06008'' N",
+                    "lng": "129\u00b0 17' 34.62972'' E"
+                },
+                "MGRS": "52SEE2661911467",
+                "Maidenhead": "PM45pi53db",
+                "Mercator": {
+                    "x": 14392825.658,
+                    "y": 4186298.888
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=9143869772#map=16/35.34613/129.29295",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.34613/129.29295&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.34613&mlon=129.29295#map=16/35.34613/129.29295"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wy7cn4s605v15nm2c7u6",
+                "qibla": 287.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Hwasanballi-ro",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711833240,
+                        "astronomical": 1711828080,
+                        "civil": 1711831680,
+                        "nautical": 1711829940
+                    },
+                    "set": {
+                        "apparent": 1711791660,
+                        "astronomical": 1711796820,
+                        "civil": 1711793220,
+                        "nautical": 1711795020
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "admiral.traipsed.flooring"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.3511278,
+                    "lng": 129.2979527
+                },
+                "southwest": {
+                    "lat": 35.3411278,
+                    "lng": 129.2879527
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "ISO_3166-2": [
+                    "KR-31"
+                ],
+                "_category": "transportation",
+                "_normalized_city": "Ulsan",
+                "_type": "railway",
+                "city": "Ulsan",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr",
+                "county": "Ulju-gun",
+                "postcode": "46036",
+                "railway": "Seosaeng",
+                "road": "Hwasanballi-ro",
+                "suburb": "Seosaeng-myeon"
+            },
+            "confidence": 8,
+            "formatted": "South Korea, Ulsan, Seosaeng-myeon, Hwasanballi-ro, Seosaeng, 46036",
+            "geometry": {
+                "lat": 35.3461278,
+                "lng": 129.2929527
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:55:39 GMT",
+        "created_unix": 1711832139
+    },
+    "total_results": 1
+}

@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1435,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 36' 44.96580'' N",
+                    "lng": "117\u00b0 49' 41.22840'' W"
+                },
+                "FIPS": {
+                    "state": "06"
+                },
+                "MGRS": "11SMU2407730382",
+                "Maidenhead": "DM14co06px",
+                "Mercator": {
+                    "x": -13116566.208,
+                    "y": 4087073.301
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11665456#map=17/34.61249/-117.82812",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.61249/-117.82812&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.61249&mlon=-117.82812#map=17/34.61249/-117.82812"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qhhyv00mgfs0xdf9usv",
+                "qibla": 24.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711806060,
+                        "astronomical": 1711800960,
+                        "civil": 1711804560,
+                        "nautical": 1711802760
+                    },
+                    "set": {
+                        "apparent": 1711764660,
+                        "astronomical": 1711769760,
+                        "civil": 1711766160,
+                        "nautical": 1711767960
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "supermarkets.shade.messy"
+                },
+                "wikidata": "Q1966409"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.6459987,
+                    "lng": -117.8091371
+                },
+                "southwest": {
+                    "lat": 34.5800097,
+                    "lng": -117.8713924
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lake Los Angeles",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "postcode": "93591",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Lake Los Angeles"
+            },
+            "confidence": 7,
+            "formatted": "Lake Los Angeles, CA 93591, United States of America",
+            "geometry": {
+                "lat": 34.6124905,
+                "lng": -117.828119
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:05:57 GMT",
+        "created_unix": 1711832757
+    },
+    "total_results": 1
+}

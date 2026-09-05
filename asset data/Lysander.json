@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1391,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 12' 23.24412'' N",
+                    "lng": "76\u00b0 27' 32.77440'' W"
+                },
+                "FIPS": {
+                    "county": "36067",
+                    "state": "36"
+                },
+                "MGRS": "18TUN8146884775",
+                "Maidenhead": "FN13se49vn",
+                "Mercator": {
+                    "x": -8511388.524,
+                    "y": 5314186.937
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4196753#map=17/43.20646/-76.45910",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.20646/-76.45910&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.20646&mlon=-76.45910#map=17/43.20646/-76.45910"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr9tu1kpverc7z0xhj7u",
+                "qibla": 56.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714125960,
+                        "astronomical": 1714119480,
+                        "civil": 1714124160,
+                        "nautical": 1714121880
+                    },
+                    "set": {
+                        "apparent": 1714089660,
+                        "astronomical": 1714096260,
+                        "civil": 1714091520,
+                        "nautical": 1714093800
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "articulated.verve.mercifully"
+                },
+                "wikidata": "Q3708766"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.232631,
+                    "lng": -76.236743
+                },
+                "southwest": {
+                    "lat": 43.096145,
+                    "lng": -76.485884
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Lysander",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Onondaga County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Lysander"
+            },
+            "confidence": 5,
+            "formatted": "Lysander, New York, United States of America",
+            "geometry": {
+                "lat": 43.2064567,
+                "lng": -76.459104
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:37:41 GMT",
+        "created_unix": 1714171061
+    },
+    "total_results": 1
+}

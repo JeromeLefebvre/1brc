@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 587,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 35' 8.13012'' N",
+                    "lng": "110\u00b0 19' 17.79528'' W"
+                },
+                "MGRS": "12RWR6695551481",
+                "Maidenhead": "DL47uo10jn",
+                "Mercator": {
+                    "x": -12280945.426,
+                    "y": 3177044.523
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=336154521#map=16/27.58559/-110.32161",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/27.58559/-110.32161&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.58559&mlon=-110.32161#map=16/27.58559/-110.32161"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9scsctf38pj2nufpez71",
+                "qibla": 33.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714567320,
+                        "astronomical": 1714562280,
+                        "civil": 1714565880,
+                        "nautical": 1714564080
+                    },
+                    "set": {
+                        "apparent": 1714528500,
+                        "astronomical": 1714533540,
+                        "civil": 1714529940,
+                        "nautical": 1714531740
+                    }
+                },
+                "timezone": {
+                    "name": "America/Hermosillo",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "awaken.harness.aloft"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.6055917,
+                    "lng": -110.3016098
+                },
+                "southwest": {
+                    "lat": 27.5655917,
+                    "lng": -110.3416098
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-SON"
+                ],
+                "_category": "place",
+                "_normalized_city": "V\u00edcam Pueblo",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Guaymas",
+                "state": "Sonora",
+                "state_code": "SON",
+                "village": "V\u00edcam Pueblo"
+            },
+            "confidence": 7,
+            "formatted": "V\u00edcam Pueblo, Guaymas, Mexico",
+            "geometry": {
+                "lat": 27.5855917,
+                "lng": -110.3216098
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:16:25 GMT",
+        "created_unix": 1714544185
+    },
+    "total_results": 1
+}

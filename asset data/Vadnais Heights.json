@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1507,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 3' 27.12204'' N",
+                    "lng": "93\u00b0 4' 26.02380'' W"
+                },
+                "FIPS": {
+                    "county": "27123",
+                    "state": "27"
+                },
+                "MGRS": "15TVK9418189344",
+                "Maidenhead": "EN35lb13dt",
+                "Mercator": {
+                    "x": -10360938.653,
+                    "y": 5600327.602
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=136607#map=17/45.05753/-93.07390",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.05753/-93.07390&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.05753&mlon=-93.07390#map=17/45.05753/-93.07390"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "cbjb643xjj17h6tec35g",
+                "qibla": 43.98,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713698220,
+                        "astronomical": 1713691560,
+                        "civil": 1713696360,
+                        "nautical": 1713694080
+                    },
+                    "set": {
+                        "apparent": 1713661500,
+                        "astronomical": 1713668220,
+                        "civil": 1713663420,
+                        "nautical": 1713665700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "soap.acute.ranged"
+                },
+                "wikidata": "Q1992815"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.079299,
+                    "lng": -93.030617
+                },
+                "southwest": {
+                    "lat": 45.035554,
+                    "lng": -93.106532
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vadnais Heights",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Ramsey County",
+                "postcode": "55127",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Vadnais Heights"
+            },
+            "confidence": 7,
+            "formatted": "Vadnais Heights, MN 55127, United States of America",
+            "geometry": {
+                "lat": 45.0575339,
+                "lng": -93.0738955
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:50:05 GMT",
+        "created_unix": 1713664205
+    },
+    "total_results": 1
+}

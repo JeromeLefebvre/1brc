@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1242,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 9' 33.94980'' N",
+                    "lng": "97\u00b0 59' 26.65032'' W"
+                },
+                "FIPS": {
+                    "county": "48215",
+                    "state": "48"
+                },
+                "MGRS": "14RPP0087193731",
+                "Maidenhead": "EL16ad18cg",
+                "Mercator": {
+                    "x": -10908278.856,
+                    "y": 3000008.219
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=113776#map=17/26.15943/-97.99074",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.15943/-97.99074&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.15943&mlon=-97.99074#map=17/26.15943/-97.99074"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9udkf4jmdr71px04b4qd",
+                "qibla": 44.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711887840,
+                        "astronomical": 1711883220,
+                        "civil": 1711886460,
+                        "nautical": 1711884840
+                    },
+                    "set": {
+                        "apparent": 1711846080,
+                        "astronomical": 1711850700,
+                        "civil": 1711847460,
+                        "nautical": 1711849080
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "sketch.conga.wishing"
+                },
+                "wikidata": "Q976553"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.2458303,
+                    "lng": -97.9140635
+                },
+                "southwest": {
+                    "lat": 26.0964026,
+                    "lng": -98.0373016
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Weslaco",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hidalgo County",
+                "postcode": "78596",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "Weslaco"
+            },
+            "confidence": 6,
+            "formatted": "Weslaco, TX 78596, United States of America",
+            "geometry": {
+                "lat": 26.1594305,
+                "lng": -97.9907362
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:08:51 GMT",
+        "created_unix": 1711919331
+    },
+    "total_results": 1
+}

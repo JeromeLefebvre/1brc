@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 615,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 56' 28.32864'' N",
+                    "lng": "85\u00b0 36' 35.03124'' W"
+                },
+                "FIPS": {
+                    "county": "26081",
+                    "state": "26"
+                },
+                "MGRS": "16TFN1342755223",
+                "Maidenhead": "EN72ew65tv",
+                "Mercator": {
+                    "x": -9530031.651,
+                    "y": 5273908.669
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=134434#map=17/42.94120/-85.60973",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.94120/-85.60973&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.94120&mlon=-85.60973#map=17/42.94120/-85.60973"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpeh7chyssmcvnhmx422",
+                "qibla": 50.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713610380,
+                        "astronomical": 1713604080,
+                        "civil": 1713608580,
+                        "nautical": 1713606360
+                    },
+                    "set": {
+                        "apparent": 1713573060,
+                        "astronomical": 1713579360,
+                        "civil": 1713574860,
+                        "nautical": 1713577020
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "people.itself.slam"
+                },
+                "wikidata": "Q1838999"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.9608504,
+                    "lng": -85.588751
+                },
+                "southwest": {
+                    "lat": 42.930651,
+                    "lng": -85.6300658
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Grand Rapids",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Kent County",
+                "postcode": "49506",
+                "state": "Michigan",
+                "state_code": "MI",
+                "town": "East Grand Rapids"
+            },
+            "confidence": 7,
+            "formatted": "East Grand Rapids, MI 49506, United States of America",
+            "geometry": {
+                "lat": 42.9412024,
+                "lng": -85.6097309
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:44:18 GMT",
+        "created_unix": 1713649458
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 308,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 46' 54.74244'' N",
+                    "lng": "117\u00b0 13' 47.45172'' W"
+                },
+                "FIPS": {
+                    "county": "06065",
+                    "state": "06"
+                },
+                "MGRS": "11SMT7871937994",
+                "Maidenhead": "DM13js27kp",
+                "Mercator": {
+                    "x": -13049966.952,
+                    "y": 3975792.655
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=112037#map=17/33.78187/-117.22985",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.78187/-117.22985&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.78187&mlon=-117.22985#map=17/33.78187/-117.22985"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh8hmgcdt9cmb5k2yku",
+                "qibla": 24.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714913760,
+                        "astronomical": 1714908180,
+                        "civil": 1714912200,
+                        "nautical": 1714910220
+                    },
+                    "set": {
+                        "apparent": 1714876500,
+                        "astronomical": 1714882140,
+                        "civil": 1714878120,
+                        "nautical": 1714880040
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "cheered.dramatic.string"
+                },
+                "wikidata": "Q983609"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.8701367,
+                    "lng": -117.179494
+                },
+                "southwest": {
+                    "lat": 33.7138654,
+                    "lng": -117.262542
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Perris",
+                "_type": "city",
+                "city": "Perris",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Riverside County",
+                "postcode": "92571",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 6,
+            "formatted": "Perris, California, United States of America",
+            "geometry": {
+                "lat": 33.7818729,
+                "lng": -117.2298477
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:50:49 GMT",
+        "created_unix": 1714949449
+    },
+    "total_results": 1
+}

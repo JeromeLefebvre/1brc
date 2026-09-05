@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2224,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 7' 25.03380'' N",
+                    "lng": "116\u00b0 24' 50.34204'' W"
+                },
+                "FIPS": {
+                    "county": "06071",
+                    "state": "06"
+                },
+                "MGRS": "11SNT5403976017",
+                "Maidenhead": "DM14tc09hq",
+                "Mercator": {
+                    "x": -12959145.409,
+                    "y": 4021443.946
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=16820402#map=16/34.12362/-116.41398",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/34.12362/-116.41398&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.12362&mlon=-116.41398#map=16/34.12362/-116.41398"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qj4nujbmxfj47hcs4c2",
+                "qibla": 25.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050180,
+                        "astronomical": 1714044720,
+                        "civil": 1714048560,
+                        "nautical": 1714046700
+                    },
+                    "set": {
+                        "apparent": 1714011900,
+                        "astronomical": 1714017360,
+                        "civil": 1714013460,
+                        "nautical": 1714015380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "representing.squabbles.streetcar"
+                },
+                "wikidata": "Q862684"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.1933729,
+                    "lng": -116.3503102
+                },
+                "southwest": {
+                    "lat": 34.0758654,
+                    "lng": -116.4929699
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Yucca Valley",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Bernardino County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Yucca Valley"
+            },
+            "confidence": 6,
+            "formatted": "Yucca Valley, California, United States of America",
+            "geometry": {
+                "lat": 34.1236205,
+                "lng": -116.4139839
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:12:30 GMT",
+        "created_unix": 1714003950
+    },
+    "total_results": 1
+}

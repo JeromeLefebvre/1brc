@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1034,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 10' 47.83008'' N",
+                    "lng": "129\u00b0 4' 30.85140'' E"
+                },
+                "MGRS": "52SED0685093002",
+                "Maidenhead": "PM45me93ae",
+                "Mercator": {
+                    "x": 14368589.601,
+                    "y": 4163744.626
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2396450#map=17/35.17995/129.07524",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.17995/129.07524&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.17995&mlon=129.07524#map=17/35.17995/129.07524"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wy7b1hmdp480sq9n9bju",
+                "qibla": 287.39,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714077660,
+                        "astronomical": 1714072140,
+                        "civil": 1714076040,
+                        "nautical": 1714074120
+                    },
+                    "set": {
+                        "apparent": 1714039380,
+                        "astronomical": 1714044900,
+                        "civil": 1714041000,
+                        "nautical": 1714042920
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "gestures.succeed.refuse"
+                },
+                "wikidata": "Q16520"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.3892236,
+                    "lng": 129.4889527
+                },
+                "southwest": {
+                    "lat": 34.7252504,
+                    "lng": 128.7568072
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "ISO_3166-2": [
+                    "KR-26"
+                ],
+                "_category": "place",
+                "_normalized_city": "Busan",
+                "_type": "city",
+                "city": "Busan",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr"
+            },
+            "confidence": 1,
+            "formatted": "Busan, South Korea",
+            "geometry": {
+                "lat": 35.1799528,
+                "lng": 129.0752365
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:05:50 GMT",
+        "created_unix": 1714007150
+    },
+    "total_results": 1
+}

@@ -1,0 +1,130 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 163,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 37' 58.44000'' N",
+                    "lng": "29\u00b0 44' 20.04000'' E"
+                },
+                "MGRS": "35UPU8534534956",
+                "Maidenhead": "KO42up81qv",
+                "Mercator": {
+                    "x": 3310519.205,
+                    "y": 6881398.452
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.63290/29.73890&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.63290&mlon=29.73890#map=17/52.63290/29.73890"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BY": "112",
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 375,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0431\u0435\u043b. \u0440\u0443\u0431.",
+                        "\u0431.\u0440.",
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "BYN",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "BYN",
+                    "iso_numeric": "933",
+                    "name": "Belarusian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kapeyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\udde7\ud83c\uddfe",
+                "geohash": "u9m5ktx0yeen1crzf6ut",
+                "qibla": 162.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713754080,
+                        "astronomical": 1713745560,
+                        "civil": 1713751860,
+                        "nautical": 1713748980
+                    },
+                    "set": {
+                        "apparent": 1713805920,
+                        "astronomical": 1713814500,
+                        "civil": 1713808200,
+                        "nautical": 1713811080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Minsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "lottery.verdict.shiny"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BY",
+                "ISO_3166-1_alpha-3": "BLR",
+                "_category": "place",
+                "_normalized_city": "Svyetlahorsk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belarus",
+                "country_code": "by",
+                "state": "Gomel",
+                "town": "Svyetlahorsk"
+            },
+            "confidence": 9,
+            "formatted": "Svyetlahorsk, Gomel, Belarus",
+            "geometry": {
+                "lat": 52.6329,
+                "lng": 29.7389
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:44:44 GMT",
+        "created_unix": 1713782684
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 54,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 45' 6.98400'' N",
+                    "lng": "103\u00b0 38' 43.00800'' E"
+                },
+                "MGRS": "48UVD0856645537",
+                "Maidenhead": "OO12ts70kl",
+                "Mercator": {
+                    "x": 11537739.793,
+                    "y": 6903208.212
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.75194/103.64528&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.75194&mlon=103.64528#map=17/52.75194/103.64528"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "y33sne0nq465r1bcejej",
+                "qibla": 262.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713736560,
+                        "astronomical": 1713728100,
+                        "civil": 1713734280,
+                        "nautical": 1713731460
+                    },
+                    "set": {
+                        "apparent": 1713701640,
+                        "astronomical": 1713710160,
+                        "civil": 1713703920,
+                        "nautical": 1713706740
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Irkutsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "+08"
+                },
+                "what3words": {
+                    "words": "evidently.surfer.deep"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.7854729,
+                    "lng": 103.6784439
+                },
+                "southwest": {
+                    "lat": 52.7261391,
+                    "lng": 103.615387
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Usol\u2019ye-Sibirskoye",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Irkutskaya Oblast\u2019",
+                "town": "Usol\u2019ye-Sibirskoye"
+            },
+            "confidence": 7,
+            "formatted": "Usol\u2019ye-Sibirskoye, Irkutskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 52.75194,
+                "lng": 103.64528
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:50:20 GMT",
+        "created_unix": 1713667820
+    },
+    "total_results": 1
+}

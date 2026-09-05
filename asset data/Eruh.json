@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1600,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 45' 2.15640'' N",
+                    "lng": "42\u00b0 10' 51.00924'' E"
+                },
+                "MGRS": "38SKG5162381886",
+                "Maidenhead": "LM17cs10qd",
+                "Mercator": {
+                    "x": 4695549.174,
+                    "y": 4518090.976
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1246475#map=17/37.75060/42.18084",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.75060/42.18084&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.75060&mlon=42.18084#map=17/37.75060/42.18084"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "TR": "792",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 90,
+                "currency": {
+                    "alternate_symbols": [
+                        "TL"
+                    ],
+                    "decimal_mark": ",",
+                    "html_entity": "&#8378;",
+                    "iso_code": "TRY",
+                    "iso_numeric": "949",
+                    "name": "Turkish Lira",
+                    "smallest_denomination": 1,
+                    "subunit": "kuru\u015f",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ba",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf7",
+                "geohash": "sytyzb71htwys7h4tqgw",
+                "qibla": 187.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713925500,
+                        "astronomical": 1713919740,
+                        "civil": 1713923820,
+                        "nautical": 1713921840
+                    },
+                    "set": {
+                        "apparent": 1713974040,
+                        "astronomical": 1713979800,
+                        "civil": 1713975720,
+                        "nautical": 1713977700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Istanbul",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "chamber.luminaries.shortlived"
+                },
+                "wikidata": "Q132385"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.8905505,
+                    "lng": 42.5292998
+                },
+                "southwest": {
+                    "lat": 37.5892507,
+                    "lng": 41.8144736
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TR",
+                "ISO_3166-1_alpha-3": "TUR",
+                "ISO_3166-2": [
+                    "TR-56"
+                ],
+                "_category": "place",
+                "_normalized_city": "Eruh",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Turkey",
+                "country_code": "tr",
+                "postcode": "56800",
+                "province": "Siirt",
+                "region": "Southeastern Anatolia Region",
+                "state": "Siirt",
+                "town": "Eruh"
+            },
+            "confidence": 1,
+            "formatted": "56800 Eruh, Turkey",
+            "geometry": {
+                "lat": 37.750599,
+                "lng": 42.1808359
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:40:14 GMT",
+        "created_unix": 1713994814
+    },
+    "total_results": 1
+}

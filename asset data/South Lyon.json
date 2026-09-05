@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 49,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 27' 4.95720'' N",
+                    "lng": "83\u00b0 39' 33.04440'' W"
+                },
+                "FIPS": {
+                    "county": "26125",
+                    "state": "26"
+                },
+                "MGRS": "17TKH8132903320",
+                "Maidenhead": "EN82ek08vh",
+                "Mercator": {
+                    "x": -9312897.206,
+                    "y": 5199986.426
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=135059#map=17/42.45138/-83.65918",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.45138/-83.65918&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.45138&mlon=-83.65918#map=17/42.45138/-83.65918"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dps98211py4zd7g90s48",
+                "qibla": 51.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714041480,
+                        "astronomical": 1714035120,
+                        "civil": 1714039680,
+                        "nautical": 1714037460
+                    },
+                    "set": {
+                        "apparent": 1714004880,
+                        "astronomical": 1714011240,
+                        "civil": 1714006680,
+                        "nautical": 1714008900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "piled.stepping.misled"
+                },
+                "wikidata": "Q2498438"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.484209,
+                    "lng": -83.635787
+                },
+                "southwest": {
+                    "lat": 42.4311835,
+                    "lng": -83.667661
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Lyon",
+                "_type": "city",
+                "city": "South Lyon",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Oakland County",
+                "postcode": "48178",
+                "state": "Michigan",
+                "state_code": "MI"
+            },
+            "confidence": 7,
+            "formatted": "South Lyon, Michigan, United States of America",
+            "geometry": {
+                "lat": 42.451377,
+                "lng": -83.659179
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:24:18 GMT",
+        "created_unix": 1714011858
+    },
+    "total_results": 1
+}

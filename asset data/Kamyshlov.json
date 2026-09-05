@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1350,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 50' 46.17960'' N",
+                    "lng": "62\u00b0 42' 43.75440'' E"
+                },
+                "MGRS": "41VMD8244100298",
+                "Maidenhead": "MO16iu53lb",
+                "Mercator": {
+                    "x": 6981085.05,
+                    "y": 7692937.321
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1288760#map=16/56.84616/62.71215",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/56.84616/62.71215&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.84616&mlon=62.71215#map=16/56.84616/62.71215"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v6he7h98gh7qbs279fbq",
+                "qibla": 214.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714004220,
+                        "astronomical": 1714079340,
+                        "civil": 1714087980,
+                        "nautical": 1714084440
+                    },
+                    "set": {
+                        "apparent": 1714058280,
+                        "astronomical": 1714069860,
+                        "civil": 1714060980,
+                        "nautical": 1714064520
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "snored.systems.navigate"
+                },
+                "wikidata": "Q144209"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.8737,
+                    "lng": 62.8108526
+                },
+                "southwest": {
+                    "lat": 56.8030759,
+                    "lng": 62.6283527
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-SVE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kamyshlov",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Ural Federal District",
+                "state": "Sverdlovsk Oblast",
+                "town": "Kamyshlov"
+            },
+            "confidence": 7,
+            "formatted": "Kamyshlov, Sverdlovsk Oblast, Russia",
+            "geometry": {
+                "lat": 56.846161,
+                "lng": 62.712154
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:51:46 GMT",
+        "created_unix": 1714006306
+    },
+    "total_results": 1
+}

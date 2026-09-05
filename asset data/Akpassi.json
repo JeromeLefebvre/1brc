@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1730,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "8\u00b0 26' 32.13600'' N",
+                    "lng": "1\u00b0 53' 3.15600'' E"
+                },
+                "MGRS": "31PCK7716933366",
+                "Maidenhead": "JJ08wk66cd",
+                "Mercator": {
+                    "x": 209749.298,
+                    "y": 936938.362
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/8.44226/1.88421&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=8.44226&mlon=1.88421#map=16/8.44226/1.88421"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BJ": "204",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 229,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddef",
+                "geohash": "s1924bu59r2f9b4qnmp8",
+                "qibla": 66.11,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711691580,
+                        "astronomical": 1711687380,
+                        "civil": 1711690320,
+                        "nautical": 1711688820
+                    },
+                    "set": {
+                        "apparent": 1711735320,
+                        "astronomical": 1711739460,
+                        "civil": 1711736580,
+                        "nautical": 1711738020
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Porto-Novo",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "turtlenecks.empire.calories"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BJ",
+                "ISO_3166-1_alpha-3": "BEN",
+                "_category": "place",
+                "_normalized_city": "Akpassi",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Benin",
+                "country_code": "bj",
+                "town": "Akpassi"
+            },
+            "confidence": 9,
+            "formatted": "Akpassi, Benin",
+            "geometry": {
+                "lat": 8.44226,
+                "lng": 1.88421
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:14:54 GMT",
+        "created_unix": 1711750494
+    },
+    "total_results": 1
+}

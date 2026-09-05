@@ -1,0 +1,132 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1719,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 39' 13.82400'' N",
+                    "lng": "51\u00b0 45' 18.79200'' E"
+                },
+                "MGRS": "39SWS7082413164",
+                "Maidenhead": "LM52vp06pw",
+                "Mercator": {
+                    "x": 5761364.736,
+                    "y": 3826393.602
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.65384/51.75522&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.65384&mlon=51.75522#map=17/32.65384/51.75522"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IR": "364",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 98,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "IRR",
+                    "iso_numeric": "364",
+                    "name": "Iranian Rial",
+                    "smallest_denomination": 5000,
+                    "subunit_to_unit": 100,
+                    "symbol": "\ufdfc",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf7",
+                "geohash": "tjucc8rn2hcngsufg0r5",
+                "qibla": 226.29,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713837300,
+                        "astronomical": 1713832080,
+                        "civil": 1713835800,
+                        "nautical": 1713833940
+                    },
+                    "set": {
+                        "apparent": 1713884880,
+                        "astronomical": 1713890160,
+                        "civil": 1713886380,
+                        "nautical": 1713888240
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tehran",
+                    "now_in_dst": 0,
+                    "offset_sec": 12600,
+                    "offset_string": "+0330",
+                    "short_name": "+0330"
+                },
+                "what3words": {
+                    "words": "sofa.deal.cherub"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.643421,
+                    "lng": 51.744232
+                },
+                "southwest": {
+                    "lat": 32.623833,
+                    "lng": 51.716251
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IR",
+                "ISO_3166-1_alpha-3": "IRN",
+                "_category": "place",
+                "_normalized_city": "Khowr\u0101sg\u0101n",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Iran",
+                "country_code": "ir",
+                "state": "Isfahan",
+                "town": "Khowr\u0101sg\u0101n"
+            },
+            "confidence": 7,
+            "formatted": "Khowr\u0101sg\u0101n, Isfahan, Iran",
+            "geometry": {
+                "lat": 32.65384,
+                "lng": 51.75522
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:06:50 GMT",
+        "created_unix": 1713841610
+    },
+    "total_results": 1
+}

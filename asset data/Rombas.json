@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1615,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 15' 5.41728'' N",
+                    "lng": "6\u00b0 5' 37.81284'' E"
+                },
+                "MGRS": "32UKV8852159479",
+                "Maidenhead": "JN39bg10gi",
+                "Mercator": {
+                    "x": 678362.821,
+                    "y": 6285256.229
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRF"
+                    },
+                    "NUTS2": {
+                        "code": "FRF3"
+                    },
+                    "NUTS3": {
+                        "code": "FRF33"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=122823#map=17/49.25150/6.09384",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.25150/6.09384&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.25150&mlon=6.09384#map=17/49.25150/6.09384"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u0u24tvqu9yjupvb9fc0",
+                "qibla": 123.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711862100,
+                        "astronomical": 1711855440,
+                        "civil": 1711860180,
+                        "nautical": 1711857900
+                    },
+                    "set": {
+                        "apparent": 1711908300,
+                        "astronomical": 1711915020,
+                        "civil": 1711910220,
+                        "nautical": 1711912560
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "obstruction.alleges.figs"
+                },
+                "wikidata": "Q21981"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.2630558,
+                    "lng": 6.1237088
+                },
+                "southwest": {
+                    "lat": 49.2254381,
+                    "lng": 6.0525062
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-GES",
+                    "FR-57"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rombas",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Moselle",
+                "municipality": "Metz",
+                "political_union": "European Union",
+                "postcode": "57120",
+                "region": "Metropolitan France",
+                "state": "Grand Est",
+                "state_code": "GES",
+                "town": "Rombas"
+            },
+            "confidence": 7,
+            "formatted": "57120 Rombas, France",
+            "geometry": {
+                "lat": 49.2515048,
+                "lng": 6.0938369
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:56:08 GMT",
+        "created_unix": 1711918568
+    },
+    "total_results": 1
+}

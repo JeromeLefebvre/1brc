@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1749,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 32' 28.77756'' N",
+                    "lng": "0\u00b0 8' 53.21112'' E"
+                },
+                "MGRS": "31UCT0224013880",
+                "Maidenhead": "JO01bm79sw",
+                "Mercator": {
+                    "x": 16487.997,
+                    "y": 6684132.072
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=596796167#map=17/51.54133/0.14811",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.54133/0.14811&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.54133&mlon=0.14811#map=17/51.54133/0.14811"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "u10j5qgcgrcbn6p4gbpp",
+                "qibla": 119.32,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796760,
+                        "astronomical": 1714787460,
+                        "civil": 1714794420,
+                        "nautical": 1714791360
+                    },
+                    "set": {
+                        "apparent": 1714850820,
+                        "astronomical": 1714860240,
+                        "civil": 1714853160,
+                        "nautical": 1714856280
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "struck.thinks.ended"
+                },
+                "wikidata": "Q1075299"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5613271,
+                    "lng": 0.1681142
+                },
+                "southwest": {
+                    "lat": 51.5213271,
+                    "lng": 0.1281142
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-BDG"
+                ],
+                "_category": "place",
+                "_normalized_city": "London",
+                "_type": "neighbourhood",
+                "city": "London",
+                "city_district": "London Borough of Barking and Dagenham",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "London Borough of Barking and Dagenham",
+                "county_code": "BDG",
+                "postcode": "RM10 8PE",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Dagenham"
+            },
+            "confidence": 7,
+            "formatted": "London, RM10 8PE, United Kingdom",
+            "geometry": {
+                "lat": 51.5413271,
+                "lng": 0.1481142
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:47:41 GMT",
+        "created_unix": 1714787261
+    },
+    "total_results": 1
+}

@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1251,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 40' 3.55260'' N",
+                    "lng": "9\u00b0 22' 33.26592'' E"
+                },
+                "MGRS": "32UNC2599624141",
+                "Maidenhead": "JO41qq50cf",
+                "Mercator": {
+                    "x": 1043721.215,
+                    "y": 6706715.305
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA4"
+                    },
+                    "NUTS3": {
+                        "code": "DEA44"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=148589#map=17/51.66765/9.37591",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.66765/9.37591&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.66765&mlon=9.37591#map=17/51.66765/9.37591"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1ntvmg3fkxn7uwgr9pu",
+                "qibla": 130.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713672840,
+                        "astronomical": 1713664740,
+                        "civil": 1713670680,
+                        "nautical": 1713667920
+                    },
+                    "set": {
+                        "apparent": 1713724140,
+                        "astronomical": 1713732360,
+                        "civil": 1713726360,
+                        "nautical": 1713729120
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "cameras.devoured.availing"
+                },
+                "wikidata": "Q242098"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.7377354,
+                    "lng": 9.4454219
+                },
+                "southwest": {
+                    "lat": 51.6111709,
+                    "lng": 9.2380814
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Beverungen",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Kreis H\u00f6xter",
+                "political_union": "European Union",
+                "postcode": "37688",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Beverungen"
+            },
+            "confidence": 6,
+            "formatted": "37688 Beverungen, Germany",
+            "geometry": {
+                "lat": 51.6676535,
+                "lng": 9.3759072
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:00:13 GMT",
+        "created_unix": 1713664813
+    },
+    "total_results": 1
+}

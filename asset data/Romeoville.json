@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2343,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 38' 51.11016'' N",
+                    "lng": "88\u00b0 5' 22.22196'' W"
+                },
+                "FIPS": {
+                    "county": "17197",
+                    "state": "17"
+                },
+                "MGRS": "16TDM0927211216",
+                "Maidenhead": "EN51wp95gj",
+                "Mercator": {
+                    "x": -9806078.963,
+                    "y": 5079924.002
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=125787#map=17/41.64753/-88.08951",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.64753/-88.08951&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.64753&mlon=-88.08951#map=17/41.64753/-88.08951"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp3kgmxnmwrt04598hg8",
+                "qibla": 48.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819500,
+                        "astronomical": 1714812960,
+                        "civil": 1714817700,
+                        "nautical": 1714815420
+                    },
+                    "set": {
+                        "apparent": 1714783980,
+                        "astronomical": 1714790580,
+                        "civil": 1714785840,
+                        "nautical": 1714788120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "modern.hulk.candy"
+                },
+                "wikidata": "Q1012403"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.6798828,
+                    "lng": -88.0285708
+                },
+                "southwest": {
+                    "lat": 41.5926878,
+                    "lng": -88.1631089
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Romeoville",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Will County",
+                "postcode": "60446",
+                "state": "Illinois",
+                "state_code": "IL",
+                "village": "Romeoville"
+            },
+            "confidence": 6,
+            "formatted": "Romeoville, Will County, IL 60446, United States of America",
+            "geometry": {
+                "lat": 41.6475306,
+                "lng": -88.0895061
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:28:07 GMT",
+        "created_unix": 1714786087
+    },
+    "total_results": 1
+}

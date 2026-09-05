@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1467,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 39' 45.00000'' N",
+                    "lng": "43\u00b0 32' 12.98400'' E"
+                },
+                "MGRS": "38TLP8203635428",
+                "Maidenhead": "LN13sp49ka",
+                "Mercator": {
+                    "x": 4846509.991,
+                    "y": 5383850.692
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.66250/43.53694&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.66250&mlon=43.53694#map=16/43.66250/43.53694"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "szybqsw8kpzmsx5jvft5",
+                "qibla": 189.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713406740,
+                        "astronomical": 1713400440,
+                        "civil": 1713404940,
+                        "nautical": 1713402780
+                    },
+                    "set": {
+                        "apparent": 1713455520,
+                        "astronomical": 1713461880,
+                        "civil": 1713457320,
+                        "nautical": 1713459540
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "resurrect.ensemble.faring"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.6696472,
+                    "lng": 43.5673065
+                },
+                "southwest": {
+                    "lat": 43.6468048,
+                    "lng": 43.4910164
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Dugulubgey",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Kabardino-Balkarskaya Respublika",
+                "town": "Dugulubgey"
+            },
+            "confidence": 7,
+            "formatted": "Dugulubgey, Kabardino-Balkarskaya Respublika, Russia",
+            "geometry": {
+                "lat": 43.6625,
+                "lng": 43.53694
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:50:02 GMT",
+        "created_unix": 1713441002
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1952,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 31' 55.33716'' N",
+                    "lng": "32\u00b0 32' 4.21008'' E"
+                },
+                "MGRS": "36TVS6430253268",
+                "Maidenhead": "KN66gm47dq",
+                "Mercator": {
+                    "x": 3621724.285,
+                    "y": 5834997.775
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3592360#map=17/46.53204/32.53450",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.53204/32.53450&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.53204&mlon=32.53450#map=17/46.53204/32.53450"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "u8r0sqfuubee5pg1ujrx",
+                "qibla": 164.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714444680,
+                        "astronomical": 1714437360,
+                        "civil": 1714442700,
+                        "nautical": 1714440180
+                    },
+                    "set": {
+                        "apparent": 1714496220,
+                        "astronomical": 1714503600,
+                        "civil": 1714498200,
+                        "nautical": 1714500720
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "tangles.hideaways.semicolon"
+                },
+                "wikidata": "Q760224"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.5477891,
+                    "lng": 32.5727409
+                },
+                "southwest": {
+                    "lat": 46.503581,
+                    "lng": 32.4982453
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "ISO_3166-2": [
+                    "UA-65"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hola Prystan",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "district": "Skadovsk Raion",
+                "municipality": "Hola Prystan urban hromada",
+                "postcode": "75600",
+                "state": "Kherson Oblast",
+                "town": "Hola Prystan"
+            },
+            "confidence": 7,
+            "formatted": "Skadovsk Raion, Hola Prystan, Kherson Oblast, 75600, Ukraine",
+            "geometry": {
+                "lat": 46.5320381,
+                "lng": 32.5345028
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:10:19 GMT",
+        "created_unix": 1714518619
+    },
+    "total_results": 1
+}

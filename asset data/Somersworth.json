@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 207,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 15' 45.21060'' N",
+                    "lng": "70\u00b0 51' 52.51392'' W"
+                },
+                "FIPS": {
+                    "county": "33017",
+                    "state": "33"
+                },
+                "MGRS": "19TCH4866791660",
+                "Maidenhead": "FN43ng63fa",
+                "Mercator": {
+                    "x": -7888609.762,
+                    "y": 5322728.438
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=170171#map=17/43.26256/-70.86459",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.26256/-70.86459&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.26256&mlon=-70.86459#map=17/43.26256/-70.86459"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drtw57tyxmmvwrcnk8zc",
+                "qibla": 60.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714038300,
+                        "astronomical": 1714031820,
+                        "civil": 1714036500,
+                        "nautical": 1714034280
+                    },
+                    "set": {
+                        "apparent": 1714088280,
+                        "astronomical": 1714008420,
+                        "civil": 1714003740,
+                        "nautical": 1714005960
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "accomplice.housework.blink"
+                },
+                "wikidata": "Q1000227"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.2873391,
+                    "lng": -70.8381278
+                },
+                "southwest": {
+                    "lat": 43.2234305,
+                    "lng": -70.927105
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Somersworth",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Strafford County",
+                "postcode": "03878",
+                "state": "New Hampshire",
+                "state_code": "NH",
+                "town": "Somersworth"
+            },
+            "confidence": 7,
+            "formatted": "Somersworth, NH 03878, United States of America",
+            "geometry": {
+                "lat": 43.2625585,
+                "lng": -70.8645872
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:18:22 GMT",
+        "created_unix": 1714011502
+    },
+    "total_results": 1
+}

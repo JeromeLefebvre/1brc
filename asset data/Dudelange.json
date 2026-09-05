@@ -1,0 +1,168 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1238,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 28' 43.13172'' N",
+                    "lng": "6\u00b0 5' 5.20512'' E"
+                },
+                "MGRS": "32UKV8883884752",
+                "Maidenhead": "JN39bl04ev",
+                "Mercator": {
+                    "x": 677354.522,
+                    "y": 6323972.442
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "LU"
+                    },
+                    "NUTS1": {
+                        "code": "LU0"
+                    },
+                    "NUTS2": {
+                        "code": "LU00"
+                    },
+                    "NUTS3": {
+                        "code": "LU000"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=407453#map=17/49.47865/6.08478",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.47865/6.08478&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.47865&mlon=6.08478#map=17/49.47865/6.08478"
+                },
+                "UN/LOCODE": {
+                    "code": "LUDUD",
+                    "date": "9501",
+                    "function": {
+                        "meaning": [
+                            "road terminal"
+                        ],
+                        "raw": "--3-----"
+                    },
+                    "lat": 49.4786477,
+                    "lng": 6.0847792,
+                    "name": "Dudelange",
+                    "name_wo_diacritics": "Dudelange"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "LU": "442",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 352,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf1\ud83c\uddfa",
+                "geohash": "u0u36rqf18knpj3m1zx8",
+                "qibla": 124.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714623120,
+                        "astronomical": 1714614900,
+                        "civil": 1714620960,
+                        "nautical": 1714618200
+                    },
+                    "set": {
+                        "apparent": 1714676040,
+                        "astronomical": 1714684380,
+                        "civil": 1714678200,
+                        "nautical": 1714681020
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Luxembourg",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "defeat.terminal.scoring"
+                },
+                "wikidata": "Q16014"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.50705,
+                    "lng": 6.1280384
+                },
+                "southwest": {
+                    "lat": 49.45289,
+                    "lng": 6.0474987
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "LU",
+                "ISO_3166-1_alpha-3": "LUX",
+                "ISO_3166-2": [
+                    "LU-ES"
+                ],
+                "_category": "place",
+                "_normalized_city": "Dudelange",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Luxembourg",
+                "country_code": "lu",
+                "county": "Canton Esch-sur-Alzette",
+                "county_code": "ES",
+                "political_union": "European Union",
+                "town": "Dudelange"
+            },
+            "confidence": 7,
+            "formatted": "Dudelange, Canton Esch-sur-Alzette, Luxembourg",
+            "geometry": {
+                "lat": 49.4786477,
+                "lng": 6.0847792
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:47:35 GMT",
+        "created_unix": 1714693655
+    },
+    "total_results": 1
+}

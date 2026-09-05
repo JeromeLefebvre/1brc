@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 101,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 57' 47.22840'' N",
+                    "lng": "18\u00b0 5' 37.77360'' E"
+                },
+                "MGRS": "34SBK5177727709",
+                "Maidenhead": "JM99bx11gd",
+                "Mercator": {
+                    "x": 2014195.497,
+                    "y": 4833134.516
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF4"
+                    },
+                    "NUTS3": {
+                        "code": "ITF45"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=40161#map=17/39.96312/18.09383",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.96312/18.09383&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.96312&mlon=18.09383#map=17/39.96312/18.09383"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "srhg7epd09qd3pt5rvsb",
+                "qibla": 128.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535340,
+                        "astronomical": 1714529100,
+                        "civil": 1714533540,
+                        "nautical": 1714531440
+                    },
+                    "set": {
+                        "apparent": 1714585260,
+                        "astronomical": 1714591500,
+                        "civil": 1714587060,
+                        "nautical": 1714589160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "suckled.caviar.sake"
+                },
+                "wikidata": "Q52181"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.9875928,
+                    "lng": 18.1280611
+                },
+                "southwest": {
+                    "lat": 39.9353506,
+                    "lng": 18.0227183
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-75",
+                    "IT-LE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Racale",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Lecce",
+                "county_code": "LE",
+                "political_union": "European Union",
+                "postcode": "73055",
+                "state": "Apulia",
+                "town": "Racale"
+            },
+            "confidence": 7,
+            "formatted": "73055 Racale LE, Italy",
+            "geometry": {
+                "lat": 39.963119,
+                "lng": 18.093826
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:37:23 GMT",
+        "created_unix": 1714545443
+    },
+    "total_results": 1
+}

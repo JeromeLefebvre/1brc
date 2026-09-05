@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2215,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 3' 11.19600'' N",
+                    "lng": "82\u00b0 25' 27.33600'' W"
+                },
+                "FIPS": {
+                    "county": "12115",
+                    "state": "12"
+                },
+                "MGRS": "17RLK5874993116",
+                "Maidenhead": "EL87sb92cr",
+                "Mercator": {
+                    "x": -9175426.652,
+                    "y": 3110680.145
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.05311/-82.42426&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.05311&mlon=-82.42426#map=17/27.05311/-82.42426"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhv3uku7z91pj6yu84me",
+                "qibla": 55.0,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713610860,
+                        "astronomical": 1713606000,
+                        "civil": 1713609420,
+                        "nautical": 1713607740
+                    },
+                    "set": {
+                        "apparent": 1713657360,
+                        "astronomical": 1713575880,
+                        "civil": 1713572400,
+                        "nautical": 1713574140
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "handshakes.clerics.confides"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.079043,
+                    "lng": -82.390385
+                },
+                "southwest": {
+                    "lat": 27.011481,
+                    "lng": -82.442429
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Venice",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Sarasota County",
+                "state": "Florida",
+                "state_code": "FL",
+                "town": "South Venice"
+            },
+            "confidence": 7,
+            "formatted": "South Venice, Florida, United States of America",
+            "geometry": {
+                "lat": 27.05311,
+                "lng": -82.42426
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 10:37:29 GMT",
+        "created_unix": 1713609449
+    },
+    "total_results": 1
+}

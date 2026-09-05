@@ -1,0 +1,152 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 328,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 33' 27.51804'' N",
+                    "lng": "15\u00b0 38' 44.10744'' E"
+                },
+                "MGRS": "33TWM4948456211",
+                "Maidenhead": "JN76tn73lu",
+                "Mercator": {
+                    "x": 1741658.6,
+                    "y": 5839128.949
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "SI"
+                    },
+                    "NUTS1": {
+                        "code": "SI0"
+                    },
+                    "NUTS2": {
+                        "code": "SI03"
+                    },
+                    "NUTS3": {
+                        "code": "SI032"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1676328#map=17/46.55764/15.64559",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.55764/15.64559&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.55764&mlon=15.64559#map=17/46.55764/15.64559"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "SI": "705",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 386,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddee",
+                "geohash": "u270u58cbtf5bcrcwwp5",
+                "qibla": 133.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714017180,
+                        "astronomical": 1714010100,
+                        "civil": 1714015260,
+                        "nautical": 1714012800
+                    },
+                    "set": {
+                        "apparent": 1714067880,
+                        "astronomical": 1714075020,
+                        "civil": 1714069860,
+                        "nautical": 1714072320
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Ljubljana",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "avoid.magnets.coining"
+                },
+                "wikidata": "Q3435104"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.6342916,
+                    "lng": 15.7722677
+                },
+                "southwest": {
+                    "lat": 46.4994068,
+                    "lng": 15.5169925
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SI",
+                "ISO_3166-1_alpha-3": "SVN",
+                "ISO_3166-2": [
+                    "SI-070"
+                ],
+                "_category": "place",
+                "_normalized_city": "Maribor",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Slovenia",
+                "country_code": "si",
+                "municipality": "Maribor",
+                "political_union": "European Union"
+            },
+            "confidence": 5,
+            "formatted": "Maribor, Slovenia",
+            "geometry": {
+                "lat": 46.5576439,
+                "lng": 15.6455854
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:13:49 GMT",
+        "created_unix": 1714011229
+    },
+    "total_results": 1
+}

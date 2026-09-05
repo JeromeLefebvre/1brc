@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1703,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 50' 48.57360'' N",
+                    "lng": "19\u00b0 52' 26.56236'' E"
+                },
+                "MGRS": "34TDN0799744420",
+                "Maidenhead": "JN92wu43vf",
+                "Mercator": {
+                    "x": 2212368.581,
+                    "y": 5259620.012
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=1255493110#map=17/42.84683/19.87405",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.84683/19.87405&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.84683&mlon=19.87405#map=17/42.84683/19.87405"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "ME": "499",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 382,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddea",
+                "geohash": "srw5u0pbfg60g3nyur47",
+                "qibla": 135.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714620840,
+                        "astronomical": 1714614180,
+                        "civil": 1714618980,
+                        "nautical": 1714616700
+                    },
+                    "set": {
+                        "apparent": 1714671660,
+                        "astronomical": 1714678380,
+                        "civil": 1714673580,
+                        "nautical": 1714675860
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Podgorica",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "termite.remotely.backers"
+                },
+                "wikidata": "Q208200"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.8690448,
+                    "lng": 19.8858118
+                },
+                "southwest": {
+                    "lat": 42.8184475,
+                    "lng": 19.8535381
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ME",
+                "ISO_3166-1_alpha-3": "MNE",
+                "ISO_3166-2": [
+                    "ME-03"
+                ],
+                "_category": "place",
+                "_normalized_city": "Berane",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Montenegro",
+                "country_code": "me",
+                "county": "Berane Municipality",
+                "town": "Berane"
+            },
+            "confidence": 7,
+            "formatted": "Berane, Berane Municipality, Montenegro",
+            "geometry": {
+                "lat": 42.846826,
+                "lng": 19.8740451
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:30:43 GMT",
+        "created_unix": 1714692643
+    },
+    "total_results": 1
+}

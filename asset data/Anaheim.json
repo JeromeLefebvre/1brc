@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 332,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 50' 5.10576'' N",
+                    "lng": "117\u00b0 54' 42.23520'' W"
+                },
+                "FIPS": {
+                    "county": "06059",
+                    "state": "06"
+                },
+                "MGRS": "11SMT1563944207",
+                "Maidenhead": "DM13bu00oi",
+                "Mercator": {
+                    "x": -13125873.965,
+                    "y": 3982844.216
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=253985#map=17/33.83475/-117.91173",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.83475/-117.91173&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.83475&mlon=-117.91173#map=17/33.83475/-117.91173"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh0kz7m9wb4uxw60tz1",
+                "qibla": 24.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714741260,
+                        "astronomical": 1714735680,
+                        "civil": 1714739640,
+                        "nautical": 1714737720
+                    },
+                    "set": {
+                        "apparent": 1714703760,
+                        "astronomical": 1714709340,
+                        "civil": 1714705380,
+                        "nautical": 1714707300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "ranking.gear.boxing"
+                },
+                "wikidata": "Q49247"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.8790572,
+                    "lng": -117.6739673
+                },
+                "southwest": {
+                    "lat": 33.7889241,
+                    "lng": -118.0173585
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Anaheim",
+                "_type": "city",
+                "city": "Anaheim",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Orange County",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 4,
+            "formatted": "Anaheim, California, United States of America",
+            "geometry": {
+                "lat": 33.8347516,
+                "lng": -117.911732
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:31:38 GMT",
+        "created_unix": 1714699898
+    },
+    "total_results": 1
+}

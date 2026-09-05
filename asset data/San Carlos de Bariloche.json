@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2225,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 8' 0.39156'' S",
+                    "lng": "71\u00b0 18' 35.43300'' W"
+                },
+                "MGRS": "19GCQ0612343857",
+                "Maidenhead": "FE48iu27tx",
+                "Mercator": {
+                    "x": -7938175.356,
+                    "y": -5003929.976
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3405247#map=17/-41.13344/-71.30984",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-41.13344/-71.30984&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-41.13344&mlon=-71.30984#map=17/-41.13344/-71.30984"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "AR": "032",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 54,
+                "currency": {
+                    "alternate_symbols": [
+                        "$m/n",
+                        "m$n"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "$m/n",
+                    "html_entity": "$",
+                    "iso_code": "ARS",
+                    "iso_numeric": "032",
+                    "name": "Argentine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf7",
+                "geohash": "62tmcrcu24xs2crbttjj",
+                "qibla": 86.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714044480,
+                        "astronomical": 1714038900,
+                        "civil": 1714042740,
+                        "nautical": 1714040820
+                    },
+                    "set": {
+                        "apparent": 1714082280,
+                        "astronomical": 1714087800,
+                        "civil": 1714083960,
+                        "nautical": 1714085880
+                    }
+                },
+                "timezone": {
+                    "name": "America/Argentina/Salta",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "-03"
+                },
+                "what3words": {
+                    "words": "donor.toenail.unique"
+                },
+                "wikidata": "Q47772"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -41.0370632,
+                    "lng": -71.1373764
+                },
+                "southwest": {
+                    "lat": -41.206243,
+                    "lng": -71.5881237
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AR",
+                "ISO_3166-1_alpha-3": "ARG",
+                "ISO_3166-2": [
+                    "AR-R"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Carlos de Bariloche",
+                "_type": "city",
+                "city": "San Carlos de Bariloche",
+                "continent": "South America",
+                "country": "Argentina",
+                "country_code": "ar",
+                "municipality": "Municipio de San Carlos de Bariloche",
+                "postcode": "8400",
+                "state": "R\u00edo Negro Province",
+                "state_code": "R",
+                "state_district": "Departamento Bariloche"
+            },
+            "confidence": 4,
+            "formatted": "San Carlos de Bariloche, Departamento Bariloche, Argentina",
+            "geometry": {
+                "lat": -41.1334421,
+                "lng": -71.3098425
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:12:27 GMT",
+        "created_unix": 1714003947
+    },
+    "total_results": 1
+}

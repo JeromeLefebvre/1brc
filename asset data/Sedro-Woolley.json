@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1289,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 30' 17.97840'' N",
+                    "lng": "122\u00b0 14' 6.39240'' W"
+                },
+                "FIPS": {
+                    "county": "53057",
+                    "state": "53"
+                },
+                "MGRS": "10UEU5649872713",
+                "Maidenhead": "CN88vm11se",
+                "Mercator": {
+                    "x": -13607150.091,
+                    "y": 6159261.578
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=237867#map=17/48.50499/-122.23511",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.50499/-122.23511&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.50499&mlon=-122.23511#map=17/48.50499/-122.23511"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "c295fqp45d0xe5xmwfww",
+                "qibla": 17.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713445920,
+                        "astronomical": 1713438720,
+                        "civil": 1713443940,
+                        "nautical": 1713441480
+                    },
+                    "set": {
+                        "apparent": 1713409500,
+                        "astronomical": 1713416760,
+                        "civil": 1713411480,
+                        "nautical": 1713414000
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "activation.hero.peculiarly"
+                },
+                "wikidata": "Q1502468"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.529599,
+                    "lng": -122.209839
+                },
+                "southwest": {
+                    "lat": 48.488275,
+                    "lng": -122.280411
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sedro-Woolley",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Skagit County",
+                "state": "Washington",
+                "state_code": "WA",
+                "town": "Sedro-Woolley"
+            },
+            "confidence": 7,
+            "formatted": "Sedro-Woolley, Washington, United States of America",
+            "geometry": {
+                "lat": 48.504994,
+                "lng": -122.235109
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:55:39 GMT",
+        "created_unix": 1713441339
+    },
+    "total_results": 1
+}

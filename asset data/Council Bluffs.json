@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1723,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 15' 31.82760'' N",
+                    "lng": "95\u00b0 51' 7.01424'' W"
+                },
+                "FIPS": {
+                    "county": "19155",
+                    "state": "19"
+                },
+                "MGRS": "15TTF6107471414",
+                "Maidenhead": "EN21bg72sc",
+                "Mercator": {
+                    "x": -10670190.087,
+                    "y": 5022411.088
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=128357#map=17/41.25884/-95.85195",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.25884/-95.85195&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.25884&mlon=-95.85195#map=17/41.25884/-95.85195"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9z7fdyfwptrj21pufcpg",
+                "qibla": 42.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714907760,
+                        "astronomical": 1714901220,
+                        "civil": 1714905960,
+                        "nautical": 1714903680
+                    },
+                    "set": {
+                        "apparent": 1714872300,
+                        "astronomical": 1714878840,
+                        "civil": 1714874100,
+                        "nautical": 1714876380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "daisy.method.ruled"
+                },
+                "wikidata": "Q695565"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.2907291,
+                    "lng": -95.7510892
+                },
+                "southwest": {
+                    "lat": 41.1672536,
+                    "lng": -95.9272495
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Council Bluffs",
+                "_type": "city",
+                "city": "Council Bluffs",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pottawattamie County",
+                "state": "Iowa",
+                "state_code": "IA"
+            },
+            "confidence": 6,
+            "formatted": "Council Bluffs, Iowa, United States of America",
+            "geometry": {
+                "lat": 41.258841,
+                "lng": -95.8519484
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:17:43 GMT",
+        "created_unix": 1714900663
+    },
+    "total_results": 1
+}

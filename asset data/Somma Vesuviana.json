@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 700,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 52' 17.81292'' N",
+                    "lng": "14\u00b0 26' 10.11012'' E"
+                },
+                "MGRS": "33TVF5248624658",
+                "Maidenhead": "JN70fu29ie",
+                "Mercator": {
+                    "x": 1607023.943,
+                    "y": 4965456.605
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF3"
+                    },
+                    "NUTS3": {
+                        "code": "ITF33"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=40814#map=16/40.87161/14.43614",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.87161/14.43614&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.87161&mlon=14.43614#map=16/40.87161/14.43614"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr62882n6mpqqjz6w7xs",
+                "qibla": 124.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714708740,
+                        "astronomical": 1714702380,
+                        "civil": 1714706940,
+                        "nautical": 1714704720
+                    },
+                    "set": {
+                        "apparent": 1714759200,
+                        "astronomical": 1714765620,
+                        "civil": 1714761000,
+                        "nautical": 1714763220
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "safety.benched.poker"
+                },
+                "wikidata": "Q72666"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.9107923,
+                    "lng": 14.4880021
+                },
+                "southwest": {
+                    "lat": 40.8338544,
+                    "lng": 14.4129458
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-72",
+                    "IT-NA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Somma Vesuviana",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Napoli",
+                "county_code": "NA",
+                "political_union": "European Union",
+                "postcode": "80049",
+                "state": "Campania",
+                "state_code": "CAM",
+                "town": "Somma Vesuviana"
+            },
+            "confidence": 7,
+            "formatted": "80049 Somma Vesuviana NA, Italy",
+            "geometry": {
+                "lat": 40.8716147,
+                "lng": 14.4361417
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:17:52 GMT",
+        "created_unix": 1714699072
+    },
+    "total_results": 1
+}

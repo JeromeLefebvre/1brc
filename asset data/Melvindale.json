@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1621,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 16' 57.13788'' N",
+                    "lng": "83\u00b0 10' 30.73080'' W"
+                },
+                "FIPS": {
+                    "county": "26163",
+                    "state": "26"
+                },
+                "MGRS": "17TLG2064983437",
+                "Maidenhead": "EN82jg87xt",
+                "Mercator": {
+                    "x": -9259021.245,
+                    "y": 5174641.211
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=134580#map=17/42.28254/-83.17520",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.28254/-83.17520&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.28254&mlon=-83.17520#map=17/42.28254/-83.17520"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpsbe339tk3mx935nyhc",
+                "qibla": 51.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711883820,
+                        "astronomical": 1711878000,
+                        "civil": 1711882080,
+                        "nautical": 1711880100
+                    },
+                    "set": {
+                        "apparent": 1711929420,
+                        "astronomical": 1711848840,
+                        "civil": 1711844760,
+                        "nautical": 1711846740
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "client.grows.tanks"
+                },
+                "wikidata": "Q2302205"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.297479,
+                    "lng": -83.1580123
+                },
+                "southwest": {
+                    "lat": 42.264577,
+                    "lng": -83.20126
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Melvindale",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Wayne County",
+                "postcode": "48122",
+                "state": "Michigan",
+                "state_code": "MI",
+                "town": "Melvindale"
+            },
+            "confidence": 7,
+            "formatted": "Melvindale, MI 48122, United States of America",
+            "geometry": {
+                "lat": 42.2825383,
+                "lng": -83.175203
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:55:56 GMT",
+        "created_unix": 1711918556
+    },
+    "total_results": 1
+}

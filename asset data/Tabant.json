@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2120,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 39' 31.41360'' N",
+                    "lng": "6\u00b0 25' 12.23400'' W"
+                },
+                "MGRS": "29RQR4462405500",
+                "Maidenhead": "IM61sp98oc",
+                "Mercator": {
+                    "x": -714678.367,
+                    "y": 3696171.976
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2887314#map=17/31.65873/-6.42007",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.65873/-6.42007&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.65873&mlon=-6.42007#map=17/31.65873/-6.42007"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evekjgm13wk8djkybrpb",
+                "qibla": 92.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713678660,
+                        "astronomical": 1713673500,
+                        "civil": 1713677160,
+                        "nautical": 1713675360
+                    },
+                    "set": {
+                        "apparent": 1713725880,
+                        "astronomical": 1713731040,
+                        "civil": 1713727380,
+                        "nautical": 1713729180
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "stuffiness.expresses.infringe"
+                },
+                "wikidata": "Q7672893"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.7766281,
+                    "lng": -6.1381522
+                },
+                "southwest": {
+                    "lat": 31.5460765,
+                    "lng": -6.5181544
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "ISO_3166-2": [
+                    "MA-05",
+                    "MA-AZI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tabant",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "cercle d'Azilal",
+                "municipality": "ca\u00efdat de Tabant",
+                "region": "B\u00e9ni Mellal-Kh\u00e9nifra",
+                "state_district": "Azilal Province",
+                "town": "Tabant"
+            },
+            "confidence": 3,
+            "formatted": "Tabant, cercle d'Azilal, Morocco",
+            "geometry": {
+                "lat": 31.658726,
+                "lng": -6.420065
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:25:30 GMT",
+        "created_unix": 1713662730
+    },
+    "total_results": 1
+}

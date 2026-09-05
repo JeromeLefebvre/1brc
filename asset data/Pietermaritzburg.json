@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1086,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 36' 0.00000'' S",
+                    "lng": "30\u00b0 22' 44.00004'' E"
+                },
+                "MGRS": "36JTN4614622667",
+                "Maidenhead": "KG50ej56la",
+                "Mercator": {
+                    "x": 3381762.443,
+                    "y": -3431134.839
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30211844#map=16/-29.60000/30.37889",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-29.60000/30.37889&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-29.60000&mlon=30.37889#map=16/-29.60000/30.37889"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "kdtxe73px2j67byfptms",
+                "qibla": 11.21,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932640,
+                        "astronomical": 1713927840,
+                        "civil": 1713931140,
+                        "nautical": 1713929460
+                    },
+                    "set": {
+                        "apparent": 1713972540,
+                        "astronomical": 1713977340,
+                        "civil": 1713973980,
+                        "nautical": 1713975660
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "scope.projects.cocktail"
+                },
+                "wikidata": "Q185591"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -29.44,
+                    "lng": 30.5388889
+                },
+                "southwest": {
+                    "lat": -29.76,
+                    "lng": 30.2188889
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-KZN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pietermaritzburg",
+                "_type": "city",
+                "city": "Pietermaritzburg",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "uMgungundlovu District Municipality",
+                "postcode": "3200",
+                "state": "KwaZulu-Natal",
+                "state_code": "NL"
+            },
+            "confidence": 3,
+            "formatted": "Pietermaritzburg, uMgungundlovu District Municipality, South Africa",
+            "geometry": {
+                "lat": -29.6,
+                "lng": 30.3788889
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:57:52 GMT",
+        "created_unix": 1713995872
+    },
+    "total_results": 1
+}

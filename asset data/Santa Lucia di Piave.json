@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2381,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 50' 57.06780'' N",
+                    "lng": "12\u00b0 17' 3.35040'' E"
+                },
+                "MGRS": "33TTL8914580877",
+                "Maidenhead": "JN65du43ct",
+                "Mercator": {
+                    "x": 1367478.013,
+                    "y": 5725542.717
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH34"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=46203#map=17/45.84919/12.28426",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.84919/12.28426&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.84919&mlon=12.28426#map=17/45.84919/12.28426"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u20szd94u5ehu63b5m4g",
+                "qibla": 128.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018080,
+                        "astronomical": 1714011180,
+                        "civil": 1714016160,
+                        "nautical": 1714013820
+                    },
+                    "set": {
+                        "apparent": 1714068600,
+                        "astronomical": 1714075560,
+                        "civil": 1714070520,
+                        "nautical": 1714072920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "evaporating.water.imparts"
+                },
+                "wikidata": "Q48170"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.8671915,
+                    "lng": 12.3139334
+                },
+                "southwest": {
+                    "lat": 45.7879466,
+                    "lng": 12.2639079
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-TV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Santa Lucia di Piave",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Treviso",
+                "county_code": "TV",
+                "political_union": "European Union",
+                "postcode": "31025",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "village": "Santa Lucia di Piave"
+            },
+            "confidence": 7,
+            "formatted": "31025 Santa Lucia di Piave TV, Italy",
+            "geometry": {
+                "lat": 45.8491855,
+                "lng": 12.284264
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:05:41 GMT",
+        "created_unix": 1714003541
+    },
+    "total_results": 1
+}

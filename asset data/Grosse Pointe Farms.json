@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1045,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 24' 33.13368'' N",
+                    "lng": "82\u00b0 53' 30.69132'' W"
+                },
+                "FIPS": {
+                    "county": "26163",
+                    "state": "26"
+                },
+                "MGRS": "17TLG4432596944",
+                "Maidenhead": "EN82nj28xf",
+                "Mercator": {
+                    "x": -9227479.501,
+                    "y": 5193649.164
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=134588#map=16/42.40920/-82.89186",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/42.40920/-82.89186&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.40920&mlon=-82.89186#map=16/42.40920/-82.89186"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpt138rgx8w69vu1rwt5",
+                "qibla": 52.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711711140,
+                        "astronomical": 1711705380,
+                        "civil": 1711709460,
+                        "nautical": 1711707420
+                    },
+                    "set": {
+                        "apparent": 1711756440,
+                        "astronomical": 1711675800,
+                        "civil": 1711671720,
+                        "nautical": 1711673760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Detroit",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "month.bound.bleak"
+                },
+                "wikidata": "Q529937"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.426282,
+                    "lng": -82.810717
+                },
+                "southwest": {
+                    "lat": 42.361037,
+                    "lng": -82.914935
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Grosse Pointe Farms",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Wayne County",
+                "postcode": "48236",
+                "state": "Michigan",
+                "state_code": "MI",
+                "village": "Grosse Pointe Farms"
+            },
+            "confidence": 7,
+            "formatted": "Grosse Pointe Farms, Wayne County, MI 48236, United States of America",
+            "geometry": {
+                "lat": 42.4092038,
+                "lng": -82.8918587
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:37:10 GMT",
+        "created_unix": 1711751830
+    },
+    "total_results": 1
+}

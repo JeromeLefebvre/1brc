@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1382,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "11\u00b0 7' 15.91716'' N",
+                    "lng": "125\u00b0 26' 56.04324'' E"
+                },
+                "MGRS": "51PYN6749330471",
+                "Maidenhead": "PK21rc39ub",
+                "Mercator": {
+                    "x": 13964907.769,
+                    "y": 1237605.046
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198512316#map=17/11.12109/125.44890",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/11.12109/125.44890&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=11.12109&mlon=125.44890#map=17/11.12109/125.44890"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wccpq8t15306d6p09ec1",
+                "qibla": 290.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713907440,
+                        "astronomical": 1713903120,
+                        "civil": 1713906180,
+                        "nautical": 1713904620
+                    },
+                    "set": {
+                        "apparent": 1713865740,
+                        "astronomical": 1713870060,
+                        "civil": 1713867060,
+                        "nautical": 1713868560
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "natures.venting.pelicans"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 11.1610881,
+                    "lng": 125.4889009
+                },
+                "southwest": {
+                    "lat": 11.0810881,
+                    "lng": 125.4089009
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-08",
+                    "PH-EAS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Giporlos",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "6811",
+                "region": "Eastern Visayas",
+                "state": "Eastern Samar",
+                "state_code": "EAS",
+                "town": "Giporlos"
+            },
+            "confidence": 7,
+            "formatted": "Giporlos, 6811 Eastern Visayas Eastern Samar, Philippines",
+            "geometry": {
+                "lat": 11.1210881,
+                "lng": 125.4489009
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:20:21 GMT",
+        "created_unix": 1713842421
+    },
+    "total_results": 1
+}

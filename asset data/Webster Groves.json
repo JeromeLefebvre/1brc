@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2458,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 35' 32.42040'' N",
+                    "lng": "90\u00b0 21' 23.15844'' W"
+                },
+                "FIPS": {
+                    "county": "29189",
+                    "state": "29"
+                },
+                "MGRS": "15SYC3023774854",
+                "Maidenhead": "EM48to72fd",
+                "Mercator": {
+                    "x": -10058432.1,
+                    "y": 4636787.816
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=140019#map=17/38.59234/-90.35643",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.59234/-90.35643&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.59234&mlon=-90.35643#map=17/38.59234/-90.35643"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzexcs2wt2m78zq4f75",
+                "qibla": 47.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713957180,
+                        "astronomical": 1713951300,
+                        "civil": 1713955500,
+                        "nautical": 1713953460
+                    },
+                    "set": {
+                        "apparent": 1713919560,
+                        "astronomical": 1713925440,
+                        "civil": 1713921300,
+                        "nautical": 1713923280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "booth.pigs.buns"
+                },
+                "wikidata": "Q943352"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.61015,
+                    "lng": -90.326214
+                },
+                "southwest": {
+                    "lat": 38.562245,
+                    "lng": -90.377309
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Webster Groves",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Louis County",
+                "postcode": "63119",
+                "state": "Missouri",
+                "state_code": "MO",
+                "town": "Webster Groves"
+            },
+            "confidence": 7,
+            "formatted": "Webster Groves, MO 63119, United States of America",
+            "geometry": {
+                "lat": 38.592339,
+                "lng": -90.3564329
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:10:49 GMT",
+        "created_unix": 1713993049
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 431,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 21' 33.84000'' N",
+                    "lng": "48\u00b0 50' 41.89200'' E"
+                },
+                "MGRS": "39UUA5996825650",
+                "Maidenhead": "LO44ki16jg",
+                "Mercator": {
+                    "x": 5437397.188,
+                    "y": 7203767.169
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.35940/48.84497&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.35940&mlon=48.84497#map=17/54.35940/48.84497"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v1dtprzf6q97ty9tefby",
+                "qibla": 195.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713576720,
+                        "astronomical": 1713654120,
+                        "civil": 1713574380,
+                        "nautical": 1713571380
+                    },
+                    "set": {
+                        "apparent": 1713628560,
+                        "astronomical": 1713637680,
+                        "civil": 1713630960,
+                        "nautical": 1713633960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Ulyanovsk",
+                    "now_in_dst": 0,
+                    "offset_sec": 14400,
+                    "offset_string": "+0400",
+                    "short_name": "+04"
+                },
+                "what3words": {
+                    "words": "selfishly.savers.sculpts"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.3763618,
+                    "lng": 48.8472519
+                },
+                "southwest": {
+                    "lat": 54.3403053,
+                    "lng": 48.8042793
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Cherdakly",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Ulyanovsk",
+                "town": "Cherdakly"
+            },
+            "confidence": 7,
+            "formatted": "Cherdakly, Ulyanovsk, Russia",
+            "geometry": {
+                "lat": 54.3594,
+                "lng": 48.84497
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:52:59 GMT",
+        "created_unix": 1713649979
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 494,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 58' 51.78396'' N",
+                    "lng": "82\u00b0 22' 36.70320'' W"
+                },
+                "FIPS": {
+                    "county": "12057",
+                    "state": "12"
+                },
+                "MGRS": "17RLL6459295866",
+                "Maidenhead": "EL87tx45sk",
+                "Mercator": {
+                    "x": -9170150.331,
+                    "y": 3226542.254
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=33613399#map=17/27.98105/-82.37686",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.98105/-82.37686&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.98105&mlon=-82.37686#map=17/27.98105/-82.37686"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhvrjmycrvzxmgekuj0z",
+                "qibla": 54.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819680,
+                        "astronomical": 1714814520,
+                        "civil": 1714818180,
+                        "nautical": 1714816380
+                    },
+                    "set": {
+                        "apparent": 1714781100,
+                        "astronomical": 1714786260,
+                        "civil": 1714782600,
+                        "nautical": 1714784400
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "soldiers.tame.history"
+                },
+                "wikidata": "Q2098201"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.99684,
+                    "lng": -82.35757
+                },
+                "southwest": {
+                    "lat": 27.965425,
+                    "lng": -82.401915
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Lake-Orient Park",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Hillsborough County",
+                "state": "Florida",
+                "state_code": "FL",
+                "town": "East Lake-Orient Park"
+            },
+            "confidence": 7,
+            "formatted": "East Lake-Orient Park, Florida, United States of America",
+            "geometry": {
+                "lat": 27.9810511,
+                "lng": -82.376862
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:59:01 GMT",
+        "created_unix": 1714795141
+    },
+    "total_results": 1
+}

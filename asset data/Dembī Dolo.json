@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1321,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "8\u00b0 31' 59.98800'' N",
+                    "lng": "34\u00b0 47' 60.00000'' E"
+                },
+                "MGRS": "36PXQ9812343720",
+                "Maidenhead": "KJ78jm67ax",
+                "Mercator": {
+                    "x": 3873918.28,
+                    "y": 947121.362
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/8.53333/34.80000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=8.53333&mlon=34.80000#map=16/8.53333/34.80000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "sc88xckw6b08pyutff8s",
+                "qibla": 20.04,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713756540,
+                        "astronomical": 1713752280,
+                        "civil": 1713755280,
+                        "nautical": 1713753780
+                    },
+                    "set": {
+                        "apparent": 1713800940,
+                        "astronomical": 1713805260,
+                        "civil": 1713802260,
+                        "nautical": 1713803760
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "lifeguard.lights.wool"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "_category": "place",
+                "_normalized_city": "Demb\u012b Dolo",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "state": "Oromiya",
+                "town": "Demb\u012b Dolo"
+            },
+            "confidence": 9,
+            "formatted": "Demb\u012b Dolo, Oromiya, Ethiopia",
+            "geometry": {
+                "lat": 8.53333,
+                "lng": 34.8
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 09:41:25 GMT",
+        "created_unix": 1713778885
+    },
+    "total_results": 1
+}

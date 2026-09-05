@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 245,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 24' 17.57844'' N",
+                    "lng": "9\u00b0 33' 6.18444'' E"
+                },
+                "MGRS": "32TNR4317628077",
+                "Maidenhead": "JN45sj67ee",
+                "Mercator": {
+                    "x": 1063292.373,
+                    "y": 5655049.944
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC4A"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44886#map=17/45.40488/9.55172",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.40488/9.55172&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.40488&mlon=9.55172#map=17/45.40488/9.55172"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0nf33eqe5thddmt150u",
+                "qibla": 123.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714881900,
+                        "astronomical": 1714874580,
+                        "civil": 1714879920,
+                        "nautical": 1714877460
+                    },
+                    "set": {
+                        "apparent": 1714933980,
+                        "astronomical": 1714941300,
+                        "civil": 1714935960,
+                        "nautical": 1714938480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "darkened.lacework.poorly"
+                },
+                "wikidata": "Q42557"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.4365162,
+                    "lng": 9.574721
+                },
+                "southwest": {
+                    "lat": 45.382839,
+                    "lng": 9.5045397
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-CR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pandino",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Cremona",
+                "county_code": "CR",
+                "political_union": "European Union",
+                "postcode": "26025",
+                "state": "Lombardy",
+                "town": "Pandino"
+            },
+            "confidence": 7,
+            "formatted": "26025 Pandino CR, Italy",
+            "geometry": {
+                "lat": 45.4048829,
+                "lng": 9.5517179
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:53:27 GMT",
+        "created_unix": 1714949607
+    },
+    "total_results": 1
+}

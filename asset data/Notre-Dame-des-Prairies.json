@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2179,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 2' 31.75980'' N",
+                    "lng": "73\u00b0 26' 6.43020'' W"
+                },
+                "MGRS": "18TXR2107999921",
+                "Maidenhead": "FN36gb70sc",
+                "Mercator": {
+                    "x": -8174760.109,
+                    "y": 5756335.68
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7706449#map=17/46.04216/-73.43512",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.04216/-73.43512&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.04216&mlon=-73.43512#map=17/46.04216/-73.43512"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f25vbvwnvxy5sqxvjgxv",
+                "qibla": 58.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713779700,
+                        "astronomical": 1713772860,
+                        "civil": 1713777780,
+                        "nautical": 1713775440
+                    },
+                    "set": {
+                        "apparent": 1713829800,
+                        "astronomical": 1713750300,
+                        "civil": 1713745320,
+                        "nautical": 1713747720
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "saunters.postcards.looting"
+                },
+                "wikidata": "Q142475"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.072827,
+                    "lng": -73.3867947
+                },
+                "southwest": {
+                    "lat": 46.0313807,
+                    "lng": -73.4909465
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-QC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Notre-Dame-des-Prairies",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Joliette (MRC)",
+                "region": "Lanaudi\u00e8re",
+                "state": "Quebec",
+                "state_code": "QC",
+                "suburb": "Notre-Dame-des-Prairies"
+            },
+            "confidence": 7,
+            "formatted": "Notre-Dame-des-Prairies, Joliette (MRC), QC, Canada",
+            "geometry": {
+                "lat": 46.0421555,
+                "lng": -73.4351195
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:21:17 GMT",
+        "created_unix": 1713745277
+    },
+    "total_results": 1
+}

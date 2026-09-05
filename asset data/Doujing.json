@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1001,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 29' 0.88152'' N",
+                    "lng": "105\u00b0 6' 57.23028'' E"
+                },
+                "MGRS": "48RWQ1155029244",
+                "Maidenhead": "OL26nl36vb",
+                "Mercator": {
+                    "x": 11701448.162,
+                    "y": 3040049.391
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5549428921#map=17/26.48358/105.11590",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.48358/105.11590&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.48358&mlon=105.11590#map=17/26.48358/105.11590"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wkdwxvpn1bvcwdhp5ynr",
+                "qibla": 280.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713825060,
+                        "astronomical": 1713820200,
+                        "civil": 1713823620,
+                        "nautical": 1713821940
+                    },
+                    "set": {
+                        "apparent": 1713785160,
+                        "astronomical": 1713790020,
+                        "civil": 1713786600,
+                        "nautical": 1713788280
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "extinction.vials.upped"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.5035782,
+                    "lng": 105.1358973
+                },
+                "southwest": {
+                    "lat": 26.4635782,
+                    "lng": 105.0958973
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-GZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Liupanshui",
+                "_type": "village",
+                "city": "Liupanshui",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Guizhou",
+                "village": "Doujing"
+            },
+            "confidence": 7,
+            "formatted": "Liupanshui, Guizhou, China",
+            "geometry": {
+                "lat": 26.4835782,
+                "lng": 105.1158973
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:05:19 GMT",
+        "created_unix": 1713780319
+    },
+    "total_results": 1
+}

@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1617,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 46' 1.35372'' N",
+                    "lng": "72\u00b0 59' 46.38804'' W"
+                },
+                "FIPS": {
+                    "county": "36103",
+                    "state": "36"
+                },
+                "MGRS": "18TXL6911814828",
+                "Maidenhead": "FN30ms04kc",
+                "Mercator": {
+                    "x": -8125901.918,
+                    "y": 4950133.486
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175529#map=16/40.76704/-72.99622",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.76704/-72.99622&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.76704&mlon=-72.99622#map=16/40.76704/-72.99622"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drhpfvmv0zd4hszw59zk",
+                "qibla": 59.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714557060,
+                        "astronomical": 1714550700,
+                        "civil": 1714555260,
+                        "nautical": 1714553100
+                    },
+                    "set": {
+                        "apparent": 1714607280,
+                        "astronomical": 1714527240,
+                        "civil": 1714522680,
+                        "nautical": 1714524840
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "insect.vague.burst"
+                },
+                "wikidata": "Q3459226"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.7973,
+                    "lng": -72.94974
+                },
+                "southwest": {
+                    "lat": 40.74281,
+                    "lng": -73.009934
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Brookhaven",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Suffolk County",
+                "locality": "East Patchogue",
+                "postcode": "11772",
+                "state": "New York",
+                "state_code": "NY",
+                "village": "Town of Brookhaven"
+            },
+            "confidence": 7,
+            "formatted": "Brookhaven, Suffolk County, NY 11772, United States of America",
+            "geometry": {
+                "lat": 40.7670427,
+                "lng": -72.9962189
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:00:37 GMT",
+        "created_unix": 1714532437
+    },
+    "total_results": 1
+}

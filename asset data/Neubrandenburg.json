@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 857,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 33' 26.80488'' N",
+                    "lng": "13\u00b0 15' 37.00116'' E"
+                },
+                "MGRS": "33UUV8476135692",
+                "Maidenhead": "JO63pn13fs",
+                "Mercator": {
+                    "x": 1476127.406,
+                    "y": 7052385.401
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE8"
+                    },
+                    "NUTS2": {
+                        "code": "DE80"
+                    },
+                    "NUTS3": {
+                        "code": "DE80J"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=62705#map=17/53.55745/13.26028",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.55745/13.26028&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.55745&mlon=13.26028#map=17/53.55745/13.26028"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u392ttzfdzebxf5sevg7",
+                "qibla": 137.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714534380,
+                        "astronomical": 1714524360,
+                        "civil": 1714531920,
+                        "nautical": 1714528680
+                    },
+                    "set": {
+                        "apparent": 1714588620,
+                        "astronomical": 1714598760,
+                        "civil": 1714591080,
+                        "nautical": 1714594320
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "briefer.milky.expose"
+                },
+                "wikidata": "Q3958"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.6189803,
+                    "lng": 13.3441823
+                },
+                "southwest": {
+                    "lat": 53.4441088,
+                    "lng": 13.1367108
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-MV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Neubrandenburg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Mecklenburgische Seenplatte",
+                "political_union": "European Union",
+                "state": "Mecklenburg-Vorpommern",
+                "state_code": "MV",
+                "town": "Neubrandenburg"
+            },
+            "confidence": 5,
+            "formatted": "Neubrandenburg, Mecklenburg-Vorpommern, Germany",
+            "geometry": {
+                "lat": 53.5574458,
+                "lng": 13.2602781
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:32:26 GMT",
+        "created_unix": 1714534346
+    },
+    "total_results": 1
+}

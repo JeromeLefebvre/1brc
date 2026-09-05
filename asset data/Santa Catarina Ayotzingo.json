@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 427,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 12' 29.07504'' N",
+                    "lng": "98\u00b0 55' 44.81688'' W"
+                },
+                "MGRS": "14QNG0745123852",
+                "Maidenhead": "EK09me89mw",
+                "Mercator": {
+                    "x": -11012738.795,
+                    "y": 2165398.004
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=671460332#map=17/19.20808/-98.92912",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.20808/-98.92912&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.20808&mlon=-98.92912#map=17/19.20808/-98.92912"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g3tkbdp0sbwy4dcpt6c",
+                "qibla": 46.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713960720,
+                        "astronomical": 1713956160,
+                        "civil": 1713959400,
+                        "nautical": 1713957780
+                    },
+                    "set": {
+                        "apparent": 1713920100,
+                        "astronomical": 1713924720,
+                        "civil": 1713921480,
+                        "nautical": 1713923100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "fees.cold.smudges"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.2280764,
+                    "lng": -98.9091158
+                },
+                "southwest": {
+                    "lat": 19.1880764,
+                    "lng": -98.9491158
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Santa Catarina Ayotzingo",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Chalco",
+                "postcode": "13625",
+                "state": "State of Mexico",
+                "state_code": "MEX",
+                "village": "Santa Catarina Ayotzingo"
+            },
+            "confidence": 7,
+            "formatted": "13625 Santa Catarina Ayotzingo, MEX, Mexico",
+            "geometry": {
+                "lat": 19.2080764,
+                "lng": -98.9291158
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:20:30 GMT",
+        "created_unix": 1713997230
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 108,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 49' 11.24328'' N",
+                    "lng": "82\u00b0 40' 56.14860'' W"
+                },
+                "FIPS": {
+                    "county": "12103",
+                    "state": "12"
+                },
+                "MGRS": "17RLL3430778375",
+                "Maidenhead": "EL87pt86dr",
+                "Mercator": {
+                    "x": -9204147.47,
+                    "y": 3206335.985
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=153971249#map=16/27.81979/-82.68226",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/27.81979/-82.68226&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.81979&mlon=-82.68226#map=16/27.81979/-82.68226"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhvnq82w58ey4ptj2wvy",
+                "qibla": 54.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713697200,
+                        "astronomical": 1713692280,
+                        "civil": 1713695760,
+                        "nautical": 1713694080
+                    },
+                    "set": {
+                        "apparent": 1713743940,
+                        "astronomical": 1713662460,
+                        "civil": 1713658980,
+                        "nautical": 1713660720
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "electric.canine.tidying"
+                },
+                "wikidata": "Q6509379"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.8397898,
+                    "lng": -82.6622635
+                },
+                "southwest": {
+                    "lat": 27.7997898,
+                    "lng": -82.7022635
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lealman",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pinellas County",
+                "hamlet": "Lealman",
+                "postcode": "33714",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 7,
+            "formatted": "Lealman, Pinellas County, FL 33714, United States of America",
+            "geometry": {
+                "lat": 27.8197898,
+                "lng": -82.6822635
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:48:07 GMT",
+        "created_unix": 1713667687
+    },
+    "total_results": 1
+}

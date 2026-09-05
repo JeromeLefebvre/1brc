@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1307,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 42' 27.36612'' N",
+                    "lng": "80\u00b0 17' 36.18456'' W"
+                },
+                "FIPS": {
+                    "county": "12086",
+                    "state": "12"
+                },
+                "MGRS": "17RNJ7089143492",
+                "Maidenhead": "EL95uq49tt",
+                "Mercator": {
+                    "x": -8938218.688,
+                    "y": 2944381.88
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=118861#map=17/25.70760/-80.29338",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/25.70760/-80.29338&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.70760&mlon=-80.29338#map=17/25.70760/-80.29338"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhwfhzujss312ypx5zbd",
+                "qibla": 56.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714473960,
+                        "astronomical": 1714469040,
+                        "civil": 1714472520,
+                        "nautical": 1714470780
+                    },
+                    "set": {
+                        "apparent": 1714521060,
+                        "astronomical": 1714439580,
+                        "civil": 1714436100,
+                        "nautical": 1714437840
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "unwound.recoils.negotiated"
+                },
+                "wikidata": "Q2154827"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 25.7340346,
+                    "lng": -80.2848749
+                },
+                "southwest": {
+                    "lat": 25.689373,
+                    "lng": -80.3068434
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Miami",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Miami-Dade County",
+                "postcode": "33143",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "South Miami"
+            },
+            "confidence": 7,
+            "formatted": "South Miami, FL 33143, United States of America",
+            "geometry": {
+                "lat": 25.7076017,
+                "lng": -80.2933846
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:55:40 GMT",
+        "created_unix": 1714521340
+    },
+    "total_results": 1
+}

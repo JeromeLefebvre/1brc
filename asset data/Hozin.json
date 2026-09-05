@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 98,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "6\u00b0 31' 58.36800'' N",
+                    "lng": "2\u00b0 33' 5.11200'' E"
+                },
+                "MGRS": "31NDH5040522132",
+                "Maidenhead": "JJ16gm67ev",
+                "Mercator": {
+                    "x": 284022.775,
+                    "y": 723959.773
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/6.53288/2.55142&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=6.53288&mlon=2.55142#map=17/6.53288/2.55142"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BJ": "204",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 229,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddef",
+                "geohash": "s11v4j3bu3hehsc6xd9y",
+                "qibla": 63.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713505260,
+                        "astronomical": 1713501060,
+                        "civil": 1713504000,
+                        "nautical": 1713502500
+                    },
+                    "set": {
+                        "apparent": 1713549420,
+                        "astronomical": 1713553620,
+                        "civil": 1713550680,
+                        "nautical": 1713552120
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Porto-Novo",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "antacids.sustainably.shrillness"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BJ",
+                "ISO_3166-1_alpha-3": "BEN",
+                "_category": "place",
+                "_normalized_city": "Hozin",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Benin",
+                "country_code": "bj",
+                "town": "Hozin"
+            },
+            "confidence": 9,
+            "formatted": "Hozin, Benin",
+            "geometry": {
+                "lat": 6.53288,
+                "lng": 2.55142
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:38:17 GMT",
+        "created_unix": 1713523097
+    },
+    "total_results": 1
+}

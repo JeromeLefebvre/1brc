@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1702,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 18' 14.40504'' N",
+                    "lng": "99\u00b0 20' 1.52016'' W"
+                },
+                "MGRS": "14QMF6472823851",
+                "Maidenhead": "EK08hh92wx",
+                "Mercator": {
+                    "x": -11057783.092,
+                    "y": 2059749.717
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=849915834#map=17/18.30400/-99.33376",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.30400/-99.33376&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.30400&mlon=-99.33376#map=17/18.30400/-99.33376"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g325s5ke9pmkkkk9qg1",
+                "qibla": 46.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713529080,
+                        "astronomical": 1713524580,
+                        "civil": 1713527760,
+                        "nautical": 1713526200
+                    },
+                    "set": {
+                        "apparent": 1713488040,
+                        "astronomical": 1713492600,
+                        "civil": 1713489420,
+                        "nautical": 1713490980
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "immodesty.lifespan.dinghies"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.3440014,
+                    "lng": -99.2937556
+                },
+                "southwest": {
+                    "lat": 18.2640014,
+                    "lng": -99.3737556
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-GRO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ciudad de Huitzuco",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Huitzuco de los Figueroa",
+                "state": "Guerrero",
+                "state_code": "GRO",
+                "town": "Ciudad de Huitzuco"
+            },
+            "confidence": 7,
+            "formatted": "Ciudad de Huitzuco, Huitzuco de los Figueroa, Mexico",
+            "geometry": {
+                "lat": 18.3040014,
+                "lng": -99.3337556
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 07:04:46 GMT",
+        "created_unix": 1713510286
+    },
+    "total_results": 1
+}

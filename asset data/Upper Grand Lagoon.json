@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2356,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 9' 39.24612'' N",
+                    "lng": "85\u00b0 44' 39.14808'' W"
+                },
+                "FIPS": {
+                    "county": "12005",
+                    "state": "12"
+                },
+                "MGRS": "16RFU2092737280",
+                "Maidenhead": "EM70dd08qo",
+                "Mercator": {
+                    "x": -9545001.551,
+                    "y": 3502784.378
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=33614596#map=17/30.16090/-85.74421",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.16090/-85.74421&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.16090&mlon=-85.74421#map=17/30.16090/-85.74421"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj758fdgzpsdtq4npwbt",
+                "qibla": 52.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714992960,
+                        "astronomical": 1714987680,
+                        "civil": 1714991400,
+                        "nautical": 1714989600
+                    },
+                    "set": {
+                        "apparent": 1714954980,
+                        "astronomical": 1714960320,
+                        "civil": 1714956540,
+                        "nautical": 1714958400
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "secretly.barons.bombarded"
+                },
+                "wikidata": "Q304175"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.223069,
+                    "lng": -85.684692
+                },
+                "southwest": {
+                    "lat": 30.129533,
+                    "lng": -85.792724
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Upper Grand Lagoon",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Bay County",
+                "postcode": "32408",
+                "state": "Florida",
+                "state_code": "FL",
+                "town": "Upper Grand Lagoon"
+            },
+            "confidence": 6,
+            "formatted": "Upper Grand Lagoon, FL 32408, United States of America",
+            "geometry": {
+                "lat": 30.1609017,
+                "lng": -85.7442078
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:12:23 GMT",
+        "created_unix": 1714954343
+    },
+    "total_results": 1
+}

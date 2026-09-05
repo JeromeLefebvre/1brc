@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2228,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 7' 0.01200'' N",
+                    "lng": "13\u00b0 9' 0.00000'' E"
+                },
+                "MGRS": "33VUC8497420606",
+                "Maidenhead": "JO66nc88aa",
+                "Mercator": {
+                    "x": 1463851.304,
+                    "y": 7546175.313
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "SE"
+                    },
+                    "NUTS1": {
+                        "code": "SE2"
+                    },
+                    "NUTS2": {
+                        "code": "SE22"
+                    },
+                    "NUTS3": {
+                        "code": "SE224"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/56.11667/13.15000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.11667&mlon=13.15000#map=16/56.11667/13.15000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "NORTHERN_EUROPE": "154",
+                        "SE": "752",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 46,
+                "currency": {
+                    "alternate_symbols": [
+                        ":-"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "SEK",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "SEK",
+                    "iso_numeric": "752",
+                    "name": "Swedish Krona",
+                    "smallest_denomination": 100,
+                    "subunit": "\u00d6re",
+                    "subunit_to_unit": 100,
+                    "symbol": "kr",
+                    "symbol_first": 0,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddea",
+                "geohash": "u3cr5pxx31qxtfhzeyu5",
+                "qibla": 139.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714878900,
+                        "astronomical": 0,
+                        "civil": 1714876140,
+                        "nautical": 1714872180
+                    },
+                    "set": {
+                        "apparent": 1714935300,
+                        "astronomical": 0,
+                        "civil": 1714938060,
+                        "nautical": 1714942080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Stockholm",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "congratulate.pitched.drools"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.1454451,
+                    "lng": 13.2011679
+                },
+                "southwest": {
+                    "lat": 56.1226282,
+                    "lng": 13.1097054
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SE",
+                "ISO_3166-1_alpha-3": "SWE",
+                "_category": "place",
+                "_normalized_city": "Klippansbruk",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Sweden",
+                "country_code": "se",
+                "county": "Klippans Kommun",
+                "political_union": "European Union",
+                "state": "Sk\u00e5ne",
+                "town": "Klippansbruk"
+            },
+            "confidence": 7,
+            "formatted": "Klippansbruk, Klippans Kommun, Sweden",
+            "geometry": {
+                "lat": 56.11667,
+                "lng": 13.15
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:58:09 GMT",
+        "created_unix": 1714892289
+    },
+    "total_results": 1
+}

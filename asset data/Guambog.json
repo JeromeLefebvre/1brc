@@ -1,0 +1,129 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 600,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 18' 41.00400'' N",
+                    "lng": "125\u00b0 51' 10.00800'' E"
+                },
+                "MGRS": "51NZJ1500509170",
+                "Maidenhead": "PJ27wh24ir",
+                "Mercator": {
+                    "x": 14009867.385,
+                    "y": 810684.161
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/7.31139/125.85278&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.31139&mlon=125.85278#map=17/7.31139/125.85278"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wc33xfgpymfkjnjkww38",
+                "qibla": 290.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713648420,
+                        "astronomical": 1713644160,
+                        "civil": 1713647160,
+                        "nautical": 1713645660
+                    },
+                    "set": {
+                        "apparent": 1713606240,
+                        "astronomical": 1713610500,
+                        "civil": 1713607500,
+                        "nautical": 1713609000
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "innate.achieved.ices"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "_category": "place",
+                "_normalized_city": "Mabini",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "county": "Davao del Norte",
+                "local_administrative_area": "Mabini",
+                "state": "Davao",
+                "town": "Mabini"
+            },
+            "confidence": 9,
+            "formatted": "Mabini, Davao del Norte, Philippines",
+            "geometry": {
+                "lat": 7.31139,
+                "lng": 125.85278
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:44:57 GMT",
+        "created_unix": 1713649497
+    },
+    "total_results": 1
+}

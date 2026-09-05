@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1874,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 49' 5.92500'' N",
+                    "lng": "123\u00b0 19' 31.21176'' E"
+                },
+                "MGRS": "51PWR3516027656",
+                "Maidenhead": "PK13pt96aj",
+                "Mercator": {
+                    "x": 13728513.672,
+                    "y": 1543180.843
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198520548#map=17/13.81831/123.32534",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.81831/123.32534&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.81831&mlon=123.32534#map=17/13.81831/123.32534"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdrww7dc88hhbd6eyqtt",
+                "qibla": 289.61,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713562320,
+                        "astronomical": 1713558000,
+                        "civil": 1713561060,
+                        "nautical": 1713559500
+                    },
+                    "set": {
+                        "apparent": 1713520800,
+                        "astronomical": 1713525120,
+                        "civil": 1713522060,
+                        "nautical": 1713523620
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "misspoken.regimented.thickening"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.8583125,
+                    "lng": 123.3653366
+                },
+                "southwest": {
+                    "lat": 13.7783125,
+                    "lng": 123.2853366
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-05",
+                    "PH-CAS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tinambac",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "region": "Bicol Region",
+                "state": "Camarines Sur",
+                "state_code": "CAS",
+                "town": "Tinambac"
+            },
+            "confidence": 7,
+            "formatted": "Tinambac, Camarines Sur, Philippines",
+            "geometry": {
+                "lat": 13.8183125,
+                "lng": 123.3253366
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 06:57:45 GMT",
+        "created_unix": 1713509865
+    },
+    "total_results": 1
+}

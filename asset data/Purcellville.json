@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1068,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 8' 11.84028'' N",
+                    "lng": "77\u00b0 42' 52.54020'' W"
+                },
+                "FIPS": {
+                    "county": "51107",
+                    "state": "51"
+                },
+                "MGRS": "18STJ6537335447",
+                "Maidenhead": "FM19dd42fs",
+                "Mercator": {
+                    "x": -8651149.087,
+                    "y": 4714286.923
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=206881#map=17/39.13662/-77.71459",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.13662/-77.71459&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.13662&mlon=-77.71459#map=17/39.13662/-77.71459"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqbwxs9gqenm9s1yk23q",
+                "qibla": 56.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040400,
+                        "astronomical": 1714034460,
+                        "civil": 1714038720,
+                        "nautical": 1714036680
+                    },
+                    "set": {
+                        "apparent": 1714089480,
+                        "astronomical": 1714009020,
+                        "civil": 1714004760,
+                        "nautical": 1714006860
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "smaller.strawberry.polar"
+                },
+                "wikidata": "Q1376808"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.1605462,
+                    "lng": -77.6788835
+                },
+                "southwest": {
+                    "lat": 39.1187927,
+                    "lng": -77.7361209
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-VA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Purcellville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Loudoun County",
+                "postcode": "22078",
+                "state": "Virginia",
+                "state_code": "VA",
+                "town": "Purcellville"
+            },
+            "confidence": 7,
+            "formatted": "Purcellville, VA 22078, United States of America",
+            "geometry": {
+                "lat": 39.1366223,
+                "lng": -77.7145945
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:04:19 GMT",
+        "created_unix": 1714007059
+    },
+    "total_results": 1
+}

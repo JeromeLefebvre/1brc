@@ -1,0 +1,129 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 281,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 34' 23.55600'' S",
+                    "lng": "72\u00b0 21' 2.88000'' W"
+                },
+                "MGRS": "18FXH8357883102",
+                "Maidenhead": "FD38tk72vk",
+                "Mercator": {
+                    "x": -8054054.214,
+                    "y": -6689825.788
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-51.57321/-72.35080&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-51.57321&mlon=-72.35080#map=17/-51.57321/-72.35080"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "AR": "032",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 54,
+                "currency": {
+                    "alternate_symbols": [
+                        "$m/n",
+                        "m$n"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "$m/n",
+                    "html_entity": "$",
+                    "iso_code": "ARS",
+                    "iso_numeric": "032",
+                    "name": "Argentine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf7",
+                "geohash": "4qud9e7u20v758cuu44c",
+                "qibla": 93.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713699960,
+                        "astronomical": 1713693240,
+                        "civil": 1713697920,
+                        "nautical": 1713695580
+                    },
+                    "set": {
+                        "apparent": 1713736140,
+                        "astronomical": 1713742860,
+                        "civil": 1713738180,
+                        "nautical": 1713740520
+                    }
+                },
+                "timezone": {
+                    "name": "America/Argentina/Rio_Gallegos",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "-03"
+                },
+                "what3words": {
+                    "words": "adoringly.comfort.regret"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AR",
+                "ISO_3166-1_alpha-3": "ARG",
+                "_category": "place",
+                "_normalized_city": "Yacimiento R\u00edo Turbio",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Argentina",
+                "country_code": "ar",
+                "state": "Santa Cruz",
+                "state_code": "Z",
+                "town": "Yacimiento R\u00edo Turbio"
+            },
+            "confidence": 9,
+            "formatted": "Yacimiento R\u00edo Turbio, Santa Cruz, Argentina",
+            "geometry": {
+                "lat": -51.57321,
+                "lng": -72.3508
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:41:03 GMT",
+        "created_unix": 1713667263
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1286,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 8' 34.10736'' N",
+                    "lng": "102\u00b0 59' 27.87000'' W"
+                },
+                "MGRS": "13UFQ4651345274",
+                "Maidenhead": "DN89md14bg",
+                "Mercator": {
+                    "x": -11464914.025,
+                    "y": 6266792.306
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7666655#map=17/49.14281/-102.99107",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.14281/-102.99107&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.14281&mlon=-102.99107#map=17/49.14281/-102.99107"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c8wz86hjw523uq1bcs1x",
+                "qibla": 35.12,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714821900,
+                        "astronomical": 1714813560,
+                        "civil": 1714819740,
+                        "nautical": 1714816920
+                    },
+                    "set": {
+                        "apparent": 1714788780,
+                        "astronomical": 1714797180,
+                        "civil": 1714790940,
+                        "nautical": 1714793760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Regina",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "organ.knots.caps"
+                },
+                "wikidata": "Q1018271"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.1615579,
+                    "lng": -102.9466796
+                },
+                "southwest": {
+                    "lat": 49.1171414,
+                    "lng": -103.0168677
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-SK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Estevan",
+                "_type": "city",
+                "city": "Estevan",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "state": "Saskatchewan",
+                "state_code": "SK"
+            },
+            "confidence": 7,
+            "formatted": "Estevan, SK, Canada",
+            "geometry": {
+                "lat": 49.1428076,
+                "lng": -102.991075
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:02:48 GMT",
+        "created_unix": 1714788168
+    },
+    "total_results": 1
+}

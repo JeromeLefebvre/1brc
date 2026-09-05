@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 405,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 1' 10.27668'' N",
+                    "lng": "4\u00b0 6' 37.99512'' E"
+                },
+                "MGRS": "31UES7789352582",
+                "Maidenhead": "JO21ba34gq",
+                "Mercator": {
+                    "x": 457584.8,
+                    "y": 6591511.198
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE23"
+                    },
+                    "NUTS3": {
+                        "code": "BE232"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4005602#map=16/51.01952/4.11055",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/51.01952/4.11055&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.01952&mlon=4.11055#map=16/51.01952/4.11055"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u14fjxc4qb575xhvh4dr",
+                "qibla": 123.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713846780,
+                        "astronomical": 1713838680,
+                        "civil": 1713844620,
+                        "nautical": 1713841860
+                    },
+                    "set": {
+                        "apparent": 1713898320,
+                        "astronomical": 1713906480,
+                        "civil": 1713900480,
+                        "nautical": 1713903240
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "elaborate.armrest.however"
+                },
+                "wikidata": "Q898394"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.039257,
+                    "lng": 4.1507175
+                },
+                "southwest": {
+                    "lat": 51.0060269,
+                    "lng": 4.0714088
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VOV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Dendermonde",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Dendermonde",
+                "political_union": "European Union",
+                "postcode": "9200",
+                "region": "Flanders",
+                "state": "East Flanders",
+                "state_code": "VOV",
+                "town": "Dendermonde",
+                "village": "Sint-Gillis-bij-Dendermonde"
+            },
+            "confidence": 7,
+            "formatted": "9200 Dendermonde, Belgium",
+            "geometry": {
+                "lat": 51.0195213,
+                "lng": 4.1105542
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:28:12 GMT",
+        "created_unix": 1713853692
+    },
+    "total_results": 1
+}

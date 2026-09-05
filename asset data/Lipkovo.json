@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2456,
+        "reset": 1711670400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 9' 25.92072'' N",
+                    "lng": "21\u00b0 35' 9.63708'' E"
+                },
+                "MGRS": "34TEM4841267396",
+                "Maidenhead": "KN02td07hr",
+                "Mercator": {
+                    "x": 2402943.675,
+                    "y": 5155870.307
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6959476#map=17/42.15720/21.58601",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.15720/21.58601&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.15720&mlon=21.58601#map=17/42.15720/21.58601"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "MK": "807",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LLDC",
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 389,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MKD",
+                    "iso_numeric": "807",
+                    "name": "Macedonian Denar",
+                    "smallest_denomination": 100,
+                    "subunit": "Deni",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0434\u0435\u043d",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddf0",
+                "geohash": "srrrg4qrqrxyskbu66bc",
+                "qibla": 137.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711599840,
+                        "astronomical": 1711594140,
+                        "civil": 1711598160,
+                        "nautical": 1711596180
+                    },
+                    "set": {
+                        "apparent": 1711644840,
+                        "astronomical": 1711650600,
+                        "civil": 1711646520,
+                        "nautical": 1711648500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Skopje",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "buffers.sheaf.refuses"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.1828365,
+                    "lng": 21.6477549
+                },
+                "southwest": {
+                    "lat": 42.1451576,
+                    "lng": 21.5544865
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MK",
+                "ISO_3166-1_alpha-3": "MKD",
+                "ISO_3166-2": [
+                    "MK-704"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lipkovo",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "North Macedonia",
+                "country_code": "mk",
+                "municipality": "Municipality of Lipkovo",
+                "state": "Northeastern Region",
+                "village": "Lipkovo"
+            },
+            "confidence": 7,
+            "formatted": "Lipkovo, Northeastern Region, North Macedonia",
+            "geometry": {
+                "lat": 42.1572002,
+                "lng": 21.5860103
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 28 Mar 2024 04:12:55 GMT",
+        "created_unix": 1711599175
+    },
+    "total_results": 1
+}

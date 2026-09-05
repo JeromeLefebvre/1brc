@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1335,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 24' 38.37600'' N",
+                    "lng": "40\u00b0 6' 7.14960'' E"
+                },
+                "MGRS": "37TEN8313451389",
+                "Maidenhead": "LN07bj28fn",
+                "Mercator": {
+                    "x": 4464132.661,
+                    "y": 5977890.63
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1281563#map=17/47.41066/40.10199",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.41066/40.10199&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.41066&mlon=40.10199#map=17/47.41066/40.10199"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ubkt8wc7h58518uqupp2",
+                "qibla": 180.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714787940,
+                        "astronomical": 1714866600,
+                        "civil": 1714785900,
+                        "nautical": 1714783260
+                    },
+                    "set": {
+                        "apparent": 1714840440,
+                        "astronomical": 1714848240,
+                        "civil": 1714842540,
+                        "nautical": 1714845180
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "acre.mulls.gent"
+                },
+                "wikidata": "Q175452"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5111051,
+                    "lng": 40.2767175
+                },
+                "southwest": {
+                    "lat": 47.3284137,
+                    "lng": 39.9672526
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-ROS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Novocherkassk",
+                "_type": "city",
+                "city": "Novocherkassk",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Southern Federal District",
+                "state": "Rostov Oblast"
+            },
+            "confidence": 4,
+            "formatted": "Novocherkassk, Rostov Oblast, Russia",
+            "geometry": {
+                "lat": 47.41066,
+                "lng": 40.101986
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:01:13 GMT",
+        "created_unix": 1714788073
+    },
+    "total_results": 1
+}

@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 161,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 52' 50.23452'' N",
+                    "lng": "4\u00b0 28' 22.80288'' E"
+                },
+                "MGRS": "31UFS0362237583",
+                "Maidenhead": "JO20fv61si",
+                "Mercator": {
+                    "x": 497932.171,
+                    "y": 6567033.144
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE24"
+                    },
+                    "NUTS3": {
+                        "code": "BE241"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=196184#map=17/50.88062/4.47300",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.88062/4.47300&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.88062&mlon=4.47300#map=17/50.88062/4.47300"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u151my91h7phu7ue7bcv",
+                "qibla": 123.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714019280,
+                        "astronomical": 1714011060,
+                        "civil": 1714017060,
+                        "nautical": 1714014300
+                    },
+                    "set": {
+                        "apparent": 1714071180,
+                        "astronomical": 1714079460,
+                        "civil": 1714073400,
+                        "nautical": 1714076160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "headset.velocity.adjusted"
+                },
+                "wikidata": "Q28898"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.9024643,
+                    "lng": 4.5363889
+                },
+                "southwest": {
+                    "lat": 50.834319,
+                    "lng": 4.4208709
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VBR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Zaventem",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Halle-Vilvoorde",
+                "political_union": "European Union",
+                "region": "Flanders",
+                "state": "Flemish Brabant",
+                "state_code": "VBR",
+                "town": "Zaventem"
+            },
+            "confidence": 7,
+            "formatted": "Zaventem, Halle-Vilvoorde, Belgium",
+            "geometry": {
+                "lat": 50.8806207,
+                "lng": 4.4730008
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:20:06 GMT",
+        "created_unix": 1714011606
+    },
+    "total_results": 1
+}

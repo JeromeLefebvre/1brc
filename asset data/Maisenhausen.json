@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2005,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 6' 46.07928'' N",
+                    "lng": "9\u00b0 7' 3.46404'' E"
+                },
+                "MGRS": "32UNA0841051179",
+                "Maidenhead": "JO40nc47cb",
+                "Mercator": {
+                    "x": 1014969.806,
+                    "y": 6433028.315
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE26"
+                    },
+                    "NUTS3": {
+                        "code": "DE264"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=998215073#map=17/50.11280/9.11763",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.11280/9.11763&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.11280&mlon=9.11763#map=17/50.11280/9.11763"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0ymp6z20nuyg9mv920h",
+                "qibla": 128.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018260,
+                        "astronomical": 1714010340,
+                        "civil": 1714016160,
+                        "nautical": 1714013460
+                    },
+                    "set": {
+                        "apparent": 1714069980,
+                        "astronomical": 1714077960,
+                        "civil": 1714072140,
+                        "nautical": 1714074840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "courageously.mesh.dinosaurs"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.1327998,
+                    "lng": 9.1376289
+                },
+                "southwest": {
+                    "lat": 50.0927998,
+                    "lng": 9.0976289
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Alzenau",
+                "_type": "hamlet",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Aschaffenburg",
+                "hamlet": "Maisenhausen",
+                "municipality": "Alzenau",
+                "political_union": "European Union",
+                "postcode": "63579",
+                "state": "Bavaria",
+                "state_code": "BY"
+            },
+            "confidence": 7,
+            "formatted": "Maisenhausen, 63579 Alzenau, Germany",
+            "geometry": {
+                "lat": 50.1127998,
+                "lng": 9.1176289
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:22:32 GMT",
+        "created_unix": 1714004552
+    },
+    "total_results": 1
+}

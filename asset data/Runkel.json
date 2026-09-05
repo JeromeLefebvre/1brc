@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2317,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 24' 21.01572'' N",
+                    "lng": "8\u00b0 9' 31.00716'' E"
+                },
+                "MGRS": "32UMA4020984093",
+                "Maidenhead": "JO40bj97aj",
+                "Mercator": {
+                    "x": 908212.656,
+                    "y": 6483913.109
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE7"
+                    },
+                    "NUTS2": {
+                        "code": "DE72"
+                    },
+                    "NUTS3": {
+                        "code": "DE723"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=324308#map=17/50.40584/8.15861",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.40584/8.15861&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.40584&mlon=8.15861#map=17/50.40584/8.15861"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0vyc8hgm3nvgqeegh2m",
+                "qibla": 127.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714967700,
+                        "astronomical": 1714958700,
+                        "civil": 1714965420,
+                        "nautical": 1714962420
+                    },
+                    "set": {
+                        "apparent": 1715021640,
+                        "astronomical": 1715030760,
+                        "civil": 1715023980,
+                        "nautical": 1715026920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "luck.plump.purer"
+                },
+                "wikidata": "Q635806"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.4623707,
+                    "lng": 8.2403719
+                },
+                "southwest": {
+                    "lat": 50.3859869,
+                    "lng": 8.083544
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Runkel",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Limburg-Weilburg",
+                "political_union": "European Union",
+                "postcode": "65594",
+                "state": "Hesse",
+                "state_code": "HE",
+                "town": "Runkel"
+            },
+            "confidence": 7,
+            "formatted": "65594 Runkel, Germany",
+            "geometry": {
+                "lat": 50.4058377,
+                "lng": 8.1586131
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:18:02 GMT",
+        "created_unix": 1714954682
+    },
+    "total_results": 1
+}

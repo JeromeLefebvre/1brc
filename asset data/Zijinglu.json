@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1560,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 45' 35.58960'' N",
+                    "lng": "113\u00b0 1' 20.87904'' E"
+                },
+                "MGRS": "49SFU8510448278",
+                "Maidenhead": "OM64ms22qi",
+                "Mercator": {
+                    "x": 12581603.408,
+                    "y": 4106937.029
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=10070361#map=17/34.75989/113.02247",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.75989/113.02247&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.75989&mlon=113.02247#map=17/34.75989/113.02247"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "ww0mezu7n27htusdj3kq",
+                "qibla": 279.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711837140,
+                        "astronomical": 1711832040,
+                        "civil": 1711835640,
+                        "nautical": 1711833840
+                    },
+                    "set": {
+                        "apparent": 1711795560,
+                        "astronomical": 1711800720,
+                        "civil": 1711797120,
+                        "nautical": 1711798860
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "bikes.allies.rooftop"
+                },
+                "wikidata": "Q13678454"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.7871166,
+                    "lng": 113.0585433
+                },
+                "southwest": {
+                    "lat": 34.734087,
+                    "lng": 113.0057411
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-HA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Zhengzhou",
+                "_type": "neighbourhood",
+                "city": "Zhengzhou",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "county": "Gongyi",
+                "state": "Henan",
+                "suburb": "Zijinglu Subdistrict"
+            },
+            "confidence": 7,
+            "formatted": "Zijinglu Subdistrict, Zhengzhou, Gongyi, China",
+            "geometry": {
+                "lat": 34.759886,
+                "lng": 113.0224664
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:01:59 GMT",
+        "created_unix": 1711832519
+    },
+    "total_results": 1
+}

@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 317,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 10' 21.10836'' N",
+                    "lng": "8\u00b0 6' 24.40116'' E"
+                },
+                "MGRS": "32TMT3231124724",
+                "Maidenhead": "JN47be21tj",
+                "Mercator": {
+                    "x": 902442.41,
+                    "y": 5938928.673
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH06"
+                    },
+                    "NUTS3": {
+                        "code": "CH061"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1682923#map=17/47.17253/8.10678",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.17253/8.10678&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.17253&mlon=8.10678#map=17/47.17253/8.10678"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0mu27rpvsgyu54dpz8y",
+                "qibla": 124.19,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795680,
+                        "astronomical": 1714787940,
+                        "civil": 1714793580,
+                        "nautical": 1714791000
+                    },
+                    "set": {
+                        "apparent": 1714848120,
+                        "astronomical": 1714855860,
+                        "civil": 1714850160,
+                        "nautical": 1714852800
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "magnetic.plodding.popping"
+                },
+                "wikidata": "Q7123"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.1932838,
+                    "lng": 8.1297003
+                },
+                "southwest": {
+                    "lat": 47.1629989,
+                    "lng": 8.0824244
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-LU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sursee",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "local_administrative_area": "Sursee",
+                "postcode": "6210",
+                "state": "Lucerne",
+                "state_code": "LU",
+                "town": "Sursee"
+            },
+            "confidence": 7,
+            "formatted": "6210 Sursee, Switzerland",
+            "geometry": {
+                "lat": 47.1725301,
+                "lng": 8.1067781
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:05:37 GMT",
+        "created_unix": 1714795537
+    },
+    "total_results": 1
+}

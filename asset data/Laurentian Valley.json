@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 259,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 44' 55.02876'' N",
+                    "lng": "77\u00b0 16' 4.72188'' W"
+                },
+                "MGRS": "18TUR2359268619",
+                "Maidenhead": "FN15ir79uq",
+                "Mercator": {
+                    "x": -8601432.004,
+                    "y": 5709537.574
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7352025#map=17/45.74862/-77.26798",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.74862/-77.26798&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.74862&mlon=-77.26798#map=17/45.74862/-77.26798"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f21h38r1j8ernjt7v152",
+                "qibla": 56.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713694380,
+                        "astronomical": 1713687600,
+                        "civil": 1713692460,
+                        "nautical": 1713690120
+                    },
+                    "set": {
+                        "apparent": 1713657780,
+                        "astronomical": 1713664620,
+                        "civil": 1713659700,
+                        "nautical": 1713662040
+                    }
+                },
+                "timezone": {
+                    "name": "America/Toronto",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "toothbrush.asteroid.stadiums"
+                },
+                "wikidata": "Q4116605"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.8581906,
+                    "lng": -76.9730708
+                },
+                "southwest": {
+                    "lat": 45.6378716,
+                    "lng": -77.5017644
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-ON"
+                ],
+                "_category": "place",
+                "_normalized_city": "Laurentian Valley",
+                "_type": "city",
+                "city": "Laurentian Valley",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Renfrew County",
+                "state": "Ontario",
+                "state_code": "ON",
+                "state_district": "Eastern Ontario"
+            },
+            "confidence": 3,
+            "formatted": "Laurentian Valley, ON, Canada",
+            "geometry": {
+                "lat": 45.7486191,
+                "lng": -77.2679783
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:41:57 GMT",
+        "created_unix": 1713667317
+    },
+    "total_results": 1
+}

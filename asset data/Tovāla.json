@@ -1,0 +1,152 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2442,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 55' 4.55232'' N",
+                    "lng": "87\u00b0 39' 8.86968'' W"
+                },
+                "FIPS": {
+                    "county": "17031",
+                    "state": "17"
+                },
+                "MGRS": "16TDM4589440870",
+                "Maidenhead": "EN61ew10qh",
+                "Mercator": {
+                    "x": -9757427.637,
+                    "y": 5120140.552
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=6325236767#map=16/41.91793/-87.65246",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/41.91793/-87.65246&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.91793&mlon=-87.65246#map=16/41.91793/-87.65246"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp3wmqvmts9z7x4ew2f8",
+                "qibla": 48.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "West Armitage Avenue",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711798560,
+                        "astronomical": 1711792860,
+                        "civil": 1711796880,
+                        "nautical": 1711794900
+                    },
+                    "set": {
+                        "apparent": 1711757640,
+                        "astronomical": 1711763400,
+                        "civil": 1711759320,
+                        "nautical": 1711761300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "ladder.round.fishery"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.9179812,
+                    "lng": -87.6524138
+                },
+                "southwest": {
+                    "lat": 41.9178812,
+                    "lng": -87.6525138
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "commerce",
+                "_normalized_city": "Chicago",
+                "_type": "restaurant",
+                "city": "Chicago",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Cook County",
+                "house_number": "939",
+                "postcode": "60614",
+                "quarter": "Lincoln Park",
+                "restaurant": "Tovala",
+                "road": "West Armitage Avenue",
+                "state": "Illinois",
+                "state_code": "IL"
+            },
+            "confidence": 9,
+            "formatted": "Tovala, 939 West Armitage Avenue, Chicago, IL 60614, United States of America",
+            "geometry": {
+                "lat": 41.9179312,
+                "lng": -87.6524638
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:33:58 GMT",
+        "created_unix": 1711830838
+    },
+    "total_results": 1
+}

@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1639,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 25' 43.42368'' N",
+                    "lng": "11\u00b0 47' 17.78496'' E"
+                },
+                "MGRS": "32TQR1811234360",
+                "Maidenhead": "JN55vk42ov",
+                "Mercator": {
+                    "x": 1312264.614,
+                    "y": 5658819.087
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH36"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44982#map=16/45.42873/11.78827",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.42873/11.78827&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.42873&mlon=11.78827#map=16/45.42873/11.78827"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u206knpcw8vfumh5ke1e",
+                "qibla": 126.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536120,
+                        "astronomical": 1714528980,
+                        "civil": 1714534140,
+                        "nautical": 1714531740
+                    },
+                    "set": {
+                        "apparent": 1714587540,
+                        "astronomical": 1714594680,
+                        "civil": 1714589460,
+                        "nautical": 1714591920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "decide.pins.ruins"
+                },
+                "wikidata": "Q34388"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.4585746,
+                    "lng": 11.829421
+                },
+                "southwest": {
+                    "lat": 45.4124488,
+                    "lng": 11.7754743
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-PD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rubano",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Province of Padua",
+                "political_union": "European Union",
+                "postcode": "35030",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "Rubano"
+            },
+            "confidence": 7,
+            "formatted": "35030 Rubano Province of Padua, Italy",
+            "geometry": {
+                "lat": 45.4287288,
+                "lng": 11.7882736
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:59:43 GMT",
+        "created_unix": 1714532383
+    },
+    "total_results": 1
+}

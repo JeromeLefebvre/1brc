@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1844,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 30' 33.66000'' N",
+                    "lng": "125\u00b0 45' 19.96092'' E"
+                },
+                "MGRS": "51SYC4026765929",
+                "Maidenhead": "PM28vm02pf",
+                "Mercator": {
+                    "x": 13999043.2,
+                    "y": 4625023.469
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5455246#map=17/38.50935/125.75554",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.50935/125.75554&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.50935&mlon=125.75554#map=17/38.50935/125.75554"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KP": "408",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 850,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KPW",
+                    "iso_numeric": "408",
+                    "name": "North Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit": "Ch\u014fn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a9",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf5",
+                "geohash": "wyc7jdkmhx4s8e960fb9",
+                "qibla": 284.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713991800,
+                        "astronomical": 1713985980,
+                        "civil": 1713990120,
+                        "nautical": 1713988140
+                    },
+                    "set": {
+                        "apparent": 1713954060,
+                        "astronomical": 1713959880,
+                        "civil": 1713955740,
+                        "nautical": 1713957720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Pyongyang",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "sticks.complies.cubic"
+                },
+                "wikidata": "Q505807"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.612886,
+                    "lng": 125.8951922
+                },
+                "southwest": {
+                    "lat": 38.4601849,
+                    "lng": 125.648821
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KP",
+                "ISO_3166-1_alpha-3": "PRK",
+                "ISO_3166-2": [
+                    "KP-06"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sariwon-si",
+                "_type": "city",
+                "city": "Sariwon-si",
+                "continent": "Asia",
+                "country": "North Korea",
+                "country_code": "kp",
+                "state": "North Hwanghae"
+            },
+            "confidence": 5,
+            "formatted": "Sariwon-si, North Hwanghae, North Korea",
+            "geometry": {
+                "lat": 38.50935,
+                "lng": 125.7555447
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:31:53 GMT",
+        "created_unix": 1713994313
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1258,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 41' 14.63100'' N",
+                    "lng": "121\u00b0 27' 33.76908'' W"
+                },
+                "FIPS": {
+                    "county": "06067",
+                    "state": "06"
+                },
+                "MGRS": "10SFH3399383213",
+                "Maidenhead": "CM98gq44ux",
+                "Mercator": {
+                    "x": -13520796.369,
+                    "y": 4650279.97
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=33236518#map=17/38.68740/-121.45938",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.68740/-121.45938&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.68740&mlon=-121.45938#map=17/38.68740/-121.45938"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qcsh4gfrm9g6d5yukud",
+                "qibla": 19.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714482600,
+                        "astronomical": 1714476540,
+                        "civil": 1714480860,
+                        "nautical": 1714478760
+                    },
+                    "set": {
+                        "apparent": 1714445820,
+                        "astronomical": 1714451880,
+                        "civil": 1714447560,
+                        "nautical": 1714449600
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "posts.congestion.tripled"
+                },
+                "wikidata": "Q2154437"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.705228,
+                    "lng": -121.438323
+                },
+                "southwest": {
+                    "lat": 38.669116,
+                    "lng": -121.4827898
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rio Linda",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Sacramento County",
+                "locality": "Rio Linda",
+                "postcode": "95673",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "Rio Linda, Sacramento County, CA 95673, United States of America",
+            "geometry": {
+                "lat": 38.6873975,
+                "lng": -121.4593803
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:57:43 GMT",
+        "created_unix": 1714521463
+    },
+    "total_results": 1
+}

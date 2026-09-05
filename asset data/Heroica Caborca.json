@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1750,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 42' 59.76504'' N",
+                    "lng": "112\u00b0 9' 22.53528'' W"
+                },
+                "MGRS": "12RUU8928798765",
+                "Maidenhead": "DM30wr11fx",
+                "Mercator": {
+                    "x": -12485177.73,
+                    "y": 3574176.532
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=333132849#map=17/30.71660/-112.15626",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.71660/-112.15626&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.71660&mlon=-112.15626#map=17/30.71660/-112.15626"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9t2nxzf31tx288ube3vs",
+                "qibla": 30.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713617760,
+                        "astronomical": 1713612660,
+                        "civil": 1713616260,
+                        "nautical": 1713614460
+                    },
+                    "set": {
+                        "apparent": 1713578340,
+                        "astronomical": 1713583500,
+                        "civil": 1713579840,
+                        "nautical": 1713581640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Hermosillo",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "resting.state.varieties"
+                },
+                "wikidata": "Q1024929"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.8766014,
+                    "lng": -111.9962598
+                },
+                "southwest": {
+                    "lat": 30.5566014,
+                    "lng": -112.3162598
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-SON"
+                ],
+                "_category": "place",
+                "_normalized_city": "Heroica Caborca",
+                "_type": "city",
+                "city": "Heroica Caborca",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Caborca",
+                "postcode": "83600",
+                "state": "Sonora",
+                "state_code": "SON"
+            },
+            "confidence": 3,
+            "formatted": "Heroica Caborca, Caborca, Mexico",
+            "geometry": {
+                "lat": 30.7166014,
+                "lng": -112.1562598
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 11:35:08 GMT",
+        "created_unix": 1713612908
+    },
+    "total_results": 1
+}

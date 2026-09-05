@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1857,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23\u00b0 19' 58.09368'' S",
+                    "lng": "46\u00b0 43' 28.00560'' W"
+                },
+                "MGRS": "23KLQ2369318587",
+                "Maidenhead": "GG66pq30bd",
+                "Mercator": {
+                    "x": -5201341.536,
+                    "y": -2655398.307
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=298411#map=17/-23.33280/-46.72445",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-23.33280/-46.72445&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-23.33280&mlon=-46.72445#map=17/-23.33280/-46.72445"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "BR": "076",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 55,
+                "currency": {
+                    "decimal_mark": ",",
+                    "html_entity": "R$",
+                    "iso_code": "BRL",
+                    "iso_numeric": "986",
+                    "name": "Brazilian Real",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "R$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddf7",
+                "geohash": "6gyg2b2k96pggdqqnruf",
+                "qibla": 68.95,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714123560,
+                        "astronomical": 1714119000,
+                        "civil": 1714122180,
+                        "nautical": 1714120560
+                    },
+                    "set": {
+                        "apparent": 1714164180,
+                        "astronomical": 1714168740,
+                        "civil": 1714165560,
+                        "nautical": 1714167120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "BRT"
+                },
+                "what3words": {
+                    "words": "hurry.luggage.tougher"
+                },
+                "wikidata": "Q657199"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -23.2573593,
+                    "lng": -46.6365378
+                },
+                "southwest": {
+                    "lat": -23.368891,
+                    "lng": -46.8433535
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BR",
+                "ISO_3166-1_alpha-3": "BRA",
+                "ISO_3166-2": [
+                    "BR-SP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Franco da Rocha",
+                "_type": "municipality",
+                "continent": "South America",
+                "country": "Brazil",
+                "country_code": "br",
+                "county": "Regi\u00e3o Metropolitana de S\u00e3o Paulo",
+                "municipality": "Franco da Rocha",
+                "region": "Southeast Region",
+                "state": "S\u00e3o Paulo",
+                "state_code": "SP",
+                "state_district": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo"
+            },
+            "confidence": 5,
+            "formatted": "Franco da Rocha, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Brazil",
+            "geometry": {
+                "lat": -23.3328038,
+                "lng": -46.724446
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:19:36 GMT",
+        "created_unix": 1714169976
+    },
+    "total_results": 1
+}

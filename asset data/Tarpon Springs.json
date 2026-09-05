@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2269,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 8' 49.54740'' N",
+                    "lng": "82\u00b0 45' 22.92120'' W"
+                },
+                "FIPS": {
+                    "county": "12103",
+                    "state": "12"
+                },
+                "MGRS": "17RLM2752914744",
+                "Maidenhead": "EL88od95fh",
+                "Mercator": {
+                    "x": -9212396.634,
+                    "y": 3247379.907
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=118891#map=16/28.14710/-82.75637",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/28.14710/-82.75637&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=28.14710&mlon=-82.75637#map=16/28.14710/-82.75637"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djj0hu48szh4zb0ybj12",
+                "qibla": 54.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714128960,
+                        "astronomical": 1714123920,
+                        "civil": 1714127460,
+                        "nautical": 1714125720
+                    },
+                    "set": {
+                        "apparent": 1714089720,
+                        "astronomical": 1714094760,
+                        "civil": 1714091220,
+                        "nautical": 1714092960
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "hurry.observes.indoor"
+                },
+                "wikidata": "Q647103"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 28.1733112,
+                    "lng": -82.71874
+                },
+                "southwest": {
+                    "lat": 28.1228568,
+                    "lng": -82.8069353
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tarpon Springs",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pinellas County",
+                "state": "Florida",
+                "state_code": "FL",
+                "town": "Tarpon Springs"
+            },
+            "confidence": 7,
+            "formatted": "Tarpon Springs, Florida, United States of America",
+            "geometry": {
+                "lat": 28.1470965,
+                "lng": -82.756367
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:03:56 GMT",
+        "created_unix": 1714169036
+    },
+    "total_results": 1
+}

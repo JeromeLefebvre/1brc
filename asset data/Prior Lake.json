@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1647,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 42' 47.97756'' N",
+                    "lng": "93\u00b0 25' 21.67428'' W"
+                },
+                "FIPS": {
+                    "county": "27139",
+                    "state": "27"
+                },
+                "MGRS": "15TVK6652051192",
+                "Maidenhead": "EN34gr91ge",
+                "Mercator": {
+                    "x": -10399765.979,
+                    "y": 5546429.423
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=137659#map=17/44.71333/-93.42269",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.71333/-93.42269&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.71333&mlon=-93.42269#map=17/44.71333/-93.42269"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zvw65gdj873eckf3yx1",
+                "qibla": 43.75,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714475100,
+                        "astronomical": 1714468140,
+                        "civil": 1714473180,
+                        "nautical": 1714470780
+                    },
+                    "set": {
+                        "apparent": 1714439820,
+                        "astronomical": 1714446840,
+                        "civil": 1714441800,
+                        "nautical": 1714444140
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "digit.supply.bless"
+                },
+                "wikidata": "Q993458"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.7612397,
+                    "lng": -93.3796316
+                },
+                "southwest": {
+                    "lat": 44.6885985,
+                    "lng": -93.5120094
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Prior Lake",
+                "_type": "city",
+                "city": "Prior Lake",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Scott County",
+                "postcode": "55372",
+                "state": "Minnesota",
+                "state_code": "MN"
+            },
+            "confidence": 7,
+            "formatted": "Prior Lake, Minnesota, United States of America",
+            "geometry": {
+                "lat": 44.7133271,
+                "lng": -93.4226873
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:23:22 GMT",
+        "created_unix": 1714519402
+    },
+    "total_results": 1
+}

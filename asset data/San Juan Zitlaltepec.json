@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2299,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 48' 39.15396'' N",
+                    "lng": "99\u00b0 8' 40.22844'' W"
+                },
+                "MGRS": "14QMG8486590559",
+                "Maidenhead": "EK09kt24po",
+                "Mercator": {
+                    "x": -11036716.134,
+                    "y": 2236165.354
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=6893972059#map=16/19.81088/-99.14451",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/19.81088/-99.14451&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.81088&mlon=-99.14451#map=16/19.81088/-99.14451"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g92xymntwbxn7kdnemx",
+                "qibla": 46.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713442620,
+                        "astronomical": 1713438060,
+                        "civil": 1713441240,
+                        "nautical": 1713439680
+                    },
+                    "set": {
+                        "apparent": 1713401700,
+                        "astronomical": 1713406260,
+                        "civil": 1713403020,
+                        "nautical": 1713404640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "partners.gladiators.reds"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.8508761,
+                    "lng": -99.1045079
+                },
+                "southwest": {
+                    "lat": 19.7708761,
+                    "lng": -99.1845079
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Juan Zitlaltepec",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Zumpango",
+                "postcode": "55620",
+                "state": "State of Mexico",
+                "state_code": "MEX",
+                "town": "San Juan Zitlaltepec"
+            },
+            "confidence": 7,
+            "formatted": "55620 San Juan Zitlaltepec, MEX, Mexico",
+            "geometry": {
+                "lat": 19.8108761,
+                "lng": -99.1445079
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:23:00 GMT",
+        "created_unix": 1713439380
+    },
+    "total_results": 1
+}

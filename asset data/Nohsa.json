@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1609,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 8' 9.77208'' N",
+                    "lng": "85\u00b0 20' 16.36980'' E"
+                },
+                "MGRS": "45RUH3244681044",
+                "Maidenhead": "NL25qd02np",
+                "Mercator": {
+                    "x": 9499769.403,
+                    "y": 2874320.346
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8148578916#map=16/25.13605/85.33788",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/25.13605/85.33788&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.13605&mlon=85.33788#map=16/25.13605/85.33788"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tukwvzvhhdztxshfkjn1",
+                "qibla": 274.61,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714866120,
+                        "astronomical": 1714861200,
+                        "civil": 1714864680,
+                        "nautical": 1714862940
+                    },
+                    "set": {
+                        "apparent": 1714826940,
+                        "astronomical": 1714831920,
+                        "civil": 1714828440,
+                        "nautical": 1714830120
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "reworked.peacekeeper.drinkable"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 25.1360978,
+                    "lng": 85.3379305
+                },
+                "southwest": {
+                    "lat": 25.1359978,
+                    "lng": 85.3378305
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-BR"
+                ],
+                "_category": "health",
+                "_type": "healthcare",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Ben",
+                "healthcare": "SubCentre, Nohsa",
+                "postcode": "801303",
+                "state": "Bihar",
+                "state_code": "BR",
+                "state_district": "Nalanda District"
+            },
+            "confidence": 9,
+            "formatted": "SubCentre, Nohsa, Nalanda District, - 801303, Bihar, India",
+            "geometry": {
+                "lat": 25.1360478,
+                "lng": 85.3378805
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:52:17 GMT",
+        "created_unix": 1714787537
+    },
+    "total_results": 1
+}

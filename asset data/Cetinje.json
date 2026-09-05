@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2145,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 23' 22.67880'' N",
+                    "lng": "18\u00b0 55' 28.59060'' E"
+                },
+                "MGRS": "34TCM2917095124",
+                "Maidenhead": "JN92lj03wm",
+                "Mercator": {
+                    "x": 2106677.782,
+                    "y": 5190709.766
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=167047843#map=16/42.38963/18.92461",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/42.38963/18.92461&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.38963&mlon=18.92461#map=16/42.38963/18.92461"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "ME": "499",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 382,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddea",
+                "geohash": "srt3nsu3x26f7cbr5ywg",
+                "qibla": 133.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714880100,
+                        "astronomical": 1714873440,
+                        "civil": 1714878240,
+                        "nautical": 1714875960
+                    },
+                    "set": {
+                        "apparent": 1714931280,
+                        "astronomical": 1714938000,
+                        "civil": 1714933140,
+                        "nautical": 1714935420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Podgorica",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "swells.native.scramble"
+                },
+                "wikidata": "Q173338"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4063492,
+                    "lng": 18.9390304
+                },
+                "southwest": {
+                    "lat": 42.3767789,
+                    "lng": 18.8864361
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ME",
+                "ISO_3166-1_alpha-3": "MNE",
+                "ISO_3166-2": [
+                    "ME-06"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cetinje",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Montenegro",
+                "country_code": "me",
+                "county": "Old Royal Capital Cetinje",
+                "town": "Cetinje"
+            },
+            "confidence": 7,
+            "formatted": "Cetinje, Old Royal Capital Cetinje, Montenegro",
+            "geometry": {
+                "lat": 42.389633,
+                "lng": 18.9246085
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:01:22 GMT",
+        "created_unix": 1714892482
+    },
+    "total_results": 1
+}

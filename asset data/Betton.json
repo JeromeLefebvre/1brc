@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2399,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 10' 54.16392'' N",
+                    "lng": "1\u00b0 38' 29.36328'' W"
+                },
+                "MGRS": "30UXU0098137389",
+                "Maidenhead": "IN98ee33ao",
+                "Mercator": {
+                    "x": -182729.809,
+                    "y": 6105278.155
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRH"
+                    },
+                    "NUTS2": {
+                        "code": "FRH0"
+                    },
+                    "NUTS3": {
+                        "code": "FRH03"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=107907#map=17/48.18171/-1.64149",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.18171/-1.64149&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.18171&mlon=-1.64149#map=17/48.18171/-1.64149"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "gbwf4ehwyd0kx9zwbx3m",
+                "qibla": 114.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714970460,
+                        "astronomical": 1714962300,
+                        "civil": 1714968300,
+                        "nautical": 1714965540
+                    },
+                    "set": {
+                        "apparent": 1715023620,
+                        "astronomical": 1715031780,
+                        "civil": 1715025720,
+                        "nautical": 1715028480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "dozens.avatars.swung"
+                },
+                "wikidata": "Q633861"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.2099996,
+                    "lng": -1.5983543
+                },
+                "southwest": {
+                    "lat": 48.1492413,
+                    "lng": -1.6969991
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-BRE",
+                    "FR-35"
+                ],
+                "_category": "place",
+                "_normalized_city": "Betton",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Ille-et-Vilaine",
+                "municipality": "Rennes",
+                "political_union": "European Union",
+                "postcode": "35830",
+                "region": "Metropolitan France",
+                "state": "Brittany",
+                "state_code": "BRE",
+                "town": "Betton"
+            },
+            "confidence": 7,
+            "formatted": "35830 Betton, France",
+            "geometry": {
+                "lat": 48.1817122,
+                "lng": -1.6414898
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:10:19 GMT",
+        "created_unix": 1714954219
+    },
+    "total_results": 1
+}

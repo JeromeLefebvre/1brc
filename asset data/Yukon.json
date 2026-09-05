@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1666,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "63\u00b0 0' 0.52920'' N",
+                    "lng": "136\u00b0 0' 9.00720'' W"
+                },
+                "MGRS": "8VMQ4922286001",
+                "Maidenhead": "CP13xa90qa",
+                "Mercator": {
+                    "x": -15139729.269,
+                    "y": 9062175.385
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=391455#map=17/63.00015/-136.00250",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/63.00015/-136.00250&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=63.00015&mlon=-136.00250#map=17/63.00015/-136.00250"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "bgpq3hy42n87693015hd",
+                "qibla": 3.9,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050060,
+                        "astronomical": 0,
+                        "civil": 1714046520,
+                        "nautical": 1714040460
+                    },
+                    "set": {
+                        "apparent": 1714021440,
+                        "astronomical": 0,
+                        "civil": 1714025040,
+                        "nautical": 1714031460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Whitehorse",
+                    "now_in_dst": 0,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "MST"
+                },
+                "what3words": {
+                    "words": "nasal.glitch.sustain"
+                },
+                "wikidata": "Q2009"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 69.84588,
+                    "lng": -123.8102524
+                },
+                "southwest": {
+                    "lat": 59.9985416,
+                    "lng": -141.00275
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-YT"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "state": "Yukon",
+                "state_code": "YT"
+            },
+            "confidence": 1,
+            "formatted": "YT, Canada",
+            "geometry": {
+                "lat": 63.000147,
+                "lng": -136.002502
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:37:30 GMT",
+        "created_unix": 1714005450
+    },
+    "total_results": 1
+}

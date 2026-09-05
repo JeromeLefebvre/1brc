@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1943,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 57' 48.11076'' N",
+                    "lng": "87\u00b0 49' 38.22240'' W"
+                },
+                "FIPS": {
+                    "county": "17031",
+                    "state": "17"
+                },
+                "MGRS": "16TDM3144646039",
+                "Maidenhead": "EN61cx01re",
+                "Mercator": {
+                    "x": -9776888.533,
+                    "y": 5126914.583
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=123427#map=17/41.96336/-87.82728",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.96336/-87.82728&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.96336&mlon=-87.82728#map=17/41.96336/-87.82728"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp3w9rnn7fn3r0u5vtv7",
+                "qibla": 48.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713697260,
+                        "astronomical": 1713691080,
+                        "civil": 1713695520,
+                        "nautical": 1713693360
+                    },
+                    "set": {
+                        "apparent": 1713659940,
+                        "astronomical": 1713666180,
+                        "civil": 1713661680,
+                        "nautical": 1713663840
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "news.blows.probe"
+                },
+                "wikidata": "Q2666488"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.9753518,
+                    "lng": -87.8013402
+                },
+                "southwest": {
+                    "lat": 41.9523896,
+                    "lng": -87.8465605
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Norridge",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Cook County",
+                "municipality": "Norwood Park Township",
+                "state": "Illinois",
+                "state_code": "IL",
+                "town": "Norridge"
+            },
+            "confidence": 7,
+            "formatted": "Norridge, Illinois, United States of America",
+            "geometry": {
+                "lat": 41.9633641,
+                "lng": -87.827284
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:32:40 GMT",
+        "created_unix": 1713663160
+    },
+    "total_results": 1
+}

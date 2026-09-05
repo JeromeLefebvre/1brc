@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1260,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 11' 4.20000'' N",
+                    "lng": "8\u00b0 56' 12.84000'' E"
+                },
+                "MGRS": "32UMA9549559146",
+                "Maidenhead": "JO40le24kg",
+                "Mercator": {
+                    "x": 994851.157,
+                    "y": 6445449.709
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE7"
+                    },
+                    "NUTS2": {
+                        "code": "DE71"
+                    },
+                    "NUTS3": {
+                        "code": "DE719"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=535894#map=17/50.18450/8.93690",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.18450/8.93690&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.18450&mlon=8.93690#map=17/50.18450/8.93690"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0ym7rg9uugehhsyvjk8",
+                "qibla": 128.47,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714794900,
+                        "astronomical": 1714786260,
+                        "civil": 1714792680,
+                        "nautical": 1714789800
+                    },
+                    "set": {
+                        "apparent": 1714848480,
+                        "astronomical": 1714857240,
+                        "civil": 1714850700,
+                        "nautical": 1714853640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "players.answers.translate"
+                },
+                "wikidata": "Q569636"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.2199683,
+                    "lng": 8.9806393
+                },
+                "southwest": {
+                    "lat": 50.1485202,
+                    "lng": 8.8832586
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bruchk\u00f6bel",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Main-Kinzig-Kreis",
+                "municipality": "Bruchk\u00f6bel",
+                "political_union": "European Union",
+                "postcode": "63486",
+                "state": "Hesse",
+                "state_code": "HE"
+            },
+            "confidence": 7,
+            "formatted": "63486 Bruchk\u00f6bel, Germany",
+            "geometry": {
+                "lat": 50.1845,
+                "lng": 8.9369
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:03:39 GMT",
+        "created_unix": 1714788219
+    },
+    "total_results": 1
+}

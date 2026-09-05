@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2090,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 42' 4.10400'' N",
+                    "lng": "92\u00b0 10' 9.58908'' W"
+                },
+                "FIPS": {
+                    "county": "29169",
+                    "state": "29"
+                },
+                "MGRS": "15SWB7322672981",
+                "Maidenhead": "EM37vq98qg",
+                "Mercator": {
+                    "x": -10260242.915,
+                    "y": 4511159.244
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=139848#map=17/37.70114/-92.16933",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.70114/-92.16933&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.70114&mlon=-92.16933#map=17/37.70114/-92.16933"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9ywqqxk34cyh4vqm7k85",
+                "qibla": 45.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714044000,
+                        "astronomical": 1714038240,
+                        "civil": 1714042380,
+                        "nautical": 1714040340
+                    },
+                    "set": {
+                        "apparent": 1714006380,
+                        "astronomical": 1714012200,
+                        "civil": 1714008060,
+                        "nautical": 1714010040
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "appoints.tissues.lease"
+                },
+                "wikidata": "Q964399"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.7980212,
+                    "lng": -92.041093
+                },
+                "southwest": {
+                    "lat": 37.6052157,
+                    "lng": -92.2495549
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "military",
+                "_type": "military",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Pulaski County",
+                "military": "Fort Leonard Wood",
+                "postcode": "65473",
+                "state": "Missouri",
+                "state_code": "MO"
+            },
+            "confidence": 5,
+            "formatted": "Fort Leonard Wood, Pulaski County, MO 65473, United States of America",
+            "geometry": {
+                "lat": 37.70114,
+                "lng": -92.1693303
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:18:46 GMT",
+        "created_unix": 1714004326
+    },
+    "total_results": 1
+}

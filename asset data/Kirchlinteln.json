@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 142,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 56' 20.42880'' N",
+                    "lng": "9\u00b0 18' 54.17280'' E"
+                },
+                "MGRS": "32UND2117265532",
+                "Maidenhead": "JO42pw75ti",
+                "Mercator": {
+                    "x": 1036946.4,
+                    "y": 6937602.965
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE93"
+                    },
+                    "NUTS3": {
+                        "code": "DE93B"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1182705#map=17/52.93901/9.31505",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.93901/9.31505&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.93901&mlon=9.31505#map=17/52.93901/9.31505"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1qt5vr00675qusd411n",
+                "qibla": 131.62,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711688640,
+                        "astronomical": 1711681380,
+                        "civil": 1711686540,
+                        "nautical": 1711684020
+                    },
+                    "set": {
+                        "apparent": 1711734720,
+                        "astronomical": 1711742040,
+                        "civil": 1711736820,
+                        "nautical": 1711739340
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "supplier.stables.tenfold"
+                },
+                "wikidata": "Q504134"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.0278817,
+                    "lng": 9.4639361
+                },
+                "southwest": {
+                    "lat": 52.8213869,
+                    "lng": 9.2676736
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kirchlinteln",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Verden",
+                "political_union": "European Union",
+                "postcode": "27308",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Kirchlinteln"
+            },
+            "confidence": 5,
+            "formatted": "27308 Kirchlinteln, Germany",
+            "geometry": {
+                "lat": 52.939008,
+                "lng": 9.315048
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:06:33 GMT",
+        "created_unix": 1711753593
+    },
+    "total_results": 1
+}

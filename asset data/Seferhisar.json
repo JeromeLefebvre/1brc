@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2127,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 11' 51.00000'' N",
+                    "lng": "26\u00b0 50' 19.71600'' E"
+                },
+                "MGRS": "35SMC8588527740",
+                "Maidenhead": "KM38ke07pj",
+                "Mercator": {
+                    "x": 2987682.663,
+                    "y": 4580937.932
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/38.19750/26.83881&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.19750&mlon=26.83881#map=16/38.19750/26.83881"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "TR": "792",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 90,
+                "currency": {
+                    "alternate_symbols": [
+                        "TL"
+                    ],
+                    "decimal_mark": ",",
+                    "html_entity": "&#8378;",
+                    "iso_code": "TRY",
+                    "iso_numeric": "949",
+                    "name": "Turkish Lira",
+                    "smallest_denomination": 1,
+                    "subunit": "kuru\u015f",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ba",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf7",
+                "geohash": "swg169xktd54zhvfyyvh",
+                "qibla": 142.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714706100,
+                        "astronomical": 1714700100,
+                        "civil": 1714704360,
+                        "nautical": 1714702320
+                    },
+                    "set": {
+                        "apparent": 1714755900,
+                        "astronomical": 1714761900,
+                        "civil": 1714757580,
+                        "nautical": 1714759680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Istanbul",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "boil.survive.racked"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.208378,
+                    "lng": 26.839996
+                },
+                "southwest": {
+                    "lat": 38.189758,
+                    "lng": 26.825867
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TR",
+                "ISO_3166-1_alpha-3": "TUR",
+                "_category": "place",
+                "_normalized_city": "Seferhisar",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Turkey",
+                "country_code": "tr",
+                "county": "Seferihisar",
+                "state": "\u0130zmir",
+                "town": "Seferhisar"
+            },
+            "confidence": 8,
+            "formatted": "Seferhisar, Seferihisar, Turkey",
+            "geometry": {
+                "lat": 38.1975,
+                "lng": 26.83881
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:25:12 GMT",
+        "created_unix": 1714695912
+    },
+    "total_results": 1
+}

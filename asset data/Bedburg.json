@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 192,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 59' 49.97796'' N",
+                    "lng": "6\u00b0 34' 36.35328'' E"
+                },
+                "MGRS": "32ULB2996252310",
+                "Maidenhead": "JO30gx99fh",
+                "Mercator": {
+                    "x": 732122.109,
+                    "y": 6587575.456
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEA"
+                    },
+                    "NUTS2": {
+                        "code": "DEA2"
+                    },
+                    "NUTS3": {
+                        "code": "DEA27"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=168465#map=16/50.99722/6.57676",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/50.99722/6.57676&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.99722&mlon=6.57676#map=16/50.99722/6.57676"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1hdjev03dp788xp88gy",
+                "qibla": 126.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536480,
+                        "astronomical": 1714527720,
+                        "civil": 1714534200,
+                        "nautical": 1714531320
+                    },
+                    "set": {
+                        "apparent": 1714589700,
+                        "astronomical": 1714598520,
+                        "civil": 1714591980,
+                        "nautical": 1714594920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "shopping.mirror.self"
+                },
+                "wikidata": "Q245292"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.0594769,
+                    "lng": 6.6603219
+                },
+                "southwest": {
+                    "lat": 50.9691042,
+                    "lng": 6.4528053
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bedburg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Rhein-Erft-Kreis",
+                "political_union": "European Union",
+                "postcode": "50181",
+                "state": "North Rhine \u2013 Westphalia",
+                "town": "Bedburg"
+            },
+            "confidence": 6,
+            "formatted": "50181 Bedburg, Germany",
+            "geometry": {
+                "lat": 50.9972161,
+                "lng": 6.5767648
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:33:33 GMT",
+        "created_unix": 1714545213
+    },
+    "total_results": 1
+}

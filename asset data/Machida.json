@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1605,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 33' 51.09480'' N",
+                    "lng": "139\u00b0 26' 34.22040'' E"
+                },
+                "MGRS": "54SUE5888336728",
+                "Maidenhead": "PM95rn35dj",
+                "Mercator": {
+                    "x": 15522705.832,
+                    "y": 4215967.148
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5100276#map=17/35.56419/139.44284",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.56419/139.44284&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.56419&mlon=139.44284#map=17/35.56419/139.44284"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn74m470mwhfgc418gd0",
+                "qibla": 292.89,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714938480,
+                        "astronomical": 1714932720,
+                        "civil": 1714936800,
+                        "nautical": 1714934820
+                    },
+                    "set": {
+                        "apparent": 1714901460,
+                        "astronomical": 1714907220,
+                        "civil": 1714903080,
+                        "nautical": 1714905060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "mining.junction.achieving"
+                },
+                "wikidata": "Q210628"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.623504,
+                    "lng": 139.5074165
+                },
+                "southwest": {
+                    "lat": 35.5012219,
+                    "lng": 139.268797
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Machida",
+                "_type": "city",
+                "city": "Machida",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp"
+            },
+            "confidence": 5,
+            "formatted": "Machida, Japan",
+            "geometry": {
+                "lat": 35.564193,
+                "lng": 139.442839
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:22:10 GMT",
+        "created_unix": 1714900930
+    },
+    "total_results": 1
+}

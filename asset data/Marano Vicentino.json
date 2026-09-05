@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 315,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 41' 33.32400'' N",
+                    "lng": "11\u00b0 25' 44.52456'' E"
+                },
+                "MGRS": "32TPR8912362762",
+                "Maidenhead": "JN55rq16lf",
+                "Mercator": {
+                    "x": 1272274.312,
+                    "y": 5700633.119
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH32"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45753#map=16/45.69259/11.42903",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.69259/11.42903&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.69259&mlon=11.42903#map=16/45.69259/11.42903"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u205un46eu1u7byec9hu",
+                "qibla": 126.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018320,
+                        "astronomical": 1714011420,
+                        "civil": 1714016400,
+                        "nautical": 1714014060
+                    },
+                    "set": {
+                        "apparent": 1714068780,
+                        "astronomical": 1714075740,
+                        "civil": 1714070700,
+                        "nautical": 1714073100
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "alleys.dilutes.sapped"
+                },
+                "wikidata": "Q46793"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.719929,
+                    "lng": 11.4613437
+                },
+                "southwest": {
+                    "lat": 45.6720904,
+                    "lng": 11.402292
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-VI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Marano Vicentino",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Vicenza",
+                "county_code": "VI",
+                "political_union": "European Union",
+                "postcode": "36035",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "village": "Marano Vicentino"
+            },
+            "confidence": 7,
+            "formatted": "36035 Marano Vicentino VI, Italy",
+            "geometry": {
+                "lat": 45.69259,
+                "lng": 11.4290346
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:14:19 GMT",
+        "created_unix": 1714011259
+    },
+    "total_results": 1
+}

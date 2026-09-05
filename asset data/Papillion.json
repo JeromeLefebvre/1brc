@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1568,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 9' 15.99588'' N",
+                    "lng": "96\u00b0 2' 32.05608'' W"
+                },
+                "FIPS": {
+                    "county": "31153",
+                    "state": "31"
+                },
+                "MGRS": "14TQL4818560119",
+                "Maidenhead": "EN11xd47wb",
+                "Mercator": {
+                    "x": -10691373.007,
+                    "y": 5007022.618
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=169678#map=17/41.15444/-96.04224",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.15444/-96.04224&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.15444&mlon=-96.04224#map=17/41.15444/-96.04224"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9z7dnebnj8kbwrctvptj",
+                "qibla": 42.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714735140,
+                        "astronomical": 1714728720,
+                        "civil": 1714733340,
+                        "nautical": 1714731120
+                    },
+                    "set": {
+                        "apparent": 1714699380,
+                        "astronomical": 1714705860,
+                        "civil": 1714701180,
+                        "nautical": 1714703460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "string.nimbly.collections"
+                },
+                "wikidata": "Q960468"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.176328,
+                    "lng": -95.9862092
+                },
+                "southwest": {
+                    "lat": 41.1179596,
+                    "lng": -96.1582135
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Papillion",
+                "_type": "city",
+                "city": "Papillion",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Sarpy County",
+                "postcode": "68046",
+                "state": "Nebraska",
+                "state_code": "NE"
+            },
+            "confidence": 6,
+            "formatted": "Papillion, Nebraska, United States of America",
+            "geometry": {
+                "lat": 41.1544433,
+                "lng": -96.0422378
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:45:36 GMT",
+        "created_unix": 1714697136
+    },
+    "total_results": 1
+}

@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2174,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 27' 32.90616'' N",
+                    "lng": "10\u00b0 51' 22.99248'' E"
+                },
+                "MGRS": "32UPV3452480154",
+                "Maidenhead": "JN59kl20se",
+                "Mercator": {
+                    "x": 1208527.45,
+                    "y": 6320640.409
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE25"
+                    },
+                    "NUTS3": {
+                        "code": "DE258"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1016404#map=17/49.45914/10.85639",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.45914/10.85639&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.45914&mlon=10.85639#map=17/49.45914/10.85639"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0z9r5c2khh9z1ngumcu",
+                "qibla": 130.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714794600,
+                        "astronomical": 1714786200,
+                        "civil": 1714792440,
+                        "nautical": 1714789620
+                    },
+                    "set": {
+                        "apparent": 1714847880,
+                        "astronomical": 1714856340,
+                        "civil": 1714850040,
+                        "nautical": 1714852920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "rebound.flooring.chewy"
+                },
+                "wikidata": "Q522025"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.4961242,
+                    "lng": 10.9160342
+                },
+                "southwest": {
+                    "lat": 49.4171929,
+                    "lng": 10.778822
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cadolzburg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "F\u00fcrth (district)",
+                "political_union": "European Union",
+                "postcode": "90556",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Cadolzburg"
+            },
+            "confidence": 7,
+            "formatted": "90556 Cadolzburg, Germany",
+            "geometry": {
+                "lat": 49.4591406,
+                "lng": 10.8563868
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:33:37 GMT",
+        "created_unix": 1714786417
+    },
+    "total_results": 1
+}

@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 75,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23\u00b0 59' 32.85600'' N",
+                    "lng": "89\u00b0 47' 50.35200'' E"
+                },
+                "MGRS": "45QYG8461156218",
+                "Maidenhead": "NL43vx58qe",
+                "Mercator": {
+                    "x": 9996191.937,
+                    "y": 2735121.37
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/23.99246/89.79732&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=23.99246&mlon=89.79732#map=16/23.99246/89.79732"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "BD": "050",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 880,
+                "currency": {
+                    "alternate_symbols": [
+                        "Tk"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "BDT",
+                    "iso_numeric": "050",
+                    "name": "Bangladeshi Taka",
+                    "smallest_denomination": 1,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u09f3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\udde9",
+                "geohash": "turb7rsqjnwydvf3srpy",
+                "qibla": 277.21,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711756620,
+                        "astronomical": 1711752060,
+                        "civil": 1711755240,
+                        "nautical": 1711753680
+                    },
+                    "set": {
+                        "apparent": 1711714500,
+                        "astronomical": 1711719000,
+                        "civil": 1711715820,
+                        "nautical": 1711717440
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dhaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "keyed.prouder.venting"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BD",
+                "ISO_3166-1_alpha-3": "BGD",
+                "_category": "place",
+                "_normalized_city": "Duptiair",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Bangladesh",
+                "country_code": "bd",
+                "state": "Dhaka Division",
+                "state_code": "C",
+                "town": "Duptiair"
+            },
+            "confidence": 9,
+            "formatted": "Duptiair, Dhaka Division, Bangladesh",
+            "geometry": {
+                "lat": 23.99246,
+                "lng": 89.79732
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:08:41 GMT",
+        "created_unix": 1711753721
+    },
+    "total_results": 1
+}

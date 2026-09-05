@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1760,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "63\u00b0 38' 40.23600'' N",
+                    "lng": "54\u00b0 51' 21.52800'' E"
+                },
+                "MGRS": "40VCR9381659182",
+                "Maidenhead": "LP73kp24rq",
+                "Mercator": {
+                    "x": 6106539.761,
+                    "y": 9221731.905
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/63.64451/54.85598&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=63.64451&mlon=54.85598#map=17/63.64451/54.85598"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v5r4060uhux671v2fcfy",
+                "qibla": 200.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713573300,
+                        "astronomical": 0,
+                        "civil": 1713656280,
+                        "nautical": 1713651000
+                    },
+                    "set": {
+                        "apparent": 1713629160,
+                        "astronomical": 0,
+                        "civil": 1713632640,
+                        "nautical": 1713638100
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "regard.puff.outsourced"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Nizhniy Odes",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Komi",
+                "town": "Nizhniy Odes"
+            },
+            "confidence": 9,
+            "formatted": "Nizhniy Odes, Komi, Russia",
+            "geometry": {
+                "lat": 63.64451,
+                "lng": 54.85598
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 11:34:33 GMT",
+        "created_unix": 1713612873
+    },
+    "total_results": 1
+}

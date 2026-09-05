@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2223,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 42' 14.78988'' N",
+                    "lng": "139\u00b0 30' 38.43324'' E"
+                },
+                "MGRS": "54SUE6526652152",
+                "Maidenhead": "PM95sq18gx",
+                "Mercator": {
+                    "x": 15530257.401,
+                    "y": 4235045.839
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5302326#map=17/35.70411/139.51068",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.70411/139.51068&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.70411&mlon=139.51068#map=17/35.70411/139.51068"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn75nesxd25wp3c6z990",
+                "qibla": 292.92,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714679400,
+                        "astronomical": 1714673760,
+                        "civil": 1714677780,
+                        "nautical": 1714675800
+                    },
+                    "set": {
+                        "apparent": 1714642080,
+                        "astronomical": 1714647780,
+                        "civil": 1714643700,
+                        "nautical": 1714645680
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "junction.plea.saves"
+                },
+                "wikidata": "Q242874"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.7189382,
+                    "lng": 139.534028
+                },
+                "southwest": {
+                    "lat": 35.6837774,
+                    "lng": 139.4844453
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-13"
+                ],
+                "_category": "place",
+                "_normalized_city": "Koganei",
+                "_type": "city",
+                "city": "Koganei",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp"
+            },
+            "confidence": 7,
+            "formatted": "Koganei, Japan",
+            "geometry": {
+                "lat": 35.7041083,
+                "lng": 139.5106759
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:11:55 GMT",
+        "created_unix": 1714691515
+    },
+    "total_results": 1
+}

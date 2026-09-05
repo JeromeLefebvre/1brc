@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1191,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 7' 31.03644'' N",
+                    "lng": "37\u00b0 46' 39.06228'' E"
+                },
+                "MGRS": "37PCP6697440705",
+                "Maidenhead": "KK82vd30hb",
+                "Mercator": {
+                    "x": 4205373.989,
+                    "y": 1351000.77
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=321361857#map=17/12.12529/37.77752",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/12.12529/37.77752&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.12529&mlon=37.77752#map=17/12.12529/37.77752"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "sf4ugxkdzvqxdn3q74fy",
+                "qibla": 11.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711769280,
+                        "astronomical": 1711765020,
+                        "civil": 1711767960,
+                        "nautical": 1711766520
+                    },
+                    "set": {
+                        "apparent": 1711813140,
+                        "astronomical": 1711817400,
+                        "civil": 1711814400,
+                        "nautical": 1711815900
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "samples.specialness.scorecards"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.1652879,
+                    "lng": 37.8175173
+                },
+                "southwest": {
+                    "lat": 12.0852879,
+                    "lng": 37.7375173
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "ISO_3166-2": [
+                    "ET-AM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Adis Zemen",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "state": "Amhara Region",
+                "state_district": "South Gonder",
+                "town": "Adis Zemen"
+            },
+            "confidence": 7,
+            "formatted": "Adis Zemen, South Gonder, Ethiopia",
+            "geometry": {
+                "lat": 12.1252879,
+                "lng": 37.7775173
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:13:42 GMT",
+        "created_unix": 1711833222
+    },
+    "total_results": 1
+}

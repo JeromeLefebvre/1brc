@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 279,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 35' 46.20984'' N",
+                    "lng": "90\u00b0 32' 19.43448'' W"
+                },
+                "FIPS": {
+                    "county": "29189",
+                    "state": "29"
+                },
+                "MGRS": "15SYC1434674837",
+                "Maidenhead": "EM48ro53ib",
+                "Mercator": {
+                    "x": -10078725.521,
+                    "y": 4637331.136
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=139872#map=16/38.59617/-90.53873",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/38.59617/-90.53873&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.59617&mlon=-90.53873#map=16/38.59617/-90.53873"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzeedpwyxkqw81me8qu",
+                "qibla": 46.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714906860,
+                        "astronomical": 1714900680,
+                        "civil": 1714905120,
+                        "nautical": 1714902960
+                    },
+                    "set": {
+                        "apparent": 1714870680,
+                        "astronomical": 1714876800,
+                        "civil": 1714872420,
+                        "nautical": 1714874520
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "blend.lower.lively"
+                },
+                "wikidata": "Q805392"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.6244989,
+                    "lng": -90.510548
+                },
+                "southwest": {
+                    "lat": 38.560055,
+                    "lng": -90.5856717
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ballwin",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Louis County",
+                "postcode": "63011",
+                "state": "Missouri",
+                "state_code": "MO",
+                "town": "Ballwin"
+            },
+            "confidence": 7,
+            "formatted": "Ballwin, MO 63011, United States of America",
+            "geometry": {
+                "lat": 38.5961694,
+                "lng": -90.5387318
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:52:02 GMT",
+        "created_unix": 1714949522
+    },
+    "total_results": 1
+}

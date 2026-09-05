@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 572,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 48' 9.39420'' N",
+                    "lng": "123\u00b0 25' 40.47780'' E"
+                },
+                "MGRS": "51TWG3554727949",
+                "Maidenhead": "PN11rt12ip",
+                "Mercator": {
+                    "x": 13739932.147,
+                    "y": 5102967.908
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2769604#map=17/41.80261/123.42791",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.80261/123.42791&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.80261&mlon=123.42791#map=17/41.80261/123.42791"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wxrvb9vmyg0wtpt99p02",
+                "qibla": 282.38,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714855200,
+                        "astronomical": 1714848660,
+                        "civil": 1714853400,
+                        "nautical": 1714851120
+                    },
+                    "set": {
+                        "apparent": 1714819560,
+                        "astronomical": 1714826160,
+                        "civil": 1714821420,
+                        "nautical": 1714823700
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "lateral.internal.unfolds"
+                },
+                "wikidata": "Q11720"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.0402961,
+                    "lng": 123.8085417
+                },
+                "southwest": {
+                    "lat": 41.1976943,
+                    "lng": 122.4167356
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-LN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Shenyang City",
+                "_type": "city",
+                "city": "Shenyang City",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Liaoning"
+            },
+            "confidence": 1,
+            "formatted": "Shenyang City, Liaoning, China",
+            "geometry": {
+                "lat": 41.8026095,
+                "lng": 123.4279105
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:56:07 GMT",
+        "created_unix": 1714794967
+    },
+    "total_results": 1
+}

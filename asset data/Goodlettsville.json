@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2251,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 19' 23.18412'' N",
+                    "lng": "86\u00b0 42' 47.98872'' W"
+                },
+                "FIPS": {
+                    "county": "47037",
+                    "state": "47"
+                },
+                "MGRS": "16SEF2573119824",
+                "Maidenhead": "EM66ph47jn",
+                "Mercator": {
+                    "x": -9652883.763,
+                    "y": 4319860.63
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=195994#map=17/36.32311/-86.71333",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.32311/-86.71333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.32311&mlon=-86.71333#map=17/36.32311/-86.71333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn6qdu3m2vyek4ujr47e",
+                "qibla": 50.23,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713697560,
+                        "astronomical": 1713691980,
+                        "civil": 1713695940,
+                        "nautical": 1713694020
+                    },
+                    "set": {
+                        "apparent": 1713659160,
+                        "astronomical": 1713664740,
+                        "civil": 1713660780,
+                        "nautical": 1713662700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "mandates.amplified.throbbed"
+                },
+                "wikidata": "Q2273185"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.385087,
+                    "lng": -86.669987
+                },
+                "southwest": {
+                    "lat": 36.2849359,
+                    "lng": -86.7415134
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Goodlettsville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Davidson County",
+                "postcode": "37072",
+                "region": "Middle Tennessee",
+                "state": "Tennessee",
+                "state_code": "TN",
+                "town": "Goodlettsville"
+            },
+            "confidence": 7,
+            "formatted": "Goodlettsville, TN 37072, United States of America",
+            "geometry": {
+                "lat": 36.3231067,
+                "lng": -86.7133302
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:20:13 GMT",
+        "created_unix": 1713662413
+    },
+    "total_results": 1
+}

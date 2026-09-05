@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 620,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 21' 25.16724'' N",
+                    "lng": "72\u00b0 13' 33.13524'' W"
+                },
+                "FIPS": {
+                    "state": "09"
+                },
+                "MGRS": "18TYL3205682101",
+                "Maidenhead": "FN31vi25vq",
+                "Mercator": {
+                    "x": -8040147.171,
+                    "y": 5036901.237
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11059181#map=17/41.35699/-72.22587",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.35699/-72.22587&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.35699&mlon=-72.22587#map=17/41.35699/-72.22587"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drkek2y9zjzhpzzfurr6",
+                "qibla": 59.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713434700,
+                        "astronomical": 1713428640,
+                        "civil": 1713432960,
+                        "nautical": 1713430860
+                    },
+                    "set": {
+                        "apparent": 1713483120,
+                        "astronomical": 1713402780,
+                        "civil": 1713398460,
+                        "nautical": 1713400560
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "offend.require.pretty"
+                },
+                "wikidata": "Q1277951"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.4435689,
+                    "lng": -72.1761997
+                },
+                "southwest": {
+                    "lat": 41.2759054,
+                    "lng": -72.2822162
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CT"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Lyme",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Southeastern Connecticut Planning Region",
+                "state": "Connecticut",
+                "state_code": "CT",
+                "town": "East Lyme"
+            },
+            "confidence": 6,
+            "formatted": "East Lyme, Connecticut, United States of America",
+            "geometry": {
+                "lat": 41.3569909,
+                "lng": -72.2258709
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:18:11 GMT",
+        "created_unix": 1713442691
+    },
+    "total_results": 1
+}

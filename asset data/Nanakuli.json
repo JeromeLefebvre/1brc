@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 784,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "21\u00b0 23' 26.01600'' N",
+                    "lng": "158\u00b0 9' 16.99200'' W"
+                },
+                "FIPS": {
+                    "county": "15003",
+                    "state": "15"
+                },
+                "MGRS": "4QEJ8762065608",
+                "Maidenhead": "BL01wj13kr",
+                "Mercator": {
+                    "x": -17605702.897,
+                    "y": 2422932.627
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/21.39056/-158.15472&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=21.39056&mlon=-158.15472#map=16/21.39056/-158.15472"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "87z99n51pcmks79npx5s",
+                "qibla": 336.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713888420,
+                        "astronomical": 1713883800,
+                        "civil": 1713887040,
+                        "nautical": 1713885420
+                    },
+                    "set": {
+                        "apparent": 1713848040,
+                        "astronomical": 1713852720,
+                        "civil": 1713849420,
+                        "nautical": 1713851040
+                    }
+                },
+                "timezone": {
+                    "name": "Pacific/Honolulu",
+                    "now_in_dst": 0,
+                    "offset_sec": -36000,
+                    "offset_string": "-1000",
+                    "short_name": "HST"
+                },
+                "what3words": {
+                    "words": "blame.hips.lentil"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 21.404708,
+                    "lng": -158.125754
+                },
+                "southwest": {
+                    "lat": 21.363037,
+                    "lng": -158.187773
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-HI"
+                ],
+                "_category": "place",
+                "_normalized_city": "N\u0101n\u0101kuli",
+                "_type": "city",
+                "continent": "Oceania",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Honolulu County",
+                "state": "Hawaii",
+                "state_code": "HI",
+                "town": "N\u0101n\u0101kuli"
+            },
+            "confidence": 7,
+            "formatted": "N\u0101n\u0101kuli, Hawaii, United States of America",
+            "geometry": {
+                "lat": 21.39056,
+                "lng": -158.15472
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:12:54 GMT",
+        "created_unix": 1713852774
+    },
+    "total_results": 1
+}

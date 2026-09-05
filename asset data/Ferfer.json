@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1245,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "5\u00b0 5' 3.17400'' N",
+                    "lng": "45\u00b0 7' 57.80280'' E"
+                },
+                "MGRS": "38NNL1471161974",
+                "Maidenhead": "LJ25nc50wf",
+                "Mercator": {
+                    "x": 5024151.742,
+                    "y": 562932.518
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1150892162#map=17/5.08422/45.13272",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/5.08422/45.13272&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=5.08422&mlon=45.13272#map=17/5.08422/45.13272"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SO": "706",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LDC"
+                    ]
+                },
+                "callingcode": 252,
+                "currency": {
+                    "alternate_symbols": [
+                        "Sh.So"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "SOS",
+                    "iso_numeric": "706",
+                    "name": "Somali Shilling",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "Sh",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf4",
+                "geohash": "t0bhgj89swm7y4k26cqy",
+                "qibla": 343.0,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713667860,
+                        "astronomical": 1713663660,
+                        "civil": 1713666600,
+                        "nautical": 1713665160
+                    },
+                    "set": {
+                        "apparent": 1713711900,
+                        "astronomical": 1713716160,
+                        "civil": 1713713160,
+                        "nautical": 1713714660
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Mogadishu",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "hopelessly.hologram.eyeballs"
+                },
+                "wikidata": "Q1017194"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 5.124215,
+                    "lng": 45.172723
+                },
+                "southwest": {
+                    "lat": 5.044215,
+                    "lng": 45.092723
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SO",
+                "ISO_3166-1_alpha-3": "SOM",
+                "ISO_3166-2": [
+                    "SO-HI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ferfer",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Somalia",
+                "country_code": "so",
+                "county": "Beledweyne District",
+                "state": "Hiiraan",
+                "state_code": "HI",
+                "town": "Ferfer"
+            },
+            "confidence": 7,
+            "formatted": "Ferfer, Beledweyne District, Somalia",
+            "geometry": {
+                "lat": 5.084215,
+                "lng": 45.132723
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:00:29 GMT",
+        "created_unix": 1713664829
+    },
+    "total_results": 1
+}

@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 404,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 7' 48.18000'' N",
+                    "lng": "70\u00b0 39' 5.94000'' E"
+                },
+                "MGRS": "42TXK4071943499",
+                "Maidenhead": "MN50hd81ef",
+                "Mercator": {
+                    "x": 7864905.702,
+                    "y": 4857313.569
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.13005/70.65165&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.13005&mlon=70.65165#map=17/40.13005/70.65165"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "TJ": "762",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 992,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "TJS",
+                    "iso_numeric": "972",
+                    "name": "Tajikistani Somoni",
+                    "smallest_denomination": 1,
+                    "subunit": "Diram",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u0405\u041c",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddef",
+                "geohash": "tx4hr9qyqz88dnnfdevw",
+                "qibla": 243.68,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711760760,
+                        "astronomical": 1711841580,
+                        "civil": 1711759080,
+                        "nautical": 1711757160
+                    },
+                    "set": {
+                        "apparent": 1711805940,
+                        "astronomical": 1711811460,
+                        "civil": 1711807560,
+                        "nautical": 1711809480
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dushanbe",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "touches.trough.flickering"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TJ",
+                "ISO_3166-1_alpha-3": "TJK",
+                "_category": "place",
+                "_normalized_city": "Navgilem",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Tajikistan",
+                "country_code": "tj",
+                "state": "Viloyati Sughd",
+                "town": "Navgilem"
+            },
+            "confidence": 9,
+            "formatted": "Navgilem, Viloyati Sughd, Tajikistan",
+            "geometry": {
+                "lat": 40.13005,
+                "lng": 70.65165
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:38:36 GMT",
+        "created_unix": 1711834716
+    },
+    "total_results": 1
+}

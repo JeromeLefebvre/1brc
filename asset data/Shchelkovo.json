@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 712,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 55' 29.89200'' N",
+                    "lng": "37\u00b0 58' 19.84800'' E"
+                },
+                "MGRS": "37UDB3577498206",
+                "Maidenhead": "KO85xw61px",
+                "Mercator": {
+                    "x": 4227043.742,
+                    "y": 7508072.808
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.92497/37.97218&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.92497&mlon=37.97218#map=17/55.92497/37.97218"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ucgn0hf6xfj8dbzs5sk0",
+                "qibla": 176.95,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714010340,
+                        "astronomical": 1714086180,
+                        "civil": 1714007820,
+                        "nautical": 1714004400
+                    },
+                    "set": {
+                        "apparent": 1714064040,
+                        "astronomical": 1714074840,
+                        "civil": 1714066620,
+                        "nautical": 1714070040
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "kneeled.purple.husband"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.9420128,
+                    "lng": 38.0944977
+                },
+                "southwest": {
+                    "lat": 55.8637466,
+                    "lng": 37.9580193
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Shchelkovo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Moskovskaya",
+                "town": "Shchelkovo"
+            },
+            "confidence": 7,
+            "formatted": "Shchelkovo, Moskovskaya, Russia",
+            "geometry": {
+                "lat": 55.92497,
+                "lng": 37.97218
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:20:19 GMT",
+        "created_unix": 1714008019
+    },
+    "total_results": 1
+}

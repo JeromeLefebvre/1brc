@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2056,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23\u00b0 0' 18.90000'' N",
+                    "lng": "114\u00b0 2' 18.52800'' E"
+                },
+                "MGRS": "50QJL9641647169",
+                "Maidenhead": "OL73aa41og",
+                "Mercator": {
+                    "x": 12694705.524,
+                    "y": 2615960.947
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/23.00525/114.03848&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=23.00525&mlon=114.03848#map=16/23.00525/114.03848"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "ws14g5br31mvdswr4np8",
+                "qibla": 284.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714600320,
+                        "astronomical": 1714595520,
+                        "civil": 1714598940,
+                        "nautical": 1714597260
+                    },
+                    "set": {
+                        "apparent": 1714560600,
+                        "astronomical": 1714565400,
+                        "civil": 1714562040,
+                        "nautical": 1714563720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "firework.pies.rods"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 23.0028164,
+                    "lng": 114.0752964
+                },
+                "southwest": {
+                    "lat": 22.9746596,
+                    "lng": 114.0448217
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "_category": "place",
+                "_normalized_city": "Tiantoujiao",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Guangdong",
+                "town": "Tiantoujiao"
+            },
+            "confidence": 7,
+            "formatted": "Tiantoujiao, Guangdong, China",
+            "geometry": {
+                "lat": 23.00525,
+                "lng": 114.03848
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:18:51 GMT",
+        "created_unix": 1714522731
+    },
+    "total_results": 1
+}

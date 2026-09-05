@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1796,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 8' 19.56408'' N",
+                    "lng": "28\u00b0 51' 47.02176'' E"
+                },
+                "MGRS": "35TPN4127122268",
+                "Maidenhead": "KN47kd33nh",
+                "Mercator": {
+                    "x": 3213021.32,
+                    "y": 5933418.855
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1782039#map=17/47.13877/28.86306",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.13877/28.86306&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.13877&mlon=28.86306#map=17/47.13877/28.86306"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "MD": "498",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LLDC",
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 373,
+                "currency": {
+                    "alternate_symbols": [
+                        "lei"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MDL",
+                    "iso_numeric": "498",
+                    "name": "Moldovan Leu",
+                    "smallest_denomination": 1,
+                    "subunit": "Ban",
+                    "subunit_to_unit": 100,
+                    "symbol": "L",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde9",
+                "geohash": "u8ks0v37np4wgspysz8u",
+                "qibla": 157.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714445460,
+                        "astronomical": 1714438020,
+                        "civil": 1714443420,
+                        "nautical": 1714440900
+                    },
+                    "set": {
+                        "apparent": 1714497180,
+                        "astronomical": 1714504680,
+                        "civil": 1714499220,
+                        "nautical": 1714501800
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Chisinau",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "registrants.loveliness.crabby"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.1563608,
+                    "lng": 28.8804985
+                },
+                "southwest": {
+                    "lat": 47.1147221,
+                    "lng": 28.839293
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MD",
+                "ISO_3166-1_alpha-3": "MDA",
+                "ISO_3166-2": [
+                    "MD-CU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cricova",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Moldova",
+                "country_code": "md",
+                "municipality": "Chi\u0219in\u0103u Municipality",
+                "postcode": "MD-2084",
+                "town": "Cricova"
+            },
+            "confidence": 7,
+            "formatted": "MD-2084 Cricova, Moldova",
+            "geometry": {
+                "lat": 47.1387678,
+                "lng": 28.8630616
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:17:00 GMT",
+        "created_unix": 1714519020
+    },
+    "total_results": 1
+}

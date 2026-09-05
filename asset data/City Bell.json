@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1645,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 52' 1.34688'' S",
+                    "lng": "58\u00b0 2' 51.06444'' W"
+                },
+                "MGRS": "21HVB0425641201",
+                "Maidenhead": "GF05xd41hv",
+                "Mercator": {
+                    "x": -6461820.134,
+                    "y": -4121400.194
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3264196#map=17/-34.86704/-58.04752",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-34.86704/-58.04752&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-34.86704&mlon=-58.04752#map=17/-34.86704/-58.04752"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "AR": "032",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 54,
+                "currency": {
+                    "alternate_symbols": [
+                        "$m/n",
+                        "m$n"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "$m/n",
+                    "html_entity": "$",
+                    "iso_code": "ARS",
+                    "iso_numeric": "032",
+                    "name": "Argentine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf7",
+                "geohash": "69y9xhehfb98062p4zpd",
+                "qibla": 76.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714905180,
+                        "astronomical": 1714900020,
+                        "civil": 1714903620,
+                        "nautical": 1714901820
+                    },
+                    "set": {
+                        "apparent": 1714943040,
+                        "astronomical": 1714948200,
+                        "civil": 1714944660,
+                        "nautical": 1714946460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Argentina/Buenos_Aires",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "-03"
+                },
+                "what3words": {
+                    "words": "defy.permitting.catchable"
+                },
+                "wikidata": "Q2436247"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -34.8533128,
+                    "lng": -58.022215
+                },
+                "southwest": {
+                    "lat": -34.9034435,
+                    "lng": -58.0900359
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AR",
+                "ISO_3166-1_alpha-3": "ARG",
+                "ISO_3166-2": [
+                    "AR-B"
+                ],
+                "_category": "place",
+                "_normalized_city": "City Bell",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Argentina",
+                "country_code": "ar",
+                "state": "Buenos Aires",
+                "state_code": "B",
+                "state_district": "Partido de La Plata",
+                "town": "City Bell"
+            },
+            "confidence": 7,
+            "formatted": "City Bell, Partido de La Plata, Argentina",
+            "geometry": {
+                "lat": -34.8670408,
+                "lng": -58.0475179
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:20:41 GMT",
+        "created_unix": 1714900841
+    },
+    "total_results": 1
+}

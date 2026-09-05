@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1095,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 13' 52.61628'' N",
+                    "lng": "7\u00b0 35' 18.91824'' E"
+                },
+                "MGRS": "32ULA9933665299",
+                "Maidenhead": "JO30tf05pm",
+                "Mercator": {
+                    "x": 844757.797,
+                    "y": 6453564.419
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEB"
+                    },
+                    "NUTS2": {
+                        "code": "DEB1"
+                    },
+                    "NUTS3": {
+                        "code": "DEB1D"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=593575#map=17/50.23128/7.58859",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.23128/7.58859&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.23128&mlon=7.58859#map=17/50.23128/7.58859"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0vmu8mf6vtwkjzr2pu3",
+                "qibla": 126.81,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622640,
+                        "astronomical": 1714614120,
+                        "civil": 1714620420,
+                        "nautical": 1714617600
+                    },
+                    "set": {
+                        "apparent": 1714675800,
+                        "astronomical": 1714684380,
+                        "civil": 1714678020,
+                        "nautical": 1714680900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "inhaler.rival.enigma"
+                },
+                "wikidata": "Q521148"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.2656396,
+                    "lng": 7.6657322
+                },
+                "southwest": {
+                    "lat": 50.156754,
+                    "lng": 7.4590502
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-RP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Boppard",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Rhein-Hunsr\u00fcck-Kreis",
+                "political_union": "European Union",
+                "postcode": "56154",
+                "state": "Rhineland-Palatinate",
+                "state_code": "RP",
+                "town": "Boppard"
+            },
+            "confidence": 6,
+            "formatted": "56154 Boppard, Germany",
+            "geometry": {
+                "lat": 50.2312823,
+                "lng": 7.5885884
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:52:44 GMT",
+        "created_unix": 1714693964
+    },
+    "total_results": 1
+}

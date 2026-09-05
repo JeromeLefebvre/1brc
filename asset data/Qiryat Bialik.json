@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 367,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 49' 42.89232'' N",
+                    "lng": "35\u00b0 5' 4.16940'' E"
+                },
+                "MGRS": "36SXB9511834208",
+                "Maidenhead": "KM72nt08du",
+                "Mercator": {
+                    "x": 3905587.729,
+                    "y": 3849410.247
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1387456#map=17/32.82858/35.08449",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.82858/35.08449&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.82858&mlon=35.08449#map=17/32.82858/35.08449"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IL": "376",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 972,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf1",
+                "geohash": "svbfy278rghfz2rg7zy8",
+                "qibla": 158.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714704660,
+                        "astronomical": 1714699260,
+                        "civil": 1714703100,
+                        "nautical": 1714701240
+                    },
+                    "set": {
+                        "apparent": 1714753320,
+                        "astronomical": 1714758780,
+                        "civil": 1714754880,
+                        "nautical": 1714756800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "plugged.messed.secret"
+                },
+                "wikidata": "Q152374"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.8737674,
+                    "lng": 35.1143745
+                },
+                "southwest": {
+                    "lat": 32.8110063,
+                    "lng": 35.0736314
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IL",
+                "ISO_3166-1_alpha-3": "ISR",
+                "ISO_3166-2": [
+                    "IL-HA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kiryat Bialik",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Israel",
+                "country_code": "il",
+                "state": "Haifa District",
+                "state_district": "Haifa Subdistrict",
+                "town": "Kiryat Bialik"
+            },
+            "confidence": 7,
+            "formatted": "Kiryat Bialik, Haifa Subdistrict, Israel",
+            "geometry": {
+                "lat": 32.8285812,
+                "lng": 35.0844915
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:30:16 GMT",
+        "created_unix": 1714699816
+    },
+    "total_results": 1
+}

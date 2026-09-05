@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 931,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 56' 27.24576'' N",
+                    "lng": "2\u00b0 9' 30.61332'' E"
+                },
+                "MGRS": "31UDQ3837821227",
+                "Maidenhead": "JN18bw95at",
+                "Mercator": {
+                    "x": 240283.533,
+                    "y": 6232603.202
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FR1"
+                    },
+                    "NUTS2": {
+                        "code": "FR10"
+                    },
+                    "NUTS3": {
+                        "code": "FR103"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=75022#map=17/48.94090/2.15850",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.94090/2.15850&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.94090&mlon=2.15850#map=17/48.94090/2.15850"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u09w3j7v2v318rw0jbnj",
+                "qibla": 119.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714020120,
+                        "astronomical": 1714012500,
+                        "civil": 1714018020,
+                        "nautical": 1714015440
+                    },
+                    "set": {
+                        "apparent": 1714071480,
+                        "astronomical": 1714079160,
+                        "civil": 1714073520,
+                        "nautical": 1714076160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "otters.compose.exists"
+                },
+                "wikidata": "Q209101"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 48.9545326,
+                    "lng": 2.2062411
+                },
+                "southwest": {
+                    "lat": 48.9203069,
+                    "lng": 2.1424426
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-IDF",
+                    "FR-78"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sartrouville",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Yvelines",
+                "municipality": "Saint-Germain-en-Laye",
+                "political_union": "European Union",
+                "postcode": "78500",
+                "region": "Metropolitan France",
+                "state": "Ile-de-France",
+                "state_code": "IDF",
+                "town": "Sartrouville"
+            },
+            "confidence": 7,
+            "formatted": "78500 Sartrouville, France",
+            "geometry": {
+                "lat": 48.9409016,
+                "lng": 2.1585037
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:10:21 GMT",
+        "created_unix": 1714007421
+    },
+    "total_results": 1
+}

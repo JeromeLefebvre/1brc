@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2483,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 3' 4.00068'' N",
+                    "lng": "135\u00b0 47' 58.35408'' E"
+                },
+                "MGRS": "53SNU7291579003",
+                "Maidenhead": "PM75vb52wg",
+                "Mercator": {
+                    "x": 15117135.954,
+                    "y": 4146289.495
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2927230073#map=16/35.05111/135.79954",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.05111/135.79954&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.05111&mlon=135.79954#map=16/35.05111/135.79954"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn0x6hy5w8wr4r4q2dc3",
+                "qibla": 290.96,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711918020,
+                        "astronomical": 1711912860,
+                        "civil": 1711916460,
+                        "nautical": 1711914660
+                    },
+                    "set": {
+                        "apparent": 1711876560,
+                        "astronomical": 1711881720,
+                        "civil": 1711878060,
+                        "nautical": 1711879860
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "fended.rise.span"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.0611113,
+                    "lng": 135.8095428
+                },
+                "southwest": {
+                    "lat": 35.0411113,
+                    "lng": 135.7895428
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-26"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kyoto",
+                "_type": "neighbourhood",
+                "city": "Kyoto",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "neighbourhood": "Shugakuin-Minamishiro",
+                "postcode": "606-8167",
+                "province": "Kyoto Prefecture",
+                "state": "Kyoto Prefecture",
+                "suburb": "Sakyo Ward"
+            },
+            "confidence": 7,
+            "formatted": "Sakyo Ward, Kyoto, Kyoto Prefecture 606-8167, Japan",
+            "geometry": {
+                "lat": 35.0511113,
+                "lng": 135.7995428
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:28:48 GMT",
+        "created_unix": 1711916928
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1842,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 10' 54.08688'' N",
+                    "lng": "88\u00b0 19' 49.30248'' W"
+                },
+                "FIPS": {
+                    "county": "17111",
+                    "state": "17"
+                },
+                "MGRS": "16TCM9013570806",
+                "Maidenhead": "EN52ue03io",
+                "Mercator": {
+                    "x": -9832890.897,
+                    "y": 5159535.124
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=126052#map=17/42.18169/-88.33036",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.18169/-88.33036&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.18169&mlon=-88.33036#map=17/42.18169/-88.33036"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp3pvyzy1mh6z28n8z7w",
+                "qibla": 48.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819500,
+                        "astronomical": 1714812840,
+                        "civil": 1714817640,
+                        "nautical": 1714815360
+                    },
+                    "set": {
+                        "apparent": 1714784160,
+                        "astronomical": 1714790820,
+                        "civil": 1714786020,
+                        "nautical": 1714788300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "they.undergoing.kept"
+                },
+                "wikidata": "Q746488"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.2143271,
+                    "lng": -88.2765956
+                },
+                "southwest": {
+                    "lat": 42.168422,
+                    "lng": -88.432163
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lake in the Hills",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "McHenry County",
+                "postcode": "60156",
+                "state": "Illinois",
+                "state_code": "IL",
+                "village": "Lake in the Hills"
+            },
+            "confidence": 7,
+            "formatted": "Lake in the Hills, McHenry County, IL 60156, United States of America",
+            "geometry": {
+                "lat": 42.1816908,
+                "lng": -88.3303618
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:44:31 GMT",
+        "created_unix": 1714787071
+    },
+    "total_results": 1
+}

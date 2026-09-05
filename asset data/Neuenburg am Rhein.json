@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1677,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 48' 56.12976'' N",
+                    "lng": "7\u00b0 33' 46.03356'' E"
+                },
+                "MGRS": "32TLT9240996804",
+                "Maidenhead": "JN37st75mr",
+                "Mercator": {
+                    "x": 841885.609,
+                    "y": 6044553.211
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE1"
+                    },
+                    "NUTS2": {
+                        "code": "DE13"
+                    },
+                    "NUTS3": {
+                        "code": "DE132"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=270514#map=17/47.81559/7.56279",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.81559/7.56279&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.81559&mlon=7.56279#map=17/47.81559/7.56279"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0t2h0e418qf15x71c7z",
+                "qibla": 124.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713760080,
+                        "astronomical": 1713752880,
+                        "civil": 1713758100,
+                        "nautical": 1713755640
+                    },
+                    "set": {
+                        "apparent": 1713810540,
+                        "astronomical": 1713817800,
+                        "civil": 1713812520,
+                        "nautical": 1713815040
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "festered.courier.gatehouse"
+                },
+                "wikidata": "Q509783"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.9014697,
+                    "lng": 7.618259
+                },
+                "southwest": {
+                    "lat": 47.74349,
+                    "lng": 7.5297842
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Neuenburg am Rhein",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Breisgau-Hochschwarzwald",
+                "municipality": "Ballrechten-Dottingen",
+                "political_union": "European Union",
+                "postcode": "79395",
+                "state": "Baden-W\u00fcrttemberg",
+                "state_code": "BW",
+                "town": "Neuenburg am Rhein"
+            },
+            "confidence": 6,
+            "formatted": "79395 Neuenburg am Rhein, Germany",
+            "geometry": {
+                "lat": 47.8155916,
+                "lng": 7.5627871
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:40:45 GMT",
+        "created_unix": 1713746445
+    },
+    "total_results": 1
+}

@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 257,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 25' 13.40400'' N",
+                    "lng": "31\u00b0 33' 44.02800'' E"
+                },
+                "MGRS": "36RUU6191166246",
+                "Maidenhead": "KM50sk70lv",
+                "Mercator": {
+                    "x": 3513491.372,
+                    "y": 3536070.374
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.42039/31.56223&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.42039&mlon=31.56223#map=17/30.42039/31.56223"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "stqmn1ygt78qwqq126y9",
+                "qibla": 138.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713756000,
+                        "astronomical": 1713750900,
+                        "civil": 1713754500,
+                        "nautical": 1713752700
+                    },
+                    "set": {
+                        "apparent": 1713803100,
+                        "astronomical": 1713808200,
+                        "civil": 1713804600,
+                        "nautical": 1713806400
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "entrusted.blazing.compound"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.452818,
+                    "lng": 31.559258
+                },
+                "southwest": {
+                    "lat": 30.429729,
+                    "lng": 31.549988
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "_category": "place",
+                "_normalized_city": "Bilbays",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "state": "Eastern",
+                "town": "Bilbays"
+            },
+            "confidence": 8,
+            "formatted": "Bilbays, Eastern, Egypt",
+            "geometry": {
+                "lat": 30.42039,
+                "lng": 31.56223
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:41:10 GMT",
+        "created_unix": 1713782470
+    },
+    "total_results": 1
+}

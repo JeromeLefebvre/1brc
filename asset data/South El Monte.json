@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1041,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 3' 7.03728'' N",
+                    "lng": "118\u00b0 2' 48.24204'' W"
+                },
+                "FIPS": {
+                    "county": "06037",
+                    "state": "06"
+                },
+                "MGRS": "11SMT0339368410",
+                "Maidenhead": "DM04xb42jl",
+                "Mercator": {
+                    "x": -13140902.308,
+                    "y": 4011855.349
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=150968614#map=17/34.05195/-118.04673",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.05195/-118.04673&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.05195&mlon=-118.04673#map=17/34.05195/-118.04673"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh19ybzp8rqtck7vsfq",
+                "qibla": 24.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714913940,
+                        "astronomical": 1714908360,
+                        "civil": 1714912320,
+                        "nautical": 1714910400
+                    },
+                    "set": {
+                        "apparent": 1714876740,
+                        "astronomical": 1714882380,
+                        "civil": 1714878360,
+                        "nautical": 1714880280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "times.woven.cards"
+                },
+                "wikidata": "Q983845"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.0919548,
+                    "lng": -118.0067339
+                },
+                "southwest": {
+                    "lat": 34.0119548,
+                    "lng": -118.0867339
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "South El Monte",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Los Angeles County",
+                "postcode": "91733",
+                "state": "California",
+                "state_code": "CA",
+                "town": "South El Monte"
+            },
+            "confidence": 7,
+            "formatted": "South El Monte, CA 91733, United States of America",
+            "geometry": {
+                "lat": 34.0519548,
+                "lng": -118.0467339
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:17:57 GMT",
+        "created_unix": 1714947477
+    },
+    "total_results": 1
+}

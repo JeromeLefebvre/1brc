@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 80,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 20' 55.40280'' N",
+                    "lng": "87\u00b0 0' 50.97672'' W"
+                },
+                "FIPS": {
+                    "county": "01073",
+                    "state": "01"
+                },
+                "MGRS": "16SDB9868289947",
+                "Maidenhead": "EM63li83hq",
+                "Mercator": {
+                    "x": -9686372.005,
+                    "y": 3918194.93
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=153402493#map=16/33.34872/-87.01416",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.34872/-87.01416&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.34872&mlon=-87.01416#map=16/33.34872/-87.01416"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djfjeyynrhe92wx7p2pj",
+                "qibla": 50.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711712400,
+                        "astronomical": 1711707360,
+                        "civil": 1711710900,
+                        "nautical": 1711709160
+                    },
+                    "set": {
+                        "apparent": 1711670760,
+                        "astronomical": 1711675800,
+                        "civil": 1711672260,
+                        "nautical": 1711674000
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "defended.decibel.forefront"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.388723,
+                    "lng": -86.9741602
+                },
+                "southwest": {
+                    "lat": 33.308723,
+                    "lng": -87.0541602
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AL"
+                ],
+                "_category": "place",
+                "_normalized_city": "McCalla",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Jefferson County",
+                "state": "Alabama",
+                "state_code": "AL",
+                "town": "McCalla"
+            },
+            "confidence": 7,
+            "formatted": "McCalla, Alabama, United States of America",
+            "geometry": {
+                "lat": 33.348723,
+                "lng": -87.0141602
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:08:31 GMT",
+        "created_unix": 1711753711
+    },
+    "total_results": 1
+}

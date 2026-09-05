@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 516,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 59' 13.45092'' N",
+                    "lng": "2\u00b0 7' 38.32248'' E"
+                },
+                "MGRS": "31UDS3874748749",
+                "Maidenhead": "JO10bx56gv",
+                "Mercator": {
+                    "x": 236811.266,
+                    "y": 6585785.758
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRE"
+                    },
+                    "NUTS2": {
+                        "code": "FRE1"
+                    },
+                    "NUTS3": {
+                        "code": "FRE11"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=139316#map=16/50.98707/2.12731",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/50.98707/2.12731&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.98707&mlon=2.12731#map=16/50.98707/2.12731"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "u11d03vj1ywtusrnb05d",
+                "qibla": 121.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714537500,
+                        "astronomical": 1714528800,
+                        "civil": 1714535280,
+                        "nautical": 1714532340
+                    },
+                    "set": {
+                        "apparent": 1714590780,
+                        "astronomical": 1714599600,
+                        "civil": 1714593000,
+                        "nautical": 1714595940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "senders.fountain.topside"
+                },
+                "wikidata": "Q323399"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.0353107,
+                    "lng": 2.1829388
+                },
+                "southwest": {
+                    "lat": 50.9704212,
+                    "lng": 2.0939786
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-HDF",
+                    "FR-59"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gravelines",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Nord",
+                "municipality": "Dunkirk",
+                "political_union": "European Union",
+                "postcode": "59820",
+                "region": "Metropolitan France",
+                "state": "Hauts-de-France",
+                "state_code": "HDF",
+                "town": "Gravelines"
+            },
+            "confidence": 7,
+            "formatted": "59820 Gravelines, France",
+            "geometry": {
+                "lat": 50.9870697,
+                "lng": 2.1273118
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:19:25 GMT",
+        "created_unix": 1714544365
+    },
+    "total_results": 1
+}

@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1023,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 21' 45.00000'' N",
+                    "lng": "4\u00b0 23' 55.14108'' W"
+                },
+                "MGRS": "30TUK8124368931",
+                "Maidenhead": "IN70ti27da",
+                "Mercator": {
+                    "x": -489655.512,
+                    "y": 4891082.623
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES3"
+                    },
+                    "NUTS2": {
+                        "code": "ES30"
+                    },
+                    "NUTS3": {
+                        "code": "ES300"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=347589#map=17/40.36250/-4.39865",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.36250/-4.39865&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.36250&mlon=-4.39865#map=17/40.36250/-4.39865"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezhvegv0852dgwkmvyp8",
+                "qibla": 103.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713850080,
+                        "astronomical": 1713844080,
+                        "civil": 1713848340,
+                        "nautical": 1713846300
+                    },
+                    "set": {
+                        "apparent": 1713899040,
+                        "astronomical": 1713905100,
+                        "civil": 1713900780,
+                        "nautical": 1713902880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "swipe.pigpen.carpentry"
+                },
+                "wikidata": "Q1751908"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.4134276,
+                    "lng": -4.2378565
+                },
+                "southwest": {
+                    "lat": 40.3096448,
+                    "lng": -4.4606266
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Mart\u00edn de Valdeiglesias",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "28680",
+                "state": "Madrid",
+                "village": "San Mart\u00edn de Valdeiglesias"
+            },
+            "confidence": 5,
+            "formatted": "28680 San Mart\u00edn de Valdeiglesias, Spain",
+            "geometry": {
+                "lat": 40.3625,
+                "lng": -4.3986503
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:03:22 GMT",
+        "created_unix": 1713852202
+    },
+    "total_results": 1
+}

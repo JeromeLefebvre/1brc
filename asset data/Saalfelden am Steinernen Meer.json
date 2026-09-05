@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 72,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 25' 35.81976'' N",
+                    "lng": "12\u00b0 50' 53.17728'' E"
+                },
+                "MGRS": "33TUN3771054819",
+                "Maidenhead": "JN67kk12sj",
+                "Mercator": {
+                    "x": 1430244.484,
+                    "y": 5980507.717
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "AT"
+                    },
+                    "NUTS1": {
+                        "code": "AT3"
+                    },
+                    "NUTS2": {
+                        "code": "AT32"
+                    },
+                    "NUTS3": {
+                        "code": "AT322"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1022853#map=17/47.42662/12.84810",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.42662/12.84810&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.42662&mlon=12.84810#map=17/47.42662/12.84810"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AT": "040",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 43,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde6\ud83c\uddf9",
+                "geohash": "u23ju3g8nd17cg6vqm4q",
+                "qibla": 130.75,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714880760,
+                        "astronomical": 1714872960,
+                        "civil": 1714878720,
+                        "nautical": 1714876080
+                    },
+                    "set": {
+                        "apparent": 1714933500,
+                        "astronomical": 1714941360,
+                        "civil": 1714935600,
+                        "nautical": 1714938240
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Vienna",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "nibbled.spoken.sample"
+                },
+                "wikidata": "Q183228"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5127584,
+                    "lng": 12.931913
+                },
+                "southwest": {
+                    "lat": 47.3634119,
+                    "lng": 12.7521034
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AT",
+                "ISO_3166-1_alpha-3": "AUT",
+                "ISO_3166-2": [
+                    "AT-5"
+                ],
+                "_category": "place",
+                "_normalized_city": "Saalfelden am Steinernen Meer",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Austria",
+                "country_code": "at",
+                "county": "Bezirk Zell am See",
+                "political_union": "European Union",
+                "postcode": "5760",
+                "state": "Salzburg",
+                "state_code": "5",
+                "town": "Saalfelden am Steinernen Meer"
+            },
+            "confidence": 5,
+            "formatted": "5760 Saalfelden am Steinernen Meer, Austria",
+            "geometry": {
+                "lat": 47.4266166,
+                "lng": 12.8481048
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 23:00:37 GMT",
+        "created_unix": 1714950037
+    },
+    "total_results": 1
+}

@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1617,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 55' 12.03672'' N",
+                    "lng": "100\u00b0 17' 54.12732'' W"
+                },
+                "MGRS": "14QLF6327292479",
+                "Maidenhead": "DK98uw40et",
+                "Mercator": {
+                    "x": -11165163.331,
+                    "y": 2131672.796
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2533864328#map=16/18.92001/-100.29837",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/18.92001/-100.29837&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.92001&mlon=-100.29837#map=16/18.92001/-100.29837"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g2etskcn9e9p23hu0gz",
+                "qibla": 45.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714911120,
+                        "astronomical": 1714906440,
+                        "civil": 1714909740,
+                        "nautical": 1714908120
+                    },
+                    "set": {
+                        "apparent": 1714871040,
+                        "astronomical": 1714875720,
+                        "civil": 1714872420,
+                        "nautical": 1714874040
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "nobler.uncoupled.illogical"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.9600102,
+                    "lng": -100.2583687
+                },
+                "southwest": {
+                    "lat": 18.8800102,
+                    "lng": -100.3383687
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Villa Luvianos",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Luvianos",
+                "postcode": "51440",
+                "state": "State of Mexico",
+                "state_code": "MEX",
+                "town": "Villa Luvianos"
+            },
+            "confidence": 7,
+            "formatted": "51440 Villa Luvianos, MEX, Mexico",
+            "geometry": {
+                "lat": 18.9200102,
+                "lng": -100.2983687
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:21:43 GMT",
+        "created_unix": 1714900903
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 151,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 41' 2.59368'' N",
+                    "lng": "73\u00b0 24' 2.91672'' W"
+                },
+                "FIPS": {
+                    "county": "36103",
+                    "state": "36"
+                },
+                "MGRS": "18TXL3513704914",
+                "Maidenhead": "FN30hq14ve",
+                "Mercator": {
+                    "x": -8170940.815,
+                    "y": 4937990.261
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175518#map=16/40.68405/-73.40081",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.68405/-73.40081&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.68405&mlon=-73.40081#map=16/40.68405/-73.40081"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5z3wr1v1m4069hftjz",
+                "qibla": 58.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714902480,
+                        "astronomical": 1714896060,
+                        "civil": 1714900680,
+                        "nautical": 1714898460
+                    },
+                    "set": {
+                        "apparent": 1714953180,
+                        "astronomical": 1714873260,
+                        "civil": 1714868640,
+                        "nautical": 1714870860
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "goat.skirt.milk"
+                },
+                "wikidata": "Q3452286"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.6942374,
+                    "lng": -73.364465
+                },
+                "southwest": {
+                    "lat": 40.651587,
+                    "lng": -73.417561
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Babylon",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Suffolk County",
+                "locality": "Copiague",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Babylon"
+            },
+            "confidence": 7,
+            "formatted": "Copiague, Babylon, New York, United States of America",
+            "geometry": {
+                "lat": 40.6840538,
+                "lng": -73.4008102
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:57:19 GMT",
+        "created_unix": 1714949839
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2066,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 40' 0.52824'' N",
+                    "lng": "115\u00b0 29' 46.95144'' W"
+                },
+                "FIPS": {
+                    "county": "06025",
+                    "state": "06"
+                },
+                "MGRS": "11SPS4099415349",
+                "Maidenhead": "DM22gq00ka",
+                "Mercator": {
+                    "x": -12856997.698,
+                    "y": 3828100.875
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=112206#map=16/32.66681/-115.49638",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.66681/-115.49638&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.66681&mlon=-115.49638#map=16/32.66681/-115.49638"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9mvcgff1grks4pcu7xb3",
+                "qibla": 26.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714654440,
+                        "astronomical": 1714649040,
+                        "civil": 1714652880,
+                        "nautical": 1714651020
+                    },
+                    "set": {
+                        "apparent": 1714616640,
+                        "astronomical": 1714622100,
+                        "civil": 1714618200,
+                        "nautical": 1714620120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "country.could.strain"
+                },
+                "wikidata": "Q753034"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.709588,
+                    "lng": -115.455938
+                },
+                "southwest": {
+                    "lat": 32.6621585,
+                    "lng": -115.53355
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Calexico",
+                "_type": "city",
+                "city": "Calexico",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Imperial County",
+                "postcode": "92231",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "Calexico, California, United States of America",
+            "geometry": {
+                "lat": 32.6668134,
+                "lng": -115.4963754
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:17:35 GMT",
+        "created_unix": 1714691855
+    },
+    "total_results": 1
+}

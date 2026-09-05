@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1500,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 6' 33.12000'' N",
+                    "lng": "45\u00b0 4' 45.69600'' E"
+                },
+                "MGRS": "38UND0531284421",
+                "Maidenhead": "LO23mc96me",
+                "Mercator": {
+                    "x": 5018211.4,
+                    "y": 6969024.906
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.10920/45.07936&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.10920&mlon=45.07936#map=17/53.10920/45.07936"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v12n1u1z90rn5qgqzs9u",
+                "qibla": 189.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714785660,
+                        "astronomical": 1714861920,
+                        "civil": 1714783260,
+                        "nautical": 1714866360
+                    },
+                    "set": {
+                        "apparent": 1714840380,
+                        "astronomical": 1714850700,
+                        "civil": 1714842840,
+                        "nautical": 1714846140
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "speeding.flexed.pounce"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Zasechnoye",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Penzenskaya Oblast\u2019",
+                "town": "Zasechnoye"
+            },
+            "confidence": 9,
+            "formatted": "Zasechnoye, Penzenskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 53.1092,
+                "lng": 45.07936
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:55:53 GMT",
+        "created_unix": 1714787753
+    },
+    "total_results": 1
+}

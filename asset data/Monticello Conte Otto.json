@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 150,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 35' 42.64908'' N",
+                    "lng": "11\u00b0 34' 50.08368'' E"
+                },
+                "MGRS": "32TQR0127152310",
+                "Maidenhead": "JN55so92qu",
+                "Mercator": {
+                    "x": 1289144.135,
+                    "y": 5685173.593
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH32"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45489#map=17/45.59518/11.58058",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.59518/11.58058&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.59518&mlon=11.58058#map=17/45.59518/11.58058"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u205rs2epj9kv3j39pxv",
+                "qibla": 126.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018320,
+                        "astronomical": 1714011420,
+                        "civil": 1714016400,
+                        "nautical": 1714014000
+                    },
+                    "set": {
+                        "apparent": 1714068720,
+                        "astronomical": 1714075680,
+                        "civil": 1714070640,
+                        "nautical": 1714073040
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "joyfully.plan.buds"
+                },
+                "wikidata": "Q48234"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.6238557,
+                    "lng": 11.5996439
+                },
+                "southwest": {
+                    "lat": 45.579394,
+                    "lng": 11.5606399
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-VI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Monticello Conte Otto",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Vicenza",
+                "county_code": "VI",
+                "political_union": "European Union",
+                "postcode": "36010",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "village": "Monticello Conte Otto"
+            },
+            "confidence": 7,
+            "formatted": "36010 Monticello Conte Otto VI, Italy",
+            "geometry": {
+                "lat": 45.5951803,
+                "lng": 11.5805788
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:20:31 GMT",
+        "created_unix": 1714011631
+    },
+    "total_results": 1
+}

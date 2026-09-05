@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1357,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "58\u00b0 46' 45.48000'' N",
+                    "lng": "55\u00b0 47' 46.68000'' E"
+                },
+                "MGRS": "40VDL3040416102",
+                "Maidenhead": "LO78vs57na",
+                "Mercator": {
+                    "x": 6211215.704,
+                    "y": 8096263.447
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/58.77930/55.79630&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=58.77930&mlon=55.79630#map=17/58.77930/55.79630"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v4rwmsmwhp8y0q638u5p",
+                "qibla": 203.97,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713660480,
+                        "astronomical": 1713734760,
+                        "civil": 1713657720,
+                        "nautical": 1713740400
+                    },
+                    "set": {
+                        "apparent": 1713714240,
+                        "astronomical": 1713726840,
+                        "civil": 1713717060,
+                        "nautical": 1713720840
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "hired.truant.bloke"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Yer\u00ebma",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Perm Krai",
+                "town": "Yer\u00ebma"
+            },
+            "confidence": 9,
+            "formatted": "Yer\u00ebma, Perm Krai, Russia",
+            "geometry": {
+                "lat": 58.7793,
+                "lng": 55.7963
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:56:02 GMT",
+        "created_unix": 1713664562
+    },
+    "total_results": 1
+}

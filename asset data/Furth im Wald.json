@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2182,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 18' 29.39004'' N",
+                    "lng": "12\u00b0 50' 43.01736'' E"
+                },
+                "MGRS": "33UUQ4337863947",
+                "Maidenhead": "JN69kh13kx",
+                "Mercator": {
+                    "x": 1429930.318,
+                    "y": 6294896.879
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE23"
+                    },
+                    "NUTS3": {
+                        "code": "DE235"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=959921#map=17/49.30816/12.84528",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.30816/12.84528&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.30816&mlon=12.84528#map=17/49.30816/12.84528"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u2c0s238ugbytw0cgexb",
+                "qibla": 132.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714017480,
+                        "astronomical": 1714009800,
+                        "civil": 1714015380,
+                        "nautical": 1714012800
+                    },
+                    "set": {
+                        "apparent": 1714068960,
+                        "astronomical": 1714076760,
+                        "civil": 1714071060,
+                        "nautical": 1714073700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "analogy.detained.clinked"
+                },
+                "wikidata": "Q502370"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.3509523,
+                    "lng": 12.9193216
+                },
+                "southwest": {
+                    "lat": 49.2513592,
+                    "lng": 12.7457048
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Furth im Wald",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Cham",
+                "political_union": "European Union",
+                "postcode": "93437",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Furth im Wald"
+            },
+            "confidence": 6,
+            "formatted": "93437 Furth im Wald, Germany",
+            "geometry": {
+                "lat": 49.3081639,
+                "lng": 12.8452826
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:14:17 GMT",
+        "created_unix": 1714004057
+    },
+    "total_results": 1
+}

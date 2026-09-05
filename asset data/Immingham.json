@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2340,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 36' 57.58668'' N",
+                    "lng": "0\u00b0 12' 49.22172'' E"
+                },
+                "MGRS": "30UXE8429744407",
+                "Maidenhead": "IO93vo47iu",
+                "Mercator": {
+                    "x": -23785.936,
+                    "y": 7063339.431
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=611139#map=16/53.61600/-0.21367",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/53.61600/-0.21367&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.61600&mlon=-0.21367#map=16/53.61600/-0.21367"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcxc50krv445fucju9y8",
+                "qibla": 120.81,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713933660,
+                        "astronomical": 1713924540,
+                        "civil": 1713931320,
+                        "nautical": 1713928260
+                    },
+                    "set": {
+                        "apparent": 1713986280,
+                        "astronomical": 1713995520,
+                        "civil": 1713988680,
+                        "nautical": 1713991740
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "severe.ruin.hulk"
+                },
+                "wikidata": "Q1013574"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.6401154,
+                    "lng": -0.1584498
+                },
+                "southwest": {
+                    "lat": 53.5844493,
+                    "lng": -0.2520763
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-NEL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Immingham",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "North East Lincolnshire",
+                "county_code": "NEL",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Immingham"
+            },
+            "confidence": 7,
+            "formatted": "Immingham, North East Lincolnshire, England, United Kingdom",
+            "geometry": {
+                "lat": 53.6159963,
+                "lng": -0.2136727
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:14:51 GMT",
+        "created_unix": 1713993291
+    },
+    "total_results": 1
+}

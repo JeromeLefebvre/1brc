@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 94,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 39' 52.54416'' N",
+                    "lng": "139\u00b0 41' 55.35852'' E"
+                },
+                "MGRS": "54SUE8222047528",
+                "Maidenhead": "PM95up39um",
+                "Mercator": {
+                    "x": 15551189.34,
+                    "y": 4229654.517
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1759477#map=17/35.66460/139.69871",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.66460/139.69871&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.66460&mlon=139.69871#map=17/35.66460/139.69871"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn76fut3rfkxs7u7v6qw",
+                "qibla": 293.03,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711830720,
+                        "astronomical": 1711825560,
+                        "civil": 1711829220,
+                        "nautical": 1711827420
+                    },
+                    "set": {
+                        "apparent": 1711789200,
+                        "astronomical": 1711794360,
+                        "civil": 1711790700,
+                        "nautical": 1711792560
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "handbag.imposes.luckier"
+                },
+                "wikidata": "Q193638"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.6921567,
+                    "lng": 139.7239268
+                },
+                "southwest": {
+                    "lat": 35.641485,
+                    "lng": 139.6613778
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Shibuya",
+                "_type": "city",
+                "city": "Shibuya",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp"
+            },
+            "confidence": 7,
+            "formatted": "Shibuya, Japan",
+            "geometry": {
+                "lat": 35.6645956,
+                "lng": 139.6987107
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:48:20 GMT",
+        "created_unix": 1711835300
+    },
+    "total_results": 1
+}

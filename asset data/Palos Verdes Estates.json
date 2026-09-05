@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2122,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 47' 14.05896'' N",
+                    "lng": "118\u00b0 24' 6.52680'' W"
+                },
+                "FIPS": {
+                    "county": "06037",
+                    "state": "06"
+                },
+                "MGRS": "11SLT7021839448",
+                "Maidenhead": "DM03ts18sw",
+                "Mercator": {
+                    "x": -13180429.532,
+                    "y": 3976507.99
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2314269#map=16/33.78724/-118.40181",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/33.78724/-118.40181&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.78724&mlon=-118.40181#map=16/33.78724/-118.40181"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q5b1wy2vvc2bsc7hzkz",
+                "qibla": 23.76,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714914060,
+                        "astronomical": 1714908480,
+                        "civil": 1714912440,
+                        "nautical": 1714910520
+                    },
+                    "set": {
+                        "apparent": 1714876800,
+                        "astronomical": 1714882380,
+                        "civil": 1714878420,
+                        "nautical": 1714880340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "solids.drape.exacted"
+                },
+                "wikidata": "Q948149"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.8042758,
+                    "lng": -118.3519077
+                },
+                "southwest": {
+                    "lat": 33.7543366,
+                    "lng": -118.4877718
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Palos Verdes Estates",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Los Angeles County",
+                "state": "California",
+                "state_code": "CA",
+                "suburb": "Palos Verdes Estates"
+            },
+            "confidence": 7,
+            "formatted": "Palos Verdes Estates, Los Angeles County, California, United States of America",
+            "geometry": {
+                "lat": 33.7872386,
+                "lng": -118.401813
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:02:15 GMT",
+        "created_unix": 1714892535
+    },
+    "total_results": 1
+}

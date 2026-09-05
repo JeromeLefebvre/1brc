@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1901,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 57' 40.76280'' N",
+                    "lng": "15\u00b0 48' 53.50680'' E"
+                },
+                "MGRS": "33TWF6857134783",
+                "Maidenhead": "JN70vx70sr",
+                "Mercator": {
+                    "x": 1760502.496,
+                    "y": 4978621.165
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF5"
+                    },
+                    "NUTS3": {
+                        "code": "ITF51"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=40935#map=16/40.96132/15.81486",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/40.96132/15.81486&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.96132&mlon=15.81486#map=16/40.96132/15.81486"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr71pbu110093c5svfkh",
+                "qibla": 126.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535760,
+                        "astronomical": 1714529400,
+                        "civil": 1714533960,
+                        "nautical": 1714531800
+                    },
+                    "set": {
+                        "apparent": 1714585980,
+                        "astronomical": 1714592340,
+                        "civil": 1714587720,
+                        "nautical": 1714589940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "thrill.unwed.agitation"
+                },
+                "wikidata": "Q52691"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.0920532,
+                    "lng": 15.9766285
+                },
+                "southwest": {
+                    "lat": 40.9138004,
+                    "lng": 15.7358501
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-77",
+                    "IT-PZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Venosa",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Potenza",
+                "county_code": "PZ",
+                "political_union": "European Union",
+                "postcode": "85029",
+                "state": "Basilicata",
+                "state_code": "BAS",
+                "town": "Venosa"
+            },
+            "confidence": 4,
+            "formatted": "85029 Venosa PZ, Italy",
+            "geometry": {
+                "lat": 40.961323,
+                "lng": 15.814863
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:48:41 GMT",
+        "created_unix": 1714531721
+    },
+    "total_results": 1
+}

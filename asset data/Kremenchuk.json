@@ -1,0 +1,140 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2341,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 5' 34.27008'' N",
+                    "lng": "33\u00b0 25' 50.94768'' E"
+                },
+                "MGRS": "36UWV3145237867",
+                "Maidenhead": "KN69rc12qg",
+                "Mercator": {
+                    "x": 3721501.731,
+                    "y": 6258320.369
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2320579#map=17/49.09285/33.43082",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.09285/33.43082&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.09285&mlon=33.43082#map=17/49.09285/33.43082"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "u8xz29pdde161pftr356",
+                "qibla": 167.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714530360,
+                        "astronomical": 1714522320,
+                        "civil": 1714528200,
+                        "nautical": 1714525500
+                    },
+                    "set": {
+                        "apparent": 1714582920,
+                        "astronomical": 1714591020,
+                        "civil": 1714585020,
+                        "nautical": 1714587780
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "guitars.fast.airbase"
+                },
+                "wikidata": "Q156724"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.1889873,
+                    "lng": 33.5111075
+                },
+                "southwest": {
+                    "lat": 48.9965557,
+                    "lng": 33.3732288
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "ISO_3166-2": [
+                    "UA-53"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kremenchuk",
+                "_type": "city",
+                "city": "Kremenchuk",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "district": "Kremenchuk Raion",
+                "state": "Poltava Oblast"
+            },
+            "confidence": 5,
+            "formatted": "Kremenchuk, Kremenchuk Raion, Ukraine",
+            "geometry": {
+                "lat": 49.0928528,
+                "lng": 33.4308188
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:06:41 GMT",
+        "created_unix": 1714522001
+    },
+    "total_results": 1
+}

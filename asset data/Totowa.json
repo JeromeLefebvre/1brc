@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1618,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 54' 18.35568'' N",
+                    "lng": "74\u00b0 12' 35.52444'' W"
+                },
+                "FIPS": {
+                    "county": "34031",
+                    "state": "34"
+                },
+                "MGRS": "18TWL6654628522",
+                "Maidenhead": "FN20vv47tf",
+                "Mercator": {
+                    "x": -8261004.706,
+                    "y": 4970368.242
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=170718#map=17/40.90510/-74.20987",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.90510/-74.20987&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.90510&mlon=-74.20987#map=17/40.90510/-74.20987"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr70xqd12xpfgeg3u1yr",
+                "qibla": 58.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714039380,
+                        "astronomical": 1714033260,
+                        "civil": 1714037640,
+                        "nautical": 1714035540
+                    },
+                    "set": {
+                        "apparent": 1714088820,
+                        "astronomical": 1714008600,
+                        "civil": 1714004160,
+                        "nautical": 1714006320
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "squad.price.spray"
+                },
+                "wikidata": "Q1082888"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.924748,
+                    "lng": -74.1959158
+                },
+                "southwest": {
+                    "lat": 40.882569,
+                    "lng": -74.2504284
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Totowa",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Passaic County",
+                "postcode": "07512",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "town": "Totowa"
+            },
+            "confidence": 7,
+            "formatted": "Totowa, NJ 07512, United States of America",
+            "geometry": {
+                "lat": 40.9050988,
+                "lng": -74.2098679
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:39:39 GMT",
+        "created_unix": 1714005579
+    },
+    "total_results": 1
+}

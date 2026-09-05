@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 987,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 37' 2.48412'' N",
+                    "lng": "74\u00b0 4' 34.18392'' W"
+                },
+                "FIPS": {
+                    "county": "36111",
+                    "state": "36"
+                },
+                "MGRS": "18TWM7696707705",
+                "Maidenhead": "FN21xo08ud",
+                "Mercator": {
+                    "x": -8246120.656,
+                    "y": 5075446.819
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3177759#map=17/41.61736/-74.07616",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.61736/-74.07616&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.61736&mlon=-74.07616#map=17/41.61736/-74.07616"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr7kf25qsmd49zsj3c0h",
+                "qibla": 58.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714902480,
+                        "astronomical": 1714895940,
+                        "civil": 1714900680,
+                        "nautical": 1714898400
+                    },
+                    "set": {
+                        "apparent": 1714953480,
+                        "astronomical": 1714873740,
+                        "civil": 1714868940,
+                        "nautical": 1714871220
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "extract.meditating.clef"
+                },
+                "wikidata": "Q3709166"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.713961,
+                    "lng": -74.01338
+                },
+                "southwest": {
+                    "lat": 41.58039,
+                    "lng": -74.144248
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Plattekill",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Ulster County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Plattekill"
+            },
+            "confidence": 6,
+            "formatted": "Plattekill, New York, United States of America",
+            "geometry": {
+                "lat": 41.6173567,
+                "lng": -74.0761622
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:20:13 GMT",
+        "created_unix": 1714947613
+    },
+    "total_results": 1
+}

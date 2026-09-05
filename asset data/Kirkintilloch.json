@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1470,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 56' 18.20904'' N",
+                    "lng": "4\u00b0 9' 17.65764'' W"
+                },
+                "MGRS": "30UVG2785899825",
+                "Maidenhead": "IO75ww15jf",
+                "Mercator": {
+                    "x": -462521.898,
+                    "y": 7510734.287
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=294930641#map=17/55.93839/-4.15490",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.93839/-4.15490&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.93839&mlon=-4.15490#map=17/55.93839/-4.15490"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcvn1rq2xxyq73t85k2n",
+                "qibla": 118.46,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713675420,
+                        "astronomical": 1713665460,
+                        "civil": 1713672900,
+                        "nautical": 1713669660
+                    },
+                    "set": {
+                        "apparent": 1713728100,
+                        "astronomical": 1713738180,
+                        "civil": 1713730620,
+                        "nautical": 1713733920
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "vertical.prancing.alerting"
+                },
+                "wikidata": "Q2422689"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.9783914,
+                    "lng": -4.1149049
+                },
+                "southwest": {
+                    "lat": 55.8983914,
+                    "lng": -4.1949049
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-EDU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kirkintilloch",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "East Dunbartonshire",
+                "county_code": "EDU",
+                "postcode": "G66 1HF",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Kirkintilloch"
+            },
+            "confidence": 7,
+            "formatted": "Kirkintilloch, G66 1HF, United Kingdom",
+            "geometry": {
+                "lat": 55.9383914,
+                "lng": -4.1549049
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:51:31 GMT",
+        "created_unix": 1713664291
+    },
+    "total_results": 1
+}

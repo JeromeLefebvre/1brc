@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1157,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 40' 1.51248'' N",
+                    "lng": "101\u00b0 35' 26.24532'' W"
+                },
+                "MGRS": "14QKE2516255240",
+                "Maidenhead": "DK97eq90dc",
+                "Mercator": {
+                    "x": -11309016.5,
+                    "y": 1985657.359
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=849912349#map=16/17.66709/-101.59062",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/17.66709/-101.59062&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.66709&mlon=-101.59062#map=16/17.66709/-101.59062"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9epu80pynzstccvgjhyq",
+                "qibla": 45.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714825140,
+                        "astronomical": 1714820520,
+                        "civil": 1714823760,
+                        "nautical": 1714822200
+                    },
+                    "set": {
+                        "apparent": 1714784820,
+                        "astronomical": 1714789440,
+                        "civil": 1714786200,
+                        "nautical": 1714787820
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "pagers.inhibition.legal"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 17.7070868,
+                    "lng": -101.5506237
+                },
+                "southwest": {
+                    "lat": 17.6270868,
+                    "lng": -101.6306237
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-GRO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ixtapa Zihuatanejo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Zihuatanejo de Azueta",
+                "postcode": "40883",
+                "state": "Guerrero",
+                "state_code": "GRO",
+                "town": "Ixtapa Zihuatanejo"
+            },
+            "confidence": 7,
+            "formatted": "40883 Ixtapa Zihuatanejo, GRO, Mexico",
+            "geometry": {
+                "lat": 17.6670868,
+                "lng": -101.5906237
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:07:00 GMT",
+        "created_unix": 1714788420
+    },
+    "total_results": 1
+}

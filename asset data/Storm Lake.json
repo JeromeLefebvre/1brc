@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1229,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 38' 43.01412'' N",
+                    "lng": "95\u00b0 11' 57.38136'' W"
+                },
+                "FIPS": {
+                    "county": "19021",
+                    "state": "19"
+                },
+                "MGRS": "15TUH1970923769",
+                "Maidenhead": "EN22jp64cu",
+                "Mercator": {
+                    "x": -10597534.55,
+                    "y": 5229179.48
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=128325#map=17/42.64528/-95.19927",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.64528/-95.19927&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.64528&mlon=-95.19927#map=17/42.64528/-95.19927"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zs69eq4b0tq5qwjxhje",
+                "qibla": 42.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714475820,
+                        "astronomical": 1714469220,
+                        "civil": 1714473960,
+                        "nautical": 1714471680
+                    },
+                    "set": {
+                        "apparent": 1714440000,
+                        "astronomical": 1714446600,
+                        "civil": 1714441860,
+                        "nautical": 1714444080
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "sound.violin.aside"
+                },
+                "wikidata": "Q510840"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.669208,
+                    "lng": -95.1516268
+                },
+                "southwest": {
+                    "lat": 42.6152652,
+                    "lng": -95.2455006
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Storm Lake",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Buena Vista County",
+                "state": "Iowa",
+                "state_code": "IA",
+                "town": "Storm Lake"
+            },
+            "confidence": 7,
+            "formatted": "Storm Lake, Iowa, United States of America",
+            "geometry": {
+                "lat": 42.6452817,
+                "lng": -95.1992726
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:58:55 GMT",
+        "created_unix": 1714521535
+    },
+    "total_results": 1
+}

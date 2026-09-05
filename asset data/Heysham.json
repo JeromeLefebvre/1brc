@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2202,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 2' 58.18380'' N",
+                    "lng": "2\u00b0 53' 25.11960'' W"
+                },
+                "MGRS": "30UWE0718189034",
+                "Maidenhead": "IO84nb31dv",
+                "Mercator": {
+                    "x": -321747.949,
+                    "y": 7144920.238
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30691909#map=17/54.04950/-2.89031",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.04950/-2.89031&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.04950&mlon=-2.89031#map=17/54.04950/-2.89031"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gctgqprm4u5zm5rndh8z",
+                "qibla": 118.25,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714451820,
+                        "astronomical": 1714441680,
+                        "civil": 1714449360,
+                        "nautical": 1714446120
+                    },
+                    "set": {
+                        "apparent": 1714506060,
+                        "astronomical": 1714516440,
+                        "civil": 1714508580,
+                        "nautical": 1714511880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "angle.price.asks"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.0894955,
+                    "lng": -2.850311
+                },
+                "southwest": {
+                    "lat": 54.0094955,
+                    "lng": -2.930311
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-LAN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lancaster",
+                "_type": "city",
+                "city": "Lancaster",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Lancashire",
+                "county_code": "LAN",
+                "postcode": "LA3 2DS",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Heysham"
+            },
+            "confidence": 7,
+            "formatted": "Heysham, Lancashire, England, United Kingdom",
+            "geometry": {
+                "lat": 54.0494955,
+                "lng": -2.890311
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:59:40 GMT",
+        "created_unix": 1714517980
+    },
+    "total_results": 1
+}

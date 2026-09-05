@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 632,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 0' 25.14564'' N",
+                    "lng": "69\u00b0 58' 31.84284'' W"
+                },
+                "MGRS": "19QCB9732701885",
+                "Maidenhead": "FK59aa21wq",
+                "Mercator": {
+                    "x": -7789638.351,
+                    "y": 2141849.08
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7384706#map=17/19.00698/-69.97551",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.00698/-69.97551&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.00698&mlon=-69.97551#map=17/19.00698/-69.97551"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7qhpsj7squ99ereyf6u",
+                "qibla": 62.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713781080,
+                        "astronomical": 1713776520,
+                        "civil": 1713779760,
+                        "nautical": 1713778140
+                    },
+                    "set": {
+                        "apparent": 1713826740,
+                        "astronomical": 1713744840,
+                        "civil": 1713828060,
+                        "nautical": 1713829680
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "facsimile.growl.corruptly"
+                },
+                "wikidata": "Q3665682"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.1266259,
+                    "lng": -69.8945865
+                },
+                "southwest": {
+                    "lat": 18.8874107,
+                    "lng": -70.0563705
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-24"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "county": "Cevicos",
+                "state": "S\u00e1nchez Ram\u00edrez"
+            },
+            "confidence": 4,
+            "formatted": "Cevicos, Dominican Republic",
+            "geometry": {
+                "lat": 19.0069849,
+                "lng": -69.9755119
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:26:55 GMT",
+        "created_unix": 1713781615
+    },
+    "total_results": 1
+}

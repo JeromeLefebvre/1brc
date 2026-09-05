@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 701,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 24' 2.74536'' N",
+                    "lng": "88\u00b0 53' 21.77448'' W"
+                },
+                "FIPS": {
+                    "county": "28047",
+                    "state": "28"
+                },
+                "MGRS": "16RCU1849364709",
+                "Maidenhead": "EM50nj36ge",
+                "Mercator": {
+                    "x": -9895120.719,
+                    "y": 3533549.544
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=109956#map=16/30.40076/-88.88938",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.40076/-88.88938&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.40076&mlon=-88.88938#map=16/30.40076/-88.88938"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj2ucq29r2buwqpxbbkp",
+                "qibla": 49.99,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714907340,
+                        "astronomical": 1714902060,
+                        "civil": 1714905780,
+                        "nautical": 1714903980
+                    },
+                    "set": {
+                        "apparent": 1714869360,
+                        "astronomical": 1714874640,
+                        "civil": 1714870860,
+                        "nautical": 1714872720
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "renamed.space.presume"
+                },
+                "wikidata": "Q490720"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.4941828,
+                    "lng": -88.818817
+                },
+                "southwest": {
+                    "lat": 30.3604767,
+                    "lng": -89.0341067
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Biloxi",
+                "_type": "city",
+                "city": "Biloxi",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Harrison County",
+                "state": "Mississippi",
+                "state_code": "MS"
+            },
+            "confidence": 5,
+            "formatted": "Biloxi, Mississippi, United States of America",
+            "geometry": {
+                "lat": 30.4007626,
+                "lng": -88.8893818
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:32:13 GMT",
+        "created_unix": 1714948333
+    },
+    "total_results": 1
+}

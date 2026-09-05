@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1735,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 26' 2.14800'' N",
+                    "lng": "104\u00b0 15' 16.70400'' E"
+                },
+                "MGRS": "48RVS2700845498",
+                "Maidenhead": "OL28dk04nd",
+                "Mercator": {
+                    "x": 11605573.438,
+                    "y": 3283452.831
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/28.43393/104.25464&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=28.43393&mlon=104.25464#map=17/28.43393/104.25464"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wm41u25zthtznzrm4tju",
+                "qibla": 278.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713825120,
+                        "astronomical": 1713820140,
+                        "civil": 1713823680,
+                        "nautical": 1713821940
+                    },
+                    "set": {
+                        "apparent": 1713785520,
+                        "astronomical": 1713790500,
+                        "civil": 1713786960,
+                        "nautical": 1713788700
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "assertions.backboard.disposition"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "_category": "place",
+                "_normalized_city": "Liangwancun",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Yunnan",
+                "town": "Liangwancun"
+            },
+            "confidence": 9,
+            "formatted": "Liangwancun, Yunnan, China",
+            "geometry": {
+                "lat": 28.43393,
+                "lng": 104.25464
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:38:29 GMT",
+        "created_unix": 1713746309
+    },
+    "total_results": 1
+}

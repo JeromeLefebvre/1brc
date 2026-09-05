@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 530,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 33' 11.15856'' N",
+                    "lng": "6\u00b0 38' 7.63224'' E"
+                },
+                "MGRS": "32TLS1874358219",
+                "Maidenhead": "JN36hn62gr",
+                "Mercator": {
+                    "x": 738655.294,
+                    "y": 5838395.64
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH01"
+                    },
+                    "NUTS3": {
+                        "code": "CH011"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1685023#map=17/46.55310/6.63545",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.55310/6.63545&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.55310&mlon=6.63545#map=17/46.55310/6.63545"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0k8yfxz3q8xvr82unup",
+                "qibla": 121.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713674160,
+                        "astronomical": 1713667260,
+                        "civil": 1713672240,
+                        "nautical": 1713669900
+                    },
+                    "set": {
+                        "apparent": 1713724140,
+                        "astronomical": 1713731100,
+                        "civil": 1713726060,
+                        "nautical": 1713728460
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "chapels.observes.shovels"
+                },
+                "wikidata": "Q70221"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.5789912,
+                    "lng": 6.6611845
+                },
+                "southwest": {
+                    "lat": 46.5388265,
+                    "lng": 6.616152
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-VD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Le Mont-sur-Lausanne",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "county": "District de Lausanne",
+                "local_administrative_area": "Le Mont-sur-Lausanne",
+                "postcode": "1052",
+                "state": "Vaud",
+                "state_code": "VD",
+                "village": "Le Mont-sur-Lausanne"
+            },
+            "confidence": 7,
+            "formatted": "1052 Le Mont-sur-Lausanne, Switzerland",
+            "geometry": {
+                "lat": 46.5530996,
+                "lng": 6.6354534
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:30:59 GMT",
+        "created_unix": 1713666659
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 320,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 33' 5.22972'' N",
+                    "lng": "141\u00b0 21' 21.12084'' E"
+                },
+                "MGRS": "54TWN2921611067",
+                "Maidenhead": "QN02qn22qi",
+                "Mercator": {
+                    "x": 15735663.124,
+                    "y": 5215041.778
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4085805#map=16/42.55145/141.35587",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/42.55145/141.35587&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.55145&mlon=141.35587#map=16/42.55145/141.35587"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xpsd0dk0nmty7t8843gg",
+                "qibla": 293.41,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714591860,
+                        "astronomical": 1714585320,
+                        "civil": 1714590060,
+                        "nautical": 1714587780
+                    },
+                    "set": {
+                        "apparent": 1714555980,
+                        "astronomical": 1714562580,
+                        "civil": 1714557840,
+                        "nautical": 1714560060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "held.betrayed.swinging"
+                },
+                "wikidata": "Q1348760"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.713837,
+                    "lng": 141.5544759
+                },
+                "southwest": {
+                    "lat": 42.2661611,
+                    "lng": 141.085011
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-01"
+                ],
+                "_category": "place",
+                "_normalized_city": "Shiraoi",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Shiraoi County",
+                "province": "Hokkaido Prefecture",
+                "region": "Iburi Subprefecture",
+                "state": "Hokkaido Prefecture",
+                "town": "Shiraoi"
+            },
+            "confidence": 2,
+            "formatted": "Shiraoi, Shiraoi County, Japan",
+            "geometry": {
+                "lat": 42.5514527,
+                "lng": 141.3558669
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:27:44 GMT",
+        "created_unix": 1714544864
+    },
+    "total_results": 1
+}

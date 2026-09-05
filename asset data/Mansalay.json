@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1028,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 31' 13.79532'' N",
+                    "lng": "121\u00b0 26' 20.33268'' E"
+                },
+                "MGRS": "51PUP3038284611",
+                "Maidenhead": "PK02rm24qw",
+                "Mercator": {
+                    "x": 13518525.561,
+                    "y": 1395745.239
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198505190#map=17/12.52050/121.43898",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/12.52050/121.43898&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.52050&mlon=121.43898#map=17/12.52050/121.43898"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdnr5rm1jq5ecykzz9ek",
+                "qibla": 289.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713821940,
+                        "astronomical": 1713817620,
+                        "civil": 1713820680,
+                        "nautical": 1713819120
+                    },
+                    "set": {
+                        "apparent": 1713780360,
+                        "astronomical": 1713784740,
+                        "civil": 1713781680,
+                        "nautical": 1713783180
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "conservatory.accord.admire"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.5604987,
+                    "lng": 121.4789813
+                },
+                "southwest": {
+                    "lat": 12.4804987,
+                    "lng": 121.3989813
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-41",
+                    "PH-MDR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mansalay",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "region": "Mimaropa",
+                "state": "Oriental Mindoro",
+                "town": "Mansalay"
+            },
+            "confidence": 7,
+            "formatted": "Mansalay, Oriental Mindoro, Philippines",
+            "geometry": {
+                "lat": 12.5204987,
+                "lng": 121.4389813
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:03:16 GMT",
+        "created_unix": 1713780196
+    },
+    "total_results": 1
+}

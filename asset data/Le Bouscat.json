@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1786,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 51' 58.23180'' N",
+                    "lng": "0\u00b0 35' 57.26364'' E"
+                },
+                "MGRS": "30TXQ8965670888",
+                "Maidenhead": "IN94qu87cv",
+                "Mercator": {
+                    "x": -66707.081,
+                    "y": 5570323.374
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRI"
+                    },
+                    "NUTS2": {
+                        "code": "FRI1"
+                    },
+                    "NUTS3": {
+                        "code": "FRI12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=105283#map=17/44.86618/-0.59924",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.86618/-0.59924&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.86618&mlon=-0.59924#map=17/44.86618/-0.59924"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "ezzx4resktq3g03kbjcz",
+                "qibla": 111.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714539180,
+                        "astronomical": 1714532160,
+                        "civil": 1714537200,
+                        "nautical": 1714534860
+                    },
+                    "set": {
+                        "apparent": 1714590420,
+                        "astronomical": 1714597440,
+                        "civil": 1714592340,
+                        "nautical": 1714594800
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "imagined.tickles.whispers"
+                },
+                "wikidata": "Q192461"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.8764433,
+                    "lng": -0.5758141
+                },
+                "southwest": {
+                    "lat": 44.8531957,
+                    "lng": -0.6309643
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-NAQ",
+                    "FR-33"
+                ],
+                "_category": "place",
+                "_normalized_city": "Le Bouscat",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Gironde",
+                "municipality": "Bordeaux",
+                "political_union": "European Union",
+                "postcode": "33110",
+                "region": "Metropolitan France",
+                "state": "Nouvelle-Aquitaine",
+                "state_code": "NAQ",
+                "town": "Le Bouscat"
+            },
+            "confidence": 7,
+            "formatted": "33110 Le Bouscat, France",
+            "geometry": {
+                "lat": 44.8661755,
+                "lng": -0.5992399
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:53:36 GMT",
+        "created_unix": 1714532016
+    },
+    "total_results": 1
+}

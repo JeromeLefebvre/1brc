@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1696,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 37' 59.57760'' N",
+                    "lng": "88\u00b0 43' 46.68672'' W"
+                },
+                "FIPS": {
+                    "county": "55039",
+                    "state": "55"
+                },
+                "MGRS": "16TCP6047532589",
+                "Maidenhead": "EN53pp21kx",
+                "Mercator": {
+                    "x": -9877337.809,
+                    "y": 5379361.421
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=251927#map=17/43.63322/-88.72964",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.63322/-88.72964&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.63322&mlon=-88.72964#map=17/43.63322/-88.72964"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpbbhzjjcsuxugd8v30y",
+                "qibla": 47.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714560420,
+                        "astronomical": 1714553640,
+                        "civil": 1714558560,
+                        "nautical": 1714556220
+                    },
+                    "set": {
+                        "apparent": 1714525020,
+                        "astronomical": 1714531860,
+                        "civil": 1714526940,
+                        "nautical": 1714529280
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "puddles.obscuring.banners"
+                },
+                "wikidata": "Q1570163"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.654945,
+                    "lng": -88.713391
+                },
+                "southwest": {
+                    "lat": 43.605367,
+                    "lng": -88.764246
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-WI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Waupun",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Fond du Lac County",
+                "postcode": "53963",
+                "state": "Wisconsin",
+                "state_code": "WI",
+                "town": "Waupun"
+            },
+            "confidence": 7,
+            "formatted": "Waupun, WI 53963, United States of America",
+            "geometry": {
+                "lat": 43.633216,
+                "lng": -88.7296352
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 02:57:20 GMT",
+        "created_unix": 1714532240
+    },
+    "total_results": 1
+}

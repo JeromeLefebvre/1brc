@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1084,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 11' 22.77600'' N",
+                    "lng": "34\u00b0 58' 14.26800'' E"
+                },
+                "MGRS": "36SXA8576863160",
+                "Maidenhead": "KM72le65lm",
+                "Mercator": {
+                    "x": 3892912.724,
+                    "y": 3765471.801
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.18966/34.97063&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.18966&mlon=34.97063#map=17/32.18966/34.97063"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PS": "275",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 970,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf8",
+                "geohash": "sv8z5gby6ex9q70fxks5",
+                "qibla": 156.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714532100,
+                        "astronomical": 1714526700,
+                        "civil": 1714530540,
+                        "nautical": 1714528680
+                    },
+                    "set": {
+                        "apparent": 1714580400,
+                        "astronomical": 1714585800,
+                        "civil": 1714581960,
+                        "nautical": 1714583820
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Hebron",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "anchorman.amounting.chill"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.1768112,
+                    "lng": 34.9608879
+                },
+                "southwest": {
+                    "lat": 32.1737442,
+                    "lng": 34.9579773
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PS",
+                "ISO_3166-1_alpha-3": "PSE",
+                "_category": "place",
+                "_normalized_city": "Qalq\u012blyah",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Palestine",
+                "country_code": "ps",
+                "state": "West Bank",
+                "town": "Qalq\u012blyah"
+            },
+            "confidence": 9,
+            "formatted": "Qalq\u012blyah, West Bank, Palestine",
+            "geometry": {
+                "lat": 32.18966,
+                "lng": 34.97063
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:22:59 GMT",
+        "created_unix": 1714533779
+    },
+    "total_results": 1
+}

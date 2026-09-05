@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2439,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 46' 21.62136'' N",
+                    "lng": "4\u00b0 20' 3.25176'' W"
+                },
+                "MGRS": "30UVG1630181584",
+                "Maidenhead": "IO75ts95vk",
+                "Mercator": {
+                    "x": -482485.011,
+                    "y": 7477936.695
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5023618392#map=17/55.77267/-4.33424",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/55.77267/-4.33424&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.77267&mlon=-4.33424#map=17/55.77267/-4.33424"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcuvm35gkgwznku2vt0h",
+                "qibla": 118.13,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796880,
+                        "astronomical": 0,
+                        "civil": 1714794180,
+                        "nautical": 1714790400
+                    },
+                    "set": {
+                        "apparent": 1714852860,
+                        "astronomical": 0,
+                        "civil": 1714855620,
+                        "nautical": 1714859460
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "saints.luck.fairly"
+                },
+                "wikidata": "Q1018543"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.8126726,
+                    "lng": -4.2942366
+                },
+                "southwest": {
+                    "lat": 55.7326726,
+                    "lng": -4.3742366
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-SCT",
+                    "GB-ERW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Newton Mearns",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "East Renfrewshire",
+                "county_code": "ERW",
+                "postcode": "G77 6EY",
+                "state": "Scotland",
+                "state_code": "SCT",
+                "town": "Newton Mearns"
+            },
+            "confidence": 7,
+            "formatted": "Newton Mearns, G77 6EY, United Kingdom",
+            "geometry": {
+                "lat": 55.7726726,
+                "lng": -4.3342366
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:24:59 GMT",
+        "created_unix": 1714785899
+    },
+    "total_results": 1
+}

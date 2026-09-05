@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1350,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 41' 5.54100'' N",
+                    "lng": "12\u00b0 22' 38.44776'' E"
+                },
+                "MGRS": "33TTL9577362381",
+                "Maidenhead": "JN65eq54gi",
+                "Mercator": {
+                    "x": 1377839.921,
+                    "y": 5699407.316
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH34"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45696#map=17/45.68487/12.37735",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.68487/12.37735&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.68487&mlon=12.37735#map=17/45.68487/12.37735"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u20gcssvtj6x9ej48xzf",
+                "qibla": 128.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714104420,
+                        "astronomical": 1714097460,
+                        "civil": 1714102500,
+                        "nautical": 1714100100
+                    },
+                    "set": {
+                        "apparent": 1714155060,
+                        "astronomical": 1714162020,
+                        "civil": 1714156980,
+                        "nautical": 1714159380
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "blanked.confirms.tolls"
+                },
+                "wikidata": "Q47312"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.7204486,
+                    "lng": 12.4752637
+                },
+                "southwest": {
+                    "lat": 45.6449232,
+                    "lng": 12.3049387
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-TV"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Biagio di Callalta",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Treviso",
+                "county_code": "TV",
+                "political_union": "European Union",
+                "postcode": "31048",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "village": "San Biagio di Callalta"
+            },
+            "confidence": 6,
+            "formatted": "31048 San Biagio di Callalta TV, Italy",
+            "geometry": {
+                "lat": 45.6848725,
+                "lng": 12.3773466
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:39:16 GMT",
+        "created_unix": 1714171156
+    },
+    "total_results": 1
+}

@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1642,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23\u00b0 32' 33.14400'' N",
+                    "lng": "89\u00b0 10' 29.49600'' E"
+                },
+                "MGRS": "45QYG2201805264",
+                "Maidenhead": "NL43on00xf",
+                "Mercator": {
+                    "x": 9926900.007,
+                    "y": 2680702.071
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/23.54254/89.17486&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=23.54254&mlon=89.17486#map=17/23.54254/89.17486"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "BD": "050",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 880,
+                "currency": {
+                    "alternate_symbols": [
+                        "Tk"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "BDT",
+                    "iso_numeric": "050",
+                    "name": "Bangladeshi Taka",
+                    "smallest_denomination": 1,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u09f3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\udde9",
+                "geohash": "tupmvjz1hze12dyk17b6",
+                "qibla": 277.47,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713570000,
+                        "astronomical": 1713565320,
+                        "civil": 1713568620,
+                        "nautical": 1713567000
+                    },
+                    "set": {
+                        "apparent": 1713529500,
+                        "astronomical": 1713534180,
+                        "civil": 1713530880,
+                        "nautical": 1713532560
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dhaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "brightly.earpiece.newlyweds"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BD",
+                "ISO_3166-1_alpha-3": "BGD",
+                "_category": "place",
+                "_normalized_city": "Jhenida",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Bangladesh",
+                "country_code": "bd",
+                "state": "Khulna Division",
+                "state_code": "D",
+                "town": "Jhenida"
+            },
+            "confidence": 9,
+            "formatted": "Jhenida, Khulna Division, Bangladesh",
+            "geometry": {
+                "lat": 23.54254,
+                "lng": 89.17486
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 07:07:07 GMT",
+        "created_unix": 1713510427
+    },
+    "total_results": 1
+}

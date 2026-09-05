@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2158,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 36' 47.03220'' N",
+                    "lng": "10\u00b0 15' 58.00896'' E"
+                },
+                "MGRS": "32TPQ0045840747",
+                "Maidenhead": "JN54do17wd",
+                "Mercator": {
+                    "x": 1142818.538,
+                    "y": 5530790.415
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH5"
+                    },
+                    "NUTS3": {
+                        "code": "ITH52"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=43312#map=16/44.61306/10.26611",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.61306/10.26611&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.61306&mlon=10.26611#map=16/44.61306/10.26611"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spzmc9e9cvcpu49xgq64",
+                "qibla": 123.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713587220,
+                        "astronomical": 1713580680,
+                        "civil": 1713585360,
+                        "nautical": 1713583140
+                    },
+                    "set": {
+                        "apparent": 1713636540,
+                        "astronomical": 1713643140,
+                        "civil": 1713638400,
+                        "nautical": 1713640680
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "waitress.safari.angers"
+                },
+                "wikidata": "Q100829"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.6914144,
+                    "lng": 10.3087206
+                },
+                "southwest": {
+                    "lat": 44.5553731,
+                    "lng": 10.1670084
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-45",
+                    "IT-PR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Langhirano",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Parma",
+                "county_code": "PR",
+                "political_union": "European Union",
+                "postcode": "43013",
+                "state": "Emilia-Romagna",
+                "state_code": "EMI",
+                "town": "Langhirano"
+            },
+            "confidence": 6,
+            "formatted": "43013 Langhirano PR, Italy",
+            "geometry": {
+                "lat": 44.6130645,
+                "lng": 10.2661136
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 10:43:25 GMT",
+        "created_unix": 1713609805
+    },
+    "total_results": 1
+}

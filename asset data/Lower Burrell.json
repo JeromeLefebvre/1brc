@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1644,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 35' 17.81556'' N",
+                    "lng": "79\u00b0 43' 47.34732'' W"
+                },
+                "FIPS": {
+                    "county": "42129",
+                    "state": "42"
+                },
+                "MGRS": "17TPE0748793829",
+                "Maidenhead": "FN00do21ke",
+                "Mercator": {
+                    "x": -8875482.819,
+                    "y": 4923995.535
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=187205#map=17/40.58828/-79.72982",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.58828/-79.72982&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.58828&mlon=-79.72982#map=17/40.58828/-79.72982"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dppqcsyebs4jxhkysmu8",
+                "qibla": 54.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040760,
+                        "astronomical": 1714034640,
+                        "civil": 1714039020,
+                        "nautical": 1714036920
+                    },
+                    "set": {
+                        "apparent": 1714003680,
+                        "astronomical": 1714009860,
+                        "civil": 1714005480,
+                        "nautical": 1714007580
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "typical.forgive.peroxide"
+                },
+                "wikidata": "Q1186522"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.619873,
+                    "lng": -79.671155
+                },
+                "southwest": {
+                    "lat": 40.5420589,
+                    "lng": -79.7662303
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lower Burrell",
+                "_type": "city",
+                "city": "Lower Burrell",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Westmoreland County",
+                "state": "Pennsylvania",
+                "state_code": "PA"
+            },
+            "confidence": 7,
+            "formatted": "Lower Burrell, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.5882821,
+                "lng": -79.7298187
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:38:30 GMT",
+        "created_unix": 1714005510
+    },
+    "total_results": 1
+}

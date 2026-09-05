@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2357,
+        "reset": 1711670400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 25' 1.33608'' N",
+                    "lng": "102\u00b0 7' 48.80100'' W"
+                },
+                "MGRS": "13QHB0138249483",
+                "Maidenhead": "DK89wk40ic",
+                "Mercator": {
+                    "x": -11369084.363,
+                    "y": 2189899.439
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1955184416#map=16/19.41704/-102.13022",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/19.41704/-102.13022&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.41704&mlon=-102.13022#map=16/19.41704/-102.13022"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9erq7yz03q4w1h38ucur",
+                "qibla": 44.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711629960,
+                        "astronomical": 1711625580,
+                        "civil": 1711628640,
+                        "nautical": 1711627140
+                    },
+                    "set": {
+                        "apparent": 1711587660,
+                        "astronomical": 1711592040,
+                        "civil": 1711588980,
+                        "nautical": 1711590480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "turnip.buried.skyline"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.4570378,
+                    "lng": -102.0902225
+                },
+                "southwest": {
+                    "lat": 19.3770378,
+                    "lng": -102.1702225
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MIC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nuevo San Juan Parangaricutiro",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Nuevo Parangaricutiro",
+                "state": "Michoac\u00e1n",
+                "state_code": "MIC",
+                "town": "Nuevo San Juan Parangaricutiro"
+            },
+            "confidence": 7,
+            "formatted": "Nuevo San Juan Parangaricutiro, Nuevo Parangaricutiro, Mexico",
+            "geometry": {
+                "lat": 19.4170378,
+                "lng": -102.1302225
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 28 Mar 2024 04:16:59 GMT",
+        "created_unix": 1711599419
+    },
+    "total_results": 1
+}

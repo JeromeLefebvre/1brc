@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1683,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 18' 15.00120'' N",
+                    "lng": "97\u00b0 32' 44.99880'' W"
+                },
+                "MGRS": "14QPD5536003134",
+                "Maidenhead": "EK16fh43ma",
+                "Mercator": {
+                    "x": -10858752.459,
+                    "y": 1827985.108
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=458606795#map=17/16.30417/-97.54583",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.30417/-97.54583&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.30417&mlon=-97.54583#map=17/16.30417/-97.54583"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9ffsu2169m50e2e75xkt",
+                "qibla": 49.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713787860,
+                        "astronomical": 1713783420,
+                        "civil": 1713786540,
+                        "nautical": 1713784980
+                    },
+                    "set": {
+                        "apparent": 1713746760,
+                        "astronomical": 1713751260,
+                        "civil": 1713748080,
+                        "nautical": 1713749640
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "fluidity.upstarts.slant"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 16.324167,
+                    "lng": -97.525833
+                },
+                "southwest": {
+                    "lat": 16.284167,
+                    "lng": -97.565833
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-OAX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tataltepec de Vald\u00e9s",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Tataltepec de Vald\u00e9s",
+                "state": "Oaxaca",
+                "state_code": "OAX",
+                "village": "Tataltepec de Vald\u00e9s"
+            },
+            "confidence": 7,
+            "formatted": "Tataltepec de Vald\u00e9s, Mexico",
+            "geometry": {
+                "lat": 16.304167,
+                "lng": -97.545833
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:40:31 GMT",
+        "created_unix": 1713746431
+    },
+    "total_results": 1
+}

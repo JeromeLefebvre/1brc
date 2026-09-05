@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 762,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 35' 12.99912'' N",
+                    "lng": "9\u00b0 55' 35.58936'' E"
+                },
+                "MGRS": "32UNC6419115505",
+                "Maidenhead": "JO41xo10eu",
+                "Mercator": {
+                    "x": 1105018.781,
+                    "y": 6692279.708
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE91"
+                    },
+                    "NUTS3": {
+                        "code": "DE91C"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1399079#map=17/51.58694/9.92655",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.58694/9.92655&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.58694&mlon=9.92655#map=17/51.58694/9.92655"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1pj3zh79rqhdvrf46n6",
+                "qibla": 131.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713759000,
+                        "astronomical": 1713750840,
+                        "civil": 1713756840,
+                        "nautical": 1713754080
+                    },
+                    "set": {
+                        "apparent": 1713810480,
+                        "astronomical": 1713818760,
+                        "civil": 1713812700,
+                        "nautical": 1713815520
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "weeks.festered.about"
+                },
+                "wikidata": "Q621193"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6257348,
+                    "lng": 10.0707016
+                },
+                "southwest": {
+                    "lat": 51.5596381,
+                    "lng": 9.8154446
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bovenden",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis G\u00f6ttingen",
+                "political_union": "European Union",
+                "postcode": "37120",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Bovenden"
+            },
+            "confidence": 6,
+            "formatted": "37120 Bovenden, Germany",
+            "geometry": {
+                "lat": 51.5869442,
+                "lng": 9.9265526
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:21:59 GMT",
+        "created_unix": 1713781319
+    },
+    "total_results": 1
+}

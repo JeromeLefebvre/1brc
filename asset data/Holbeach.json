@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1438,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 48' 15.15600'' N",
+                    "lng": "0\u00b0 1' 4.81548'' E"
+                },
+                "MGRS": "31UBU9899754659",
+                "Maidenhead": "JO02at23da",
+                "Mercator": {
+                    "x": 2004.23,
+                    "y": 6912803.715
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=660944#map=17/52.80421/0.01800",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.80421/0.01800&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.80421&mlon=0.01800#map=17/52.80421/0.01800"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "u12h2ktngd0yp249edcc",
+                "qibla": 120.34,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714710240,
+                        "astronomical": 1714700400,
+                        "civil": 1714707840,
+                        "nautical": 1714704660
+                    },
+                    "set": {
+                        "apparent": 1714764600,
+                        "astronomical": 1714774620,
+                        "civil": 1714767060,
+                        "nautical": 1714770300
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "airports.grand.prune"
+                },
+                "wikidata": "Q1612253"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.9731003,
+                    "lng": 0.2238246
+                },
+                "southwest": {
+                    "lat": 52.6740697,
+                    "lng": -0.0734067
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-LIN"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Holland",
+                "_type": "city",
+                "city": "South Holland",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Lincolnshire",
+                "county_code": "LIN",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Holbeach CP"
+            },
+            "confidence": 4,
+            "formatted": "Holbeach CP, Lincolnshire, England, United Kingdom",
+            "geometry": {
+                "lat": 52.80421,
+                "lng": 0.0180043
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:50:21 GMT",
+        "created_unix": 1714697421
+    },
+    "total_results": 1
+}

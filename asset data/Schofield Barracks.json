@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1993,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "21\u00b0 29' 36.96000'' N",
+                    "lng": "158\u00b0 3' 41.43600'' W"
+                },
+                "FIPS": {
+                    "county": "15003",
+                    "state": "15"
+                },
+                "MGRS": "4QEJ9721577069",
+                "Maidenhead": "BL01xl28ol",
+                "Mercator": {
+                    "x": -17595326.807,
+                    "y": 2435184.378
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/21.49360/-158.06151&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=21.49360&mlon=-158.06151#map=17/21.49360/-158.06151"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "87zd70z17c7y1t09hset",
+                "qibla": 336.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714838400,
+                        "astronomical": 1714833600,
+                        "civil": 1714836960,
+                        "nautical": 1714835340
+                    },
+                    "set": {
+                        "apparent": 1714798680,
+                        "astronomical": 1714803480,
+                        "civil": 1714800120,
+                        "nautical": 1714801800
+                    }
+                },
+                "timezone": {
+                    "name": "Pacific/Honolulu",
+                    "now_in_dst": 0,
+                    "offset_sec": -36000,
+                    "offset_string": "-1000",
+                    "short_name": "HST"
+                },
+                "what3words": {
+                    "words": "pool.jeers.relented"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 21.508193,
+                    "lng": -158.039512
+                },
+                "southwest": {
+                    "lat": 21.478359,
+                    "lng": -158.081888
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-HI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Schofield Barracks",
+                "_type": "city",
+                "continent": "Oceania",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Honolulu County",
+                "state": "Hawaii",
+                "state_code": "HI",
+                "town": "Schofield Barracks"
+            },
+            "confidence": 7,
+            "formatted": "Schofield Barracks, Hawaii, United States of America",
+            "geometry": {
+                "lat": 21.4936,
+                "lng": -158.06151
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:39:31 GMT",
+        "created_unix": 1714786771
+    },
+    "total_results": 1
+}

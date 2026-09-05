@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2254,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 27' 22.77000'' S",
+                    "lng": "21\u00b0 14' 30.72120'' E"
+                },
+                "MGRS": "34JEP2368052222",
+                "Maidenhead": "KG01on90al",
+                "Mercator": {
+                    "x": 2364633.818,
+                    "y": -3286273.429
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=33364951#map=17/-28.45632/21.24187",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-28.45632/21.24187&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-28.45632&mlon=21.24187#map=17/-28.45632/21.24187"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "k6zn57evgks13k3p4hbf",
+                "qibla": 21.81,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714453320,
+                        "astronomical": 1714448580,
+                        "civil": 1714451880,
+                        "nautical": 1714450200
+                    },
+                    "set": {
+                        "apparent": 1714492920,
+                        "astronomical": 1714497660,
+                        "civil": 1714494360,
+                        "nautical": 1714496040
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "empire.respect.vote"
+                },
+                "wikidata": "Q575780"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -28.296325,
+                    "lng": 21.401867
+                },
+                "southwest": {
+                    "lat": -28.616325,
+                    "lng": 21.081867
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-NC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Upington",
+                "_type": "city",
+                "city": "Upington",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "ZF Mgcawu District Municipality",
+                "postcode": "8801",
+                "state": "Northern Cape",
+                "state_code": "NC"
+            },
+            "confidence": 3,
+            "formatted": "Upington, ZF Mgcawu District Municipality, South Africa",
+            "geometry": {
+                "lat": -28.456325,
+                "lng": 21.241867
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 22:57:28 GMT",
+        "created_unix": 1714517848
+    },
+    "total_results": 1
+}

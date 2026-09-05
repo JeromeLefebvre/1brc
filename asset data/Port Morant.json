@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 484,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 53' 39.80544'' N",
+                    "lng": "76\u00b0 18' 27.52704'' W"
+                },
+                "MGRS": "18QUE6147778987",
+                "Maidenhead": "FK17uv34bp",
+                "Mercator": {
+                    "x": -8494528.341,
+                    "y": 2012068.621
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=12659295#map=17/17.89439/-76.30765",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/17.89439/-76.30765&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.89439&mlon=-76.30765#map=17/17.89439/-76.30765"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "JM": "388",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "J$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "J$",
+                    "html_entity": "$",
+                    "iso_code": "JMD",
+                    "iso_numeric": "388",
+                    "name": "Jamaican Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf2",
+                "geohash": "d71tz9d6qunudgjg35pp",
+                "qibla": 60.46,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819080,
+                        "astronomical": 1714814460,
+                        "civil": 1714817700,
+                        "nautical": 1714816080
+                    },
+                    "set": {
+                        "apparent": 1714865160,
+                        "astronomical": 1714783380,
+                        "civil": 1714866540,
+                        "nautical": 1714781760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Jamaica",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "EST"
+                },
+                "what3words": {
+                    "words": "loosen.recoils.laptops"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 17.9288189,
+                    "lng": -76.2728252
+                },
+                "southwest": {
+                    "lat": 17.8591684,
+                    "lng": -76.3647873
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JM",
+                "ISO_3166-1_alpha-3": "JAM",
+                "ISO_3166-2": [
+                    "JM-03"
+                ],
+                "_category": "place",
+                "_normalized_city": "Port Morant",
+                "_type": "neighbourhood",
+                "city_district": "Port Morant",
+                "continent": "North America",
+                "country": "Jamaica",
+                "country_code": "jm",
+                "county": "Saint Thomas",
+                "state_district": "Surrey County"
+            },
+            "confidence": 7,
+            "formatted": "Port Morant, Saint Thomas, Jamaica",
+            "geometry": {
+                "lat": 17.8943904,
+                "lng": -76.3076464
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 03:59:24 GMT",
+        "created_unix": 1714795164
+    },
+    "total_results": 1
+}

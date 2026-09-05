@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 425,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "48\u00b0 41' 23.10000'' N",
+                    "lng": "55\u00b0 52' 30.43200'' E"
+                },
+                "MGRS": "40UDU1721493578",
+                "Maidenhead": "LN78wq55am",
+                "Mercator": {
+                    "x": 6219989.906,
+                    "y": 6190268.827
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/48.68975/55.87512&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=48.68975&mlon=55.87512#map=17/48.68975/55.87512"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "KZ": "398",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "KZT",
+                    "iso_numeric": "398",
+                    "name": "Kazakhstani Tenge",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b8",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddff",
+                "geohash": "v0xszrxn2em0nf8vuveg",
+                "qibla": 210.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713834720,
+                        "astronomical": 1713913680,
+                        "civil": 1713832680,
+                        "nautical": 1713916500
+                    },
+                    "set": {
+                        "apparent": 1713885540,
+                        "astronomical": 1713893040,
+                        "civil": 1713887580,
+                        "nautical": 1713890160
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Aqtobe",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "snazzy.thinking.mileage"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KZ",
+                "ISO_3166-1_alpha-3": "KAZ",
+                "_category": "place",
+                "_normalized_city": "Bayganin",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Kazakhstan",
+                "country_code": "kz",
+                "state": "Aktyubinskaya Oblast\u2019",
+                "town": "Bayganin"
+            },
+            "confidence": 9,
+            "formatted": "Bayganin, Aktyubinskaya Oblast\u2019, Kazakhstan",
+            "geometry": {
+                "lat": 48.68975,
+                "lng": 55.87512
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:27:25 GMT",
+        "created_unix": 1713853645
+    },
+    "total_results": 1
+}

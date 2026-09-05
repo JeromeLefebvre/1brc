@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 444,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 32' 42.73512'' N",
+                    "lng": "7\u00b0 14' 56.69808'' E"
+                },
+                "MGRS": "32ULB7594500715",
+                "Maidenhead": "JO30on90vu",
+                "Mercator": {
+                    "x": 806964.206,
+                    "y": 6508224.549
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEB"
+                    },
+                    "NUTS2": {
+                        "code": "DEB1"
+                    },
+                    "NUTS3": {
+                        "code": "DEB12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=571655#map=16/50.54520/7.24908",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/50.54520/7.24908&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.54520&mlon=7.24908#map=16/50.54520/7.24908"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0vpscqx5ugzt06hk1rc",
+                "qibla": 126.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714536360,
+                        "astronomical": 1714527840,
+                        "civil": 1714534140,
+                        "nautical": 1714531320
+                    },
+                    "set": {
+                        "apparent": 1714589460,
+                        "astronomical": 1714598100,
+                        "civil": 1714591680,
+                        "nautical": 1714594560
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "engages.sailed.wades"
+                },
+                "wikidata": "Q548989"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.5657959,
+                    "lng": 7.2847606
+                },
+                "southwest": {
+                    "lat": 50.4909059,
+                    "lng": 7.1508419
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-RP"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sinzig",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Ahrweiler",
+                "political_union": "European Union",
+                "postcode": "53489",
+                "state": "Rhineland-Palatinate",
+                "state_code": "RP",
+                "town": "Sinzig"
+            },
+            "confidence": 7,
+            "formatted": "53489 Sinzig, Germany",
+            "geometry": {
+                "lat": 50.5452042,
+                "lng": 7.2490828
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:22:30 GMT",
+        "created_unix": 1714544550
+    },
+    "total_results": 1
+}

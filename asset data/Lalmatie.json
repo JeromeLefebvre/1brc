@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 732,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 11' 22.99200'' S",
+                    "lng": "57\u00b0 39' 39.99600'' E"
+                },
+                "MGRS": "40KEC6907367386",
+                "Maidenhead": "LG89tt94il",
+                "Mercator": {
+                    "x": 6418805.404,
+                    "y": -2280779.302
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-20.18972/57.66111&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-20.18972&mlon=57.66111#map=17/-20.18972/57.66111"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "MU": "480",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 230,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A8;",
+                    "iso_code": "MUR",
+                    "iso_numeric": "480",
+                    "name": "Mauritian Rupee",
+                    "smallest_denomination": 100,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a8",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfa",
+                "geohash": "mk3j0hed35rvh05wxc3x",
+                "qibla": 336.27,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713752640,
+                        "astronomical": 1713748140,
+                        "civil": 1713751260,
+                        "nautical": 1713749700
+                    },
+                    "set": {
+                        "apparent": 1713793920,
+                        "astronomical": 1713798360,
+                        "civil": 1713795240,
+                        "nautical": 1713796800
+                    }
+                },
+                "timezone": {
+                    "name": "Indian/Mauritius",
+                    "now_in_dst": 0,
+                    "offset_sec": 14400,
+                    "offset_string": "+0400",
+                    "short_name": "+04"
+                },
+                "what3words": {
+                    "words": "spreadable.applicable.warmly"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MU",
+                "ISO_3166-1_alpha-3": "MUS",
+                "_category": "place",
+                "_normalized_city": "Lalmatie",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Mauritius",
+                "country_code": "mu",
+                "state": "Flacq District",
+                "town": "Lalmatie"
+            },
+            "confidence": 9,
+            "formatted": "Lalmatie, Flacq District, Mauritius",
+            "geometry": {
+                "lat": -20.18972,
+                "lng": 57.66111
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:23:07 GMT",
+        "created_unix": 1713781387
+    },
+    "total_results": 1
+}

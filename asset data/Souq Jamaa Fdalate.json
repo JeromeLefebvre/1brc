@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1287,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 35' 28.28400'' N",
+                    "lng": "7\u00b0 16' 45.40800'' W"
+                },
+                "MGRS": "29SPT5967118156",
+                "Maidenhead": "IM63io61lv",
+                "Mercator": {
+                    "x": -810325.743,
+                    "y": 3950400.819
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.59119/-7.27928&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.59119&mlon=-7.27928#map=17/33.59119/-7.27928"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "evfz4756u7xmmwms7sgw",
+                "qibla": 93.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714542060,
+                        "astronomical": 1714536600,
+                        "civil": 1714540500,
+                        "nautical": 1714538580
+                    },
+                    "set": {
+                        "apparent": 1714590660,
+                        "astronomical": 1714596180,
+                        "civil": 1714592280,
+                        "nautical": 1714594200
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "umpiring.roaming.chattered"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Fdalate",
+                "_type": "municipality",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "county": "Benslimane",
+                "local_administrative_area": "Fdalate",
+                "state": "Chaouia-Ouardigha"
+            },
+            "confidence": 9,
+            "formatted": "Fdalate, Benslimane, Morocco",
+            "geometry": {
+                "lat": 33.59119,
+                "lng": -7.27928
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:14:28 GMT",
+        "created_unix": 1714533268
+    },
+    "total_results": 1
+}

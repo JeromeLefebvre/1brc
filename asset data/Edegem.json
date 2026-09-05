@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1769,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 9' 17.30376'' N",
+                    "lng": "4\u00b0 26' 44.99232'' E"
+                },
+                "MGRS": "31UFS0111368033",
+                "Maidenhead": "JO21fd37ld",
+                "Mercator": {
+                    "x": 494907.665,
+                    "y": 6615423.109
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE21"
+                    },
+                    "NUTS3": {
+                        "code": "BE211"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=58565#map=17/51.15481/4.44583",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.15481/4.44583&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.15481&mlon=4.44583#map=17/51.15481/4.44583"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u155j0mq77h52rpecgpe",
+                "qibla": 123.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932940,
+                        "astronomical": 1713924720,
+                        "civil": 1713930780,
+                        "nautical": 1713927960
+                    },
+                    "set": {
+                        "apparent": 1713984780,
+                        "astronomical": 1713993060,
+                        "civil": 1713986940,
+                        "nautical": 1713989760
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "weekend.galleries.topmost"
+                },
+                "wikidata": "Q724238"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.1732113,
+                    "lng": 4.463714
+                },
+                "southwest": {
+                    "lat": 51.1444366,
+                    "lng": 4.3969953
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VAN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Edegem",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Antwerp",
+                "political_union": "European Union",
+                "postcode": "2650",
+                "region": "Flanders",
+                "state": "Antwerp",
+                "state_code": "VAN",
+                "town": "Edegem"
+            },
+            "confidence": 7,
+            "formatted": "2650 Edegem, Belgium",
+            "geometry": {
+                "lat": 51.1548066,
+                "lng": 4.4458312
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:34:26 GMT",
+        "created_unix": 1713994466
+    },
+    "total_results": 1
+}

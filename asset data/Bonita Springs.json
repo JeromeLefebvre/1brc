@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1612,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 20' 23.30160'' N",
+                    "lng": "81\u00b0 46' 43.30992'' W"
+                },
+                "FIPS": {
+                    "county": "12071",
+                    "state": "12"
+                },
+                "MGRS": "17RMK2229313550",
+                "Maidenhead": "EL96ci61nn",
+                "Mercator": {
+                    "x": -9103562.93,
+                    "y": 3022275.58
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1216598#map=17/26.33981/-81.77870",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.33981/-81.77870&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.33981&mlon=-81.77870#map=17/26.33981/-81.77870"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhtvg5486pxwvzey42sr",
+                "qibla": 55.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714042500,
+                        "astronomical": 1714037580,
+                        "civil": 1714041060,
+                        "nautical": 1714039320
+                    },
+                    "set": {
+                        "apparent": 1714089300,
+                        "astronomical": 1714007820,
+                        "civil": 1714004340,
+                        "nautical": 1714006080
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "cable.kilts.tests"
+                },
+                "wikidata": "Q892635"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.4077876,
+                    "lng": -81.6580172
+                },
+                "southwest": {
+                    "lat": 26.3162289,
+                    "lng": -81.8877
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bonita Springs",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lee County",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "Bonita Springs"
+            },
+            "confidence": 5,
+            "formatted": "Bonita Springs, Lee County, Florida, United States of America",
+            "geometry": {
+                "lat": 26.339806,
+                "lng": -81.7786972
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:39:57 GMT",
+        "created_unix": 1714005597
+    },
+    "total_results": 1
+}

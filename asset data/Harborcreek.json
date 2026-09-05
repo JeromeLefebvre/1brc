@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 864,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 9' 58.90932'' N",
+                    "lng": "79\u00b0 57' 9.64656'' W"
+                },
+                "FIPS": {
+                    "county": "42049",
+                    "state": "42"
+                },
+                "MGRS": "17TNG8651068778",
+                "Maidenhead": "FN02ad59qw",
+                "Mercator": {
+                    "x": -8900291.581,
+                    "y": 5157241.382
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5837113#map=17/42.16636/-79.95268",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.16636/-79.95268&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.16636&mlon=-79.95268#map=17/42.16636/-79.95268"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dprpushhzecj4cykc94w",
+                "qibla": 54.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713954300,
+                        "astronomical": 1713948000,
+                        "civil": 1713952500,
+                        "nautical": 1713950340
+                    },
+                    "set": {
+                        "apparent": 1713917460,
+                        "astronomical": 1713923820,
+                        "civil": 1713919260,
+                        "nautical": 1713921420
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "helping.safe.combination"
+                },
+                "wikidata": "Q5654713"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.215276,
+                    "lng": -79.9002692
+                },
+                "southwest": {
+                    "lat": 42.1017131,
+                    "lng": -80.0211688
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Harborcreek Township",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Erie County",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "township": "Harborcreek Township"
+            },
+            "confidence": 6,
+            "formatted": "Harborcreek Township, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 42.1663637,
+                "lng": -79.9526796
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:05:29 GMT",
+        "created_unix": 1713996329
+    },
+    "total_results": 1
+}

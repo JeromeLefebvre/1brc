@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1503,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 8' 21.78348'' N",
+                    "lng": "8\u00b0 9' 2.04336'' E"
+                },
+                "MGRS": "32UMA3930054473",
+                "Maidenhead": "JO40bd83bk",
+                "Mercator": {
+                    "x": 907317.035,
+                    "y": 6437631.649
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE7"
+                    },
+                    "NUTS2": {
+                        "code": "DE71"
+                    },
+                    "NUTS3": {
+                        "code": "DE71D"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=412432#map=16/50.13938/8.15057",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/50.13938/8.15057&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.13938&mlon=8.15057#map=16/50.13938/8.15057"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0vv1rx51fxtw22nkf86",
+                "qibla": 127.42,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713500820,
+                        "astronomical": 1713493200,
+                        "civil": 1713498720,
+                        "nautical": 1713496140
+                    },
+                    "set": {
+                        "apparent": 1713551220,
+                        "astronomical": 1713558900,
+                        "civil": 1713553320,
+                        "nautical": 1713555960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "organic.think.colonies"
+                },
+                "wikidata": "Q569664"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.221344,
+                    "lng": 8.2430542
+                },
+                "southwest": {
+                    "lat": 50.093651,
+                    "lng": 8.0980537
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Taunusstein",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Rheingau-Taunus-Kreis",
+                "political_union": "European Union",
+                "postcode": "65232",
+                "state": "Hesse",
+                "state_code": "HE",
+                "town": "Taunusstein"
+            },
+            "confidence": 6,
+            "formatted": "65232 Taunusstein, Germany",
+            "geometry": {
+                "lat": 50.1393843,
+                "lng": 8.1505676
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 07:12:37 GMT",
+        "created_unix": 1713510757
+    },
+    "total_results": 1
+}

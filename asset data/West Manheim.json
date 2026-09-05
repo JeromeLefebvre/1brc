@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 423,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 43' 21.36576'' N",
+                    "lng": "76\u00b0 55' 3.92484'' W"
+                },
+                "FIPS": {
+                    "county": "42133",
+                    "state": "42"
+                },
+                "MGRS": "18SUJ3563498727",
+                "Maidenhead": "FM19mr93uk",
+                "Mercator": {
+                    "x": -8562445.531,
+                    "y": 4798401.239
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=8417340#map=17/39.72260/-76.91776",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.72260/-76.91776&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.72260&mlon=-76.91776#map=17/39.72260/-76.91776"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr13cxq0ymekr3cqskpv",
+                "qibla": 56.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040160,
+                        "astronomical": 1714034160,
+                        "civil": 1714038420,
+                        "nautical": 1714036380
+                    },
+                    "set": {
+                        "apparent": 1714089360,
+                        "astronomical": 1714008960,
+                        "civil": 1714004640,
+                        "nautical": 1714006740
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "teamed.peppermint.fabricate"
+                },
+                "wikidata": "Q7985848"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.789506,
+                    "lng": -76.8810863
+                },
+                "southwest": {
+                    "lat": 39.719917,
+                    "lng": -76.999497
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "West Manheim Township",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "York County",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "village": "West Manheim Township"
+            },
+            "confidence": 7,
+            "formatted": "West Manheim Township, York County, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 39.7226016,
+                "lng": -76.9177569
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:42:17 GMT",
+        "created_unix": 1714009337
+    },
+    "total_results": 1
+}

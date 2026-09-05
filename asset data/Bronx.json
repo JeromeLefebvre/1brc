@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 41,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 50' 47.94288'' N",
+                    "lng": "73\u00b0 52' 42.93732'' W"
+                },
+                "FIPS": {
+                    "county": "36005",
+                    "state": "36"
+                },
+                "MGRS": "18TWL9453122339",
+                "Maidenhead": "FN30bu43ne",
+                "Mercator": {
+                    "x": -8224127.431,
+                    "y": 4961796.388
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=9691916#map=17/40.84665/-73.87859",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.84665/-73.87859&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.84665&mlon=-73.87859#map=17/40.84665/-73.87859"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr72qgghzzxfcyvpmpk2",
+                "qibla": 58.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714816200,
+                        "astronomical": 1714809780,
+                        "civil": 1714814400,
+                        "nautical": 1714812240
+                    },
+                    "set": {
+                        "apparent": 1714866900,
+                        "astronomical": 1714786920,
+                        "civil": 1714782300,
+                        "nautical": 1714784520
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "into.lawn.goat"
+                },
+                "wikidata": "Q18426"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.91763,
+                    "lng": -73.748374
+                },
+                "southwest": {
+                    "lat": 40.785739,
+                    "lng": -73.933907
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "New York",
+                "_type": "neighbourhood",
+                "borough": "The Bronx",
+                "city": "New York",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Bronx County",
+                "state": "New York",
+                "state_code": "NY"
+            },
+            "confidence": 5,
+            "formatted": "New York, New York, United States of America",
+            "geometry": {
+                "lat": 40.8466508,
+                "lng": -73.8785937
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:16:00 GMT",
+        "created_unix": 1714796160
+    },
+    "total_results": 1
+}

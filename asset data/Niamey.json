@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2314,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 31' 29.40240'' N",
+                    "lng": "2\u00b0 6' 35.36280'' E"
+                },
+                "MGRS": "31PDQ0367195351",
+                "Maidenhead": "JK13bm35ex",
+                "Mercator": {
+                    "x": 234864.422,
+                    "y": 1509770.869
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3218804#map=17/13.52483/2.10982",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.52483/2.10982&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.52483&mlon=2.10982#map=17/13.52483/2.10982"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NE": "562",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 227,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf3\ud83c\uddea",
+                "geohash": "s43sbn07f7y13snm3n70",
+                "qibla": 72.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714973340,
+                        "astronomical": 1714968840,
+                        "civil": 1714972020,
+                        "nautical": 1714970460
+                    },
+                    "set": {
+                        "apparent": 1715018820,
+                        "astronomical": 1715023320,
+                        "civil": 1715020200,
+                        "nautical": 1715021760
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Niamey",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "commutes.prance.panels"
+                },
+                "wikidata": "Q3674"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.6473395,
+                    "lng": 2.264244
+                },
+                "southwest": {
+                    "lat": 13.3829579,
+                    "lng": 1.9609482
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NE",
+                "ISO_3166-1_alpha-3": "NER",
+                "ISO_3166-2": [
+                    "NE-8"
+                ],
+                "_category": "place",
+                "_normalized_city": "Niamey",
+                "_type": "city",
+                "city": "Niamey",
+                "continent": "Africa",
+                "country": "Niger",
+                "country_code": "ne"
+            },
+            "confidence": 3,
+            "formatted": "Niamey, Niger",
+            "geometry": {
+                "lat": 13.524834,
+                "lng": 2.109823
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:18:10 GMT",
+        "created_unix": 1714954690
+    },
+    "total_results": 1
+}

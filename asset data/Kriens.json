@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1366,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 2' 2.92560'' N",
+                    "lng": "8\u00b0 16' 50.87784'' E"
+                },
+                "MGRS": "32TMT4535709209",
+                "Maidenhead": "JN47da38qe",
+                "Mercator": {
+                    "x": 921814.373,
+                    "y": 5916367.487
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH06"
+                    },
+                    "NUTS3": {
+                        "code": "CH061"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1682888#map=17/47.03415/8.28080",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.03415/8.28080&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.03415&mlon=8.28080#map=17/47.03415/8.28080"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0mgs6mcu879d117unbq",
+                "qibla": 124.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714623000,
+                        "astronomical": 1714615500,
+                        "civil": 1714620960,
+                        "nautical": 1714618440
+                    },
+                    "set": {
+                        "apparent": 1714675080,
+                        "astronomical": 1714682700,
+                        "civil": 1714677120,
+                        "nautical": 1714679700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "survive.improve.knee"
+                },
+                "wikidata": "Q14571"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.0467437,
+                    "lng": 8.3052558
+                },
+                "southwest": {
+                    "lat": 46.9860157,
+                    "lng": 8.2109202
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-LU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kriens",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "local_administrative_area": "Kriens",
+                "state": "Lucerne",
+                "state_code": "LU",
+                "town": "Kriens"
+            },
+            "confidence": 7,
+            "formatted": "Kriens, Lucerne, Switzerland",
+            "geometry": {
+                "lat": 47.034146,
+                "lng": 8.2807994
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:42:58 GMT",
+        "created_unix": 1714693378
+    },
+    "total_results": 1
+}

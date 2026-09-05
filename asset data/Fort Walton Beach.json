@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1263,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 24' 20.71872'' N",
+                    "lng": "86\u00b0 37' 7.83120'' W"
+                },
+                "FIPS": {
+                    "county": "12091",
+                    "state": "12"
+                },
+                "MGRS": "16REU3661163809",
+                "Maidenhead": "EM60qj57rj",
+                "Mercator": {
+                    "x": -9642365.385,
+                    "y": 3534190.717
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=118885#map=17/30.40576/-86.61884",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.40576/-86.61884&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.40576&mlon=-86.61884#map=17/30.40576/-86.61884"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj6kuznn6ew4squgm0fp",
+                "qibla": 51.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714906800,
+                        "astronomical": 1714901520,
+                        "civil": 1714905240,
+                        "nautical": 1714903440
+                    },
+                    "set": {
+                        "apparent": 1714868820,
+                        "astronomical": 1714874100,
+                        "civil": 1714870320,
+                        "nautical": 1714872180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "waveform.quail.acceleration"
+                },
+                "wikidata": "Q984368"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.4716613,
+                    "lng": -86.5869765
+                },
+                "southwest": {
+                    "lat": 30.4011963,
+                    "lng": -86.6731437
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fort Walton Beach",
+                "_type": "city",
+                "city": "Fort Walton Beach",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Okaloosa County",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 7,
+            "formatted": "Fort Walton Beach, Florida, United States of America",
+            "geometry": {
+                "lat": 30.4057552,
+                "lng": -86.618842
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 09:35:23 GMT",
+        "created_unix": 1714901723
+    },
+    "total_results": 1
+}

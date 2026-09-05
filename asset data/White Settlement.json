@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 751,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 45' 34.46532'' N",
+                    "lng": "97\u00b0 27' 30.07368'' W"
+                },
+                "FIPS": {
+                    "county": "48439",
+                    "state": "48"
+                },
+                "MGRS": "14SPB4441025685",
+                "Maidenhead": "EM12gs42xh",
+                "Mercator": {
+                    "x": -10849014.319,
+                    "y": 3840315.238
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2410657#map=17/32.75957/-97.45835",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.75957/-97.45835&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.75957&mlon=-97.45835#map=17/32.75957/-97.45835"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vfdq78yrg0kfrevjnjq",
+                "qibla": 43.0,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713959400,
+                        "astronomical": 1713954120,
+                        "civil": 1713957840,
+                        "nautical": 1713956040
+                    },
+                    "set": {
+                        "apparent": 1713920760,
+                        "astronomical": 1713926100,
+                        "civil": 1713922320,
+                        "nautical": 1713924180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "retreating.calculations.untapped"
+                },
+                "wikidata": "Q969613"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.785164,
+                    "lng": -97.4291845
+                },
+                "southwest": {
+                    "lat": 32.737772,
+                    "lng": -97.480087
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "White Settlement",
+                "_type": "city",
+                "city": "White Settlement",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Tarrant County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 7,
+            "formatted": "White Settlement, Texas, United States of America",
+            "geometry": {
+                "lat": 32.7595737,
+                "lng": -97.4583538
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:09:21 GMT",
+        "created_unix": 1713996561
+    },
+    "total_results": 1
+}

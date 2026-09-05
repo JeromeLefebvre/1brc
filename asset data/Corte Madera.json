@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 169,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 55' 31.73016'' N",
+                    "lng": "122\u00b0 31' 38.91000'' W"
+                },
+                "FIPS": {
+                    "county": "06041",
+                    "state": "06"
+                },
+                "MGRS": "10SEG4152897652",
+                "Maidenhead": "CM87rw62qc",
+                "Mercator": {
+                    "x": -13639696.125,
+                    "y": 4542638.377
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1260313#map=17/37.92548/-122.52747",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.92548/-122.52747&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.92548&mlon=-122.52747#map=17/37.92548/-122.52747"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q8zgb45yvuxyxpwx8w9",
+                "qibla": 18.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714569240,
+                        "astronomical": 1714563300,
+                        "civil": 1714567560,
+                        "nautical": 1714565520
+                    },
+                    "set": {
+                        "apparent": 1714532460,
+                        "astronomical": 1714538400,
+                        "civil": 1714534140,
+                        "nautical": 1714536180
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "plot.modes.belts"
+                },
+                "wikidata": "Q985266"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.9421465,
+                    "lng": -122.4780382
+                },
+                "southwest": {
+                    "lat": 37.9071613,
+                    "lng": -122.5389231
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Corte Madera",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Marin County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Corte Madera"
+            },
+            "confidence": 7,
+            "formatted": "Corte Madera, California, United States of America",
+            "geometry": {
+                "lat": 37.9254806,
+                "lng": -122.527475
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:34:32 GMT",
+        "created_unix": 1714545272
+    },
+    "total_results": 1
+}

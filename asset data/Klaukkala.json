@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1707,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "60\u00b0 22' 59.99880'' N",
+                    "lng": "24\u00b0 45' 0.00000'' E"
+                },
+                "MGRS": "35VLG7597196220",
+                "Maidenhead": "KP20jj02aa",
+                "Mercator": {
+                    "x": 2755157.397,
+                    "y": 8448399.688
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FI"
+                    },
+                    "NUTS1": {
+                        "code": "FI1"
+                    },
+                    "NUTS2": {
+                        "code": "FI1B"
+                    },
+                    "NUTS3": {
+                        "code": "FI1B1"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30969665#map=17/60.38333/24.75000",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/60.38333/24.75000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=60.38333&mlon=24.75000#map=17/60.38333/24.75000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FI": "246",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 358,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddee",
+                "geohash": "ud9xe0qqkv1eepymuf9w",
+                "qibla": 158.05,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713753780,
+                        "astronomical": 0,
+                        "civil": 1713750780,
+                        "nautical": 1713746580
+                    },
+                    "set": {
+                        "apparent": 1713808680,
+                        "astronomical": 0,
+                        "civil": 1713811680,
+                        "nautical": 1713815940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Helsinki",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "whisker.carpools.transport"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 60.423333,
+                    "lng": 24.79
+                },
+                "southwest": {
+                    "lat": 60.343333,
+                    "lng": 24.71
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FI",
+                "ISO_3166-1_alpha-3": "FIN",
+                "ISO_3166-2": [
+                    "FI-18"
+                ],
+                "_category": "place",
+                "_normalized_city": "Klaukkala",
+                "_type": "postal_city",
+                "continent": "Europe",
+                "country": "Finland",
+                "country_code": "fi",
+                "county": "Uusimaa",
+                "municipality": "Helsinki sub-region",
+                "political_union": "European Union",
+                "postal_city": "Klaukkala",
+                "postcode": "01800",
+                "region": "Mainland Finland",
+                "town": "Klaukkala"
+            },
+            "confidence": 7,
+            "formatted": "01800 Klaukkala, Finland",
+            "geometry": {
+                "lat": 60.383333,
+                "lng": 24.75
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:39:34 GMT",
+        "created_unix": 1713746374
+    },
+    "total_results": 1
+}

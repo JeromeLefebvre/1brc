@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 460,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 18' 54.88596'' N",
+                    "lng": "140\u00b0 58' 26.66316'' E"
+                },
+                "MGRS": "54TVM9786384778",
+                "Maidenhead": "QN02lh65vp",
+                "Mercator": {
+                    "x": 15693162.033,
+                    "y": 5179545.787
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4087735#map=17/42.31525/140.97407",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.31525/140.97407&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.31525&mlon=140.97407#map=17/42.31525/140.97407"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xps0xzq0jvxg0t7m0f24",
+                "qibla": 293.19,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714937280,
+                        "astronomical": 1714930620,
+                        "civil": 1714935420,
+                        "nautical": 1714933140
+                    },
+                    "set": {
+                        "apparent": 1714901880,
+                        "astronomical": 1714908600,
+                        "civil": 1714903740,
+                        "nautical": 1714906080
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "nipping.gentle.dots"
+                },
+                "wikidata": "Q496667"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.437262,
+                    "lng": 141.3487231
+                },
+                "southwest": {
+                    "lat": 42.1063203,
+                    "lng": 140.6560097
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-01"
+                ],
+                "_category": "place",
+                "_normalized_city": "Muroran",
+                "_type": "city",
+                "city": "Muroran",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Hokkaido Prefecture",
+                "region": "Iburi Subprefecture",
+                "state": "Hokkaido Prefecture"
+            },
+            "confidence": 2,
+            "formatted": "Muroran, Hokkaido Prefecture, Japan",
+            "geometry": {
+                "lat": 42.3152461,
+                "lng": 140.9740731
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:42:22 GMT",
+        "created_unix": 1714948942
+    },
+    "total_results": 1
+}

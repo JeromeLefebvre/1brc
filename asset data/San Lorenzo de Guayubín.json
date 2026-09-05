@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1093,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 40' 10.41600'' N",
+                    "lng": "71\u00b0 23' 51.86400'' W"
+                },
+                "MGRS": "19QBB4860776686",
+                "Maidenhead": "FK49hq20gq",
+                "Mercator": {
+                    "x": -7947960.061,
+                    "y": 2219551.125
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/19.66956/-71.39774&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.66956&mlon=-71.39774#map=16/19.66956/-71.39774"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7mpzk9z2pdrszqt0eph",
+                "qibla": 62.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714040460,
+                        "astronomical": 1714035900,
+                        "civil": 1714039080,
+                        "nautical": 1714037520
+                    },
+                    "set": {
+                        "apparent": 1714086360,
+                        "astronomical": 1714004580,
+                        "civil": 1714087740,
+                        "nautical": 1714089300
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "illuminated.accumulation.chore"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "_category": "place",
+                "_normalized_city": "San Lorenzo de Guayub\u00edn",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Monte Cristi",
+                "town": "San Lorenzo de Guayub\u00edn"
+            },
+            "confidence": 9,
+            "formatted": "San Lorenzo de Guayub\u00edn, Monte Cristi, Dominican Republic",
+            "geometry": {
+                "lat": 19.66956,
+                "lng": -71.39774
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:03:11 GMT",
+        "created_unix": 1714006991
+    },
+    "total_results": 1
+}

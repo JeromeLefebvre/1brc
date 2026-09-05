@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2404,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 36' 17.93196'' N",
+                    "lng": "90\u00b0 26' 33.66132'' W"
+                },
+                "FIPS": {
+                    "county": "29189",
+                    "state": "29"
+                },
+                "MGRS": "15SYC2268576044",
+                "Maidenhead": "EM48so65ve",
+                "Mercator": {
+                    "x": -10068033.495,
+                    "y": 4638581.136
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=139973#map=17/38.60498/-90.44268",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.60498/-90.44268&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.60498&mlon=-90.44268#map=17/38.60498/-90.44268"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzetgvdkdp476zr96kb",
+                "qibla": 47.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711799340,
+                        "astronomical": 1711793940,
+                        "civil": 1711797780,
+                        "nautical": 1711795860
+                    },
+                    "set": {
+                        "apparent": 1711758180,
+                        "astronomical": 1711763640,
+                        "civil": 1711759800,
+                        "nautical": 1711761660
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "tigers.buyers.events"
+                },
+                "wikidata": "Q960849"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.6186702,
+                    "lng": -90.425116
+                },
+                "southwest": {
+                    "lat": 38.5720118,
+                    "lng": -90.4738427
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Des Peres",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Louis County",
+                "postcode": "63131",
+                "state": "Missouri",
+                "state_code": "MO",
+                "town": "Des Peres"
+            },
+            "confidence": 7,
+            "formatted": "Des Peres, MO 63131, United States of America",
+            "geometry": {
+                "lat": 38.6049811,
+                "lng": -90.4426837
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:35:11 GMT",
+        "created_unix": 1711830911
+    },
+    "total_results": 1
+}

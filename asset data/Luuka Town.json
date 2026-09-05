@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 575,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "0\u00b0 42' 2.73600'' N",
+                    "lng": "33\u00b0 18' 0.72000'' E"
+                },
+                "MGRS": "36NWF3340277456",
+                "Maidenhead": "KJ60pq68ae",
+                "Mercator": {
+                    "x": 3706961.307,
+                    "y": 77487.987
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/0.70076/33.30020&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=0.70076&mlon=33.30020#map=17/0.70076/33.30020"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "UG": "800",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 256,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UGX",
+                    "iso_numeric": "800",
+                    "name": "Ugandan Shilling",
+                    "smallest_denomination": 1000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 1,
+                    "symbol": "USh",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddec",
+                "geohash": "s8pevz86nzhu1znqbs6x",
+                "qibla": 16.64,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714534860,
+                        "astronomical": 1714530600,
+                        "civil": 1714533540,
+                        "nautical": 1714532040
+                    },
+                    "set": {
+                        "apparent": 1714578420,
+                        "astronomical": 1714582680,
+                        "civil": 1714579680,
+                        "nautical": 1714581180
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Kampala",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "sophisticated.snugly.lorry"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UG",
+                "ISO_3166-1_alpha-3": "UGA",
+                "_category": "place",
+                "_normalized_city": "Luuka Town",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Uganda",
+                "country_code": "ug",
+                "county": "Luuka District",
+                "state": "Eastern Region",
+                "town": "Luuka Town"
+            },
+            "confidence": 9,
+            "formatted": "Luuka Town, Luuka District, Uganda",
+            "geometry": {
+                "lat": 0.70076,
+                "lng": 33.3002
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:16:56 GMT",
+        "created_unix": 1714544216
+    },
+    "total_results": 1
+}

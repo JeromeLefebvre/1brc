@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 535,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "67\u00b0 21' 57.99600'' N",
+                    "lng": "32\u00b0 29' 53.01600'' E"
+                },
+                "MGRS": "36WVV7844372281",
+                "Maidenhead": "KP67fi97su",
+                "Mercator": {
+                    "x": 3617667.491,
+                    "y": 10221673.021
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/67.36611/32.49806&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=67.36611&mlon=32.49806#map=17/67.36611/32.49806"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "uezp5x8k59jgh128gegm",
+                "qibla": 170.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713405000,
+                        "astronomical": 0,
+                        "civil": 1713400800,
+                        "nautical": 0
+                    },
+                    "set": {
+                        "apparent": 1713462660,
+                        "astronomical": 0,
+                        "civil": 1713466920,
+                        "nautical": 0
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "sakes.plurals.solos"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Polyarnyye Zori",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Murmansk",
+                "town": "Polyarnyye Zori"
+            },
+            "confidence": 9,
+            "formatted": "Polyarnyye Zori, Murmansk, Russia",
+            "geometry": {
+                "lat": 67.36611,
+                "lng": 32.49806
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:21:10 GMT",
+        "created_unix": 1713442870
+    },
+    "total_results": 1
+}

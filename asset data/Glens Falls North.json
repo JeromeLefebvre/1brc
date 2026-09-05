@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2382,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 20' 5.89524'' N",
+                    "lng": "73\u00b0 40' 44.72760'' W"
+                },
+                "FIPS": {
+                    "county": "36113",
+                    "state": "36"
+                },
+                "MGRS": "18TXN0707898860",
+                "Maidenhead": "FN33di80mj",
+                "Mercator": {
+                    "x": -8201918.892,
+                    "y": 5333764.955
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=9967037089#map=16/43.33497/-73.67909",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/43.33497/-73.67909&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.33497&mlon=-73.67909#map=16/43.33497/-73.67909"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drewe2us88pf9c20twhs",
+                "qibla": 58.63,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714902180,
+                        "astronomical": 1714895280,
+                        "civil": 1714900260,
+                        "nautical": 1714897920
+                    },
+                    "set": {
+                        "apparent": 1714867260,
+                        "astronomical": 1714874160,
+                        "civil": 1714869180,
+                        "nautical": 1714871520
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "tour.paella.boasted"
+                },
+                "wikidata": "Q3460433"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.3549709,
+                    "lng": -73.659091
+                },
+                "southwest": {
+                    "lat": 43.3149709,
+                    "lng": -73.699091
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Queensbury",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Warren County",
+                "hamlet": "Glens Falls North",
+                "postcode": "12804",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Queensbury"
+            },
+            "confidence": 7,
+            "formatted": "Glens Falls North, Queensbury, NY 12804, United States of America",
+            "geometry": {
+                "lat": 43.3349709,
+                "lng": -73.679091
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 06:52:22 GMT",
+        "created_unix": 1714891942
+    },
+    "total_results": 1
+}

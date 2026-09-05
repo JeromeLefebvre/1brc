@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 200,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 42' 34.25220'' N",
+                    "lng": "9\u00b0 23' 7.44936'' E"
+                },
+                "MGRS": "32UNE2543851271",
+                "Maidenhead": "JO43qr60fg",
+                "Mercator": {
+                    "x": 1044778.238,
+                    "y": 7080867.162
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE93"
+                    },
+                    "NUTS3": {
+                        "code": "DE939"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=444768#map=16/53.70951/9.38540",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/53.70951/9.38540&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.70951&mlon=9.38540#map=16/53.70951/9.38540"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1w9t9d0xepmtn31q9s9",
+                "qibla": 132.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535280,
+                        "astronomical": 1714525140,
+                        "civil": 1714532820,
+                        "nautical": 1714529520
+                    },
+                    "set": {
+                        "apparent": 1714589580,
+                        "astronomical": 1714599840,
+                        "civil": 1714592040,
+                        "nautical": 1714595340
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "envied.usually.anonymously"
+                },
+                "wikidata": "Q505599"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.7964731,
+                    "lng": 9.5019971
+                },
+                "southwest": {
+                    "lat": 53.6492885,
+                    "lng": 9.2294509
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Drochtersen",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Stade",
+                "political_union": "European Union",
+                "postcode": "21706",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Drochtersen"
+            },
+            "confidence": 5,
+            "formatted": "21706 Drochtersen, Germany",
+            "geometry": {
+                "lat": 53.7095145,
+                "lng": 9.3854026
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:33:12 GMT",
+        "created_unix": 1714545192
+    },
+    "total_results": 1
+}

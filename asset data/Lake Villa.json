@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 420,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 25' 1.07436'' N",
+                    "lng": "88\u00b0 4' 26.29488'' W"
+                },
+                "FIPS": {
+                    "county": "17097",
+                    "state": "17"
+                },
+                "MGRS": "16TDM1163896631",
+                "Maidenhead": "EN52xk10cb",
+                "Mercator": {
+                    "x": -9804349.582,
+                    "y": 5194815.113
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=125669#map=17/42.41697/-88.07397",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.41697/-88.07397&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.41697&mlon=-88.07397#map=17/42.41697/-88.07397"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp937cf2xxrkwu3y3dqn",
+                "qibla": 48.26,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714733100,
+                        "astronomical": 1714726440,
+                        "civil": 1714731240,
+                        "nautical": 1714728960
+                    },
+                    "set": {
+                        "apparent": 1714697640,
+                        "astronomical": 1714704300,
+                        "civil": 1714699500,
+                        "nautical": 1714701780
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "visited.spacesuit.arch"
+                },
+                "wikidata": "Q1989579"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.448559,
+                    "lng": -88.052837
+                },
+                "southwest": {
+                    "lat": 42.386315,
+                    "lng": -88.123152
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lake Villa",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lake County",
+                "state": "Illinois",
+                "state_code": "IL",
+                "village": "Lake Villa"
+            },
+            "confidence": 7,
+            "formatted": "Lake Villa, Lake County, Illinois, United States of America",
+            "geometry": {
+                "lat": 42.4169651,
+                "lng": -88.0739708
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:28:17 GMT",
+        "created_unix": 1714699697
+    },
+    "total_results": 1
+}

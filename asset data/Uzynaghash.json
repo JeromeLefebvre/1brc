@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2497,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 19' 37.34400'' N",
+                    "lng": "64\u00b0 18' 0.25200'' E"
+                },
+                "MGRS": "41UNA8454720688",
+                "Maidenhead": "MO24dh68al",
+                "Mercator": {
+                    "x": 7157851.05,
+                    "y": 7197601.63
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.32704/64.30007&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.32704&mlon=64.30007#map=17/54.32704/64.30007"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "KZ": "398",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "KZT",
+                    "iso_numeric": "398",
+                    "name": "Kazakhstani Tenge",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b8",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddff",
+                "geohash": "v3ttp1vvunr2b178s8mf",
+                "qibla": 219.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713659280,
+                        "astronomical": 1713736620,
+                        "civil": 1713743340,
+                        "nautical": 1713740340
+                    },
+                    "set": {
+                        "apparent": 1713711360,
+                        "astronomical": 1713720540,
+                        "civil": 1713713700,
+                        "nautical": 1713716760
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Qostanay",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "rules.reception.swindling"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.3307495,
+                    "lng": 64.2981647
+                },
+                "southwest": {
+                    "lat": 54.3307291,
+                    "lng": 64.296569
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KZ",
+                "ISO_3166-1_alpha-3": "KAZ",
+                "_category": "place",
+                "_normalized_city": "Uzynagash",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Kazakhstan",
+                "country_code": "kz",
+                "state": "Qostanay Oblysy",
+                "town": "Uzynagash"
+            },
+            "confidence": 9,
+            "formatted": "Uzynagash, Qostanay Oblysy, Kazakhstan",
+            "geometry": {
+                "lat": 54.32704,
+                "lng": 64.30007
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:10:33 GMT",
+        "created_unix": 1713661833
+    },
+    "total_results": 1
+}

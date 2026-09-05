@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 250,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "14\u00b0 29' 38.22108'' N",
+                    "lng": "90\u00b0 42' 34.69572'' W"
+                },
+                "MGRS": "15PYS4685803591",
+                "Maidenhead": "EK44pl48un",
+                "Mercator": {
+                    "x": -10097750.679,
+                    "y": 1620260.098
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=374560#map=16/14.49395/-90.70964",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/14.49395/-90.70964&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=14.49395&mlon=-90.70964#map=16/14.49395/-90.70964"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "GT": "320",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 502,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "GTQ",
+                    "iso_numeric": "320",
+                    "name": "Guatemalan Quetzal",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "Q",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\uddf9",
+                "geohash": "9fx6rye32hpv2cm874hy",
+                "qibla": 54.48,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714563660,
+                        "astronomical": 1714559160,
+                        "civil": 1714562340,
+                        "nautical": 1714560780
+                    },
+                    "set": {
+                        "apparent": 1714522740,
+                        "astronomical": 1714527240,
+                        "civil": 1714524060,
+                        "nautical": 1714525620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Guatemala",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "mistook.types.cropper"
+                },
+                "wikidata": "Q119252"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 14.5282417,
+                    "lng": -90.659355
+                },
+                "southwest": {
+                    "lat": 14.4282992,
+                    "lng": -90.7417921
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GT",
+                "ISO_3166-1_alpha-3": "GTM",
+                "ISO_3166-2": [
+                    "GT-03"
+                ],
+                "_category": "place",
+                "_normalized_city": "Santa Mar\u00eda de Jes\u00fas",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Guatemala",
+                "country_code": "gt",
+                "postcode": "03011",
+                "state": "Sacatep\u00e9quez",
+                "state_code": "SA",
+                "town": "Santa Mar\u00eda de Jes\u00fas"
+            },
+            "confidence": 6,
+            "formatted": "03011-Santa Mar\u00eda de Jes\u00fas, Guatemala",
+            "geometry": {
+                "lat": 14.4939503,
+                "lng": -90.7096377
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:30:42 GMT",
+        "created_unix": 1714545042
+    },
+    "total_results": 1
+}

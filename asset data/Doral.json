@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1333,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 49' 10.35264'' N",
+                    "lng": "80\u00b0 21' 19.18872'' W"
+                },
+                "FIPS": {
+                    "county": "12086",
+                    "state": "12"
+                },
+                "MGRS": "17RNJ6461655857",
+                "Maidenhead": "EL95tt76iq",
+                "Mercator": {
+                    "x": -8945114.44,
+                    "y": 2958143.266
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1216666#map=17/25.81954/-80.35533",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/25.81954/-80.35533&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.81954&mlon=-80.35533#map=17/25.81954/-80.35533"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhwfgkr19pe19rkg8h80",
+                "qibla": 56.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714128540,
+                        "astronomical": 1714123680,
+                        "civil": 1714127100,
+                        "nautical": 1714125420
+                    },
+                    "set": {
+                        "apparent": 1714175400,
+                        "astronomical": 1714093860,
+                        "civil": 1714090440,
+                        "nautical": 1714092120
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "brushing.ridge.speaking"
+                },
+                "wikidata": "Q1784180"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 25.8552646,
+                    "lng": -80.321017
+                },
+                "southwest": {
+                    "lat": 25.781908,
+                    "lng": -80.3871613
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Doral",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Miami-Dade County",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "Doral"
+            },
+            "confidence": 7,
+            "formatted": "Doral, Miami-Dade County, Florida, United States of America",
+            "geometry": {
+                "lat": 25.8195424,
+                "lng": -80.3553302
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:39:55 GMT",
+        "created_unix": 1714171195
+    },
+    "total_results": 1
+}

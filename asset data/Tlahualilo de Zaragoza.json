@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 156,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 6' 41.86692'' N",
+                    "lng": "103\u00b0 26' 33.02160'' W"
+                },
+                "MGRS": "13RFJ5573488977",
+                "Maidenhead": "DL86gc66vs",
+                "Mercator": {
+                    "x": -11515167.094,
+                    "y": 2994113.051
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3042287058#map=17/26.11163/-103.44251",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.11163/-103.44251&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.11163&mlon=-103.44251#map=17/26.11163/-103.44251"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9swkw17rqbt434fqyn2v",
+                "qibla": 40.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711716480,
+                        "astronomical": 1711711860,
+                        "civil": 1711715100,
+                        "nautical": 1711713480
+                    },
+                    "set": {
+                        "apparent": 1711674540,
+                        "astronomical": 1711679160,
+                        "civil": 1711675920,
+                        "nautical": 1711677540
+                    }
+                },
+                "timezone": {
+                    "name": "America/Monterrey",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "ramble.bakers.searched"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.1516297,
+                    "lng": -103.402506
+                },
+                "southwest": {
+                    "lat": 26.0716297,
+                    "lng": -103.482506
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-DUR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tlahualilo de Zaragoza",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Tlahualilo",
+                "postcode": "35255",
+                "state": "Durango",
+                "state_code": "DUR",
+                "town": "Tlahualilo de Zaragoza"
+            },
+            "confidence": 7,
+            "formatted": "35255 Tlahualilo de Zaragoza, DUR, Mexico",
+            "geometry": {
+                "lat": 26.1116297,
+                "lng": -103.442506
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:06:06 GMT",
+        "created_unix": 1711753566
+    },
+    "total_results": 1
+}

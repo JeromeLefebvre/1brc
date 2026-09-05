@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 215,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 27' 48.54744'' N",
+                    "lng": "0\u00b0 8' 52.99872'' E"
+                },
+                "MGRS": "31UCT0189805226",
+                "Maidenhead": "JO01bl71sf",
+                "Mercator": {
+                    "x": 16481.429,
+                    "y": 6670247.76
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=27485894#map=17/51.46349/0.14806",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.46349/0.14806&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.46349&mlon=0.14806#map=17/51.46349/0.14806"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "u10hg2eu9cjbnxteqn3c",
+                "qibla": 119.25,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713933900,
+                        "astronomical": 1713925620,
+                        "civil": 1713931740,
+                        "nautical": 1713928920
+                    },
+                    "set": {
+                        "apparent": 1713985860,
+                        "astronomical": 1713994200,
+                        "civil": 1713988080,
+                        "nautical": 1713990900
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "voices.rinse.beard"
+                },
+                "wikidata": "Q146732"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5034854,
+                    "lng": 0.1880552
+                },
+                "southwest": {
+                    "lat": 51.4234854,
+                    "lng": 0.1080552
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bexleyheath",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "postcode": "DA7 4LN",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "town": "Bexleyheath"
+            },
+            "confidence": 7,
+            "formatted": "Bexleyheath, DA7 4LN, United Kingdom",
+            "geometry": {
+                "lat": 51.4634854,
+                "lng": 0.1480552
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:27:55 GMT",
+        "created_unix": 1713997675
+    },
+    "total_results": 1
+}

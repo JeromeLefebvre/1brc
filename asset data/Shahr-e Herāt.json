@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 346,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 20' 53.41200'' N",
+                    "lng": "62\u00b0 11' 58.81200'' E"
+                },
+                "MGRS": "41SMU2639301051",
+                "Maidenhead": "MM14ci33xn",
+                "Mercator": {
+                    "x": 6924035.592,
+                    "y": 4051541.081
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/34.34817/62.19967&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.34817&mlon=62.19967#map=16/34.34817/62.19967"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AF": "004",
+                        "ASIA": "142",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 93,
+                "currency": {
+                    "alternate_symbols": [
+                        "Af",
+                        "Afs"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "AFN",
+                    "iso_numeric": "971",
+                    "name": "Afghan Afghani",
+                    "smallest_denomination": 100,
+                    "subunit": "Pul",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u060b",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde6\ud83c\uddeb",
+                "geohash": "tqh5rkukt6grpcnx43nn",
+                "qibla": 242.54,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713834660,
+                        "astronomical": 1713915660,
+                        "civil": 1713833100,
+                        "nautical": 1713831240
+                    },
+                    "set": {
+                        "apparent": 1713882480,
+                        "astronomical": 1713887940,
+                        "civil": 1713884040,
+                        "nautical": 1713885960
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kabul",
+                    "now_in_dst": 0,
+                    "offset_sec": 16200,
+                    "offset_string": "+0430",
+                    "short_name": "+0430"
+                },
+                "what3words": {
+                    "words": "wardrobe.hooks.skewing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.379501,
+                    "lng": 62.222958
+                },
+                "southwest": {
+                    "lat": 34.325291,
+                    "lng": 62.168198
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AF",
+                "ISO_3166-1_alpha-3": "AFG",
+                "_category": "place",
+                "_normalized_city": "Her\u0101t",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Afghanistan",
+                "country_code": "af",
+                "state": "Herat",
+                "town": "Her\u0101t"
+            },
+            "confidence": 7,
+            "formatted": "Her\u0101t, Herat, Afghanistan",
+            "geometry": {
+                "lat": 34.34817,
+                "lng": 62.19967
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:30:30 GMT",
+        "created_unix": 1713853830
+    },
+    "total_results": 1
+}

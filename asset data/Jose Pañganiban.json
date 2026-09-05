@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 433,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "14\u00b0 17' 25.23624'' N",
+                    "lng": "122\u00b0 41' 29.37840'' E"
+                },
+                "MGRS": "51PVR6672679859",
+                "Maidenhead": "PK14ig29xq",
+                "Mercator": {
+                    "x": 13657954.637,
+                    "y": 1597007.348
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=198515118#map=17/14.29034/122.69149",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/14.29034/122.69149&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=14.29034&mlon=122.69149#map=17/14.29034/122.69149"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdx1rcmpr10dz4333uz9",
+                "qibla": 289.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711835280,
+                        "astronomical": 1711831020,
+                        "civil": 1711833960,
+                        "nautical": 1711832460
+                    },
+                    "set": {
+                        "apparent": 1711792800,
+                        "astronomical": 1711797060,
+                        "civil": 1711794060,
+                        "nautical": 1711795560
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "sanctified.enforcement.peepholes"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 14.3303434,
+                    "lng": 122.731494
+                },
+                "southwest": {
+                    "lat": 14.2503434,
+                    "lng": 122.651494
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-05",
+                    "PH-CAN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Jose Panganiban",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "postcode": "4606",
+                "region": "Bicol Region",
+                "state": "Camarines Norte",
+                "state_code": "CAN",
+                "town": "Jose Panganiban"
+            },
+            "confidence": 7,
+            "formatted": "Jose Panganiban, 4606 Bicol Region Camarines Norte, Philippines",
+            "geometry": {
+                "lat": 14.2903434,
+                "lng": 122.691494
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:37:41 GMT",
+        "created_unix": 1711834661
+    },
+    "total_results": 1
+}

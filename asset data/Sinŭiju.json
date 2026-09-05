@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1543,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 5' 38.67288'' N",
+                    "lng": "124\u00b0 23' 51.92124'' E"
+                },
+                "MGRS": "51TXE1915039134",
+                "Maidenhead": "PN20ec72rn",
+                "Mercator": {
+                    "x": 13847894.843,
+                    "y": 4852097.852
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=356539#map=17/40.09408/124.39776",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.09408/124.39776&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.09408&mlon=124.39776#map=17/40.09408/124.39776"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KP": "408",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 850,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KPW",
+                    "iso_numeric": "408",
+                    "name": "North Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit": "Ch\u014fn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a9",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf5",
+                "geohash": "wz0kndzsvv3y1z618px2",
+                "qibla": 283.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713991980,
+                        "astronomical": 1713985980,
+                        "civil": 1713990240,
+                        "nautical": 1713988200
+                    },
+                    "set": {
+                        "apparent": 1713954540,
+                        "astronomical": 1713960540,
+                        "civil": 1713956280,
+                        "nautical": 1713958320
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Pyongyang",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "lodge.campus.extensive"
+                },
+                "wikidata": "Q156243"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.1751531,
+                    "lng": 124.5461444
+                },
+                "southwest": {
+                    "lat": 40.0180428,
+                    "lng": 124.3344252
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KP",
+                "ISO_3166-1_alpha-3": "PRK",
+                "ISO_3166-2": [
+                    "KP-03"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sinuiju-si",
+                "_type": "city",
+                "city": "Sinuiju-si",
+                "continent": "Asia",
+                "country": "North Korea",
+                "country_code": "kp",
+                "state": "North Pyongan"
+            },
+            "confidence": 5,
+            "formatted": "Sinuiju-si, North Pyongan, North Korea",
+            "geometry": {
+                "lat": 40.0940758,
+                "lng": 124.3977559
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:42:11 GMT",
+        "created_unix": 1713994931
+    },
+    "total_results": 1
+}

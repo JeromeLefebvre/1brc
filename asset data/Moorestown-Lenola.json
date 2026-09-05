@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1082,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 57' 41.74020'' N",
+                    "lng": "74\u00b0 57' 40.03524'' W"
+                },
+                "FIPS": {
+                    "county": "34005",
+                    "state": "34"
+                },
+                "MGRS": "18SWK0332023495",
+                "Maidenhead": "FM29mx40ps",
+                "Mercator": {
+                    "x": -8344633.812,
+                    "y": 4832913.975
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=170770#map=16/39.96159/-74.96112",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/39.96159/-74.96112&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.96159&mlon=-74.96112#map=16/39.96159/-74.96112"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4eq4ycpm0urztyvbf1",
+                "qibla": 57.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714816620,
+                        "astronomical": 1714810320,
+                        "civil": 1714814820,
+                        "nautical": 1714812660
+                    },
+                    "set": {
+                        "apparent": 1714867020,
+                        "astronomical": 1714786920,
+                        "civil": 1714782420,
+                        "nautical": 1714784580
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "flats.vets.tricks"
+                },
+                "wikidata": "Q1084401"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.9853,
+                    "lng": -74.92156
+                },
+                "southwest": {
+                    "lat": 39.9377979,
+                    "lng": -75.005502
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "unknown",
+                "_normalized_city": "Moorestown Township",
+                "_type": "census-designated",
+                "census-designated": "Moorestown-Lenola",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Burlington County",
+                "postcode": "08057",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "town": "Moorestown Township"
+            },
+            "confidence": 7,
+            "formatted": "Moorestown-Lenola, Moorestown Township, NJ 08057, United States of America",
+            "geometry": {
+                "lat": 39.9615945,
+                "lng": -74.9611209
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:09:25 GMT",
+        "created_unix": 1714788565
+    },
+    "total_results": 1
+}

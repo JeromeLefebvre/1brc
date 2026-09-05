@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 3,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "28\u00b0 10' 43.19004'' S",
+                    "lng": "153\u00b0 32' 13.19496'' E"
+                },
+                "MGRS": "56JNP5271282889",
+                "Maidenhead": "QG61st47kc",
+                "Mercator": {
+                    "x": 17091660.502,
+                    "y": -3251345.105
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6070206#map=17/-28.17866/153.53700",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-28.17866/153.53700&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-28.17866&mlon=153.53700#map=17/-28.17866/153.53700"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AU": "036",
+                        "AUSTRALASIA": "053",
+                        "OCEANIA": "009",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 61,
+                "currency": {
+                    "alternate_symbols": [
+                        "A$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "A$",
+                    "html_entity": "$",
+                    "iso_code": "AUD",
+                    "iso_numeric": "036",
+                    "name": "Australian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde6\ud83c\uddfa",
+                "geohash": "r6vpty4prk7fr7c2jqzc",
+                "qibla": 279.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714594380,
+                        "astronomical": 1714589580,
+                        "civil": 1714592940,
+                        "nautical": 1714591260
+                    },
+                    "set": {
+                        "apparent": 1714547580,
+                        "astronomical": 1714552320,
+                        "civil": 1714549020,
+                        "nautical": 1714550700
+                    }
+                },
+                "timezone": {
+                    "name": "Australia/Sydney",
+                    "now_in_dst": 0,
+                    "offset_sec": 36000,
+                    "offset_string": "+1000",
+                    "short_name": "AEST"
+                },
+                "what3words": {
+                    "words": "tombs.exotic.oatmeal"
+                },
+                "wikidata": "Q606344"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -28.1644386,
+                    "lng": 153.5565708
+                },
+                "southwest": {
+                    "lat": -28.1914424,
+                    "lng": 153.5200802
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "AU",
+                "ISO_3166-1_alpha-3": "AUS",
+                "ISO_3166-2": [
+                    "AU-NSW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tweed Heads",
+                "_type": "neighbourhood",
+                "continent": "Oceania",
+                "country": "Australia",
+                "country_code": "au",
+                "municipality": "Tweed Shire Council",
+                "postcode": "2485",
+                "state": "New South Wales",
+                "state_code": "NSW",
+                "suburb": "Tweed Heads"
+            },
+            "confidence": 7,
+            "formatted": "Tweed Heads NSW 2485, Australia",
+            "geometry": {
+                "lat": -28.1786639,
+                "lng": 153.5369986
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:41:27 GMT",
+        "created_unix": 1714545687
+    },
+    "total_results": 1
+}

@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1892,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 54' 33.48144'' N",
+                    "lng": "14\u00b0 12' 24.60744'' E"
+                },
+                "MGRS": "33TVF3320128991",
+                "Maidenhead": "JN70cv48tf",
+                "Mercator": {
+                    "x": 1581497.683,
+                    "y": 4970984.733
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF3"
+                    },
+                    "NUTS3": {
+                        "code": "ITF33"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=40874#map=17/40.90930/14.20684",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.90930/14.20684&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.90930&mlon=14.20684#map=17/40.90930/14.20684"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr60er31gq262u3qed18",
+                "qibla": 124.21,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714708800,
+                        "astronomical": 1714702380,
+                        "civil": 1714707000,
+                        "nautical": 1714704780
+                    },
+                    "set": {
+                        "apparent": 1714759260,
+                        "astronomical": 1714765680,
+                        "civil": 1714761060,
+                        "nautical": 1714763280
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "bounded.figs.scooter"
+                },
+                "wikidata": "Q72279"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.9219913,
+                    "lng": 14.2260881
+                },
+                "southwest": {
+                    "lat": 40.8979898,
+                    "lng": 14.1919816
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-72",
+                    "IT-NA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mugnano di Napoli",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Napoli",
+                "county_code": "NA",
+                "political_union": "European Union",
+                "postcode": "80018",
+                "state": "Campania",
+                "state_code": "CAM",
+                "town": "Mugnano di Napoli"
+            },
+            "confidence": 7,
+            "formatted": "80018 Mugnano di Napoli NA, Italy",
+            "geometry": {
+                "lat": 40.9093004,
+                "lng": 14.2068354
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:33:49 GMT",
+        "created_unix": 1714696429
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1198,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 43' 34.93344'' N",
+                    "lng": "31\u00b0 47' 54.17304'' E"
+                },
+                "MGRS": "36RUU8495599893",
+                "Maidenhead": "KM50vr54th",
+                "Mercator": {
+                    "x": 3539779.625,
+                    "y": 3575435.274
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=768593719#map=16/30.72637/31.79838",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.72637/31.79838&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.72637&mlon=31.79838#map=16/30.72637/31.79838"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "stqwg9df5fxdyk47ynsk",
+                "qibla": 140.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714533000,
+                        "astronomical": 1714527720,
+                        "civil": 1714531440,
+                        "nautical": 1714529640
+                    },
+                    "set": {
+                        "apparent": 1714581000,
+                        "astronomical": 1714586280,
+                        "civil": 1714582560,
+                        "nautical": 1714584360
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "bluffing.pointer.removal"
+                },
+                "wikidata": "Q951439"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.8863704,
+                    "lng": 31.9583814
+                },
+                "southwest": {
+                    "lat": 30.5663704,
+                    "lng": 31.6383814
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-SHR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Faqous",
+                "_type": "city",
+                "city": "Faqous",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "postcode": "44641",
+                "state": "Eastern"
+            },
+            "confidence": 3,
+            "formatted": "Faqous, Eastern, Egypt",
+            "geometry": {
+                "lat": 30.7263704,
+                "lng": 31.7983814
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:18:14 GMT",
+        "created_unix": 1714533494
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2402,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 20' 42.39420'' N",
+                    "lng": "74\u00b0 11' 2.51592'' W"
+                },
+                "FIPS": {
+                    "county": "34025",
+                    "state": "34"
+                },
+                "MGRS": "18TWK6929966381",
+                "Maidenhead": "FN20vi72vt",
+                "Mercator": {
+                    "x": -8258128.689,
+                    "y": 4888552.176
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=961379#map=17/40.34511/-74.18403",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.34511/-74.18403&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.34511&mlon=-74.18403#map=17/40.34511/-74.18403"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5jxbsg6c82e6mrwn2s",
+                "qibla": 58.38,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714730040,
+                        "astronomical": 1714723740,
+                        "civil": 1714728240,
+                        "nautical": 1714726080
+                    },
+                    "set": {
+                        "apparent": 1714780440,
+                        "astronomical": 1714700400,
+                        "civil": 1714695840,
+                        "nautical": 1714698000
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "affair.fishery.return"
+                },
+                "wikidata": "Q1474335"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.426786,
+                    "lng": -74.133239
+                },
+                "southwest": {
+                    "lat": 40.324526,
+                    "lng": -74.209053
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Holmdel Township",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Monmouth County",
+                "postcode": "07733",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "township": "Holmdel Township"
+            },
+            "confidence": 7,
+            "formatted": "Holmdel Township, NJ 07733, United States of America",
+            "geometry": {
+                "lat": 40.3451095,
+                "lng": -74.1840322
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:03:44 GMT",
+        "created_unix": 1714694624
+    },
+    "total_results": 1
+}

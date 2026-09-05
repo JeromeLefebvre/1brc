@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1729,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 25' 43.52772'' N",
+                    "lng": "65\u00b0 57' 18.49608'' W"
+                },
+                "MGRS": "20TKR6883434830",
+                "Maidenhead": "FN75ak52jv",
+                "Mercator": {
+                    "x": -7342092.355,
+                    "y": 5658823.656
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=111878764#map=17/45.42876/-65.95514",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.42876/-65.95514&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.42876&mlon=-65.95514#map=17/45.42876/-65.95514"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "f8147nhctyhxrcv2p3eb",
+                "qibla": 64.01,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714036920,
+                        "astronomical": 1714030020,
+                        "civil": 1714035000,
+                        "nautical": 1714032600
+                    },
+                    "set": {
+                        "apparent": 1714087380,
+                        "astronomical": 1714007880,
+                        "civil": 1714089300,
+                        "nautical": 1714005240
+                    }
+                },
+                "timezone": {
+                    "name": "America/Moncton",
+                    "now_in_dst": 1,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "ADT"
+                },
+                "what3words": {
+                    "words": "strand.combination.discontent"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.5045781,
+                    "lng": -65.870622
+                },
+                "southwest": {
+                    "lat": 45.3880258,
+                    "lng": -66.0100091
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-NB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Quispamsis",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Rothesay Parish",
+                "state": "New Brunswick",
+                "state_code": "NB",
+                "town": "Quispamsis"
+            },
+            "confidence": 6,
+            "formatted": "Quispamsis, NB, Canada",
+            "geometry": {
+                "lat": 45.4287577,
+                "lng": -65.9551378
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:34:40 GMT",
+        "created_unix": 1714005280
+    },
+    "total_results": 1
+}

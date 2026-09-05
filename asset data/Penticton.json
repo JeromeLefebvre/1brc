@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2377,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 30' 1.17648'' N",
+                    "lng": "119\u00b0 35' 35.69640'' W"
+                },
+                "MGRS": "11ULQ1224086309",
+                "Maidenhead": "DN09em80tb",
+                "Mercator": {
+                    "x": -13313059.581,
+                    "y": 6327677.043
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2229870#map=16/49.50033/-119.59325",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/49.50033/-119.59325&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.50033&mlon=-119.59325#map=16/49.50033/-119.59325"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c2fcwe6b73dpn1pwf7jb",
+                "qibla": 19.98,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714825860,
+                        "astronomical": 1714817340,
+                        "civil": 1714823640,
+                        "nautical": 1714820820
+                    },
+                    "set": {
+                        "apparent": 1714792860,
+                        "astronomical": 1714801380,
+                        "civil": 1714795020,
+                        "nautical": 1714797900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Vancouver",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "privately.hounded.widest"
+                },
+                "wikidata": "Q935519"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.5559042,
+                    "lng": -119.5146863
+                },
+                "southwest": {
+                    "lat": 49.4224574,
+                    "lng": -119.6166799
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-BC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Penticton",
+                "_type": "city",
+                "city": "Penticton",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Regional District of Okanagan-Similkameen",
+                "state": "British Columbia",
+                "state_code": "BC"
+            },
+            "confidence": 6,
+            "formatted": "Penticton, BC, Canada",
+            "geometry": {
+                "lat": 49.5003268,
+                "lng": -119.593249
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:27:00 GMT",
+        "created_unix": 1714786020
+    },
+    "total_results": 1
+}

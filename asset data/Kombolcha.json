@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1169,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "11\u00b0 4' 52.88988'' N",
+                    "lng": "39\u00b0 44' 27.14352'' E"
+                },
+                "MGRS": "37PEN8091525075",
+                "Maidenhead": "KK91ub89vm",
+                "Mercator": {
+                    "x": 4423933.768,
+                    "y": 1233127.072
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=298296176#map=17/11.08136/39.74087",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/11.08136/39.74087&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=11.08136&mlon=39.74087#map=17/11.08136/39.74087"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "scur0363t6yv4d7k3nsd",
+                "qibla": 0.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714618980,
+                        "astronomical": 1714614600,
+                        "civil": 1714617660,
+                        "nautical": 1714616160
+                    },
+                    "set": {
+                        "apparent": 1714663980,
+                        "astronomical": 1714668420,
+                        "civil": 1714665300,
+                        "nautical": 1714666860
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "manhole.blackbird.steer"
+                },
+                "wikidata": "Q222420"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 11.2413583,
+                    "lng": 39.9008732
+                },
+                "southwest": {
+                    "lat": 10.9213583,
+                    "lng": 39.5808732
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "ISO_3166-2": [
+                    "ET-AM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kombolcha",
+                "_type": "city",
+                "city": "Kombolcha",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "state": "Amhara Region",
+                "state_district": "South Wollo"
+            },
+            "confidence": 3,
+            "formatted": "Kombolcha, South Wollo, Ethiopia",
+            "geometry": {
+                "lat": 11.0813583,
+                "lng": 39.7408732
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:50:05 GMT",
+        "created_unix": 1714693805
+    },
+    "total_results": 1
+}

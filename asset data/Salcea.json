@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1762,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 39' 1.95228'' N",
+                    "lng": "26\u00b0 22' 26.02272'' E"
+                },
+                "MGRS": "35TMN5298077650",
+                "Maidenhead": "KN37ep46ud",
+                "Mercator": {
+                    "x": 2935928.584,
+                    "y": 6017318.935
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "RO"
+                    },
+                    "NUTS1": {
+                        "code": "RO2"
+                    },
+                    "NUTS2": {
+                        "code": "RO21"
+                    },
+                    "NUTS3": {
+                        "code": "RO215"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=14778262#map=17/47.65054/26.37390",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.65054/26.37390&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.65054&mlon=26.37390#map=17/47.65054/26.37390"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RO": "642",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 40,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "RON",
+                    "iso_numeric": "946",
+                    "name": "Romanian Leu",
+                    "smallest_denomination": 1,
+                    "subunit": "Bani",
+                    "subunit_to_unit": 100,
+                    "symbol": "Lei",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddf4",
+                "geohash": "u86z04sbs2cseyn85prx",
+                "qibla": 152.89,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714446000,
+                        "astronomical": 1714438380,
+                        "civil": 1714443960,
+                        "nautical": 1714441380
+                    },
+                    "set": {
+                        "apparent": 1714497900,
+                        "astronomical": 1714505520,
+                        "civil": 1714499940,
+                        "nautical": 1714502520
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Bucharest",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "boater.shades.guard"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.6935652,
+                    "lng": 26.4142672
+                },
+                "southwest": {
+                    "lat": 47.6010716,
+                    "lng": 26.2964325
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RO",
+                "ISO_3166-1_alpha-3": "ROU",
+                "ISO_3166-2": [
+                    "RO-SV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Salcea",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Romania",
+                "country_code": "ro",
+                "county": "Suceava",
+                "municipality": "Salcea",
+                "political_union": "European Union"
+            },
+            "confidence": 7,
+            "formatted": "Salcea, Suceava, Romania",
+            "geometry": {
+                "lat": 47.6505423,
+                "lng": 26.3738952
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:18:28 GMT",
+        "created_unix": 1714519108
+    },
+    "total_results": 1
+}

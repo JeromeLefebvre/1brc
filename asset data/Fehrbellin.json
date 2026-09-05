@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1048,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 48' 51.19812'' N",
+                    "lng": "12\u00b0 45' 54.77148'' E"
+                },
+                "MGRS": "33UUU4939053945",
+                "Maidenhead": "JO62jt15tj",
+                "Mercator": {
+                    "x": 1421017.156,
+                    "y": 6914642.942
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE4"
+                    },
+                    "NUTS2": {
+                        "code": "DE40"
+                    },
+                    "NUTS3": {
+                        "code": "DE40D"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1302389#map=17/52.81422/12.76521",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.81422/12.76521&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.81422&mlon=12.76521#map=17/52.81422/12.76521"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u33h6qx35h98j7z15jm2",
+                "qibla": 136.07,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714620900,
+                        "astronomical": 1714611240,
+                        "civil": 1714618500,
+                        "nautical": 1714615380
+                    },
+                    "set": {
+                        "apparent": 1714675080,
+                        "astronomical": 1714684920,
+                        "civil": 1714677480,
+                        "nautical": 1714680660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "holder.erasable.deranged"
+                },
+                "wikidata": "Q626792"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.8673078,
+                    "lng": 12.9857831
+                },
+                "southwest": {
+                    "lat": 52.6810392,
+                    "lng": 12.6459753
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fehrbellin",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Ostprignitz-Ruppin",
+                "political_union": "European Union",
+                "postcode": "16833",
+                "state": "Brandenburg",
+                "state_code": "BB",
+                "town": "Fehrbellin"
+            },
+            "confidence": 4,
+            "formatted": "16833 Fehrbellin, Germany",
+            "geometry": {
+                "lat": 52.8142217,
+                "lng": 12.7652143
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:54:26 GMT",
+        "created_unix": 1714694066
+    },
+    "total_results": 1
+}

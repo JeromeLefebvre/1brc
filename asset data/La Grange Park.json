@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 63,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 50' 0.11256'' N",
+                    "lng": "87\u00b0 52' 3.83664'' W"
+                },
+                "FIPS": {
+                    "county": "17031",
+                    "state": "17"
+                },
+                "MGRS": "16TDM2794831639",
+                "Maidenhead": "EN61bu50ua",
+                "Mercator": {
+                    "x": -9781391.228,
+                    "y": 5107544.625
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=123437#map=17/41.83336/-87.86773",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.83336/-87.86773&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.83336&mlon=-87.86773#map=17/41.83336/-87.86773"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp3tbx89j2mun9wyfn8p",
+                "qibla": 48.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714819440,
+                        "astronomical": 1714812840,
+                        "civil": 1714817580,
+                        "nautical": 1714815360
+                    },
+                    "set": {
+                        "apparent": 1714783980,
+                        "astronomical": 1714790580,
+                        "civil": 1714785840,
+                        "nautical": 1714788120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "human.fast.splash"
+                },
+                "wikidata": "Q2358179"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.8444469,
+                    "lng": -87.851813
+                },
+                "southwest": {
+                    "lat": 41.8192442,
+                    "lng": -87.8908649
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Grange Park",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Cook County",
+                "municipality": "Proviso Township",
+                "postcode": "60526",
+                "state": "Illinois",
+                "state_code": "IL",
+                "village": "La Grange Park"
+            },
+            "confidence": 7,
+            "formatted": "La Grange Park, Proviso Township, IL 60526, United States of America",
+            "geometry": {
+                "lat": 41.8333646,
+                "lng": -87.8677324
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:15:11 GMT",
+        "created_unix": 1714796111
+    },
+    "total_results": 1
+}

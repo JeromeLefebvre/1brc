@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2130,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 46' 15.54600'' N",
+                    "lng": "11\u00b0 6' 25.97400'' E"
+                },
+                "MGRS": "32TPP6959448595",
+                "Maidenhead": "JN53ns25ua",
+                "Mercator": {
+                    "x": 1236449.518,
+                    "y": 5400500.818
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI1"
+                    },
+                    "NUTS3": {
+                        "code": "ITI14"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=42587#map=17/43.77099/11.10722",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.77099/11.10722&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.77099&mlon=11.10722#map=17/43.77099/11.10722"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "spzchb202ygzcnw5mpf1",
+                "qibla": 123.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018620,
+                        "astronomical": 1714012080,
+                        "civil": 1714016760,
+                        "nautical": 1714014540
+                    },
+                    "set": {
+                        "apparent": 1714068600,
+                        "astronomical": 1714075260,
+                        "civil": 1714070460,
+                        "nautical": 1714072740
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "composed.detect.includes"
+                },
+                "wikidata": "Q82751"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.7824764,
+                    "lng": 11.134381
+                },
+                "southwest": {
+                    "lat": 43.7031803,
+                    "lng": 11.0284704
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-52",
+                    "IT-FI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Lastra a Signa",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Florence",
+                "county_code": "FI",
+                "political_union": "European Union",
+                "postcode": "50055",
+                "state": "Tuscany",
+                "town": "Lastra a Signa"
+            },
+            "confidence": 7,
+            "formatted": "50055 Lastra a Signa FI, Italy",
+            "geometry": {
+                "lat": 43.770985,
+                "lng": 11.107215
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:17:00 GMT",
+        "created_unix": 1714004220
+    },
+    "total_results": 1
+}

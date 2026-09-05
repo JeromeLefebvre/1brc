@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 948,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 5' 2.37732'' N",
+                    "lng": "93\u00b0 13' 33.98736'' W"
+                },
+                "FIPS": {
+                    "county": "27147",
+                    "state": "27"
+                },
+                "MGRS": "15TVJ8189781226",
+                "Maidenhead": "EN34jc20ud",
+                "Mercator": {
+                    "x": -10377882.827,
+                    "y": 5448712.18
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=137826#map=16/44.08399/-93.22611",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/44.08399/-93.22611&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.08399&mlon=-93.22611#map=16/44.08399/-93.22611"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zvdy94zfhpcd4xgmce6",
+                "qibla": 44.0,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713870960,
+                        "astronomical": 1713864420,
+                        "civil": 1713869100,
+                        "nautical": 1713866880
+                    },
+                    "set": {
+                        "apparent": 1713834420,
+                        "astronomical": 1713841020,
+                        "civil": 1713836280,
+                        "nautical": 1713838560
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "fire.scuba.slick"
+                },
+                "wikidata": "Q853577"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.1457406,
+                    "lng": -93.1790558
+                },
+                "southwest": {
+                    "lat": 44.0593214,
+                    "lng": -93.2837386
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Owatonna",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Steele County",
+                "postcode": "55060",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Owatonna"
+            },
+            "confidence": 7,
+            "formatted": "Owatonna, MN 55060, United States of America",
+            "geometry": {
+                "lat": 44.0839937,
+                "lng": -93.2261076
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:06:21 GMT",
+        "created_unix": 1713852381
+    },
+    "total_results": 1
+}

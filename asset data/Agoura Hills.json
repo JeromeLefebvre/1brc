@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1909,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 8' 52.47600'' N",
+                    "lng": "118\u00b0 45' 56.53512'' W"
+                },
+                "FIPS": {
+                    "state": "06"
+                },
+                "MGRS": "11SLT3721479964",
+                "Maidenhead": "DM04od85cl",
+                "Mercator": {
+                    "x": -13220937.715,
+                    "y": 4024695.649
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7876409#map=17/34.14791/-118.76570",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.14791/-118.76570&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.14791&mlon=-118.76570#map=17/34.14791/-118.76570"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9q5d32mmyxb3d73tnt1c",
+                "qibla": 23.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711719960,
+                        "astronomical": 1711714920,
+                        "civil": 1711718460,
+                        "nautical": 1711716720
+                    },
+                    "set": {
+                        "apparent": 1711678380,
+                        "astronomical": 1711683480,
+                        "civil": 1711679940,
+                        "nautical": 1711681680
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "nature.lion.surviving"
+                },
+                "wikidata": "Q395793"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.1682226,
+                    "lng": -118.7197537
+                },
+                "southwest": {
+                    "lat": 34.125332,
+                    "lng": -118.800352
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Agoura Hills",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Agoura Hills"
+            },
+            "confidence": 7,
+            "formatted": "Agoura Hills, California, United States of America",
+            "geometry": {
+                "lat": 34.14791,
+                "lng": -118.7657042
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:09:11 GMT",
+        "created_unix": 1711750151
+    },
+    "total_results": 1
+}

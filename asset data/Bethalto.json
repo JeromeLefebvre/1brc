@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2180,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 54' 33.76404'' N",
+                    "lng": "90\u00b0 2' 26.36448'' W"
+                },
+                "FIPS": {
+                    "county": "17119",
+                    "state": "17"
+                },
+                "MGRS": "15SYD5660510884",
+                "Maidenhead": "EM48xv58cg",
+                "Mercator": {
+                    "x": -10023280.066,
+                    "y": 4681857.532
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=126625#map=17/38.90938/-90.04066",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.90938/-90.04066&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.90938&mlon=-90.04066#map=17/38.90938/-90.04066"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yzvr54rs9ujfyqgegfn",
+                "qibla": 47.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714561320,
+                        "astronomical": 1714555260,
+                        "civil": 1714559640,
+                        "nautical": 1714557540
+                    },
+                    "set": {
+                        "apparent": 1714524720,
+                        "astronomical": 1714530840,
+                        "civil": 1714526460,
+                        "nautical": 1714528560
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "restaurants.sourcing.vines"
+                },
+                "wikidata": "Q383168"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.93116,
+                    "lng": -90.01117
+                },
+                "southwest": {
+                    "lat": 38.869924,
+                    "lng": -90.081954
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bethalto",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Madison County",
+                "state": "Illinois",
+                "state_code": "IL",
+                "village": "Bethalto"
+            },
+            "confidence": 7,
+            "formatted": "Bethalto, Madison County, Illinois, United States of America",
+            "geometry": {
+                "lat": 38.9093789,
+                "lng": -90.0406568
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:13:40 GMT",
+        "created_unix": 1714522420
+    },
+    "total_results": 1
+}

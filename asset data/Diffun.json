@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 900,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 35' 36.70476'' N",
+                    "lng": "121\u00b0 30' 8.72892'' E"
+                },
+                "MGRS": "51QUU4023835186",
+                "Maidenhead": "PK06so02gk",
+                "Mercator": {
+                    "x": 13525588.048,
+                    "y": 1861364.455
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=16059065#map=17/16.59353/121.50242",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.59353/121.50242&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.59353&mlon=121.50242#map=17/16.59353/121.50242"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdyqkug27dn2smu8mpfh",
+                "qibla": 288.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714944480,
+                        "astronomical": 1714939920,
+                        "civil": 1714943160,
+                        "nautical": 1714941540
+                    },
+                    "set": {
+                        "apparent": 1714903980,
+                        "astronomical": 1714908600,
+                        "civil": 1714905360,
+                        "nautical": 1714906980
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "significance.delegating.backflips"
+                },
+                "wikidata": "Q53071"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 16.6451327,
+                    "lng": 121.5716008
+                },
+                "southwest": {
+                    "lat": 16.4205958,
+                    "lng": 121.3803866
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-02",
+                    "PH-QUI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Diffun",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "region": "Cagayan Valley",
+                "state": "Quirino",
+                "state_code": "QUI",
+                "town": "Diffun"
+            },
+            "confidence": 4,
+            "formatted": "Diffun, Quirino, Philippines",
+            "geometry": {
+                "lat": 16.5935291,
+                "lng": 121.5024247
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:23:53 GMT",
+        "created_unix": 1714947833
+    },
+    "total_results": 1
+}

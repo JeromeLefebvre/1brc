@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2046,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 31' 6.15396'' N",
+                    "lng": "9\u00b0 45' 18.31284'' E"
+                },
+                "MGRS": "32TNR5897340815",
+                "Maidenhead": "JN45vm04oj",
+                "Mercator": {
+                    "x": 1085931.306,
+                    "y": 5673003.323
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC46"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45160#map=16/45.51838/9.75509",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.51838/9.75509&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.51838&mlon=9.75509#map=16/45.51838/9.75509"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0nfvyr7y021bh2cm1p7",
+                "qibla": 124.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795500,
+                        "astronomical": 1714788240,
+                        "civil": 1714793520,
+                        "nautical": 1714791060
+                    },
+                    "set": {
+                        "apparent": 1714847460,
+                        "astronomical": 1714854780,
+                        "civil": 1714849440,
+                        "nautical": 1714851960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "gallons.similar.attracts"
+                },
+                "wikidata": "Q101512"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.5482936,
+                    "lng": 9.797129
+                },
+                "southwest": {
+                    "lat": 45.4978707,
+                    "lng": 9.7215359
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-BG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Romano di Lombardia",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Bergamo",
+                "county_code": "BG",
+                "political_union": "European Union",
+                "postcode": "24058",
+                "state": "Lombardy",
+                "town": "Romano di Lombardia"
+            },
+            "confidence": 7,
+            "formatted": "24058 Romano di Lombardia BG, Italy",
+            "geometry": {
+                "lat": 45.5183761,
+                "lng": 9.7550869
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:37:47 GMT",
+        "created_unix": 1714786667
+    },
+    "total_results": 1
+}

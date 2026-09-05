@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1569,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 12' 0.00000'' N",
+                    "lng": "8\u00b0 3' 0.00000'' E"
+                },
+                "MGRS": "32UMC3507383708",
+                "Maidenhead": "JO42ae68aa",
+                "Mercator": {
+                    "x": 896121.901,
+                    "y": 6802584.217
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE94"
+                    },
+                    "NUTS3": {
+                        "code": "DE94E"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1819454#map=16/52.20000/8.05000",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/52.20000/8.05000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.20000&mlon=8.05000#map=16/52.20000/8.05000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1m8zntz4970cyepj323",
+                "qibla": 129.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713845640,
+                        "astronomical": 1713837180,
+                        "civil": 1713843420,
+                        "nautical": 1713840540
+                    },
+                    "set": {
+                        "apparent": 1713897540,
+                        "astronomical": 1713906120,
+                        "civil": 1713899820,
+                        "nautical": 1713902700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "juggle.remote.system"
+                },
+                "wikidata": "Q16078"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.2402312,
+                    "lng": 8.1518117
+                },
+                "southwest": {
+                    "lat": 52.1676938,
+                    "lng": 7.9895518
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Georgsmarienh\u00fctte",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Osnabr\u00fcck",
+                "political_union": "European Union",
+                "postcode": "49124",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Georgsmarienh\u00fctte"
+            },
+            "confidence": 7,
+            "formatted": "49124 Georgsmarienh\u00fctte, Germany",
+            "geometry": {
+                "lat": 52.2,
+                "lng": 8.05
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 03:12:57 GMT",
+        "created_unix": 1713841977
+    },
+    "total_results": 1
+}

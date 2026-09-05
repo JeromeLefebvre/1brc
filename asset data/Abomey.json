@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2146,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 9' 55.60560'' N",
+                    "lng": "1\u00b0 58' 58.36944'' E"
+                },
+                "MGRS": "31NCH8769292162",
+                "Maidenhead": "JJ07xd79wq",
+                "Mercator": {
+                    "x": 220733.233,
+                    "y": 794415.132
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2946027#map=17/7.16545/1.98288",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/7.16545/1.98288&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.16545&mlon=1.98288#map=17/7.16545/1.98288"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "BJ": "204",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 229,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\uddef",
+                "geohash": "s132v07vsryy26rbguxu",
+                "qibla": 64.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711691580,
+                        "astronomical": 1711687380,
+                        "civil": 1711690320,
+                        "nautical": 1711688880
+                    },
+                    "set": {
+                        "apparent": 1711735260,
+                        "astronomical": 1711739400,
+                        "civil": 1711736520,
+                        "nautical": 1711737960
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Porto-Novo",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "magnetic.commoners.onto"
+                },
+                "wikidata": "Q31550517"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 7.2261104,
+                    "lng": 2.0643267
+                },
+                "southwest": {
+                    "lat": 7.1047314,
+                    "lng": 1.9225933
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BJ",
+                "ISO_3166-1_alpha-3": "BEN",
+                "ISO_3166-2": [
+                    "BJ-ZO"
+                ],
+                "_category": "place",
+                "_type": "county",
+                "continent": "Africa",
+                "country": "Benin",
+                "country_code": "bj",
+                "county": "Abomey",
+                "state": "Zou Department"
+            },
+            "confidence": 6,
+            "formatted": "Abomey, Benin",
+            "geometry": {
+                "lat": 7.165446,
+                "lng": 1.9828804
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:01:29 GMT",
+        "created_unix": 1711749689
+    },
+    "total_results": 1
+}

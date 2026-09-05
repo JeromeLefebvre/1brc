@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1576,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 37' 10.47252'' N",
+                    "lng": "31\u00b0 15' 29.27232'' E"
+                },
+                "MGRS": "36RUT3135077899",
+                "Maidenhead": "KL59po08xq",
+                "Mercator": {
+                    "x": 3479639.248,
+                    "y": 3433628.612
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=768588348#map=17/29.61958/31.25813",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/29.61958/31.25813&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=29.61958&mlon=31.25813#map=17/29.61958/31.25813"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "stq0x216x1pgq6mghpme",
+                "qibla": 134.74,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711684140,
+                        "astronomical": 1711679340,
+                        "civil": 1711682700,
+                        "nautical": 1711681020
+                    },
+                    "set": {
+                        "apparent": 1711728660,
+                        "astronomical": 1711733460,
+                        "civil": 1711730100,
+                        "nautical": 1711731780
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "from.tinsel.rekindle"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 29.6595757,
+                    "lng": 31.2981312
+                },
+                "southwest": {
+                    "lat": 29.5795757,
+                    "lng": 31.2181312
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-GZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Al Ayyat",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "postcode": "12929",
+                "state": "Giza",
+                "town": "Al Ayyat"
+            },
+            "confidence": 7,
+            "formatted": "Al Ayyat, 12929, Egypt",
+            "geometry": {
+                "lat": 29.6195757,
+                "lng": 31.2581312
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:19:48 GMT",
+        "created_unix": 1711750788
+    },
+    "total_results": 1
+}

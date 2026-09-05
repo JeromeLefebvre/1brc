@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 93,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "24\u00b0 36' 25.45200'' N",
+                    "lng": "89\u00b0 54' 54.39600'' E"
+                },
+                "MGRS": "45RYH9517524568",
+                "Maidenhead": "NL44wo95tq",
+                "Mercator": {
+                    "x": 10009304.26,
+                    "y": 2809772.761
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/24.60707/89.91511&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=24.60707&mlon=89.91511#map=17/24.60707/89.91511"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "BD": "050",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 880,
+                "currency": {
+                    "alternate_symbols": [
+                        "Tk"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "",
+                    "iso_code": "BDT",
+                    "iso_numeric": "050",
+                    "name": "Bangladeshi Taka",
+                    "smallest_denomination": 1,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u09f3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde7\ud83c\udde9",
+                "geohash": "turgypd4tfm6jsqqy0tb",
+                "qibla": 276.66,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713656100,
+                        "astronomical": 1713651360,
+                        "civil": 1713654720,
+                        "nautical": 1713653040
+                    },
+                    "set": {
+                        "apparent": 1713615840,
+                        "astronomical": 1713620580,
+                        "civil": 1713617220,
+                        "nautical": 1713618900
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Dhaka",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "inciting.wielded.rewinding"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BD",
+                "ISO_3166-1_alpha-3": "BGD",
+                "_category": "place",
+                "_normalized_city": "Nagdha Simla",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Bangladesh",
+                "country_code": "bd",
+                "state": "Dhaka Division",
+                "state_code": "C",
+                "town": "Nagdha Simla"
+            },
+            "confidence": 9,
+            "formatted": "Nagdha Simla, Dhaka Division, Bangladesh",
+            "geometry": {
+                "lat": 24.60707,
+                "lng": 89.91511
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:08:32 GMT",
+        "created_unix": 1713650912
+    },
+    "total_results": 1
+}

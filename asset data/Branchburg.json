@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 675,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 34' 7.76820'' N",
+                    "lng": "74\u00b0 42' 0.98604'' W"
+                },
+                "FIPS": {
+                    "county": "34035",
+                    "state": "34"
+                },
+                "MGRS": "18TWK2537090937",
+                "Maidenhead": "FN20pn56xm",
+                "Mercator": {
+                    "x": -8315596.452,
+                    "y": 4921154.745
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=963382#map=17/40.56882/-74.70027",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.56882/-74.70027&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.56882&mlon=-74.70027#map=17/40.56882/-74.70027"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr4yu1kft3n8schejdkn",
+                "qibla": 58.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714557480,
+                        "astronomical": 1714551180,
+                        "civil": 1714555680,
+                        "nautical": 1714553520
+                    },
+                    "set": {
+                        "apparent": 1714607640,
+                        "astronomical": 1714527600,
+                        "civil": 1714523040,
+                        "nautical": 1714525200
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "ducks.invents.fostering"
+                },
+                "wikidata": "Q367249"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.635429,
+                    "lng": -74.666423
+                },
+                "southwest": {
+                    "lat": 40.501907,
+                    "lng": -74.774763
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Branchburg Township",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Somerset County",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "township": "Branchburg Township"
+            },
+            "confidence": 6,
+            "formatted": "Branchburg Township, New Jersey, United States of America",
+            "geometry": {
+                "lat": 40.5688245,
+                "lng": -74.7002739
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:12:42 GMT",
+        "created_unix": 1714543962
+    },
+    "total_results": 1
+}

@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2008,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 48' 5.29884'' N",
+                    "lng": "9\u00b0 25' 58.72332'' E"
+                },
+                "MGRS": "32TNR3364672081",
+                "Maidenhead": "JN45rt12wi",
+                "Mercator": {
+                    "x": 1050074.386,
+                    "y": 5717945.469
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC43"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=46107#map=16/45.80147/9.43298",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.80147/9.43298&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.80147&mlon=9.43298#map=16/45.80147/9.43298"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0nsw9uuum4wp580d4f3",
+                "qibla": 124.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711775220,
+                        "astronomical": 1711769040,
+                        "civil": 1711773420,
+                        "nautical": 1711771260
+                    },
+                    "set": {
+                        "apparent": 1711820820,
+                        "astronomical": 1711827000,
+                        "civil": 1711822620,
+                        "nautical": 1711824780
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "trips.issued.estimate"
+                },
+                "wikidata": "Q42926"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.8153999,
+                    "lng": 9.480412
+                },
+                "southwest": {
+                    "lat": 45.775057,
+                    "lng": 9.414177
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-LC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Calolziocorte",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Lecco",
+                "county_code": "LC",
+                "political_union": "European Union",
+                "postcode": "23801",
+                "state": "Lombardy",
+                "town": "Calolziocorte"
+            },
+            "confidence": 7,
+            "formatted": "23801 Calolziocorte LC, Italy",
+            "geometry": {
+                "lat": 45.8014719,
+                "lng": 9.4329787
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:47:46 GMT",
+        "created_unix": 1711831666
+    },
+    "total_results": 1
+}

@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 541,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 50' 38.15880'' N",
+                    "lng": "41\u00b0 28' 13.32120'' E"
+                },
+                "MGRS": "37UFT7016846565",
+                "Maidenhead": "LO01ru62kn",
+                "Mercator": {
+                    "x": 4616460.137,
+                    "y": 6738334.645
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4760382#map=17/51.84393/41.47037",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.84393/41.47037&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.84393&mlon=41.47037#map=17/51.84393/41.47037"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ucjqztvuc9dfs470x1f0",
+                "qibla": 183.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713665160,
+                        "astronomical": 1713743340,
+                        "civil": 1713662940,
+                        "nautical": 1713660180
+                    },
+                    "set": {
+                        "apparent": 1713716460,
+                        "astronomical": 1713724740,
+                        "civil": 1713718680,
+                        "nautical": 1713721440
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "harder.reworded.coastline"
+                },
+                "wikidata": "Q136223"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.8648972,
+                    "lng": 41.5356016
+                },
+                "southwest": {
+                    "lat": 51.7976821,
+                    "lng": 41.3908853
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-TAM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Zherdevka",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Zherdevsky District",
+                "postcode": "393670",
+                "region": "Central Federal District",
+                "state": "Tambov Oblast",
+                "town": "Zherdevka"
+            },
+            "confidence": 7,
+            "formatted": "Zherdevka, Tambov Oblast, Russia, 393670",
+            "geometry": {
+                "lat": 51.843933,
+                "lng": 41.470367
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:30:33 GMT",
+        "created_unix": 1713666633
+    },
+    "total_results": 1
+}

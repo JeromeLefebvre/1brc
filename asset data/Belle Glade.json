@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1819,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 41' 4.23744'' N",
+                    "lng": "80\u00b0 40' 3.20772'' W"
+                },
+                "FIPS": {
+                    "county": "12099",
+                    "state": "12"
+                },
+                "MGRS": "17RNK3307451535",
+                "Maidenhead": "EL96pq94vg",
+                "Mercator": {
+                    "x": -8979871.447,
+                    "y": 3064927.286
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117746#map=17/26.68451/-80.66756",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.68451/-80.66756&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.68451&mlon=-80.66756#map=17/26.68451/-80.66756"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhwxu3g8t9m2g49f4tk2",
+                "qibla": 56.13,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713955860,
+                        "astronomical": 1713950940,
+                        "civil": 1713954420,
+                        "nautical": 1713952680
+                    },
+                    "set": {
+                        "apparent": 1714002660,
+                        "astronomical": 1713921180,
+                        "civil": 1713917700,
+                        "nautical": 1713919380
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "desks.miracles.noted"
+                },
+                "wikidata": "Q815854"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.7135057,
+                    "lng": -80.6079034
+                },
+                "southwest": {
+                    "lat": 26.6602194,
+                    "lng": -80.7255456
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Belle Glade",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Palm Beach County",
+                "postcode": "33430",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "Belle Glade"
+            },
+            "confidence": 7,
+            "formatted": "Belle Glade, FL 33430, United States of America",
+            "geometry": {
+                "lat": 26.6845104,
+                "lng": -80.6675577
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:32:44 GMT",
+        "created_unix": 1713994364
+    },
+    "total_results": 1
+}

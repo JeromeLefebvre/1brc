@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 254,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 9' 0.68472'' N",
+                    "lng": "5\u00b0 54' 32.60088'' W"
+                },
+                "MGRS": "30STJ4861137474",
+                "Maidenhead": "IM79bd06vb",
+                "Mercator": {
+                    "x": -657793.083,
+                    "y": 4716226.499
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES4"
+                    },
+                    "NUTS2": {
+                        "code": "ES43"
+                    },
+                    "NUTS3": {
+                        "code": "ES432"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1864468#map=17/39.15019/-5.90906",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.15019/-5.90906&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.15019&mlon=-5.90906#map=17/39.15019/-5.90906"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "eygy9x14mh2tk9g6ddpk",
+                "qibla": 100.78,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713505320,
+                        "astronomical": 1713499500,
+                        "civil": 1713503640,
+                        "nautical": 1713501600
+                    },
+                    "set": {
+                        "apparent": 1713553440,
+                        "astronomical": 1713559260,
+                        "civil": 1713555120,
+                        "nautical": 1713557160
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "keys.sigh.unto"
+                },
+                "wikidata": "Q371790"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.1782533,
+                    "lng": -5.8103667
+                },
+                "southwest": {
+                    "lat": 39.0525253,
+                    "lng": -6.0164137
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-EX",
+                    "ES-CC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Miajadas",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "postcode": "10100",
+                "province": "C\u00e1ceres",
+                "state": "Extremadura",
+                "state_code": "EX",
+                "town": "Miajadas"
+            },
+            "confidence": 5,
+            "formatted": "10100 Miajadas, Spain",
+            "geometry": {
+                "lat": 39.1501902,
+                "lng": -5.9090558
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:33:20 GMT",
+        "created_unix": 1713522800
+    },
+    "total_results": 1
+}

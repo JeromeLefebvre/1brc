@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2434,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 55' 36.88392'' N",
+                    "lng": "12\u00b0 29' 50.86788'' E"
+                },
+                "MGRS": "33TTJ9911266799",
+                "Maidenhead": "JN63fw92ql",
+                "Mercator": {
+                    "x": 1391211.251,
+                    "y": 5424485.67
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3012942#map=17/43.92691/12.49746",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.92691/12.49746&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.92691&mlon=12.49746#map=17/43.92691/12.49746"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "SM": "674",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 378,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf2",
+                "geohash": "srbcuksku1bjcvbm82cy",
+                "qibla": 126.01,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714104600,
+                        "astronomical": 1714097940,
+                        "civil": 1714102740,
+                        "nautical": 1714100460
+                    },
+                    "set": {
+                        "apparent": 1714154760,
+                        "astronomical": 1714161420,
+                        "civil": 1714156680,
+                        "nautical": 1714158960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/San_Marino",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "tearfully.manufacturer.globes"
+                },
+                "wikidata": "Q206356"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.9479585,
+                    "lng": 12.516202
+                },
+                "southwest": {
+                    "lat": 43.9145653,
+                    "lng": 12.469888
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SM",
+                "ISO_3166-1_alpha-3": "SMR",
+                "ISO_3166-2": [
+                    "SM-04"
+                ],
+                "_category": "place",
+                "_normalized_city": "Faetano",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "San Marino",
+                "country_code": "sm",
+                "postcode": "47896",
+                "village": "Faetano"
+            },
+            "confidence": 7,
+            "formatted": "47896 Faetano, San Marino",
+            "geometry": {
+                "lat": 43.9269122,
+                "lng": 12.4974633
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 21:57:25 GMT",
+        "created_unix": 1714168645
+    },
+    "total_results": 1
+}

@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 223,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 41' 48.81084'' N",
+                    "lng": "9\u00b0 25' 13.61820'' W"
+                },
+                "MGRS": "29SMC6343783225",
+                "Maidenhead": "IM58gq97ng",
+                "Mercator": {
+                    "x": -1048679.641,
+                    "y": 4651628.552
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "PT"
+                    },
+                    "NUTS1": {
+                        "code": "PT1"
+                    },
+                    "NUTS2": {
+                        "code": "PT17"
+                    },
+                    "NUTS3": {
+                        "code": "PT170"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5400889#map=16/38.69689/-9.42045",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/38.69689/-9.42045&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.69689&mlon=-9.42045#map=16/38.69689/-9.42045"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "PT": "620",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 351,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf9",
+                "geohash": "eyck1ss1xx7xx7gk5rm0",
+                "qibla": 97.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714801020,
+                        "astronomical": 1714794960,
+                        "civil": 1714799340,
+                        "nautical": 1714797180
+                    },
+                    "set": {
+                        "apparent": 1714851120,
+                        "astronomical": 1714857240,
+                        "civil": 1714852860,
+                        "nautical": 1714854960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Lisbon",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WEST"
+                },
+                "what3words": {
+                    "words": "bedroom.kilts.blank"
+                },
+                "wikidata": "Q273059"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.7689928,
+                    "lng": -9.3080732
+                },
+                "southwest": {
+                    "lat": 38.6758859,
+                    "lng": -9.4865543
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PT",
+                "ISO_3166-1_alpha-3": "PRT",
+                "ISO_3166-2": [
+                    "PT-11"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cascais",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Portugal",
+                "country_code": "pt",
+                "county": "Lisbon",
+                "political_union": "European Union",
+                "town": "Cascais"
+            },
+            "confidence": 6,
+            "formatted": "Cascais, Lisbon, Portugal",
+            "geometry": {
+                "lat": 38.6968919,
+                "lng": -9.4204495
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 04:09:08 GMT",
+        "created_unix": 1714795748
+    },
+    "total_results": 1
+}

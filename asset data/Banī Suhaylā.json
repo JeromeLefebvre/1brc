@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2291,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 20' 36.13200'' N",
+                    "lng": "34\u00b0 19' 24.13200'' E"
+                },
+                "MGRS": "36RXV2588768413",
+                "Maidenhead": "KM71di82tj",
+                "Mercator": {
+                    "x": 3820860.071,
+                    "y": 3655199.733
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.34337/34.32337&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.34337&mlon=34.32337#map=17/31.34337/34.32337"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PS": "275",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 970,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf8",
+                "geohash": "sv86m1cs27xsv57k9q31",
+                "qibla": 152.3,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713927960,
+                        "astronomical": 1713922740,
+                        "civil": 1713926400,
+                        "nautical": 1713924600
+                    },
+                    "set": {
+                        "apparent": 1713975360,
+                        "astronomical": 1713980580,
+                        "civil": 1713976920,
+                        "nautical": 1713978720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Gaza",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "remodel.yelled.cascade"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.3299885,
+                    "lng": 34.3261681
+                },
+                "southwest": {
+                    "lat": 31.3290405,
+                    "lng": 34.3247871
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PS",
+                "ISO_3166-1_alpha-3": "PSE",
+                "_category": "place",
+                "_normalized_city": "Ban\u012b Suhayl\u0101",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Palestine",
+                "country_code": "ps",
+                "state": "Gaza Strip",
+                "town": "Ban\u012b Suhayl\u0101"
+            },
+            "confidence": 9,
+            "formatted": "Ban\u012b Suhayl\u0101, Gaza Strip, Palestine",
+            "geometry": {
+                "lat": 31.34337,
+                "lng": 34.32337
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:16:32 GMT",
+        "created_unix": 1713993392
+    },
+    "total_results": 1
+}

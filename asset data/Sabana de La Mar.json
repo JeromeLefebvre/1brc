@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 145,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 3' 23.22756'' N",
+                    "lng": "69\u00b0 23' 13.05024'' W"
+                },
+                "MGRS": "19QDB5928607118",
+                "Maidenhead": "FK59hb33nn",
+                "Mercator": {
+                    "x": -7724120.877,
+                    "y": 2147639.273
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7407668#map=16/19.05645/-69.38696",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/19.05645/-69.38696&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.05645&mlon=-69.38696#map=16/19.05645/-69.38696"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7qsmj1gysjuduc2w4bm",
+                "qibla": 63.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713608220,
+                        "astronomical": 1713603720,
+                        "civil": 1713606900,
+                        "nautical": 1713605280
+                    },
+                    "set": {
+                        "apparent": 1713653760,
+                        "astronomical": 1713571860,
+                        "civil": 1713655080,
+                        "nautical": 1713656700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "spies.disparities.stargazers"
+                },
+                "wikidata": "Q3944208"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.1032376,
+                    "lng": -69.1221351
+                },
+                "southwest": {
+                    "lat": 18.9118013,
+                    "lng": -69.6243002
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-30"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sabana de la Mar",
+                "_type": "city",
+                "city": "Sabana de la Mar",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Hato Mayor"
+            },
+            "confidence": 2,
+            "formatted": "Sabana de la Mar, Hato Mayor, Dominican Republic",
+            "geometry": {
+                "lat": 19.0564521,
+                "lng": -69.3869584
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:06:10 GMT",
+        "created_unix": 1713650770
+    },
+    "total_results": 1
+}

@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1025,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 35' 8.32956'' N",
+                    "lng": "138\u00b0 50' 23.41068'' E"
+                },
+                "MGRS": "54SUF0674551080",
+                "Maidenhead": "PM96ko00sn",
+                "Mercator": {
+                    "x": 15455579.879,
+                    "y": 4356038.609
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8459661972#map=17/36.58565/138.83984",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.58565/138.83984&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.58565&mlon=138.83984#map=17/36.58565/138.83984"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xnd8pkhnfdvmyfw3cbv2",
+                "qibla": 292.47,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713988860,
+                        "astronomical": 1713983220,
+                        "civil": 1713987240,
+                        "nautical": 1713985260
+                    },
+                    "set": {
+                        "apparent": 1713950700,
+                        "astronomical": 1713956340,
+                        "civil": 1713952380,
+                        "nautical": 1713954300
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "necktie.rowdier.threaded"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.5956471,
+                    "lng": 138.8498363
+                },
+                "southwest": {
+                    "lat": 36.5756471,
+                    "lng": 138.8298363
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-10"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nakanojo",
+                "_type": "neighbourhood",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Agatsuma County",
+                "postcode": "377-0424",
+                "province": "Gunma Prefecture",
+                "quarter": "Nakanojomachi",
+                "state": "Gunma Prefecture",
+                "town": "Nakanojo"
+            },
+            "confidence": 7,
+            "formatted": "Nakanojomachi, Nakanojo, Gunma Prefecture 377-0424, Japan",
+            "geometry": {
+                "lat": 36.5856471,
+                "lng": 138.8398363
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:59:59 GMT",
+        "created_unix": 1713995999
+    },
+    "total_results": 1
+}

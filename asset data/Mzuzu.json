@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 564,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "11\u00b0 27' 38.70648'' S",
+                    "lng": "34\u00b0 1' 21.51192'' E"
+                },
+                "MGRS": "36LXN1154532876",
+                "Maidenhead": "KH78am29rk",
+                "Mercator": {
+                    "x": 3787383.205,
+                    "y": -1275914.262
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262183934#map=17/-11.46075/34.02264",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-11.46075/34.02264&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-11.46075&mlon=34.02264#map=17/-11.46075/34.02264"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "MW": "454",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 265,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MWK",
+                    "iso_numeric": "454",
+                    "name": "Malawian Kwacha",
+                    "smallest_denomination": 1,
+                    "subunit": "Tambala",
+                    "subunit_to_unit": 100,
+                    "symbol": "MK",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfc",
+                "geohash": "kvbny1ws310b833kdwr0",
+                "qibla": 9.85,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535460,
+                        "astronomical": 1714531140,
+                        "civil": 1714534140,
+                        "nautical": 1714532640
+                    },
+                    "set": {
+                        "apparent": 1714577460,
+                        "astronomical": 1714581780,
+                        "civil": 1714578780,
+                        "nautical": 1714580280
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Blantyre",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "earphones.deduct.groups"
+                },
+                "wikidata": "Q502216"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -11.3007518,
+                    "lng": 34.1826422
+                },
+                "southwest": {
+                    "lat": -11.6207518,
+                    "lng": 33.8626422
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MW",
+                "ISO_3166-1_alpha-3": "MWI",
+                "ISO_3166-2": [
+                    "MW-N",
+                    "MW-MZ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mzuzu",
+                "_type": "city",
+                "city": "Mzuzu",
+                "continent": "Africa",
+                "country": "Malawi",
+                "country_code": "mw",
+                "region": "Northern Region, Malawi",
+                "state": "Mzimba",
+                "state_code": "MZ"
+            },
+            "confidence": 3,
+            "formatted": "Mzuzu, Mzimba, Malawi",
+            "geometry": {
+                "lat": -11.4607518,
+                "lng": 34.0226422
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:17:24 GMT",
+        "created_unix": 1714544244
+    },
+    "total_results": 1
+}

@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 145,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 39' 7.62336'' N",
+                    "lng": "72\u00b0 5' 37.68504'' W"
+                },
+                "MGRS": "18QZF0661264824",
+                "Maidenhead": "FK38wp86rm",
+                "Mercator": {
+                    "x": -8025445.261,
+                    "y": 2100362.16
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=614895933#map=17/18.65212/-72.09380",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/18.65212/-72.09380&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.65212&mlon=-72.09380#map=17/18.65212/-72.09380"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "HT": "332",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 509,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "HTG",
+                    "iso_numeric": "332",
+                    "name": "Haitian Gourde",
+                    "smallest_denomination": 5,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "G",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udded\ud83c\uddf9",
+                "geohash": "d7kdp7wbkwtrmj02zm2h",
+                "qibla": 62.1,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713867960,
+                        "astronomical": 1713863460,
+                        "civil": 1713866640,
+                        "nautical": 1713865020
+                    },
+                    "set": {
+                        "apparent": 1713913620,
+                        "astronomical": 1713831780,
+                        "civil": 1713914940,
+                        "nautical": 1713916560
+                    }
+                },
+                "timezone": {
+                    "name": "America/Port-au-Prince",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "billboards.enunciation.muted"
+                },
+                "wikidata": "Q2711243"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.6921176,
+                    "lng": -72.0538014
+                },
+                "southwest": {
+                    "lat": 18.6121176,
+                    "lng": -72.1338014
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "HT",
+                "ISO_3166-1_alpha-3": "HTI",
+                "ISO_3166-2": [
+                    "HT-OU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Commune Thomazeau",
+                "_type": "city",
+                "city": "Commune Thomazeau",
+                "continent": "North America",
+                "country": "Haiti",
+                "country_code": "ht",
+                "state": "West",
+                "state_district": "Arrondissement de Croix-des-Bouquets",
+                "town": "Thomazeau"
+            },
+            "confidence": 7,
+            "formatted": "Commune Thomazeau, Arrondissement de Croix-des-Bouquets, Haiti",
+            "geometry": {
+                "lat": 18.6521176,
+                "lng": -72.0938014
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:38:29 GMT",
+        "created_unix": 1713854309
+    },
+    "total_results": 1
+}

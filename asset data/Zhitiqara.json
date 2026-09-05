@@ -1,0 +1,125 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1882,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 11' 24.68400'' N",
+                    "lng": "61\u00b0 11' 56.18400'' E"
+                },
+                "MGRS": "41ULT7688583721",
+                "Maidenhead": "MO02oe35up",
+                "Mercator": {
+                    "x": 6812634.838,
+                    "y": 6800807.168
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.19019/61.19894&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.19019&mlon=61.19894#map=17/52.19019/61.19894"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "KZ": "398",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "KZT",
+                    "iso_numeric": "398",
+                    "name": "Kazakhstani Tenge",
+                    "smallest_denomination": 100,
+                    "subunit": "Tiyn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b8",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddff",
+                "geohash": "v378bsgtyst4h0cz24kn",
+                "qibla": 216.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714091760,
+                        "astronomical": 1714169460,
+                        "civil": 1714175880,
+                        "nautical": 1714173000
+                    },
+                    "set": {
+                        "apparent": 1714144260,
+                        "astronomical": 1714153080,
+                        "civil": 1714146540,
+                        "nautical": 1714149480
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Qostanay",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "arenas.estates.padded"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KZ",
+                "ISO_3166-1_alpha-3": "KAZ",
+                "_category": "place",
+                "_normalized_city": "Dzhetygara",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Kazakhstan",
+                "country_code": "kz",
+                "state": "Qostanay Oblysy",
+                "town": "Dzhetygara"
+            },
+            "confidence": 9,
+            "formatted": "Dzhetygara, Qostanay Oblysy, Kazakhstan",
+            "geometry": {
+                "lat": 52.19019,
+                "lng": 61.19894
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:18:39 GMT",
+        "created_unix": 1714169919
+    },
+    "total_results": 1
+}

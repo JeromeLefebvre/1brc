@@ -1,0 +1,126 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 660,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 20' 21.01200'' N",
+                    "lng": "16\u00b0 41' 15.00000'' W"
+                },
+                "MGRS": "28PCV1723375264",
+                "Maidenhead": "IK13pi71mj",
+                "Mercator": {
+                    "x": -1857644.003,
+                    "y": 1488656.213
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.33917/-16.68750&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.33917&mlon=-16.68750#map=17/13.33917/-16.68750"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "GM": "270",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 220,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "GMD",
+                    "iso_numeric": "270",
+                    "name": "Gambian Dalasi",
+                    "smallest_denomination": 1,
+                    "subunit": "Butut",
+                    "subunit_to_unit": 100,
+                    "symbol": "D",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\uddf2",
+                "geohash": "edk5uk2d31d0kr2ec140",
+                "qibla": 73.03,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713423180,
+                        "astronomical": 1713418800,
+                        "civil": 1713421860,
+                        "nautical": 1713420360
+                    },
+                    "set": {
+                        "apparent": 1713467940,
+                        "astronomical": 1713472320,
+                        "civil": 1713469260,
+                        "nautical": 1713470760
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Banjul",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "agreeing.forget.invaders"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GM",
+                "ISO_3166-1_alpha-3": "GMB",
+                "_category": "place",
+                "_normalized_city": "Busumbala",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Gambia",
+                "country_code": "gm",
+                "state": "Western Division",
+                "town": "Busumbala"
+            },
+            "confidence": 9,
+            "formatted": "Busumbala, Western Division, Gambia",
+            "geometry": {
+                "lat": 13.33917,
+                "lng": -16.6875
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:16:37 GMT",
+        "created_unix": 1713442597
+    },
+    "total_results": 1
+}

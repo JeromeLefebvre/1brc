@@ -1,0 +1,130 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1097,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "14\u00b0 0' 38.88000'' N",
+                    "lng": "5\u00b0 19' 0.84000'' E"
+                },
+                "MGRS": "31PGR5025250146",
+                "Maidenhead": "JK24pa82ao",
+                "Mercator": {
+                    "x": 591874.601,
+                    "y": 1565116.97
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/14.01080/5.31690&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=14.01080&mlon=5.31690#map=17/14.01080/5.31690"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NE": "562",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 227,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf3\ud83c\uddea",
+                "geohash": "s47z8yxdudrvrxsdumpu",
+                "qibla": 72.27,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714886160,
+                        "astronomical": 1714881660,
+                        "civil": 1714884840,
+                        "nautical": 1714883280
+                    },
+                    "set": {
+                        "apparent": 1714931700,
+                        "astronomical": 1714936200,
+                        "civil": 1714933020,
+                        "nautical": 1714934580
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Niamey",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "forecasts.referring.embargo"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "NE",
+                "ISO_3166-1_alpha-3": "NER",
+                "_category": "place",
+                "_normalized_city": "Gidan Id\u00e8r",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Niger",
+                "country_code": "ne",
+                "state": "Tahoua",
+                "town": "Gidan Id\u00e8r"
+            },
+            "confidence": 9,
+            "formatted": "Gidan Id\u00e8r, Tahoua, Niger",
+            "geometry": {
+                "lat": 14.0108,
+                "lng": 5.3169
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:15:33 GMT",
+        "created_unix": 1714947333
+    },
+    "total_results": 1
+}

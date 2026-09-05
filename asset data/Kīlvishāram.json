@@ -1,0 +1,151 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2220,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 54' 54.58644'' N",
+                    "lng": "79\u00b0 17' 16.58004'' E"
+                },
+                "MGRS": "44PLV1425328374",
+                "Maidenhead": "MK92pv49np",
+                "Mercator": {
+                    "x": 8826292.984,
+                    "y": 1440497.147
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=7116464687#map=17/12.91516/79.28794",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/12.91516/79.28794&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.91516&mlon=79.28794#map=17/12.91516/79.28794"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tf23kppsqbu7d5kncqkv",
+                "qibla": 288.27,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "NH48",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714522980,
+                        "astronomical": 1714604940,
+                        "civil": 1714521660,
+                        "nautical": 1714606500
+                    },
+                    "set": {
+                        "apparent": 1714568220,
+                        "astronomical": 1714572660,
+                        "civil": 1714569540,
+                        "nautical": 1714571100
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "president.mergers.speedway"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.9152129,
+                    "lng": 79.2879889
+                },
+                "southwest": {
+                    "lat": 12.9151129,
+                    "lng": 79.2878889
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-TN"
+                ],
+                "_category": "transportation",
+                "_normalized_city": "Melvisharam",
+                "_type": "bus_stop",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Wallajah",
+                "highway": "Kilvisharam",
+                "postcode": "632509",
+                "road": "NH48",
+                "state": "Tamil Nadu",
+                "state_code": "TN",
+                "state_district": "Ranipet District",
+                "town": "Melvisharam"
+            },
+            "confidence": 9,
+            "formatted": "Kilvisharam, NH48, Ranipet District, Melvisharam - 632509, Tamil Nadu, India",
+            "geometry": {
+                "lat": 12.9151629,
+                "lng": 79.2879389
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:11:59 GMT",
+        "created_unix": 1714522319
+    },
+    "total_results": 1
+}

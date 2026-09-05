@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1254,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 40' 40.99404'' N",
+                    "lng": "1\u00b0 34' 35.74164'' W"
+                },
+                "MGRS": "30UWE9401948643",
+                "Maidenhead": "IO93fq02tr",
+                "Mercator": {
+                    "x": -175505.741,
+                    "y": 7074966.268
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=21556900#map=16/53.67805/-1.57659",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/53.67805/-1.57659&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.67805&mlon=-1.57659#map=16/53.67805/-1.57659"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcwck5gcqdmxum59k6he",
+                "qibla": 119.35,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713675180,
+                        "astronomical": 1713666300,
+                        "civil": 1713672840,
+                        "nautical": 1713669900
+                    },
+                    "set": {
+                        "apparent": 1713727080,
+                        "astronomical": 1713736020,
+                        "civil": 1713729420,
+                        "nautical": 1713732420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "tastier.richest.join"
+                },
+                "wikidata": "Q1788889"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.7180539,
+                    "lng": -1.5365949
+                },
+                "southwest": {
+                    "lat": 53.6380539,
+                    "lng": -1.6165949
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-WKF"
+                ],
+                "_category": "place",
+                "_normalized_city": "Wakefield",
+                "_type": "city",
+                "city": "Wakefield",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Wakefield",
+                "county_code": "WKF",
+                "postcode": "WF5 8AQ",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "West Yorkshire",
+                "town": "Ossett"
+            },
+            "confidence": 7,
+            "formatted": "Ossett, Wakefield, England, United Kingdom",
+            "geometry": {
+                "lat": 53.6780539,
+                "lng": -1.5765949
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:00:04 GMT",
+        "created_unix": 1713664804
+    },
+    "total_results": 1
+}

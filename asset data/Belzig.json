@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1256,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 8' 26.02392'' N",
+                    "lng": "12\u00b0 35' 11.71428'' E"
+                },
+                "MGRS": "33UUT3484979418",
+                "Maidenhead": "JO62hd03jr",
+                "Mercator": {
+                    "x": 1401132.489,
+                    "y": 6791823.293
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE4"
+                    },
+                    "NUTS2": {
+                        "code": "DE40"
+                    },
+                    "NUTS3": {
+                        "code": "DE40E"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=540424#map=17/52.14056/12.58659",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.14056/12.58659&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.14056&mlon=12.58659#map=17/52.14056/12.58659"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u32bw7vkb9r8xjx2mtb4",
+                "qibla": 135.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714707360,
+                        "astronomical": 1714697940,
+                        "civil": 1714705020,
+                        "nautical": 1714701900
+                    },
+                    "set": {
+                        "apparent": 1714761480,
+                        "astronomical": 1714771080,
+                        "civil": 1714763820,
+                        "nautical": 1714767000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "retired.homages.calibrate"
+                },
+                "wikidata": "Q523642"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.2701459,
+                    "lng": 12.7227758
+                },
+                "southwest": {
+                    "lat": 52.069741,
+                    "lng": 12.4340506
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bad Belzig",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Potsdam-Mittelmark",
+                "political_union": "European Union",
+                "postcode": "14806",
+                "state": "Brandenburg",
+                "state_code": "BB",
+                "town": "Bad Belzig"
+            },
+            "confidence": 4,
+            "formatted": "14806 Bad Belzig, Germany",
+            "geometry": {
+                "lat": 52.1405622,
+                "lng": 12.5865873
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:57:08 GMT",
+        "created_unix": 1714697828
+    },
+    "total_results": 1
+}

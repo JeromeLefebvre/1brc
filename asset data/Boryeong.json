@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 252,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 20' 2.43600'' N",
+                    "lng": "126\u00b0 36' 47.39400'' E"
+                },
+                "MGRS": "52SBF8577223640",
+                "Maidenhead": "PM36hi30nd",
+                "Mercator": {
+                    "x": 14094513.056,
+                    "y": 4321360.647
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7618926#map=17/36.33401/126.61316",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.33401/126.61316&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.33401&mlon=126.61316#map=17/36.33401/126.61316"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KR": "410",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 82,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KRW",
+                    "iso_numeric": "410",
+                    "name": "South Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u20a9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf7",
+                "geohash": "wy6n9nkuuw6s1czskzvk",
+                "qibla": 285.82,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713905460,
+                        "astronomical": 1713899880,
+                        "civil": 1713903840,
+                        "nautical": 1713901920
+                    },
+                    "set": {
+                        "apparent": 1713867180,
+                        "astronomical": 1713872760,
+                        "civil": 1713868800,
+                        "nautical": 1713870720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Seoul",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "universe.sleeps.dealings"
+                },
+                "wikidata": "Q42098"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.5275526,
+                    "lng": 126.7390966
+                },
+                "southwest": {
+                    "lat": 36.1475742,
+                    "lng": 125.5233697
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KR",
+                "ISO_3166-1_alpha-3": "KOR",
+                "ISO_3166-2": [
+                    "KR-44"
+                ],
+                "_category": "place",
+                "_normalized_city": "Boryeong-si",
+                "_type": "city",
+                "city": "Boryeong-si",
+                "continent": "Asia",
+                "country": "South Korea",
+                "country_code": "kr",
+                "province": "South Chungcheong",
+                "state": "South Chungcheong"
+            },
+            "confidence": 1,
+            "formatted": "Boryeong-si, South Chungcheong, South Korea",
+            "geometry": {
+                "lat": 36.33401,
+                "lng": 126.613165
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:34:14 GMT",
+        "created_unix": 1713854054
+    },
+    "total_results": 1
+}

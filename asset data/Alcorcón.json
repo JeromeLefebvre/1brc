@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1459,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 20' 57.47928'' N",
+                    "lng": "3\u00b0 49' 42.34620'' W"
+                },
+                "MGRS": "30TVK2964666856",
+                "Maidenhead": "IN80ci03ot",
+                "Mercator": {
+                    "x": -426178.822,
+                    "y": 4889161.835
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES3"
+                    },
+                    "NUTS2": {
+                        "code": "ES30"
+                    },
+                    "NUTS3": {
+                        "code": "ES300"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=345877#map=17/40.34930/-3.82843",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.34930/-3.82843&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.34930&mlon=-3.82843#map=17/40.34930/-3.82843"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezjm8ck5xnsh9yhgs1wx",
+                "qibla": 103.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711692240,
+                        "astronomical": 1711686720,
+                        "civil": 1711690620,
+                        "nautical": 1711688700
+                    },
+                    "set": {
+                        "apparent": 1711737360,
+                        "astronomical": 1711742940,
+                        "civil": 1711738980,
+                        "nautical": 1711740960
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "audibly.space.speaks"
+                },
+                "wikidata": "Q10372"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.4030979,
+                    "lng": -3.7879224
+                },
+                "southwest": {
+                    "lat": 40.3239373,
+                    "lng": -3.878787
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Alcorc\u00f3n",
+                "_type": "city",
+                "city": "Alcorc\u00f3n",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "state": "Madrid"
+            },
+            "confidence": 7,
+            "formatted": "Alcorc\u00f3n, Madrid, Spain",
+            "geometry": {
+                "lat": 40.3492998,
+                "lng": -3.8284295
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:23:49 GMT",
+        "created_unix": 1711751029
+    },
+    "total_results": 1
+}

@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1409,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "5\u00b0 18' 33.58800'' N",
+                    "lng": "73\u00b0 48' 56.70000'' W"
+                },
+                "MGRS": "18NXL3122586982",
+                "Maidenhead": "FJ35ch24cf",
+                "Mercator": {
+                    "x": -8217131.703,
+                    "y": 587928.576
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/5.30933/-73.81575&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=5.30933&mlon=-73.81575#map=17/5.30933/-73.81575"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CO": "170",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 57,
+                "currency": {
+                    "alternate_symbols": [
+                        "COL$"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "COL$",
+                    "html_entity": "&#36;",
+                    "iso_code": "COP",
+                    "iso_numeric": "170",
+                    "name": "Colombian Peso",
+                    "smallest_denomination": 20,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf4",
+                "geohash": "d2gw0q9106g7p520c8uk",
+                "qibla": 64.97,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714473840,
+                        "astronomical": 1714469580,
+                        "civil": 1714472580,
+                        "nautical": 1714471080
+                    },
+                    "set": {
+                        "apparent": 1714518060,
+                        "astronomical": 1714435920,
+                        "civil": 1714519320,
+                        "nautical": 1714520820
+                    }
+                },
+                "timezone": {
+                    "name": "America/Bogota",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "outwit.silk.drips"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 5.33458,
+                    "lng": -73.76976
+                },
+                "southwest": {
+                    "lat": 5.260965,
+                    "lng": -73.840485
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CO",
+                "ISO_3166-1_alpha-3": "COL",
+                "_category": "place",
+                "_normalized_city": "Ubat\u00e9",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Colombia",
+                "country_code": "co",
+                "state": "Cundinamarca",
+                "state_code": "CUN",
+                "town": "Ubat\u00e9"
+            },
+            "confidence": 7,
+            "formatted": "Ubat\u00e9, Cundinamarca, Colombia",
+            "geometry": {
+                "lat": 5.30933,
+                "lng": -73.81575
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:51:26 GMT",
+        "created_unix": 1714521086
+    },
+    "total_results": 1
+}

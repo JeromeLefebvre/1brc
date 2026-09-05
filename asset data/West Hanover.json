@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1634,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 7' 10.36344'' N",
+                    "lng": "70\u00b0 52' 58.15488'' W"
+                },
+                "FIPS": {
+                    "county": "25023",
+                    "state": "25"
+                },
+                "MGRS": "19TCG4435864764",
+                "Maidenhead": "FN42nc48bq",
+                "Mercator": {
+                    "x": -7890639.517,
+                    "y": 5150238.363
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158866196#map=17/42.11955/-70.88282",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.11955/-70.88282&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.11955&mlon=-70.88282#map=17/42.11955/-70.88282"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drmxe58sns3gp8stfs79",
+                "qibla": 60.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711794540,
+                        "astronomical": 1711788840,
+                        "civil": 1711792860,
+                        "nautical": 1711790880
+                    },
+                    "set": {
+                        "apparent": 1711840020,
+                        "astronomical": 1711759380,
+                        "civil": 1711841700,
+                        "nautical": 1711757280
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "abstraction.correct.wages"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.1395454,
+                    "lng": -70.8628208
+                },
+                "southwest": {
+                    "lat": 42.0995454,
+                    "lng": -70.9028208
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hanover",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Plymouth County",
+                "hamlet": "West Hanover",
+                "postcode": "02239",
+                "state": "Massachusetts",
+                "state_code": "MA",
+                "village": "Hanover"
+            },
+            "confidence": 7,
+            "formatted": "Hanover, Plymouth County, MA 02239, United States of America",
+            "geometry": {
+                "lat": 42.1195454,
+                "lng": -70.8828208
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:59:39 GMT",
+        "created_unix": 1711832379
+    },
+    "total_results": 1
+}

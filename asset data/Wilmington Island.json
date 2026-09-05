@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 79,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 0' 12.77172'' N",
+                    "lng": "80\u00b0 58' 25.40280'' W"
+                },
+                "FIPS": {
+                    "county": "13051",
+                    "state": "13"
+                },
+                "MGRS": "17SNR0248140829",
+                "Maidenhead": "EM92ma30du",
+                "Mercator": {
+                    "x": -9013953.612,
+                    "y": 3741133.567
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=153989093#map=16/32.00355/-80.97372",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.00355/-80.97372&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.00355&mlon=-80.97372#map=16/32.00355/-80.97372"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djwqj6hdpmxynrqnjn12",
+                "qibla": 54.88,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713955500,
+                        "astronomical": 1713950280,
+                        "civil": 1713954000,
+                        "nautical": 1713952140
+                    },
+                    "set": {
+                        "apparent": 1714003140,
+                        "astronomical": 1713922020,
+                        "civil": 1713918300,
+                        "nautical": 1713920100
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "shifters.worldwide.mysteriously"
+                },
+                "wikidata": "Q2365290"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.0435477,
+                    "lng": -80.933723
+                },
+                "southwest": {
+                    "lat": 31.9635477,
+                    "lng": -81.013723
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-GA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Wilmington Island",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Chatham County",
+                "postcode": "31410",
+                "state": "Georgia",
+                "state_code": "GA",
+                "town": "Wilmington Island"
+            },
+            "confidence": 7,
+            "formatted": "Wilmington Island, GA 31410, United States of America",
+            "geometry": {
+                "lat": 32.0035477,
+                "lng": -80.973723
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:33:15 GMT",
+        "created_unix": 1713997995
+    },
+    "total_results": 1
+}

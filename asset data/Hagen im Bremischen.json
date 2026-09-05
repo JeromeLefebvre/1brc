@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2155,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 21' 27.70992'' N",
+                    "lng": "8\u00b0 38' 44.31120'' E"
+                },
+                "MGRS": "32UME7641512121",
+                "Maidenhead": "JO43hi75lu",
+                "Mercator": {
+                    "x": 962428.465,
+                    "y": 7015129.276
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE93"
+                    },
+                    "NUTS3": {
+                        "code": "DE932"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1161863#map=17/53.35770/8.64564",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.35770/8.64564&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.35770&mlon=8.64564#map=17/53.35770/8.64564"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1qps9rx459vv84m980t",
+                "qibla": 131.14,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711861320,
+                        "astronomical": 1711853880,
+                        "civil": 1711859160,
+                        "nautical": 1711856640
+                    },
+                    "set": {
+                        "apparent": 1711907880,
+                        "astronomical": 1711915380,
+                        "civil": 1711910040,
+                        "nautical": 1711912620
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "minty.flicks.soupy"
+                },
+                "wikidata": "Q585546"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.4365433,
+                    "lng": 8.7762682
+                },
+                "southwest": {
+                    "lat": 53.2811362,
+                    "lng": 8.4964524
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hagen im Bremischen",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Cuxhaven",
+                "political_union": "European Union",
+                "postcode": "27628",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Hagen im Bremischen"
+            },
+            "confidence": 5,
+            "formatted": "27628 Hagen im Bremischen, Germany",
+            "geometry": {
+                "lat": 53.3576972,
+                "lng": 8.645642
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:39:08 GMT",
+        "created_unix": 1711917548
+    },
+    "total_results": 1
+}

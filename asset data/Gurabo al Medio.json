@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2355,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 28' 41.80800'' N",
+                    "lng": "70\u00b0 39' 39.88800'' W"
+                },
+                "MGRS": "19QCB2565754592",
+                "Maidenhead": "FK49ql04qs",
+                "Mercator": {
+                    "x": -7865955.445,
+                    "y": 2197086.321
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.47828/-70.66108&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.47828&mlon=-70.66108#map=17/19.47828/-70.66108"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7myb1fjjqxfj4z0ekdx",
+                "qibla": 62.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713435780,
+                        "astronomical": 1713431280,
+                        "civil": 1713434460,
+                        "nautical": 1713432900
+                    },
+                    "set": {
+                        "apparent": 1713481260,
+                        "astronomical": 1713399360,
+                        "civil": 1713482580,
+                        "nautical": 1713484140
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "conquest.agreeing.waitress"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "_category": "place",
+                "_normalized_city": "Gurabo al Medio",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Santiago",
+                "town": "Gurabo al Medio"
+            },
+            "confidence": 9,
+            "formatted": "Gurabo al Medio, Santiago, Dominican Republic",
+            "geometry": {
+                "lat": 19.47828,
+                "lng": -70.66108
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:21:15 GMT",
+        "created_unix": 1713439275
+    },
+    "total_results": 1
+}

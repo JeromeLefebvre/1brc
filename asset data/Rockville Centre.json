@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1099,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 39' 26.70696'' N",
+                    "lng": "73\u00b0 38' 42.23904'' W"
+                },
+                "FIPS": {
+                    "county": "36059",
+                    "state": "36"
+                },
+                "MGRS": "18TXL1454101610",
+                "Maidenhead": "FN30ep27os",
+                "Mercator": {
+                    "x": -8198131.291,
+                    "y": 4934096.137
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=174422#map=17/40.65742/-73.64507",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.65742/-73.64507&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.65742&mlon=-73.64507#map=17/40.65742/-73.64507"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5xk1mq9s4kumdsqcbr",
+                "qibla": 58.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713952980,
+                        "astronomical": 1713946860,
+                        "civil": 1713951240,
+                        "nautical": 1713949140
+                    },
+                    "set": {
+                        "apparent": 1714002180,
+                        "astronomical": 1713921900,
+                        "civil": 1713917520,
+                        "nautical": 1713919620
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "flame.remedy.them"
+                },
+                "wikidata": "Q961808"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.689821,
+                    "lng": -73.617553
+                },
+                "southwest": {
+                    "lat": 40.647559,
+                    "lng": -73.658442
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Village of Rockville Centre",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Nassau County",
+                "municipality": "Town of Hempstead",
+                "postcode": "11570",
+                "state": "New York",
+                "state_code": "NY",
+                "village": "Village of Rockville Centre"
+            },
+            "confidence": 7,
+            "formatted": "Village of Rockville Centre, Hempstead, NY 11570, United States of America",
+            "geometry": {
+                "lat": 40.6574186,
+                "lng": -73.6450664
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:57:26 GMT",
+        "created_unix": 1713995846
+    },
+    "total_results": 1
+}

@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2401,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "6\u00b0 33' 23.91984'' N",
+                    "lng": "30\u00b0 30' 7.79436'' E"
+                },
+                "MGRS": "36NTN2377325425",
+                "Maidenhead": "KJ56gn03go",
+                "Mercator": {
+                    "x": 3395485.487,
+                    "y": 726604.971
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=208347861#map=17/6.55664/30.50217",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/6.55664/30.50217&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=6.55664&mlon=30.50217#map=17/6.55664/30.50217"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "NORTHERN_AFRICA": "015",
+                        "SS": "728",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 211,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "SSP",
+                    "format": "%n %u",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "SSP",
+                    "iso_numeric": "728",
+                    "name": "South Sudanese Pound",
+                    "smallest_denomination": 5,
+                    "subunit": "piaster",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf8",
+                "geohash": "s9jtq1dgpzng2djwkkc7",
+                "qibla": 30.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713844080,
+                        "astronomical": 1713839820,
+                        "civil": 1713842820,
+                        "nautical": 1713841320
+                    },
+                    "set": {
+                        "apparent": 1713888300,
+                        "astronomical": 1713892560,
+                        "civil": 1713889560,
+                        "nautical": 1713891060
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Juba",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CAT"
+                },
+                "what3words": {
+                    "words": "contour.oversights.propensity"
+                },
+                "wikidata": "Q3132425"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 6.5966444,
+                    "lng": 30.5421651
+                },
+                "southwest": {
+                    "lat": 6.5166444,
+                    "lng": 30.4621651
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SS",
+                "ISO_3166-1_alpha-3": "SSD",
+                "ISO_3166-2": [
+                    "SS-LK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Yirol",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "South Sudan",
+                "country_code": "ss",
+                "county": "Yirol West",
+                "state": "Lakes",
+                "state_code": "LK",
+                "town": "Yirol"
+            },
+            "confidence": 7,
+            "formatted": "Yirol, Yirol West, South Sudan",
+            "geometry": {
+                "lat": 6.5566444,
+                "lng": 30.5021651
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:07:23 GMT",
+        "created_unix": 1713830843
+    },
+    "total_results": 1
+}

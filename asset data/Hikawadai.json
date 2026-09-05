@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2086,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 44' 59.21448'' N",
+                    "lng": "139\u00b0 39' 54.02988'' E"
+                },
+                "MGRS": "54SUE7929757017",
+                "Maidenhead": "PM95tr99tw",
+                "Mercator": {
+                    "x": 15547437.606,
+                    "y": 4241281.134
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5408201206#map=17/35.74978/139.66501",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.74978/139.66501&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.74978&mlon=139.66501#map=17/35.74978/139.66501"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn776hhcwd671g1eexfy",
+                "qibla": 293,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Ikebukuro Yahara line",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711917060,
+                        "astronomical": 1711911840,
+                        "civil": 1711915500,
+                        "nautical": 1711913700
+                    },
+                    "set": {
+                        "apparent": 1711875660,
+                        "astronomical": 1711880880,
+                        "civil": 1711877220,
+                        "nautical": 1711879020
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "unroll.treating.short"
+                },
+                "wikidata": "Q93680"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.7547818,
+                    "lng": 139.6700083
+                },
+                "southwest": {
+                    "lat": 35.7447818,
+                    "lng": 139.6600083
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "transportation",
+                "_normalized_city": "Nerima",
+                "_type": "railway",
+                "city": "Nerima",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "neighbourhood": "Heiwadai 3-chome",
+                "postcode": "179-0084",
+                "quarter": "Nerima",
+                "railway": "Hikawadai",
+                "road": "Ikebukuro Yahara line"
+            },
+            "confidence": 8,
+            "formatted": "Hikawadai, Ikebukuro Yahara line, Heiwadai 3-chome, Nerima, 179-0084, Japan",
+            "geometry": {
+                "lat": 35.7497818,
+                "lng": 139.6650083
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:41:18 GMT",
+        "created_unix": 1711917678
+    },
+    "total_results": 1
+}

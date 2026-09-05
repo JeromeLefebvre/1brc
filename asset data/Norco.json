@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 23,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 55' 56.39052'' N",
+                    "lng": "117\u00b0 33' 3.20436'' W"
+                },
+                "FIPS": {
+                    "county": "06065",
+                    "state": "06"
+                },
+                "MGRS": "11SMT4908554789",
+                "Maidenhead": "DM13fw33vs",
+                "Mercator": {
+                    "x": -13085705.228,
+                    "y": 3995868.302
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=11065467#map=17/33.93233/-117.55089",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.93233/-117.55089&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.93233&mlon=-117.55089#map=17/33.93233/-117.55089"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh3j14n1szkgz9wzfcb",
+                "qibla": 24.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714050480,
+                        "astronomical": 1714045020,
+                        "civil": 1714048860,
+                        "nautical": 1714047000
+                    },
+                    "set": {
+                        "apparent": 1714012140,
+                        "astronomical": 1714017600,
+                        "civil": 1714013700,
+                        "nautical": 1714015620
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "advice.caravan.rescue"
+                },
+                "wikidata": "Q983606"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.962382,
+                    "lng": -117.5112946
+                },
+                "southwest": {
+                    "lat": 33.8936884,
+                    "lng": -117.6074528
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Norco",
+                "_type": "city",
+                "city": "Norco",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Riverside County",
+                "postcode": "92860",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "Norco, California, United States of America",
+            "geometry": {
+                "lat": 33.9323307,
+                "lng": -117.5508901
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:25:18 GMT",
+        "created_unix": 1714011918
+    },
+    "total_results": 1
+}

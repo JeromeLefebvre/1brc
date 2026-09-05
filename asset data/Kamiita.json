@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1515,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 7' 56.59608'' N",
+                    "lng": "134\u00b0 24' 30.49632'' E"
+                },
+                "MGRS": "53SMT4545876993",
+                "Maidenhead": "PM74ed91as",
+                "Mercator": {
+                    "x": 14962282.572,
+                    "y": 4022617.54
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4058001#map=17/34.13239/134.40847",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.13239/134.40847&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.13239&mlon=134.40847#map=17/34.13239/134.40847"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wypd4t9786k0j43wv0zd",
+                "qibla": 290.34,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713731160,
+                        "astronomical": 1713725820,
+                        "civil": 1713729600,
+                        "nautical": 1713727740
+                    },
+                    "set": {
+                        "apparent": 1713692220,
+                        "astronomical": 1713697620,
+                        "civil": 1713693780,
+                        "nautical": 1713695640
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "revision.handshake.squawk"
+                },
+                "wikidata": "Q1350072"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.172381,
+                    "lng": 134.458459
+                },
+                "southwest": {
+                    "lat": 34.0872643,
+                    "lng": 134.367861
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-36"
+                ],
+                "_category": "place",
+                "_normalized_city": "Kamiita",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Itano County",
+                "province": "Tokushima Prefecture",
+                "state": "Tokushima Prefecture",
+                "town": "Kamiita"
+            },
+            "confidence": 7,
+            "formatted": "Kamiita, Itano County, Japan",
+            "geometry": {
+                "lat": 34.1323878,
+                "lng": 134.4084712
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:49:47 GMT",
+        "created_unix": 1713664187
+    },
+    "total_results": 1
+}

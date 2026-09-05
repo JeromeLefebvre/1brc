@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 755,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 36' 15.29964'' N",
+                    "lng": "1\u00b0 8' 45.06036'' W"
+                },
+                "MGRS": "30UXD2556129862",
+                "Maidenhead": "IO92ko25la",
+                "Mercator": {
+                    "x": -127555.45,
+                    "y": 6876158.268
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=26950722#map=17/52.60425/-1.14585",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.60425/-1.14585&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.60425&mlon=-1.14585#map=17/52.60425/-1.14585"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcr5mbm9gybjx9kk4xyt",
+                "qibla": 118.87,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713675240,
+                        "astronomical": 1713666780,
+                        "civil": 1713672960,
+                        "nautical": 1713670140
+                    },
+                    "set": {
+                        "apparent": 1713726840,
+                        "astronomical": 1713735360,
+                        "civil": 1713729060,
+                        "nautical": 1713731940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "glass.voters.stared"
+                },
+                "wikidata": "Q4831398"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.6242499,
+                    "lng": -1.1258501
+                },
+                "southwest": {
+                    "lat": 52.5842499,
+                    "lng": -1.1658501
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-LCE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Leicester",
+                "_type": "neighbourhood",
+                "city": "Leicester",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "City of Leicester",
+                "postcode": "LE2 8HD",
+                "state": "England",
+                "state_code": "ENG",
+                "suburb": "Aylestone"
+            },
+            "confidence": 7,
+            "formatted": "Leicester, LE2 8HD, United Kingdom",
+            "geometry": {
+                "lat": 52.6042499,
+                "lng": -1.1458501
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:21:58 GMT",
+        "created_unix": 1713666118
+    },
+    "total_results": 1
+}

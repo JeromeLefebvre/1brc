@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2499,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 14' 48.35940'' N",
+                    "lng": "10\u00b0 39' 13.41396'' E"
+                },
+                "MGRS": "32UPC1289989773",
+                "Maidenhead": "JO52hf89kf",
+                "Mercator": {
+                    "x": 1185967.365,
+                    "y": 6811061.236
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE91"
+                    },
+                    "NUTS3": {
+                        "code": "DE91B"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1432639#map=17/52.24677/10.65373",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.24677/10.65373&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.24677&mlon=10.65373#map=17/52.24677/10.65373"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1r94rjz3z1vyxcycju1",
+                "qibla": 132.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714707840,
+                        "astronomical": 1714698300,
+                        "civil": 1714705440,
+                        "nautical": 1714702320
+                    },
+                    "set": {
+                        "apparent": 1714761960,
+                        "astronomical": 1714771620,
+                        "civil": 1714764360,
+                        "nautical": 1714767480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "sprayers.fine.scenery"
+                },
+                "wikidata": "Q338664"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.3033172,
+                    "lng": 10.7601211
+                },
+                "southwest": {
+                    "lat": 52.2189618,
+                    "lng": 10.5929728
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cremlingen",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Wolfenb\u00fcttel",
+                "political_union": "European Union",
+                "postcode": "38162",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "village": "Cremlingen"
+            },
+            "confidence": 6,
+            "formatted": "38162 Cremlingen, Germany",
+            "geometry": {
+                "lat": 52.2467665,
+                "lng": 10.6537261
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:00:00 GMT",
+        "created_unix": 1714694400
+    },
+    "total_results": 1
+}

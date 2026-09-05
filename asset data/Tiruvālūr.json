@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1105,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 46' 21.68400'' N",
+                    "lng": "79\u00b0 38' 12.48000'' E"
+                },
+                "MGRS": "44PLS5095291177",
+                "Maidenhead": "MK90ts65jk",
+                "Mercator": {
+                    "x": 8865128.024,
+                    "y": 1198357.651
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.77269/79.63680&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.77269&mlon=79.63680#map=17/10.77269/79.63680"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tcbtk1jeryynbnnz09ne",
+                "qibla": 290.69,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714091160,
+                        "astronomical": 1714173240,
+                        "civil": 1714089900,
+                        "nautical": 1714174740
+                    },
+                    "set": {
+                        "apparent": 1714135920,
+                        "astronomical": 1714140300,
+                        "civil": 1714137240,
+                        "nautical": 1714138740
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "transmits.pencil.summer"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.7829937,
+                    "lng": 79.6435438
+                },
+                "southwest": {
+                    "lat": 10.5165776,
+                    "lng": 79.6142688
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "_category": "place",
+                "_normalized_city": "Thiruvarur",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Thiruvarur",
+                "state": "Tamil N\u0101du",
+                "town": "Thiruvarur"
+            },
+            "confidence": 4,
+            "formatted": "Thiruvarur, India",
+            "geometry": {
+                "lat": 10.77269,
+                "lng": 79.6368
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:48:44 GMT",
+        "created_unix": 1714171724
+    },
+    "total_results": 1
+}

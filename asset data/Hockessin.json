@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1627,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 47' 15.40032'' N",
+                    "lng": "75\u00b0 41' 47.76036'' W"
+                },
+                "FIPS": {
+                    "county": "10003",
+                    "state": "10"
+                },
+                "MGRS": "18SVK4035404416",
+                "Maidenhead": "FM29ds69ja",
+                "Mercator": {
+                    "x": -8426506.978,
+                    "y": 4807777.236
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=367262#map=17/39.78761/-75.69660",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.78761/-75.69660&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.78761&mlon=-75.69660#map=17/39.78761/-75.69660"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr44m7p7tk7cxtb2u4b0",
+                "qibla": 57.4,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713953520,
+                        "astronomical": 1713947580,
+                        "civil": 1713951840,
+                        "nautical": 1713949740
+                    },
+                    "set": {
+                        "apparent": 1714002600,
+                        "astronomical": 1713922200,
+                        "civil": 1713917880,
+                        "nautical": 1713919980
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "scout.feed.arrow"
+                },
+                "wikidata": "Q254769"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.8135941,
+                    "lng": -75.6348878
+                },
+                "southwest": {
+                    "lat": 39.7615039,
+                    "lng": -75.7250245
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-DE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hockessin, Delaware",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New Castle County",
+                "state": "Delaware",
+                "state_code": "DE",
+                "town": "Hockessin, Delaware"
+            },
+            "confidence": 7,
+            "formatted": "Hockessin, Delaware, United States of America",
+            "geometry": {
+                "lat": 39.7876112,
+                "lng": -75.6966001
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:39:19 GMT",
+        "created_unix": 1713994759
+    },
+    "total_results": 1
+}

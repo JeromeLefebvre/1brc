@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 825,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 28' 42.75048'' N",
+                    "lng": "94\u00b0 53' 26.83284'' W"
+                },
+                "FIPS": {
+                    "county": "27007",
+                    "state": "27"
+                },
+                "MGRS": "15TUN5754260077",
+                "Maidenhead": "EN27nl34cu",
+                "Mercator": {
+                    "x": -10563194.079,
+                    "y": 5989029.645
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=137369#map=17/47.47854/-94.89079",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.47854/-94.89079&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.47854&mlon=-94.89079#map=17/47.47854/-94.89079"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "cbkw0enws3svwzwtxnbm",
+                "qibla": 42.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713698400,
+                        "astronomical": 1713691260,
+                        "civil": 1713696420,
+                        "nautical": 1713693960
+                    },
+                    "set": {
+                        "apparent": 1713662280,
+                        "astronomical": 1713669420,
+                        "civil": 1713664260,
+                        "nautical": 1713666720
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "broken.couch.shave"
+                },
+                "wikidata": "Q730430"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5269459,
+                    "lng": -94.799984
+                },
+                "southwest": {
+                    "lat": 47.4246641,
+                    "lng": -94.9492202
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bemidji",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Beltrami County",
+                "postcode": "56601",
+                "state": "Minnesota",
+                "state_code": "MN",
+                "town": "Bemidji"
+            },
+            "confidence": 6,
+            "formatted": "Bemidji, MN 56601, United States of America",
+            "geometry": {
+                "lat": 47.4785418,
+                "lng": -94.8907869
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:19:11 GMT",
+        "created_unix": 1713665951
+    },
+    "total_results": 1
+}

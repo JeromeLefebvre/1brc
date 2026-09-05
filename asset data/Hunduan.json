@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 104,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 50' 8.37600'' N",
+                    "lng": "121\u00b0 0' 18.86400'' E"
+                },
+                "MGRS": "51QTU8745162446",
+                "Maidenhead": "PK06mu00pn",
+                "Mercator": {
+                    "x": 13470241.7,
+                    "y": 1889334.517
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.83566/121.00524&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.83566&mlon=121.00524#map=17/16.83566/121.00524"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdypc8c6f6qxg273rem8",
+                "qibla": 288.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713649080,
+                        "astronomical": 1713644640,
+                        "civil": 1713647760,
+                        "nautical": 1713646200
+                    },
+                    "set": {
+                        "apparent": 1713607920,
+                        "astronomical": 1713612360,
+                        "civil": 1713609240,
+                        "nautical": 1713610800
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "amuse.pebbly.alterations"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "_category": "place",
+                "_normalized_city": "Hunduan",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "county": "Ifugao",
+                "state": "Cordillera",
+                "town": "Hunduan"
+            },
+            "confidence": 9,
+            "formatted": "Hunduan, Ifugao, Philippines",
+            "geometry": {
+                "lat": 16.83566,
+                "lng": 121.00524
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 22:08:02 GMT",
+        "created_unix": 1713650882
+    },
+    "total_results": 1
+}

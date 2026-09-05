@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1057,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 22' 18.07716'' N",
+                    "lng": "88\u00b0 5' 24.29016'' W"
+                },
+                "FIPS": {
+                    "county": "17097",
+                    "state": "17"
+                },
+                "MGRS": "16TDM1024891621",
+                "Maidenhead": "EN52wi99ee",
+                "Mercator": {
+                    "x": -9806142.916,
+                    "y": 5188015.379
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=125681#map=17/42.37169/-88.09008",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.37169/-88.09008&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.37169&mlon=-88.09008#map=17/42.37169/-88.09008"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp9353wbbr5hu401jsvr",
+                "qibla": 48.26,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714905720,
+                        "astronomical": 1714899060,
+                        "civil": 1714903860,
+                        "nautical": 1714901580
+                    },
+                    "set": {
+                        "apparent": 1714870560,
+                        "astronomical": 1714877340,
+                        "civil": 1714872420,
+                        "nautical": 1714874760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "aware.wing.coffee"
+                },
+                "wikidata": "Q2049990"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.398691,
+                    "lng": -88.043075
+                },
+                "southwest": {
+                    "lat": 42.364267,
+                    "lng": -88.119804
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Round Lake Beach",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lake County",
+                "postcode": "60073",
+                "state": "Illinois",
+                "state_code": "IL",
+                "village": "Round Lake Beach"
+            },
+            "confidence": 7,
+            "formatted": "Round Lake Beach, Lake County, IL 60073, United States of America",
+            "geometry": {
+                "lat": 42.3716881,
+                "lng": -88.0900806
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:17:16 GMT",
+        "created_unix": 1714947436
+    },
+    "total_results": 1
+}

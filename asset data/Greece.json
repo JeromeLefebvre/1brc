@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 428,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 59' 43.32588'' N",
+                    "lng": "21\u00b0 59' 15.76752'' E"
+                },
+                "MGRS": "34SEJ8553416726",
+                "Maidenhead": "KM08xx88mv",
+                "Mercator": {
+                    "x": 2447661.037,
+                    "y": 4694116.532
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "EL"
+                    },
+                    "NUTS1": {
+                        "code": "EL6"
+                    },
+                    "NUTS2": {
+                        "code": "EL64"
+                    },
+                    "NUTS3": {
+                        "code": "EL644"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=192307#map=16/38.99537/21.98771",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/38.99537/21.98771&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.99537&mlon=21.98771#map=16/38.99537/21.98771"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GR": "300",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 30,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddec\ud83c\uddf7",
+                "geohash": "sqztu6fuqze28y6kbbrn",
+                "qibla": 133.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714534500,
+                        "astronomical": 1714528440,
+                        "civil": 1714532760,
+                        "nautical": 1714530660
+                    },
+                    "set": {
+                        "apparent": 1714584240,
+                        "astronomical": 1714590300,
+                        "civil": 1714585980,
+                        "nautical": 1714588080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Athens",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "hotdog.heathen.disavows"
+                },
+                "wikidata": "Q41"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.7488889,
+                    "lng": 29.68381
+                },
+                "southwest": {
+                    "lat": 34.7188863,
+                    "lng": 19.1127535
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GR",
+                "ISO_3166-1_alpha-3": "GRC",
+                "_category": "place",
+                "_type": "country",
+                "continent": "Europe",
+                "country": "Greece",
+                "country_code": "gr",
+                "political_union": "European Union"
+            },
+            "confidence": 1,
+            "formatted": "Greece",
+            "geometry": {
+                "lat": 38.9953683,
+                "lng": 21.9877132
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:23:11 GMT",
+        "created_unix": 1714544591
+    },
+    "total_results": 1
+}

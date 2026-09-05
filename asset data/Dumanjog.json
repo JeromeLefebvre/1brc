@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1370,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "10\u00b0 3' 25.20000'' N",
+                    "lng": "123\u00b0 26' 9.96000'' E"
+                },
+                "MGRS": "51PWM4778611746",
+                "Maidenhead": "PK10rb23hq",
+                "Mercator": {
+                    "x": 13740843.798,
+                    "y": 1117876.928
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/10.05700/123.43610&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=10.05700&mlon=123.43610#map=17/10.05700/123.43610"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "w9zc0yg6m8ejy385h2x4",
+                "qibla": 290.26,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714512600,
+                        "astronomical": 1714508280,
+                        "civil": 1714511340,
+                        "nautical": 1714509780
+                    },
+                    "set": {
+                        "apparent": 1714471020,
+                        "astronomical": 1714475400,
+                        "civil": 1714472340,
+                        "nautical": 1714473840
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "external.polystyrene.disconcertingly"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 10.062417,
+                    "lng": 123.442436
+                },
+                "southwest": {
+                    "lat": 10.045007,
+                    "lng": 123.418694
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "_category": "place",
+                "_normalized_city": "Dumanjog",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "county": "Cebu",
+                "state": "Central Visayas",
+                "town": "Dumanjog"
+            },
+            "confidence": 7,
+            "formatted": "Dumanjog, Cebu, Philippines",
+            "geometry": {
+                "lat": 10.057,
+                "lng": 123.4361
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:53:03 GMT",
+        "created_unix": 1714521183
+    },
+    "total_results": 1
+}

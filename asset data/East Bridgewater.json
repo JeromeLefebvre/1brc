@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2111,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 2' 0.36276'' N",
+                    "lng": "70\u00b0 57' 33.15456'' W"
+                },
+                "FIPS": {
+                    "county": "25023",
+                    "state": "25"
+                },
+                "MGRS": "19TCG3782455345",
+                "Maidenhead": "FN42ma48va",
+                "Mercator": {
+                    "x": -7899143.08,
+                    "y": 5137371.544
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2395767#map=17/42.03343/-70.95921",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.03343/-70.95921&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.03343&mlon=-70.95921#map=17/42.03343/-70.95921"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "drmx17cnd8435gkp4c17",
+                "qibla": 60.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711880880,
+                        "astronomical": 1711875120,
+                        "civil": 1711879200,
+                        "nautical": 1711877220
+                    },
+                    "set": {
+                        "apparent": 1711926480,
+                        "astronomical": 1711845840,
+                        "civil": 1711928160,
+                        "nautical": 1711843800
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "lodge.duplicates.link"
+                },
+                "wikidata": "Q2429659"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.0711777,
+                    "lng": -70.8966186
+                },
+                "southwest": {
+                    "lat": 41.9961007,
+                    "lng": -70.989919
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MA"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Bridgewater",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Plymouth County",
+                "state": "Massachusetts",
+                "state_code": "MA",
+                "village": "East Bridgewater"
+            },
+            "confidence": 7,
+            "formatted": "East Bridgewater, Plymouth County, Massachusetts, United States of America",
+            "geometry": {
+                "lat": 42.0334341,
+                "lng": -70.9592096
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:40:31 GMT",
+        "created_unix": 1711917631
+    },
+    "total_results": 1
+}

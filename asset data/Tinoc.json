@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1950,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 40' 31.69308'' N",
+                    "lng": "120\u00b0 56' 11.00904'' E"
+                },
+                "MGRS": "51QTU7992844792",
+                "Maidenhead": "PK06lq22ic",
+                "Mercator": {
+                    "x": 13462577.509,
+                    "y": 1870825.98
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2394065917#map=17/16.67547/120.93639",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.67547/120.93639&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.67547&mlon=120.93639#map=17/16.67547/120.93639"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wdvyzgxjwhvqgz2c0hns",
+                "qibla": 288.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713908220,
+                        "astronomical": 1713903720,
+                        "civil": 1713906900,
+                        "nautical": 1713905340
+                    },
+                    "set": {
+                        "apparent": 1713867180,
+                        "astronomical": 1713871620,
+                        "civil": 1713868500,
+                        "nautical": 1713870060
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "grassland.over.searching"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 16.7154703,
+                    "lng": 120.9763914
+                },
+                "southwest": {
+                    "lat": 16.6354703,
+                    "lng": 120.8963914
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "ISO_3166-2": [
+                    "PH-15",
+                    "PH-IFU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tinoc",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "region": "Cordillera Administrative Region",
+                "state": "Ifugao",
+                "state_code": "IFU",
+                "town": "Tinoc"
+            },
+            "confidence": 7,
+            "formatted": "Tinoc, Ifugao, Philippines",
+            "geometry": {
+                "lat": 16.6754703,
+                "lng": 120.9363914
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 02:53:58 GMT",
+        "created_unix": 1713840838
+    },
+    "total_results": 1
+}

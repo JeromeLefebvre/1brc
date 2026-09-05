@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2500,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 14' 23.90208'' N",
+                    "lng": "9\u00b0 11' 17.14812'' E"
+                },
+                "MGRS": "32SNJ1623243424",
+                "Maidenhead": "JM49of27no",
+                "Mercator": {
+                    "x": 1022814.246,
+                    "y": 4729070.729
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITG"
+                    },
+                    "NUTS2": {
+                        "code": "ITG2"
+                    },
+                    "NUTS3": {
+                        "code": "ITG2F"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=39848#map=17/39.23997/9.18810",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.23997/9.18810&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.23997&mlon=9.18810#map=17/39.23997/9.18810"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "snyx1p6t6jj7quh68ry6",
+                "qibla": 115.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713674340,
+                        "astronomical": 1713668460,
+                        "civil": 1713672600,
+                        "nautical": 1713670620
+                    },
+                    "set": {
+                        "apparent": 1713722760,
+                        "astronomical": 1713728640,
+                        "civil": 1713724440,
+                        "nautical": 1713726480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "shutdowns.lockable.blueprints"
+                },
+                "wikidata": "Q284516"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.2639634,
+                    "lng": 9.3986896
+                },
+                "southwest": {
+                    "lat": 39.1627022,
+                    "lng": 9.1515676
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-88",
+                    "IT-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Quartu Sant'Aleni/Quartu Sant'Elena",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Casteddu/Cagliari",
+                "political_union": "European Union",
+                "postcode": "09045",
+                "state": "Sardinia",
+                "town": "Quartu Sant'Aleni/Quartu Sant'Elena"
+            },
+            "confidence": 5,
+            "formatted": "09045 Quartu Sant'Aleni/Quartu Sant'Elena Casteddu/Cagliari, Italy",
+            "geometry": {
+                "lat": 39.2399728,
+                "lng": 9.1880967
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:21:17 GMT",
+        "created_unix": 1713666077
+    },
+    "total_results": 1
+}

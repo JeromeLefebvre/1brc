@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2159,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 19' 8.86800'' N",
+                    "lng": "34\u00b0 20' 24.18000'' E"
+                },
+                "MGRS": "36RXV2750665745",
+                "Maidenhead": "KM71eh06to",
+                "Mercator": {
+                    "x": 3822716.88,
+                    "y": 3652056.138
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.31913/34.34005&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.31913&mlon=34.34005#map=17/31.31913/34.34005"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PS": "275",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 970,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf8",
+                "geohash": "sv86jmmxjhvpt7uyz664",
+                "qibla": 152.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713841620,
+                        "astronomical": 1713836400,
+                        "civil": 1713840060,
+                        "nautical": 1713838260
+                    },
+                    "set": {
+                        "apparent": 1713888960,
+                        "astronomical": 1713894120,
+                        "civil": 1713890460,
+                        "nautical": 1713892260
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Gaza",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "lymph.jumpsuits.suckle"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.3087349,
+                    "lng": 34.3445282
+                },
+                "southwest": {
+                    "lat": 31.3047409,
+                    "lng": 34.3383751
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PS",
+                "ISO_3166-1_alpha-3": "PSE",
+                "_category": "place",
+                "_normalized_city": "\u2018Abas\u0101n al Kab\u012brah",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Palestine",
+                "country_code": "ps",
+                "state": "Gaza Strip",
+                "town": "\u2018Abas\u0101n al Kab\u012brah"
+            },
+            "confidence": 9,
+            "formatted": "\u2018Abas\u0101n al Kab\u012brah, Gaza Strip, Palestine",
+            "geometry": {
+                "lat": 31.31913,
+                "lng": 34.34005
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 02:42:13 GMT",
+        "created_unix": 1713840133
+    },
+    "total_results": 1
+}

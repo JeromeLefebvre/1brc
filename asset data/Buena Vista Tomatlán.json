@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2022,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 12' 46.11600'' N",
+                    "lng": "102\u00b0 35' 14.46000'' W"
+                },
+                "MGRS": "13QGB5366526132",
+                "Maidenhead": "DK89qf91mb",
+                "Mercator": {
+                    "x": -11419971.564,
+                    "y": 2165952.685
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.21281/-102.58735&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.21281&mlon=-102.58735#map=17/19.21281/-102.58735"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9erj39d4trref531w5dx",
+                "qibla": 44.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714479780,
+                        "astronomical": 1714475160,
+                        "civil": 1714478400,
+                        "nautical": 1714476840
+                    },
+                    "set": {
+                        "apparent": 1714439520,
+                        "astronomical": 1714444140,
+                        "civil": 1714440900,
+                        "nautical": 1714442520
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "yellower.photogenic.significantly"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.2314845,
+                    "lng": -102.5790255
+                },
+                "southwest": {
+                    "lat": 19.19744,
+                    "lng": -102.5980183
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Buena Vista Tomatl\u00e1n",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Michoac\u00e1n de Ocampo",
+                "state_code": "MIC",
+                "town": "Buena Vista Tomatl\u00e1n"
+            },
+            "confidence": 7,
+            "formatted": "Buena Vista Tomatl\u00e1n, Michoac\u00e1n de Ocampo, Mexico",
+            "geometry": {
+                "lat": 19.21281,
+                "lng": -102.58735
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:07:18 GMT",
+        "created_unix": 1714518438
+    },
+    "total_results": 1
+}

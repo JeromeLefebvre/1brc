@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 518,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 2' 13.06608'' N",
+                    "lng": "98\u00b0 18' 43.61580'' W"
+                },
+                "MGRS": "14QNH7194015719",
+                "Maidenhead": "EL00ua28nu",
+                "Mercator": {
+                    "x": -10944054.636,
+                    "y": 2262777.013
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5605722#map=17/20.03696/-98.31212",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/20.03696/-98.31212&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=20.03696&mlon=-98.31212#map=17/20.03696/-98.31212"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9gd1fze7c8t6y9wsf5d4",
+                "qibla": 46.93,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713787800,
+                        "astronomical": 1713783240,
+                        "civil": 1713786480,
+                        "nautical": 1713784860
+                    },
+                    "set": {
+                        "apparent": 1713747180,
+                        "astronomical": 1713751800,
+                        "civil": 1713748560,
+                        "nautical": 1713750120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "violinist.damp.corresponded"
+                },
+                "wikidata": "Q3845490"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 20.0971126,
+                    "lng": -98.1577448
+                },
+                "southwest": {
+                    "lat": 19.8423802,
+                    "lng": -98.3852176
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-HID"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cuautepec de Hinojosa",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "postcode": "43740",
+                "state": "Hidalgo",
+                "state_code": "HID",
+                "town": "Cuautepec de Hinojosa"
+            },
+            "confidence": 4,
+            "formatted": "43740 Cuautepec de Hinojosa, HID, Mexico",
+            "geometry": {
+                "lat": 20.0369628,
+                "lng": -98.3121155
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:31:16 GMT",
+        "created_unix": 1713781876
+    },
+    "total_results": 1
+}

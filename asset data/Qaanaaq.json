@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1820,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "77\u00b0 28' 7.08852'' N",
+                    "lng": "69\u00b0 13' 20.18856'' W"
+                },
+                "MGRS": "19XDF9461699080",
+                "Maidenhead": "FQ57jl32hl",
+                "Mercator": {
+                    "x": -7705788.36,
+                    "y": 14048441.091
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=306516095#map=17/77.46864/-69.22227",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/77.46864/-69.22227&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=77.46864&mlon=-69.22227#map=17/77.46864/-69.22227"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "GL": "304",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 299,
+                "currency": {
+                    "alternate_symbols": [
+                        ",-"
+                    ],
+                    "decimal_mark": ",",
+                    "disambiguate_symbol": "DKK",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "DKK",
+                    "iso_numeric": "208",
+                    "name": "Danish Krone",
+                    "smallest_denomination": 50,
+                    "subunit": "\u00d8re",
+                    "subunit_to_unit": 100,
+                    "symbol": "kr.",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddec\ud83c\uddf1",
+                "geohash": "fmyb8y9zs06upqfrekp6",
+                "qibla": 66.87,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711789860,
+                        "astronomical": 0,
+                        "civil": 1711782540,
+                        "nautical": 0
+                    },
+                    "set": {
+                        "apparent": 1711757760,
+                        "astronomical": 0,
+                        "civil": 1711765380,
+                        "nautical": 0
+                    }
+                },
+                "timezone": {
+                    "name": "America/Thule",
+                    "now_in_dst": 1,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "ADT"
+                },
+                "what3words": {
+                    "words": "netball.toned.overgrown"
+                },
+                "wikidata": "Q223314"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 77.5086357,
+                    "lng": -69.1822746
+                },
+                "southwest": {
+                    "lat": 77.4286357,
+                    "lng": -69.2622746
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GL",
+                "ISO_3166-1_alpha-3": "GRL",
+                "ISO_3166-2": [
+                    "GL-AV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Thule",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Greenland",
+                "country_code": "gl",
+                "postcode": "3971",
+                "state": "Avannaata",
+                "town": "Thule"
+            },
+            "confidence": 7,
+            "formatted": "3971 Thule, Greenland",
+            "geometry": {
+                "lat": 77.4686357,
+                "lng": -69.2222746
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:53:43 GMT",
+        "created_unix": 1711832023
+    },
+    "total_results": 1
+}

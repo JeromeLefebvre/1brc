@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1467,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "15\u00b0 27' 27.05400'' N",
+                    "lng": "92\u00b0 16' 49.09440'' W"
+                },
+                "MGRS": "15PWT7720709059",
+                "Maidenhead": "EK35uk69it",
+                "Mercator": {
+                    "x": -10272596.452,
+                    "y": 1730602.405
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5999559#map=16/15.45752/-92.28030",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/15.45752/-92.28030&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=15.45752&mlon=-92.28030#map=16/15.45752/-92.28030"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9fwrujgw91dhe5wjprqy",
+                "qibla": 53.11,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711886760,
+                        "astronomical": 1711882440,
+                        "civil": 1711885440,
+                        "nautical": 1711883940
+                    },
+                    "set": {
+                        "apparent": 1711844460,
+                        "astronomical": 1711848720,
+                        "civil": 1711845720,
+                        "nautical": 1711847220
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "snore.sturdier.seethed"
+                },
+                "wikidata": "Q3288000"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 15.4683888,
+                    "lng": -92.2037674
+                },
+                "southwest": {
+                    "lat": 15.3895684,
+                    "lng": -92.3412929
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-CHP"
+                ],
+                "_category": "place",
+                "_normalized_city": "El Porvenir",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Chiapas",
+                "state_code": "CHP",
+                "village": "El Porvenir"
+            },
+            "confidence": 6,
+            "formatted": "El Porvenir, Chiapas, Mexico",
+            "geometry": {
+                "lat": 15.457515,
+                "lng": -92.280304
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:01:33 GMT",
+        "created_unix": 1711918893
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1410,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 38' 27.18420'' N",
+                    "lng": "117\u00b0 36' 10.56276'' W"
+                },
+                "FIPS": {
+                    "county": "06059",
+                    "state": "06"
+                },
+                "MGRS": "11SMT4408622502",
+                "Maidenhead": "DM13ep73pt",
+                "Mercator": {
+                    "x": -13091498.74,
+                    "y": 3957012.796
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=112975#map=17/33.64088/-117.60293",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.64088/-117.60293&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.64088&mlon=-117.60293#map=17/33.64088/-117.60293"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9mur7uhhm52s9w4cryhe",
+                "qibla": 24.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714654860,
+                        "astronomical": 1714649340,
+                        "civil": 1714653240,
+                        "nautical": 1714651320
+                    },
+                    "set": {
+                        "apparent": 1714617240,
+                        "astronomical": 1714622760,
+                        "civil": 1714618860,
+                        "nautical": 1714620780
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "grab.promise.coaching"
+                },
+                "wikidata": "Q985344"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.669843,
+                    "lng": -117.5520253
+                },
+                "southwest": {
+                    "lat": 33.5860339,
+                    "lng": -117.6377284
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rancho Santa Margarita",
+                "_type": "city",
+                "city": "Rancho Santa Margarita",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Orange County",
+                "state": "California",
+                "state_code": "CA"
+            },
+            "confidence": 7,
+            "formatted": "Rancho Santa Margarita, California, United States of America",
+            "geometry": {
+                "lat": 33.6408845,
+                "lng": -117.6029341
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:41:23 GMT",
+        "created_unix": 1714693283
+    },
+    "total_results": 1
+}

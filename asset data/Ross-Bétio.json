@@ -1,0 +1,130 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2278,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "16\u00b0 16' 23.98800'' N",
+                    "lng": "16\u00b0 8' 16.00800'' W"
+                },
+                "MGRS": "28QCC7842799508",
+                "Maidenhead": "IK16wg35lo",
+                "Mercator": {
+                    "x": -1796449.452,
+                    "y": 1824430.866
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/16.27333/-16.13778&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=16.27333&mlon=-16.13778#map=17/16.27333/-16.13778"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SN": "686",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 221,
+                "currency": {
+                    "alternate_symbols": [
+                        "CFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "CFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XOF",
+                    "iso_numeric": "952",
+                    "name": "West African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "Fr",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddf3",
+                "geohash": "edus8f2z42x4dku2jyrk",
+                "qibla": 75.15,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713854700,
+                        "astronomical": 1713850260,
+                        "civil": 1713853380,
+                        "nautical": 1713851820
+                    },
+                    "set": {
+                        "apparent": 1713900060,
+                        "astronomical": 1713904500,
+                        "civil": 1713901380,
+                        "nautical": 1713902940
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Dakar",
+                    "now_in_dst": 0,
+                    "offset_sec": 0,
+                    "offset_string": "+0000",
+                    "short_name": "GMT"
+                },
+                "what3words": {
+                    "words": "producing.dingo.penthouses"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SN",
+                "ISO_3166-1_alpha-3": "SEN",
+                "_category": "place",
+                "_normalized_city": "Ross-B\u00e9tio",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Senegal",
+                "country_code": "sn",
+                "state": "Saint-Louis",
+                "state_code": "SL",
+                "town": "Ross-B\u00e9tio"
+            },
+            "confidence": 9,
+            "formatted": "Ross-B\u00e9tio, Saint-Louis, Senegal",
+            "geometry": {
+                "lat": 16.27333,
+                "lng": -16.13778
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:12:19 GMT",
+        "created_unix": 1713831139
+    },
+    "total_results": 1
+}

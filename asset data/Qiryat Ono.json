@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2213,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 1' 19.99200'' N",
+                    "lng": "34\u00b0 52' 0.01200'' E"
+                },
+                "MGRS": "36SXA7628844421",
+                "Maidenhead": "KM72ka45ah",
+                "Mercator": {
+                    "x": 3881339.95,
+                    "y": 3743573.12
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.02222/34.86667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.02222&mlon=34.86667#map=17/32.02222/34.86667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IL": "376",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 972,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf1",
+                "geohash": "sv8y1mmnuq3wb4cugk9s",
+                "qibla": 156.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714532160,
+                        "astronomical": 1714526760,
+                        "civil": 1714530600,
+                        "nautical": 1714528740
+                    },
+                    "set": {
+                        "apparent": 1714580400,
+                        "astronomical": 1714585800,
+                        "civil": 1714581960,
+                        "nautical": 1714583820
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "dressing.fenced.touchy"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.104969,
+                    "lng": 34.869404
+                },
+                "southwest": {
+                    "lat": 32.051735,
+                    "lng": 34.830437
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IL",
+                "ISO_3166-1_alpha-3": "ISR",
+                "_category": "place",
+                "_normalized_city": "Qiryat Ono",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Israel",
+                "country_code": "il",
+                "state": "Tel Aviv",
+                "town": "Qiryat Ono"
+            },
+            "confidence": 7,
+            "formatted": "Qiryat Ono, Tel Aviv, Israel",
+            "geometry": {
+                "lat": 32.02222,
+                "lng": 34.86667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:12:16 GMT",
+        "created_unix": 1714522336
+    },
+    "total_results": 1
+}

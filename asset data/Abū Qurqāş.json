@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2116,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 55' 50.11680'' N",
+                    "lng": "30\u00b0 50' 15.75888'' E"
+                },
+                "MGRS": "36RTR8723391394",
+                "Maidenhead": "KL57kw03mi",
+                "Mercator": {
+                    "x": 3432838.263,
+                    "y": 3220215.883
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=768584680#map=17/27.93059/30.83771",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.93059/30.83771&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.93059&mlon=30.83771#map=17/27.93059/30.83771"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "ssvyvsx76wzz0zyjhr38",
+                "qibla": 126.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711684260,
+                        "astronomical": 1711679580,
+                        "civil": 1711682880,
+                        "nautical": 1711681200
+                    },
+                    "set": {
+                        "apparent": 1711728720,
+                        "astronomical": 1711733460,
+                        "civil": 1711730100,
+                        "nautical": 1711731780
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "pass.deals.saved"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.970588,
+                    "lng": 30.8777108
+                },
+                "southwest": {
+                    "lat": 27.890588,
+                    "lng": 30.7977108
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "ISO_3166-2": [
+                    "EG-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Abu Qurqas",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "postcode": "61611",
+                "state": "Al Minya",
+                "town": "Abu Qurqas"
+            },
+            "confidence": 7,
+            "formatted": "Abu Qurqas, 61611, Egypt",
+            "geometry": {
+                "lat": 27.930588,
+                "lng": 30.8377108
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:02:26 GMT",
+        "created_unix": 1711749746
+    },
+    "total_results": 1
+}

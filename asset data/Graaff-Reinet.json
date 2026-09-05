@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 665,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 15' 12.74580'' S",
+                    "lng": "24\u00b0 32' 1.13460'' E"
+                },
+                "MGRS": "35HKE6765228790",
+                "Maidenhead": "KF27gr49ad",
+                "Mercator": {
+                    "x": 2731073.258,
+                    "y": -3773837.138
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=30211701#map=17/-32.25354/24.53365",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-32.25354/24.53365&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-32.25354&mlon=24.53365#map=17/-32.25354/24.53365"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "kd32w22ve2q0xk47rbpk",
+                "qibla": 17.3,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713934200,
+                        "astronomical": 1713929280,
+                        "civil": 1713932700,
+                        "nautical": 1713931020
+                    },
+                    "set": {
+                        "apparent": 1713973740,
+                        "astronomical": 1713978660,
+                        "civil": 1713975240,
+                        "nautical": 1713976980
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "framers.generating.megabits"
+                },
+                "wikidata": "Q1004667"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -32.2135405,
+                    "lng": 24.5736485
+                },
+                "southwest": {
+                    "lat": -32.2935405,
+                    "lng": 24.4936485
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-EC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Camdeboo Local Municipality",
+                "_type": "city",
+                "city": "Camdeboo Local Municipality",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Sarah Baartman District Municipality",
+                "postcode": "6280",
+                "state": "Eastern Cape",
+                "state_code": "EC",
+                "town": "Graaff-Reinet"
+            },
+            "confidence": 7,
+            "formatted": "Camdeboo Local Municipality, Sarah Baartman District Municipality, South Africa",
+            "geometry": {
+                "lat": -32.2535405,
+                "lng": 24.5336485
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:12:19 GMT",
+        "created_unix": 1713996739
+    },
+    "total_results": 1
+}

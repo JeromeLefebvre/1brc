@@ -1,0 +1,146 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1791,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 36' 46.36512'' N",
+                    "lng": "0\u00b0 9' 30.94128'' E"
+                },
+                "MGRS": "30UXC9672321807",
+                "Maidenhead": "IO91wo07xc",
+                "Mercator": {
+                    "x": -17654.692,
+                    "y": 6696915.606
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=200088#map=17/51.61288/-0.15859",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.61288/-0.15859&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.61288&mlon=-0.15859#map=17/51.61288/-0.15859"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpvs7udb6p0uwvqqtcu",
+                "qibla": 119.05,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714796820,
+                        "astronomical": 1714787520,
+                        "civil": 1714794480,
+                        "nautical": 1714791420
+                    },
+                    "set": {
+                        "apparent": 1714850940,
+                        "astronomical": 1714860360,
+                        "civil": 1714853280,
+                        "nautical": 1714856340
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "stud.struck.able"
+                },
+                "wikidata": "Q149662"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6328792,
+                    "lng": -0.1385948
+                },
+                "southwest": {
+                    "lat": 51.5928792,
+                    "lng": -0.1785948
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-BNE"
+                ],
+                "_category": "place",
+                "_normalized_city": "London",
+                "_type": "neighbourhood",
+                "city": "London",
+                "city_district": "London Borough of Barnet",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "London Borough of Barnet",
+                "county_code": "BNE",
+                "postcode": "N12 0ND",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Friern Barnet"
+            },
+            "confidence": 7,
+            "formatted": "London, N12 0ND, United Kingdom",
+            "geometry": {
+                "lat": 51.6128792,
+                "lng": -0.1585948
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:46:17 GMT",
+        "created_unix": 1714787177
+    },
+    "total_results": 1
+}

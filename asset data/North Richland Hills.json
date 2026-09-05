@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1861,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 50' 3.46272'' N",
+                    "lng": "97\u00b0 13' 44.05044'' W"
+                },
+                "FIPS": {
+                    "county": "48439",
+                    "state": "48"
+                },
+                "MGRS": "14SPB6576834306",
+                "Maidenhead": "EM12ju20mf",
+                "Mercator": {
+                    "x": -10823471.961,
+                    "y": 3850163.656
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6571662#map=17/32.83430/-97.22890",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/32.83430/-97.22890&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.83430&mlon=-97.22890#map=17/32.83430/-97.22890"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vffg921dk72455m32z4",
+                "qibla": 43.16,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714909080,
+                        "astronomical": 1714903560,
+                        "civil": 1714907520,
+                        "nautical": 1714905600
+                    },
+                    "set": {
+                        "apparent": 1714871580,
+                        "astronomical": 1714877100,
+                        "civil": 1714873200,
+                        "nautical": 1714875120
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "spider.treaties.contour"
+                },
+                "wikidata": "Q26489"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.911519,
+                    "lng": -97.185923
+                },
+                "southwest": {
+                    "lat": 32.8087415,
+                    "lng": -97.2645211
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Richland Hills",
+                "_type": "city",
+                "city": "North Richland Hills",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Tarrant County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 7,
+            "formatted": "North Richland Hills, Texas, United States of America",
+            "geometry": {
+                "lat": 32.8342952,
+                "lng": -97.2289029
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 07:12:03 GMT",
+        "created_unix": 1714893123
+    },
+    "total_results": 1
+}

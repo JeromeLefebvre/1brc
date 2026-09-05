@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 32,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 6' 48.88800'' N",
+                    "lng": "130\u00b0 0' 10.51200'' E"
+                },
+                "MGRS": "52SEB9357064325",
+                "Maidenhead": "PM53ac07ig",
+                "Mercator": {
+                    "x": 14471858.856,
+                    "y": 3887048.218
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.11358/130.00292&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.11358&mlon=130.00292#map=17/33.11358/130.00292"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvukqk1hxdenff3sn1fj",
+                "qibla": 288.28,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711746780,
+                        "astronomical": 1711741800,
+                        "civil": 1711745340,
+                        "nautical": 1711743600
+                    },
+                    "set": {
+                        "apparent": 1711705020,
+                        "astronomical": 1711710000,
+                        "civil": 1711706520,
+                        "nautical": 1711708260
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "bridegroom.kettles.triangles"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.1051624,
+                    "lng": 129.9954561
+                },
+                "southwest": {
+                    "lat": 33.0871245,
+                    "lng": 129.96304
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "_category": "place",
+                "_normalized_city": "Ureshinomachi-shimojuku",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "state": "Saga",
+                "town": "Ureshinomachi-shimojuku"
+            },
+            "confidence": 7,
+            "formatted": "Ureshinomachi-shimojuku, Saga, Japan",
+            "geometry": {
+                "lat": 33.11358,
+                "lng": 130.00292
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:10:01 GMT",
+        "created_unix": 1711753801
+    },
+    "total_results": 1
+}

@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 648,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 14' 17.34396'' N",
+                    "lng": "73\u00b0 31' 21.44820'' W"
+                },
+                "FIPS": {
+                    "county": "36119",
+                    "state": "36"
+                },
+                "MGRS": "18TXL2380366246",
+                "Maidenhead": "FN31ff77gd",
+                "Mercator": {
+                    "x": -8184501.121,
+                    "y": 5019359.381
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3306018#map=17/41.23815/-73.52262",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.23815/-73.52262&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.23815&mlon=-73.52262#map=17/41.23815/-73.52262"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr7dwgnmwst9jz5y3v1f",
+                "qibla": 58.79,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711708920,
+                        "astronomical": 1711703280,
+                        "civil": 1711707240,
+                        "nautical": 1711705320
+                    },
+                    "set": {
+                        "apparent": 1711754160,
+                        "astronomical": 1711673400,
+                        "civil": 1711755840,
+                        "nautical": 1711671360
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "booths.deserved.inserting"
+                },
+                "wikidata": "Q3068247"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.311053,
+                    "lng": -73.481924
+                },
+                "southwest": {
+                    "lat": 41.199401,
+                    "lng": -73.71032
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Lewisboro",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Westchester County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Lewisboro"
+            },
+            "confidence": 5,
+            "formatted": "Lewisboro, New York, United States of America",
+            "geometry": {
+                "lat": 41.2381511,
+                "lng": -73.5226245
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:50:29 GMT",
+        "created_unix": 1711752629
+    },
+    "total_results": 1
+}

@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1306,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 40' 33.49200'' N",
+                    "lng": "35\u00b0 14' 23.49600'' E"
+                },
+                "MGRS": "36SYB1002217582",
+                "Maidenhead": "KM72oq82sf",
+                "Mercator": {
+                    "x": 3922883.271,
+                    "y": 3829306.015
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.67597/35.23986&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.67597&mlon=35.23986#map=16/32.67597/35.23986"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IL": "376",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 972,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf1",
+                "geohash": "svc1cukzk621krcburvn",
+                "qibla": 158.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714618320,
+                        "astronomical": 1714612920,
+                        "civil": 1714616760,
+                        "nautical": 1714614900
+                    },
+                    "set": {
+                        "apparent": 1714666800,
+                        "astronomical": 1714672260,
+                        "civil": 1714668420,
+                        "nautical": 1714670280
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "eagle.blending.fictional"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.688511,
+                    "lng": 35.25238
+                },
+                "southwest": {
+                    "lat": 32.669365,
+                    "lng": 35.238132
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IL",
+                "ISO_3166-1_alpha-3": "ISR",
+                "_category": "place",
+                "_normalized_city": "Migdal Ha\u2018Emeq",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Israel",
+                "country_code": "il",
+                "state": "Northern District",
+                "town": "Migdal Ha\u2018Emeq"
+            },
+            "confidence": 8,
+            "formatted": "Migdal Ha\u2018Emeq, Northern District, Israel",
+            "geometry": {
+                "lat": 32.67597,
+                "lng": 35.23986
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:45:07 GMT",
+        "created_unix": 1714693507
+    },
+    "total_results": 1
+}

@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2011,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "20\u00b0 16' 36.13908'' N",
+                    "lng": "97\u00b0 57' 38.50848'' W"
+                },
+                "MGRS": "14QPH0852942443",
+                "Maidenhead": "EL10ag46rj",
+                "Mercator": {
+                    "x": -10904934.886,
+                    "y": 2291038.409
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5570886#map=16/20.27671/-97.96070",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/20.27671/-97.96070&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=20.27671&mlon=-97.96070#map=16/20.27671/-97.96070"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9gd76g70q7f4x88h5e46",
+                "qibla": 47.08,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714564980,
+                        "astronomical": 1714560300,
+                        "civil": 1714563600,
+                        "nautical": 1714561980
+                    },
+                    "set": {
+                        "apparent": 1714524900,
+                        "astronomical": 1714529580,
+                        "civil": 1714526280,
+                        "nautical": 1714527900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "swelling.keep.format"
+                },
+                "wikidata": "Q3891528"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 20.434076,
+                    "lng": -97.7500388
+                },
+                "southwest": {
+                    "lat": 20.2291903,
+                    "lng": -98.0446866
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-PUE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Xicotepec",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "postcode": "73080",
+                "state": "Puebla",
+                "state_code": "PUE",
+                "town": "Xicotepec"
+            },
+            "confidence": 4,
+            "formatted": "73080 Xicotepec, PUE, Mexico",
+            "geometry": {
+                "lat": 20.2767053,
+                "lng": -97.9606968
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:20:46 GMT",
+        "created_unix": 1714522846
+    },
+    "total_results": 1
+}

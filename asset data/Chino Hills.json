@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1502,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 59' 33.64908'' N",
+                    "lng": "117\u00b0 45' 36.20160'' W"
+                },
+                "FIPS": {
+                    "county": "06071",
+                    "state": "06"
+                },
+                "MGRS": "11SMT2980361604",
+                "Maidenhead": "DM13cx88tf",
+                "Mercator": {
+                    "x": -13108989.47,
+                    "y": 4003930.827
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6618784#map=17/33.99268/-117.76006",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.99268/-117.76006&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.99268&mlon=-117.76006#map=17/33.99268/-117.76006"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9qh32k1txycurh0fetwz",
+                "qibla": 24.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713618840,
+                        "astronomical": 1713613500,
+                        "civil": 1713617280,
+                        "nautical": 1713615420
+                    },
+                    "set": {
+                        "apparent": 1713579960,
+                        "astronomical": 1713585300,
+                        "civil": 1713581520,
+                        "nautical": 1713583380
+                    }
+                },
+                "timezone": {
+                    "name": "America/Los_Angeles",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "hazed.popular.juggler"
+                },
+                "wikidata": "Q852721"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.0235121,
+                    "lng": -117.654201
+                },
+                "southwest": {
+                    "lat": 33.8709844,
+                    "lng": -117.8025491
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-CA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Chino Hills",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "San Bernardino County",
+                "state": "California",
+                "state_code": "CA",
+                "town": "Chino Hills"
+            },
+            "confidence": 5,
+            "formatted": "Chino Hills, California, United States of America",
+            "geometry": {
+                "lat": 33.9926803,
+                "lng": -117.760056
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 11:54:30 GMT",
+        "created_unix": 1713614070
+    },
+    "total_results": 1
+}

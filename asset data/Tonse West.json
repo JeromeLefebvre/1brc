@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 900,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "5\u00b0 30' 0.00000'' N",
+                    "lng": "10\u00b0 40' 0.01200'' E"
+                },
+                "MGRS": "32NPM8463608191",
+                "Maidenhead": "JJ55im00aa",
+                "Mercator": {
+                    "x": 1187408.273,
+                    "y": 609107.189
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/5.50000/10.66667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=5.50000&mlon=10.66667#map=17/5.50000/10.66667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "CM": "120",
+                        "MIDDLE_AFRICA": "017",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 237,
+                "currency": {
+                    "alternate_symbols": [
+                        "FCFA"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "FCFA",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "XAF",
+                    "iso_numeric": "950",
+                    "name": "Central African Cfa Franc",
+                    "smallest_denomination": 100,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 1,
+                    "symbol": "CFA",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf2",
+                "geohash": "s0zx69ppz6m9un963peh",
+                "qibla": 57.8,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713589740,
+                        "astronomical": 1713585540,
+                        "civil": 1713588480,
+                        "nautical": 1713586980
+                    },
+                    "set": {
+                        "apparent": 1713633780,
+                        "astronomical": 1713638040,
+                        "civil": 1713635040,
+                        "nautical": 1713636540
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Douala",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "WAT"
+                },
+                "what3words": {
+                    "words": "explode.skid.rollovers"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 6.2908825,
+                    "lng": 11.3144312
+                },
+                "southwest": {
+                    "lat": 4.8950504,
+                    "lng": 9.8634086
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CM",
+                "ISO_3166-1_alpha-3": "CMR",
+                "_category": "place",
+                "_type": "state",
+                "continent": "Africa",
+                "country": "Cameroon",
+                "country_code": "cm",
+                "state": "West",
+                "state_code": "OU"
+            },
+            "confidence": 1,
+            "formatted": "West, Cameroon",
+            "geometry": {
+                "lat": 5.5,
+                "lng": 10.66667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:30:53 GMT",
+        "created_unix": 1713648653
+    },
+    "total_results": 1
+}

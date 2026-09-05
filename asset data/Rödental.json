@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1248,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 17' 49.88904'' N",
+                    "lng": "11\u00b0 2' 34.17936'' E"
+                },
+                "MGRS": "32UPA4549373670",
+                "Maidenhead": "JO50mh51dh",
+                "Mercator": {
+                    "x": 1229281.945,
+                    "y": 6465010.398
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE24"
+                    },
+                    "NUTS3": {
+                        "code": "DE247"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=956805#map=17/50.29719/11.04283",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.29719/11.04283&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.29719&mlon=11.04283#map=17/50.29719/11.04283"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0zy5k34ks119cp99h2w",
+                "qibla": 131.34,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714708080,
+                        "astronomical": 1714699500,
+                        "civil": 1714705860,
+                        "nautical": 1714702980
+                    },
+                    "set": {
+                        "apparent": 1714761480,
+                        "astronomical": 1714770180,
+                        "civil": 1714763700,
+                        "nautical": 1714766640
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "vamp.repents.socket"
+                },
+                "wikidata": "Q572701"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.3657638,
+                    "lng": 11.0989146
+                },
+                "southwest": {
+                    "lat": 50.2603795,
+                    "lng": 10.9858157
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "R\u00f6dental",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Coburg",
+                "political_union": "European Union",
+                "postcode": "96472",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "R\u00f6dental"
+            },
+            "confidence": 6,
+            "formatted": "96472 R\u00f6dental, Germany",
+            "geometry": {
+                "lat": 50.2971914,
+                "lng": 11.0428276
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:57:29 GMT",
+        "created_unix": 1714697849
+    },
+    "total_results": 1
+}

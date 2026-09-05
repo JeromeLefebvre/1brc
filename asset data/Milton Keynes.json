@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1235,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "52\u00b0 2' 26.34072'' N",
+                    "lng": "0\u00b0 45' 33.87312'' E"
+                },
+                "MGRS": "30UXC5366867929",
+                "Maidenhead": "IO92oa89us",
+                "Mercator": {
+                    "x": -84537.045,
+                    "y": 6773767.188
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=14186936#map=17/52.04065/-0.75941",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/52.04065/-0.75941&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=52.04065&mlon=-0.75941#map=17/52.04065/-0.75941"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcr2n9xnb2r6qsjdhrwp",
+                "qibla": 118.79,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713934080,
+                        "astronomical": 1713925560,
+                        "civil": 1713931800,
+                        "nautical": 1713928980
+                    },
+                    "set": {
+                        "apparent": 1713986160,
+                        "astronomical": 1713994740,
+                        "civil": 1713988380,
+                        "nautical": 1713991260
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "outsize.strikers.workbook"
+                },
+                "wikidata": "Q6861276"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 52.1025671,
+                    "lng": -0.6402224
+                },
+                "southwest": {
+                    "lat": 51.969853,
+                    "lng": -0.8630339
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-MIK"
+                ],
+                "_category": "place",
+                "_normalized_city": "Milton Keynes",
+                "_type": "city",
+                "city": "Milton Keynes",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "City of Milton Keynes",
+                "state": "England",
+                "state_code": "ENG"
+            },
+            "confidence": 5,
+            "formatted": "Milton Keynes, City of Milton Keynes, England, United Kingdom",
+            "geometry": {
+                "lat": 52.0406502,
+                "lng": -0.7594092
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:52:46 GMT",
+        "created_unix": 1713995566
+    },
+    "total_results": 1
+}

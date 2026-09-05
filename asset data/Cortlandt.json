@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1275,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 14' 40.72308'' N",
+                    "lng": "73\u00b0 55' 33.44124'' W"
+                },
+                "FIPS": {
+                    "county": "36119",
+                    "state": "36"
+                },
+                "MGRS": "18TWL8999466471",
+                "Maidenhead": "FN31af88vr",
+                "Mercator": {
+                    "x": -8229399.767,
+                    "y": 5020317.154
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3305920#map=17/41.24465/-73.92596",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.24465/-73.92596&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.24465&mlon=-73.92596#map=17/41.24465/-73.92596"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr76tu2g2r5uxu3s6br3",
+                "qibla": 58.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714470900,
+                        "astronomical": 1714464540,
+                        "civil": 1714469100,
+                        "nautical": 1714466880
+                    },
+                    "set": {
+                        "apparent": 1714521120,
+                        "astronomical": 1714441080,
+                        "civil": 1714436520,
+                        "nautical": 1714438680
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "names.opponent.cityscape"
+                },
+                "wikidata": "Q167239"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.334491,
+                    "lng": -73.838072
+                },
+                "southwest": {
+                    "lat": 41.164916,
+                    "lng": -73.98337
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Town of Cortlandt",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Westchester County",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "Town of Cortlandt"
+            },
+            "confidence": 5,
+            "formatted": "Cortlandt, New York, United States of America",
+            "geometry": {
+                "lat": 41.2446453,
+                "lng": -73.9259559
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:56:59 GMT",
+        "created_unix": 1714521419
+    },
+    "total_results": 1
+}

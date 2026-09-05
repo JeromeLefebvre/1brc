@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2228,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 28' 19.61292'' N",
+                    "lng": "123\u00b0 45' 47.24640'' W"
+                },
+                "MGRS": "10UDV4471280220",
+                "Maidenhead": "CN89cl83kh",
+                "Mercator": {
+                    "x": -13777247.943,
+                    "y": 6322856.383
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2221362#map=17/49.47211/-123.76312",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.47211/-123.76312&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.47211&mlon=-123.76312#map=17/49.47211/-123.76312"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c0zcrwn7ynw531v1w1mj",
+                "qibla": 16.02,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714567920,
+                        "astronomical": 1714559700,
+                        "civil": 1714565760,
+                        "nautical": 1714563000
+                    },
+                    "set": {
+                        "apparent": 1714534380,
+                        "astronomical": 1714542660,
+                        "civil": 1714536540,
+                        "nautical": 1714539360
+                    }
+                },
+                "timezone": {
+                    "name": "America/Vancouver",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "typically.freedom.unlocked"
+                },
+                "wikidata": "Q1259274"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.5502679,
+                    "lng": -123.6753133
+                },
+                "southwest": {
+                    "lat": 49.4318605,
+                    "lng": -123.8495559
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-BC"
+                ],
+                "_category": "place",
+                "_normalized_city": "Sechelt",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Sunshine Coast Regional District",
+                "state": "British Columbia",
+                "state_code": "BC",
+                "town": "Sechelt"
+            },
+            "confidence": 6,
+            "formatted": "Sechelt, BC, Canada",
+            "geometry": {
+                "lat": 49.4721147,
+                "lng": -123.763124
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:11:40 GMT",
+        "created_unix": 1714522300
+    },
+    "total_results": 1
+}

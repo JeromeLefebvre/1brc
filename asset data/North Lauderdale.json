@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1208,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 13' 2.29800'' N",
+                    "lng": "80\u00b0 13' 33.17196'' W"
+                },
+                "FIPS": {
+                    "county": "12011",
+                    "state": "12"
+                },
+                "MGRS": "17RNJ7733099980",
+                "Maidenhead": "EL96vf22vd",
+                "Mercator": {
+                    "x": -8930704.232,
+                    "y": 3007149.023
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117952#map=17/26.21730/-80.22588",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.21730/-80.22588&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.21730&mlon=-80.22588#map=17/26.21730/-80.22588"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhwvnktqc7zk11zwgn0n",
+                "qibla": 56.49,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714042140,
+                        "astronomical": 1714037220,
+                        "civil": 1714040700,
+                        "nautical": 1714038960
+                    },
+                    "set": {
+                        "apparent": 1714088940,
+                        "astronomical": 1714007460,
+                        "civil": 1714003980,
+                        "nautical": 1714005660
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "mergers.stardom.manliness"
+                },
+                "wikidata": "Q606186"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.2298683,
+                    "lng": -80.1954886
+                },
+                "southwest": {
+                    "lat": 26.1865581,
+                    "lng": -80.2442418
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "North Lauderdale",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Broward County",
+                "postcode": "33068",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "North Lauderdale"
+            },
+            "confidence": 7,
+            "formatted": "North Lauderdale, FL 33068, United States of America",
+            "geometry": {
+                "lat": 26.217305,
+                "lng": -80.2258811
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:58:04 GMT",
+        "created_unix": 1714006684
+    },
+    "total_results": 1
+}

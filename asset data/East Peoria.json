@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 551,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 39' 58.13640'' N",
+                    "lng": "89\u00b0 34' 48.35208'' W"
+                },
+                "FIPS": {
+                    "county": "17179",
+                    "state": "17"
+                },
+                "MGRS": "16TBL8190704898",
+                "Maidenhead": "EN50fp09jv",
+                "Mercator": {
+                    "x": -9972010.872,
+                    "y": 4935372.368
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=124798#map=17/40.66615/-89.58010",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.66615/-89.58010&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.66615&mlon=-89.58010#map=17/40.66615/-89.58010"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dp0r3e1c2rtgbc238eu3",
+                "qibla": 47.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711799100,
+                        "astronomical": 1711793520,
+                        "civil": 1711797420,
+                        "nautical": 1711795500
+                    },
+                    "set": {
+                        "apparent": 1711758060,
+                        "astronomical": 1711763640,
+                        "civil": 1711759680,
+                        "nautical": 1711761660
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "consonant.reclaiming.dark"
+                },
+                "wikidata": "Q506116"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.7190725,
+                    "lng": -89.4748182
+                },
+                "southwest": {
+                    "lat": 40.6192735,
+                    "lng": -89.6160732
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IL"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Peoria",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Tazewell County",
+                "postcode": "61611",
+                "state": "Illinois",
+                "state_code": "IL",
+                "town": "East Peoria"
+            },
+            "confidence": 6,
+            "formatted": "East Peoria, IL 61611, United States of America",
+            "geometry": {
+                "lat": 40.666149,
+                "lng": -89.5800978
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:33:58 GMT",
+        "created_unix": 1711834438
+    },
+    "total_results": 1
+}

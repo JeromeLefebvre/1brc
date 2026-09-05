@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2279,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "11\u00b0 31' 35.00400'' S",
+                    "lng": "75\u00b0 55' 26.47200'' W"
+                },
+                "MGRS": "18LUN9923525653",
+                "Maidenhead": "FH28al93cp",
+                "Mercator": {
+                    "x": -8451823.245,
+                    "y": -1283322.649
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-11.52639/-75.92402&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-11.52639&mlon=-75.92402#map=17/-11.52639/-75.92402"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "LATIN_AMERICA": "419",
+                        "PE": "604",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 51,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "S/",
+                    "iso_code": "PEN",
+                    "iso_numeric": "604",
+                    "name": "Peruvian Sol",
+                    "smallest_denomination": 1,
+                    "subunit": "C\u00e9ntimo",
+                    "subunit_to_unit": 100,
+                    "symbol": "S/",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddea",
+                "geohash": "6mfn2m9vfj5mmmdx83xg",
+                "qibla": 71.71,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714821060,
+                        "astronomical": 1714816740,
+                        "civil": 1714819800,
+                        "nautical": 1714818240
+                    },
+                    "set": {
+                        "apparent": 1714862940,
+                        "astronomical": 1714780920,
+                        "civil": 1714864260,
+                        "nautical": 1714865760
+                    }
+                },
+                "timezone": {
+                    "name": "America/Lima",
+                    "now_in_dst": 0,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "-05"
+                },
+                "what3words": {
+                    "words": "summits.against.album"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PE",
+                "ISO_3166-1_alpha-3": "PER",
+                "_category": "place",
+                "_normalized_city": "Forbe Oroya",
+                "_type": "city",
+                "continent": "South America",
+                "country": "Peru",
+                "country_code": "pe",
+                "county": "Yauli",
+                "local_administrative_area": "Santa Rosa De Sacco",
+                "state": "Jun\u00edn",
+                "state_code": "JUN",
+                "town": "Forbe Oroya"
+            },
+            "confidence": 9,
+            "formatted": "Forbe Oroya, Yauli, Peru",
+            "geometry": {
+                "lat": -11.52639,
+                "lng": -75.92402
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 01:30:12 GMT",
+        "created_unix": 1714786212
+    },
+    "total_results": 1
+}

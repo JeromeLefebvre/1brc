@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1037,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "26\u00b0 22' 57.99756'' N",
+                    "lng": "98\u00b0 49' 13.89036'' W"
+                },
+                "FIPS": {
+                    "county": "48427",
+                    "state": "48"
+                },
+                "MGRS": "14RNQ1790218087",
+                "Maidenhead": "EL06oj11mu",
+                "Mercator": {
+                    "x": -11000650.534,
+                    "y": 3027585.53
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=115425#map=17/26.38278/-98.82053",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/26.38278/-98.82053&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=26.38278&mlon=-98.82053#map=17/26.38278/-98.82053"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9u9wp6c4ff5g94gbkuu7",
+                "qibla": 43.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714046580,
+                        "astronomical": 1714041660,
+                        "civil": 1714045140,
+                        "nautical": 1714043400
+                    },
+                    "set": {
+                        "apparent": 1714007040,
+                        "astronomical": 1714011900,
+                        "civil": 1714008480,
+                        "nautical": 1714010160
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "hills.strongly.announces"
+                },
+                "wikidata": "Q981868"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 26.438178,
+                    "lng": -98.769828
+                },
+                "southwest": {
+                    "lat": 26.3322599,
+                    "lng": -98.86869
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Rio Grande City",
+                "_type": "city",
+                "city": "Rio Grande City",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Starr County",
+                "state": "Texas",
+                "state_code": "TX"
+            },
+            "confidence": 6,
+            "formatted": "Rio Grande City, Texas, United States of America",
+            "geometry": {
+                "lat": 26.3827771,
+                "lng": -98.8205251
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:05:41 GMT",
+        "created_unix": 1714007141
+    },
+    "total_results": 1
+}

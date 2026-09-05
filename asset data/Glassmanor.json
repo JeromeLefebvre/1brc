@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 181,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "38\u00b0 49' 8.40756'' N",
+                    "lng": "76\u00b0 59' 54.91212'' W"
+                },
+                "FIPS": {
+                    "county": "24033",
+                    "state": "24"
+                },
+                "MGRS": "18SUH2649198588",
+                "Maidenhead": "FM18mt06en",
+                "Mercator": {
+                    "x": -8571443.463,
+                    "y": 4668989.172
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158398172#map=17/38.81900/-76.99859",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/38.81900/-76.99859&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=38.81900&mlon=-76.99859#map=17/38.81900/-76.99859"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqchzfg34fkrm4u3ru9g",
+                "qibla": 56.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711709820,
+                        "astronomical": 1711704420,
+                        "civil": 1711708260,
+                        "nautical": 1711706340
+                    },
+                    "set": {
+                        "apparent": 1711754880,
+                        "astronomical": 1711673940,
+                        "civil": 1711756500,
+                        "nautical": 1711672020
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "jabs.gives.votes"
+                },
+                "wikidata": "Q3885829"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 38.8590021,
+                    "lng": -76.9585867
+                },
+                "southwest": {
+                    "lat": 38.7790021,
+                    "lng": -77.0385867
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Glassmanor",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Prince George's County",
+                "postcode": "20745",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "Glassmanor"
+            },
+            "confidence": 7,
+            "formatted": "Glassmanor, MD 20745, United States of America",
+            "geometry": {
+                "lat": 38.8190021,
+                "lng": -76.9985867
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:05:19 GMT",
+        "created_unix": 1711753519
+    },
+    "total_results": 1
+}

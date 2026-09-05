@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1986,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 5' 31.39116'' N",
+                    "lng": "76\u00b0 49' 3.89928'' W"
+                },
+                "FIPS": {
+                    "county": "24003",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ4279628564",
+                "Maidenhead": "FM19oc12uc",
+                "Mercator": {
+                    "x": -8551312.792,
+                    "y": 4707918.26
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158512482#map=17/39.09205/-76.81775",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.09205/-76.81775&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.09205&mlon=-76.81775#map=17/39.09205/-76.81775"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dqcq7urp8wy5vxutpuf8",
+                "qibla": 56.69,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713781260,
+                        "astronomical": 1713775380,
+                        "civil": 1713779580,
+                        "nautical": 1713777540
+                    },
+                    "set": {
+                        "apparent": 1713829860,
+                        "astronomical": 1713749340,
+                        "civil": 1713745140,
+                        "nautical": 1713747180
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "waitresses.families.cooked"
+                },
+                "wikidata": "Q753934"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.1120531,
+                    "lng": -76.7977498
+                },
+                "southwest": {
+                    "lat": 39.0720531,
+                    "lng": -76.8377498
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Maryland City",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Anne Arundel County",
+                "postcode": "20724",
+                "state": "Maryland",
+                "state_code": "MD",
+                "village": "Maryland City"
+            },
+            "confidence": 7,
+            "formatted": "Maryland City, Anne Arundel County, MD 20724, United States of America",
+            "geometry": {
+                "lat": 39.0920531,
+                "lng": -76.8177498
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:28:45 GMT",
+        "created_unix": 1713745725
+    },
+    "total_results": 1
+}

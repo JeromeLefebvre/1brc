@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1246,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 37' 19.40376'' N",
+                    "lng": "5\u00b0 39' 12.29076'' E"
+                },
+                "MGRS": "31UFS8768411157",
+                "Maidenhead": "JO20to89jh",
+                "Mercator": {
+                    "x": 629335.179,
+                    "y": 6521661.785
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE3"
+                    },
+                    "NUTS2": {
+                        "code": "BE33"
+                    },
+                    "NUTS3": {
+                        "code": "BE332"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2437273#map=17/50.62206/5.65341",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.62206/5.65341&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.62206&mlon=5.65341#map=17/50.62206/5.65341"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u0upbxkwy571fvftw8z7",
+                "qibla": 124.81,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711862160,
+                        "astronomical": 1711855260,
+                        "civil": 1711860180,
+                        "nautical": 1711857780
+                    },
+                    "set": {
+                        "apparent": 1711908480,
+                        "astronomical": 1711915380,
+                        "civil": 1711910460,
+                        "nautical": 1711912860
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "highways.reserve.classed"
+                },
+                "wikidata": "Q681039"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.6508573,
+                    "lng": 5.6936097
+                },
+                "southwest": {
+                    "lat": 50.611115,
+                    "lng": 5.6354941
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-WAL",
+                    "BE-WLG"
+                ],
+                "_category": "place",
+                "_normalized_city": "Beyne-Heusay",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Li\u00e8ge",
+                "political_union": "European Union",
+                "postcode": "4610",
+                "region": "Wallonia",
+                "state": "Li\u00e8ge",
+                "state_code": "WLG",
+                "town": "Beyne-Heusay"
+            },
+            "confidence": 7,
+            "formatted": "4610 Beyne-Heusay, Belgium",
+            "geometry": {
+                "lat": 50.6220566,
+                "lng": 5.6534141
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 21:08:43 GMT",
+        "created_unix": 1711919323
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2490,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "0\u00b0 34' 59.99880'' N",
+                    "lng": "32\u00b0 25' 0.00120'' E"
+                },
+                "MGRS": "36NVF3509164479",
+                "Maidenhead": "KJ60fo00aa",
+                "Mercator": {
+                    "x": 3608606.864,
+                    "y": 64502.753
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2229118769#map=17/0.58333/32.41667",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/0.58333/32.41667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=0.58333&mlon=32.41667#map=17/0.58333/32.41667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "UG": "800",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 256,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "UGX",
+                    "iso_numeric": "800",
+                    "name": "Ugandan Shilling",
+                    "smallest_denomination": 1000,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 1,
+                    "symbol": "USh",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddec",
+                "geohash": "s8p53djn5j4ugkkdbj3v",
+                "qibla": 18.64,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714016700,
+                        "astronomical": 1714012500,
+                        "civil": 1714015440,
+                        "nautical": 1714014000
+                    },
+                    "set": {
+                        "apparent": 1714060260,
+                        "astronomical": 1714064520,
+                        "civil": 1714061520,
+                        "nautical": 1714063020
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Kampala",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "setbacks.winemaker.insatiable"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 0.603333,
+                    "lng": 32.436667
+                },
+                "southwest": {
+                    "lat": 0.563333,
+                    "lng": 32.396667
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UG",
+                "ISO_3166-1_alpha-3": "UGA",
+                "ISO_3166-2": [
+                    "UG-C",
+                    "UG-104"
+                ],
+                "_category": "place",
+                "_normalized_city": "Makulubita",
+                "_type": "village",
+                "continent": "Africa",
+                "country": "Uganda",
+                "country_code": "ug",
+                "state": "Luweero",
+                "village": "Makulubita"
+            },
+            "confidence": 7,
+            "formatted": "Makulubita, Luweero, Uganda",
+            "geometry": {
+                "lat": 0.583333,
+                "lng": 32.416667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:01:01 GMT",
+        "created_unix": 1714003261
+    },
+    "total_results": 1
+}

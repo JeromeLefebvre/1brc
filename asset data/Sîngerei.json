@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 773,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 38' 12.72624'' N",
+                    "lng": "28\u00b0 8' 16.60524'' E"
+                },
+                "MGRS": "35TNN8547976568",
+                "Maidenhead": "KN47bp62nu",
+                "Mercator": {
+                    "x": 3132301.806,
+                    "y": 6015066.527
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5636937#map=17/47.63687/28.13795",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.63687/28.13795&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.63687&mlon=28.13795#map=17/47.63687/28.13795"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "MD": "498",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LLDC",
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 373,
+                "currency": {
+                    "alternate_symbols": [
+                        "lei"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MDL",
+                    "iso_numeric": "498",
+                    "name": "Moldovan Leu",
+                    "smallest_denomination": 1,
+                    "subunit": "Ban",
+                    "subunit_to_unit": 100,
+                    "symbol": "L",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde9",
+                "geohash": "u8kp0212vevhkku8rddf",
+                "qibla": 156.19,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713755160,
+                        "astronomical": 1713748020,
+                        "civil": 1713753180,
+                        "nautical": 1713750780
+                    },
+                    "set": {
+                        "apparent": 1713805560,
+                        "astronomical": 1713812760,
+                        "civil": 1713807540,
+                        "nautical": 1713810060
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Chisinau",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "shelving.taps.marginal"
+                },
+                "wikidata": "Q2249997"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.6486593,
+                    "lng": 28.1771874
+                },
+                "southwest": {
+                    "lat": 47.6243752,
+                    "lng": 28.103733
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MD",
+                "ISO_3166-1_alpha-3": "MDA",
+                "ISO_3166-2": [
+                    "MD-SI"
+                ],
+                "_category": "place",
+                "_normalized_city": "S\u00eengerei",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Moldova",
+                "country_code": "md",
+                "district": "S\u00eengerei District",
+                "postcode": "MD-6201",
+                "town": "S\u00eengerei"
+            },
+            "confidence": 7,
+            "formatted": "MD-6201 S\u00eengerei, Moldova",
+            "geometry": {
+                "lat": 47.6368684,
+                "lng": 28.1379459
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:21:35 GMT",
+        "created_unix": 1713781295
+    },
+    "total_results": 1
+}

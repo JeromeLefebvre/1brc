@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2221,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 16' 23.17764'' N",
+                    "lng": "11\u00b0 0' 24.79968'' E"
+                },
+                "MGRS": "32TPR5742015248",
+                "Maidenhead": "JN55mg05tn",
+                "Mercator": {
+                    "x": 1225281.256,
+                    "y": 5634249.602
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH31"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=44495#map=16/45.27310/11.00689",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/45.27310/11.00689&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.27310&mlon=11.00689#map=16/45.27310/11.00689"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0pcd3wyzn7nhvfn6sgt",
+                "qibla": 125.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714104780,
+                        "astronomical": 1714097940,
+                        "civil": 1714102860,
+                        "nautical": 1714100520
+                    },
+                    "set": {
+                        "apparent": 1714155300,
+                        "astronomical": 1714162200,
+                        "civil": 1714157220,
+                        "nautical": 1714159620
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "freebie.revision.convoy"
+                },
+                "wikidata": "Q47874"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.3350882,
+                    "lng": 11.0943166
+                },
+                "southwest": {
+                    "lat": 45.2167838,
+                    "lng": 10.9609246
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-VR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Isola della Scala",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Verona",
+                "county_code": "VR",
+                "political_union": "European Union",
+                "postcode": "37063",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "Isola della Scala"
+            },
+            "confidence": 6,
+            "formatted": "37063 Isola della Scala VR, Italy",
+            "geometry": {
+                "lat": 45.2731049,
+                "lng": 11.0068888
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:05:45 GMT",
+        "created_unix": 1714169145
+    },
+    "total_results": 1
+}

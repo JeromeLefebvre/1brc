@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2276,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 4' 56.41464'' N",
+                    "lng": "76\u00b0 23' 6.08244'' W"
+                },
+                "FIPS": {
+                    "county": "42071",
+                    "state": "42"
+                },
+                "MGRS": "18TUK8191437815",
+                "Maidenhead": "FN10tb39ts",
+                "Mercator": {
+                    "x": -8503141.853,
+                    "y": 4850396.57
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=16442198#map=17/40.08234/-76.38502",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.08234/-76.38502&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.08234&mlon=-76.38502#map=17/40.08234/-76.38502"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr1sjbf0ecq8pzc0yef3",
+                "qibla": 56.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714644240,
+                        "astronomical": 1714638000,
+                        "civil": 1714642500,
+                        "nautical": 1714640340
+                    },
+                    "set": {
+                        "apparent": 1714608060,
+                        "astronomical": 1714614360,
+                        "civil": 1714609860,
+                        "nautical": 1714612020
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "acrobat.figs.perceptual"
+                },
+                "wikidata": "Q5328574"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.1275788,
+                    "lng": -76.3351174
+                },
+                "southwest": {
+                    "lat": 40.0371105,
+                    "lng": -76.4438661
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "East Hempfield Township",
+                "_type": "city",
+                "city": "East Hempfield Township",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Lancaster County",
+                "state": "Pennsylvania",
+                "state_code": "PA"
+            },
+            "confidence": 7,
+            "formatted": "East Hempfield Township, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.0823374,
+                "lng": -76.3850229
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:10:02 GMT",
+        "created_unix": 1714691402
+    },
+    "total_results": 1
+}

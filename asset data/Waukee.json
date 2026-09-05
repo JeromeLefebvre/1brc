@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2365,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 36' 42.65460'' N",
+                    "lng": "93\u00b0 53' 4.24644'' W"
+                },
+                "FIPS": {
+                    "county": "19049",
+                    "state": "19"
+                },
+                "MGRS": "15TVG2630207059",
+                "Maidenhead": "EN31bo36uu",
+                "Mercator": {
+                    "x": -10451176.169,
+                    "y": 5074629.744
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=128341#map=17/41.61185/-93.88451",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.61185/-93.88451&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.61185&mlon=-93.88451#map=17/41.61185/-93.88451"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zmhxx5qs6c1pc7rcc7z",
+                "qibla": 43.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713871380,
+                        "astronomical": 1713865200,
+                        "civil": 1713869640,
+                        "nautical": 1713867480
+                    },
+                    "set": {
+                        "apparent": 1713834300,
+                        "astronomical": 1713840540,
+                        "civil": 1713836040,
+                        "nautical": 1713838200
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "networking.message.bind"
+                },
+                "wikidata": "Q1914068"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 41.651116,
+                    "lng": -93.814255
+                },
+                "southwest": {
+                    "lat": 41.526673,
+                    "lng": -93.9554342
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-IA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Waukee",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dallas County",
+                "postcode": "50263",
+                "state": "Iowa",
+                "state_code": "IA",
+                "town": "Waukee"
+            },
+            "confidence": 6,
+            "formatted": "Waukee, IA 50263, United States of America",
+            "geometry": {
+                "lat": 41.6118485,
+                "lng": -93.8845129
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 00:08:47 GMT",
+        "created_unix": 1713830927
+    },
+    "total_results": 1
+}

@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1802,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 17' 40.96356'' N",
+                    "lng": "2\u00b0 21' 34.50888'' W"
+                },
+                "MGRS": "30TWT4841938114",
+                "Maidenhead": "IN87th60ur",
+                "Mercator": {
+                    "x": -262667.89,
+                    "y": 5958897.601
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRG"
+                    },
+                    "NUTS2": {
+                        "code": "FRG0"
+                    },
+                    "NUTS3": {
+                        "code": "FRG01"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=4609660121#map=16/47.29471/-2.35959",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/47.29471/-2.35959&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.29471&mlon=-2.35959#map=16/47.29471/-2.35959"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "gbqm439z9tm6cg8q6u0u",
+                "qibla": 112.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713417360,
+                        "astronomical": 1713410460,
+                        "civil": 1713415440,
+                        "nautical": 1713413040
+                    },
+                    "set": {
+                        "apparent": 1713466920,
+                        "astronomical": 1713473880,
+                        "civil": 1713468900,
+                        "nautical": 1713471300
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "specifies.hedged.chafe"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.3147121,
+                    "lng": -2.3395858
+                },
+                "southwest": {
+                    "lat": 47.2747121,
+                    "lng": -2.3795858
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-PDL",
+                    "FR-44"
+                ],
+                "_category": "place",
+                "_normalized_city": "La Baule-Escoublac",
+                "_type": "neighbourhood",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Loire-Atlantique",
+                "municipality": "Saint-Nazaire",
+                "political_union": "European Union",
+                "postcode": "44500",
+                "region": "Metropolitan France",
+                "state": "Pays de la Loire",
+                "state_code": "PDL",
+                "suburb": "Escoublac",
+                "town": "La Baule-Escoublac"
+            },
+            "confidence": 7,
+            "formatted": "44500 La Baule-Escoublac, France",
+            "geometry": {
+                "lat": 47.2947121,
+                "lng": -2.3595858
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:38:45 GMT",
+        "created_unix": 1713440325
+    },
+    "total_results": 1
+}

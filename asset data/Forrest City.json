@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1100,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 0' 29.33064'' N",
+                    "lng": "90\u00b0 47' 23.40312'' W"
+                },
+                "FIPS": {
+                    "county": "05123",
+                    "state": "05"
+                },
+                "MGRS": "15SYU0167876178",
+                "Maidenhead": "EM45oa51fw",
+                "Mercator": {
+                    "x": -10106678.112,
+                    "y": 4140475.032
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=6700911#map=16/35.00815/-90.78983",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.00815/-90.78983&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.00815&mlon=-90.78983#map=16/35.00815/-90.78983"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yprnj0c5x8vtfsb2je3",
+                "qibla": 47.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711799580,
+                        "astronomical": 1711794420,
+                        "civil": 1711798020,
+                        "nautical": 1711796220
+                    },
+                    "set": {
+                        "apparent": 1711758180,
+                        "astronomical": 1711763280,
+                        "civil": 1711759680,
+                        "nautical": 1711761480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "products.punting.telescope"
+                },
+                "wikidata": "Q79403"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.0605107,
+                    "lng": -90.745607
+                },
+                "southwest": {
+                    "lat": 34.9639572,
+                    "lng": -90.8271281
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Forrest City",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "St. Francis County",
+                "postcode": "72335",
+                "state": "Arkansas",
+                "state_code": "AR",
+                "town": "Forrest City"
+            },
+            "confidence": 7,
+            "formatted": "Forrest City, AR 72335, United States of America",
+            "geometry": {
+                "lat": 35.0081474,
+                "lng": -90.7898342
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:16:35 GMT",
+        "created_unix": 1711833395
+    },
+    "total_results": 1
+}

@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1760,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 51' 2.86452'' N",
+                    "lng": "93\u00b0 47' 12.87168'' W"
+                },
+                "FIPS": {
+                    "county": "27019",
+                    "state": "27"
+                },
+                "MGRS": "15TVK3781866677",
+                "Maidenhead": "EN34cu54ne",
+                "Mercator": {
+                    "x": -10440310.931,
+                    "y": 5567916.248
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=137112#map=17/44.85080/-93.78691",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.85080/-93.78691&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.85080&mlon=-93.78691#map=17/44.85080/-93.78691"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9zvr1uf6ydk1smudkm3p",
+                "qibla": 43.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714475160,
+                        "astronomical": 1714468200,
+                        "civil": 1714473240,
+                        "nautical": 1714470840
+                    },
+                    "set": {
+                        "apparent": 1714439940,
+                        "astronomical": 1714446960,
+                        "civil": 1714441860,
+                        "nautical": 1714444260
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "extensions.states.carry"
+                },
+                "wikidata": "Q1023024"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.8623464,
+                    "lng": -93.7500184
+                },
+                "southwest": {
+                    "lat": 44.8219418,
+                    "lng": -93.8292211
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Waconia",
+                "_type": "city",
+                "city": "Waconia",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Carver County",
+                "postcode": "55387",
+                "state": "Minnesota",
+                "state_code": "MN"
+            },
+            "confidence": 7,
+            "formatted": "Waconia, Minnesota, United States of America",
+            "geometry": {
+                "lat": 44.8507957,
+                "lng": -93.7869088
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:18:33 GMT",
+        "created_unix": 1714519113
+    },
+    "total_results": 1
+}

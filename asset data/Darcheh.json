@@ -1,0 +1,122 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1482,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "32\u00b0 37' 0.04800'' N",
+                    "lng": "51\u00b0 33' 26.06400'' E"
+                },
+                "MGRS": "39SWS5227908930",
+                "Maidenhead": "LM52so68ua",
+                "Mercator": {
+                    "x": 5739325.704,
+                    "y": 3821504.807
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/32.61668/51.55724&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=32.61668&mlon=51.55724#map=16/32.61668/51.55724"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IR": "364",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 98,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "IRR",
+                    "iso_numeric": "364",
+                    "name": "Iranian Rial",
+                    "smallest_denomination": 5000,
+                    "subunit_to_unit": 100,
+                    "symbol": "\ufdfc",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf7",
+                "geohash": "tju9t1wvfvbdbgep8g6g",
+                "qibla": 225.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714700760,
+                        "astronomical": 1714695300,
+                        "civil": 1714699200,
+                        "nautical": 1714697280
+                    },
+                    "set": {
+                        "apparent": 1714749360,
+                        "astronomical": 1714754820,
+                        "civil": 1714750920,
+                        "nautical": 1714752840
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tehran",
+                    "now_in_dst": 0,
+                    "offset_sec": 12600,
+                    "offset_string": "+0330",
+                    "short_name": "+0330"
+                },
+                "what3words": {
+                    "words": "lemons.wire.splendid"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IR",
+                "ISO_3166-1_alpha-3": "IRN",
+                "_category": "place",
+                "_normalized_city": "Darcheh",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Iran",
+                "country_code": "ir",
+                "state": "Isfahan",
+                "town": "Darcheh"
+            },
+            "confidence": 9,
+            "formatted": "Darcheh, Isfahan, Iran",
+            "geometry": {
+                "lat": 32.61668,
+                "lng": 51.55724
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:48:45 GMT",
+        "created_unix": 1714697325
+    },
+    "total_results": 1
+}

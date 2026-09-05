@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 633,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 52' 43.51692'' N",
+                    "lng": "101\u00b0 30' 57.39300'' W"
+                },
+                "MGRS": "14RKR5230486315",
+                "Maidenhead": "DL97fv80cv",
+                "Mercator": {
+                    "x": -11300703.026,
+                    "y": 3213720.843
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=761127662#map=17/27.87875/-101.51594",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.87875/-101.51594&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.87875&mlon=-101.51594#map=17/27.87875/-101.51594"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9szy9gnme0dcsf0yey1n",
+                "qibla": 41.26,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714910640,
+                        "astronomical": 1714905480,
+                        "civil": 1714909140,
+                        "nautical": 1714907340
+                    },
+                    "set": {
+                        "apparent": 1714872120,
+                        "astronomical": 1714877280,
+                        "civil": 1714873620,
+                        "nautical": 1714875420
+                    }
+                },
+                "timezone": {
+                    "name": "America/Monterrey",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "coached.courier.expires"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.9187547,
+                    "lng": -101.4759425
+                },
+                "southwest": {
+                    "lat": 27.8387547,
+                    "lng": -101.5559425
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-COA"
+                ],
+                "_category": "place",
+                "_normalized_city": "M\u00fazquiz",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "M\u00fazquiz",
+                "postcode": "26340",
+                "state": "Coahuila",
+                "town": "M\u00fazquiz"
+            },
+            "confidence": 7,
+            "formatted": "26340 M\u00fazquiz, Coahuila, Mexico",
+            "geometry": {
+                "lat": 27.8787547,
+                "lng": -101.5159425
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:35:04 GMT",
+        "created_unix": 1714948504
+    },
+    "total_results": 1
+}

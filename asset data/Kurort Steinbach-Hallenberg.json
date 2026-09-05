@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1828,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 41' 46.46400'' N",
+                    "lng": "10\u00b0 33' 55.47600'' E"
+                },
+                "MGRS": "32UPB1055717215",
+                "Maidenhead": "JO50gq77uc",
+                "Mercator": {
+                    "x": 1176136.061,
+                    "y": 6534653.319
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DEG"
+                    },
+                    "NUTS2": {
+                        "code": "DEG0"
+                    },
+                    "NUTS3": {
+                        "code": "DEG0B"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.69624/10.56541&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.69624&mlon=10.56541#map=17/50.69624/10.56541"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1p82kvrpbhenkfkwtvf",
+                "qibla": 131.11,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713500160,
+                        "astronomical": 1713492420,
+                        "civil": 1713498060,
+                        "nautical": 1713495420
+                    },
+                    "set": {
+                        "apparent": 1713550740,
+                        "astronomical": 1713558540,
+                        "civil": 1713552840,
+                        "nautical": 1713555480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "pudding.adaptations.shearing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.7151167,
+                    "lng": 10.5832088
+                },
+                "southwest": {
+                    "lat": 50.6858468,
+                    "lng": 10.5421071
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "_category": "place",
+                "_normalized_city": "Steinbach-Hallenberg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "political_union": "European Union",
+                "state": "Thuringia",
+                "state_code": "TH",
+                "town": "Steinbach-Hallenberg"
+            },
+            "confidence": 7,
+            "formatted": "Steinbach-Hallenberg, Thuringia, Germany",
+            "geometry": {
+                "lat": 50.69624,
+                "lng": 10.56541
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 06:59:36 GMT",
+        "created_unix": 1713509976
+    },
+    "total_results": 1
+}

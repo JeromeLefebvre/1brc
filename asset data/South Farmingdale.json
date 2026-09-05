@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2382,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 43' 14.35980'' N",
+                    "lng": "73\u00b0 26' 24.44352'' W"
+                },
+                "FIPS": {
+                    "county": "36059",
+                    "state": "36"
+                },
+                "MGRS": "18TXL3174208918",
+                "Maidenhead": "FN30gr72ew",
+                "Mercator": {
+                    "x": -8175317.118,
+                    "y": 4943344.068
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=175610#map=17/40.72066/-73.44012",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.72066/-73.44012&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.72066&mlon=-73.44012#map=17/40.72066/-73.44012"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr5z8ufx1075ex61e04h",
+                "qibla": 58.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711795200,
+                        "astronomical": 1711789620,
+                        "civil": 1711793580,
+                        "nautical": 1711791600
+                    },
+                    "set": {
+                        "apparent": 1711840560,
+                        "astronomical": 1711759800,
+                        "civil": 1711842240,
+                        "nautical": 1711757760
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "raves.quench.listed"
+                },
+                "wikidata": "Q3452058"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.730348,
+                    "lng": -73.4302904
+                },
+                "southwest": {
+                    "lat": 40.7045109,
+                    "lng": -73.468531
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NY"
+                ],
+                "_category": "place",
+                "_normalized_city": "South Farmingdale",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Nassau County",
+                "municipality": "Town of Oyster Bay",
+                "postcode": "11735",
+                "state": "New York",
+                "state_code": "NY",
+                "town": "South Farmingdale"
+            },
+            "confidence": 7,
+            "formatted": "South Farmingdale, NY 11735, United States of America",
+            "geometry": {
+                "lat": 40.7206555,
+                "lng": -73.4401232
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:35:53 GMT",
+        "created_unix": 1711830953
+    },
+    "total_results": 1
+}

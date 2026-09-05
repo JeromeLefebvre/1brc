@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2330,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 11' 36.20400'' N",
+                    "lng": "8\u00b0 44' 57.04800'' E"
+                },
+                "MGRS": "32UMA8209660163",
+                "Maidenhead": "JO40ie96vj",
+                "Mercator": {
+                    "x": 973954.262,
+                    "y": 6446991.125
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE7"
+                    },
+                    "NUTS2": {
+                        "code": "DE71"
+                    },
+                    "NUTS3": {
+                        "code": "DE71E"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=450123#map=17/50.19339/8.74918",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.19339/8.74918&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.19339&mlon=8.74918#map=17/50.19339/8.74918"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0yjx16vwwj6n6p2tbux",
+                "qibla": 128.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714104660,
+                        "astronomical": 1714096620,
+                        "civil": 1714102500,
+                        "nautical": 1714099740
+                    },
+                    "set": {
+                        "apparent": 1714156560,
+                        "astronomical": 1714164660,
+                        "civil": 1714158720,
+                        "nautical": 1714161480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "valley.steers.gossip"
+                },
+                "wikidata": "Q16082"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.2228959,
+                    "lng": 8.792698
+                },
+                "southwest": {
+                    "lat": 50.1621976,
+                    "lng": 8.7019888
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-HE"
+                ],
+                "_category": "place",
+                "_normalized_city": "Bad Vilbel",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Wetteraukreis",
+                "municipality": "Bad Vilbel",
+                "political_union": "European Union",
+                "postcode": "61118",
+                "state": "Hesse",
+                "state_code": "HE"
+            },
+            "confidence": 7,
+            "formatted": "61118 Bad Vilbel, Germany",
+            "geometry": {
+                "lat": 50.19339,
+                "lng": 8.74918
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:01:36 GMT",
+        "created_unix": 1714168896
+    },
+    "total_results": 1
+}

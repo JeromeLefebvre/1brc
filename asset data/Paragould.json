@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 131,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 3' 30.24756'' N",
+                    "lng": "90\u00b0 29' 50.38296'' W"
+                },
+                "FIPS": {
+                    "county": "05055",
+                    "state": "05"
+                },
+                "MGRS": "15SYV2541593324",
+                "Maidenhead": "EM46sb04ha",
+                "Mercator": {
+                    "x": -10074116.538,
+                    "y": 4283508.673
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=111277#map=17/36.05840/-90.49733",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.05840/-90.49733&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.05840&mlon=-90.49733#map=17/36.05840/-90.49733"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9yrthsjz7mkfvksn0f0r",
+                "qibla": 47.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713871140,
+                        "astronomical": 1713865560,
+                        "civil": 1713869520,
+                        "nautical": 1713867600
+                    },
+                    "set": {
+                        "apparent": 1713832920,
+                        "astronomical": 1713838500,
+                        "civil": 1713834540,
+                        "nautical": 1713836460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "spider.insect.length"
+                },
+                "wikidata": "Q79386"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.104545,
+                    "lng": -90.4401395
+                },
+                "southwest": {
+                    "lat": 35.9872852,
+                    "lng": -90.5906136
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-AR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Paragould",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Greene County",
+                "state": "Arkansas",
+                "state_code": "AR",
+                "town": "Paragould"
+            },
+            "confidence": 6,
+            "formatted": "Paragould, Arkansas, United States of America",
+            "geometry": {
+                "lat": 36.0584021,
+                "lng": -90.4973286
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:39:02 GMT",
+        "created_unix": 1713854342
+    },
+    "total_results": 1
+}

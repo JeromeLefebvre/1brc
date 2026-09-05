@@ -1,0 +1,136 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 115,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 37' 23.84400'' N",
+                    "lng": "35\u00b0 6' 16.05600'' E"
+                },
+                "MGRS": "36RXA9960600604",
+                "Maidenhead": "KM71no29mo",
+                "Mercator": {
+                    "x": 3907810.612,
+                    "y": 3691561.023
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.62329/35.10446&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.62329&mlon=35.10446#map=17/31.62329/35.10446"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PS": "275",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 970,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u05e9\u05f4\u05d7",
+                        "NIS"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20AA;",
+                    "iso_code": "ILS",
+                    "iso_numeric": "376",
+                    "name": "Israeli New Sheqel",
+                    "smallest_denomination": 10,
+                    "subunit": "Agora",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20aa",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf8",
+                "geohash": "sv8gyuf710w8dqqcu7h7",
+                "qibla": 156.41,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713755040,
+                        "astronomical": 1713749880,
+                        "civil": 1713753540,
+                        "nautical": 1713751740
+                    },
+                    "set": {
+                        "apparent": 1713802320,
+                        "astronomical": 1713807540,
+                        "civil": 1713803880,
+                        "nautical": 1713805680
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Jerusalem",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "IDT"
+                },
+                "what3words": {
+                    "words": "backdrop.conga.habits"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 31.6359119,
+                    "lng": 35.1333046
+                },
+                "southwest": {
+                    "lat": 31.6062126,
+                    "lng": 35.0920715
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PS",
+                "ISO_3166-1_alpha-3": "PSE",
+                "_category": "place",
+                "_normalized_city": "Bayt \u016ammar",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Palestine",
+                "country_code": "ps",
+                "state": "West Bank",
+                "town": "Bayt \u016ammar"
+            },
+            "confidence": 7,
+            "formatted": "Bayt \u016ammar, West Bank, Palestine",
+            "geometry": {
+                "lat": 31.62329,
+                "lng": 35.10446
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:46:33 GMT",
+        "created_unix": 1713782793
+    },
+    "total_results": 1
+}

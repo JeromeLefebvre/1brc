@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1586,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 13' 31.68336'' N",
+                    "lng": "8\u00b0 35' 39.59376'' E"
+                },
+                "MGRS": "32UMD7291797429",
+                "Maidenhead": "JO43hf14hc",
+                "Mercator": {
+                    "x": 956716.617,
+                    "y": 6990562.885
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE93"
+                    },
+                    "NUTS3": {
+                        "code": "DE936"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=423196#map=17/53.22547/8.59433",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.22547/8.59433&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.22547&mlon=8.59433#map=17/53.22547/8.59433"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1qng96hy6q17wzwk98p",
+                "qibla": 130.96,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714535520,
+                        "astronomical": 1714525740,
+                        "civil": 1714533120,
+                        "nautical": 1714529940
+                    },
+                    "set": {
+                        "apparent": 1714589640,
+                        "astronomical": 1714599600,
+                        "civil": 1714592100,
+                        "nautical": 1714595280
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "oval.spits.diagram"
+                },
+                "wikidata": "Q686830"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.3670069,
+                    "lng": 8.7029873
+                },
+                "southwest": {
+                    "lat": 53.1764522,
+                    "lng": 8.4807116
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Schwanewede",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Osterholz",
+                "political_union": "European Union",
+                "postcode": "28790",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Schwanewede"
+            },
+            "confidence": 5,
+            "formatted": "28790 Schwanewede, Germany",
+            "geometry": {
+                "lat": 53.2254676,
+                "lng": 8.5943316
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:01:52 GMT",
+        "created_unix": 1714532512
+    },
+    "total_results": 1
+}

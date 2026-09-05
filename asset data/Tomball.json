@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2325,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 5' 49.78356'' N",
+                    "lng": "95\u00b0 36' 57.79764'' W"
+                },
+                "FIPS": {
+                    "county": "48201",
+                    "state": "48"
+                },
+                "MGRS": "15RTP4788932439",
+                "Maidenhead": "EM20ec63bh",
+                "Mercator": {
+                    "x": -10643930.543,
+                    "y": 3494621.711
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=115367#map=17/30.09716/-95.61605",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/30.09716/-95.61605&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.09716&mlon=-95.61605#map=17/30.09716/-95.61605"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9vk50pn88mtvnmkv3k7c",
+                "qibla": 45.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711887180,
+                        "astronomical": 1711882320,
+                        "civil": 1711885740,
+                        "nautical": 1711884060
+                    },
+                    "set": {
+                        "apparent": 1711845600,
+                        "astronomical": 1711850460,
+                        "civil": 1711847040,
+                        "nautical": 1711848720
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "speeder.formless.blows"
+                },
+                "wikidata": "Q684434"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.135988,
+                    "lng": -95.5841285
+                },
+                "southwest": {
+                    "lat": 30.0462155,
+                    "lng": -95.6665264
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tomball",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Harris County",
+                "postcode": "77375",
+                "state": "Texas",
+                "state_code": "TX",
+                "town": "Tomball"
+            },
+            "confidence": 7,
+            "formatted": "Tomball, TX 77375, United States of America",
+            "geometry": {
+                "lat": 30.0971621,
+                "lng": -95.6160549
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:33:47 GMT",
+        "created_unix": 1711917227
+    },
+    "total_results": 1
+}

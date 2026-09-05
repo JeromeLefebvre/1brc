@@ -1,0 +1,154 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2393,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 58' 26.59512'' N",
+                    "lng": "9\u00b0 8' 57.70896'' E"
+                },
+                "MGRS": "32UNA1071035756",
+                "Maidenhead": "JN49nx73ws",
+                "Mercator": {
+                    "x": 1018502.497,
+                    "y": 6409044.931
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE2"
+                    },
+                    "NUTS2": {
+                        "code": "DE26"
+                    },
+                    "NUTS3": {
+                        "code": "DE261"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=62532#map=17/49.97405/9.14936",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.97405/9.14936&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.97405&mlon=9.14936#map=17/49.97405/9.14936"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0ys21qrgwgvp1ev2sje",
+                "qibla": 128.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713673140,
+                        "astronomical": 1713665460,
+                        "civil": 1713671040,
+                        "nautical": 1713668460
+                    },
+                    "set": {
+                        "apparent": 1713723960,
+                        "astronomical": 1713731700,
+                        "civil": 1713726060,
+                        "nautical": 1713728700
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "steep.extend.mailer"
+                },
+                "wikidata": "Q3942"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.0212787,
+                    "lng": 9.2380031
+                },
+                "southwest": {
+                    "lat": 49.9200613,
+                    "lng": 9.0802454
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BY"
+                ],
+                "_category": "place",
+                "_normalized_city": "Aschaffenburg",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "political_union": "European Union",
+                "state": "Bavaria",
+                "state_code": "BY",
+                "town": "Aschaffenburg"
+            },
+            "confidence": 6,
+            "formatted": "Aschaffenburg, Bavaria, Germany",
+            "geometry": {
+                "lat": 49.9740542,
+                "lng": 9.1493636
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:14:37 GMT",
+        "created_unix": 1713662077
+    },
+    "total_results": 1
+}

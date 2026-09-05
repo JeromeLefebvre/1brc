@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1337,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 59' 9.72492'' N",
+                    "lng": "0\u00b0 2' 15.84744'' E"
+                },
+                "MGRS": "30SYK5292930410",
+                "Maidenhead": "IM99xx56lp",
+                "Mercator": {
+                    "x": -4200.686,
+                    "y": 4836450.201
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES5"
+                    },
+                    "NUTS2": {
+                        "code": "ES52"
+                    },
+                    "NUTS3": {
+                        "code": "ES522"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=344858#map=17/39.98603/-0.03774",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.98603/-0.03774&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.98603&mlon=-0.03774#map=17/39.98603/-0.03774"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezpgrphx89n7yqc1ftq0",
+                "qibla": 106.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714626000,
+                        "astronomical": 1714619760,
+                        "civil": 1714624200,
+                        "nautical": 1714622100
+                    },
+                    "set": {
+                        "apparent": 1714676100,
+                        "astronomical": 1714682340,
+                        "civil": 1714677900,
+                        "nautical": 1714680000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "aquatic.land.quicker"
+                },
+                "wikidata": "Q15092"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.0644134,
+                    "lng": 0.6903174
+                },
+                "southwest": {
+                    "lat": 39.850294,
+                    "lng": -0.1644067
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-VC",
+                    "ES-CS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Castell\u00f3 de la Plana",
+                "_type": "city",
+                "city": "Castell\u00f3 de la Plana",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "political_union": "European Union",
+                "province": "Castell\u00f3 / Castell\u00f3n",
+                "region": "la Plana Alta",
+                "state": "Valencian Community",
+                "state_code": "VC"
+            },
+            "confidence": 1,
+            "formatted": "Castell\u00f3 de la Plana, Valencian Community, Spain",
+            "geometry": {
+                "lat": 39.9860347,
+                "lng": -0.0377354
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:44:01 GMT",
+        "created_unix": 1714693441
+    },
+    "total_results": 1
+}

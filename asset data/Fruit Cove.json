@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1145,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 6' 4.49172'' N",
+                    "lng": "81\u00b0 37' 6.31020'' W"
+                },
+                "FIPS": {
+                    "county": "12109",
+                    "state": "12"
+                },
+                "MGRS": "17RMP4041430165",
+                "Maidenhead": "EM90ec54sh",
+                "Mercator": {
+                    "x": -9085720.898,
+                    "y": 3495144.764
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=119064#map=16/30.10125/-81.61842",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.10125/-81.61842&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.10125&mlon=-81.61842#map=16/30.10125/-81.61842"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "djmgnxz22zr2sz05zr5n",
+                "qibla": 54.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714560240,
+                        "astronomical": 1714555020,
+                        "civil": 1714558740,
+                        "nautical": 1714556880
+                    },
+                    "set": {
+                        "apparent": 1714521780,
+                        "astronomical": 1714527060,
+                        "civil": 1714523340,
+                        "nautical": 1714525140
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "often.tiles.closets"
+                },
+                "wikidata": "Q949709"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.130779,
+                    "lng": -81.555669
+                },
+                "southwest": {
+                    "lat": 30.0549363,
+                    "lng": -81.669371
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Fruit Cove",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Johns County",
+                "state": "Florida",
+                "state_code": "FL",
+                "town": "Fruit Cove"
+            },
+            "confidence": 7,
+            "formatted": "Fruit Cove, Florida, United States of America",
+            "geometry": {
+                "lat": 30.1012477,
+                "lng": -81.6184195
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:20:26 GMT",
+        "created_unix": 1714533626
+    },
+    "total_results": 1
+}

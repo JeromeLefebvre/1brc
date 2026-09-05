@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1950,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 28' 30.61380'' N",
+                    "lng": "8\u00b0 39' 40.01364'' E"
+                },
+                "MGRS": "32UMV7544980335",
+                "Maidenhead": "JN49hl94ia",
+                "Mercator": {
+                    "x": 964150.9,
+                    "y": 6323378.399
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE1"
+                    },
+                    "NUTS2": {
+                        "code": "DE12"
+                    },
+                    "NUTS3": {
+                        "code": "DE128"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=454178#map=17/49.47517/8.66111",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.47517/8.66111&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.47517&mlon=8.66111#map=17/49.47517/8.66111"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u0y1mndvf85rg7e5fypr",
+                "qibla": 127.39,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711775220,
+                        "astronomical": 1711768560,
+                        "civil": 1711773300,
+                        "nautical": 1711770960
+                    },
+                    "set": {
+                        "apparent": 1711821180,
+                        "astronomical": 1711827900,
+                        "civil": 1711823160,
+                        "nautical": 1711825440
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "aviators.researching.layover"
+                },
+                "wikidata": "Q83292"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.4997435,
+                    "lng": 8.7709726
+                },
+                "southwest": {
+                    "lat": 49.4544051,
+                    "lng": 8.6383921
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-BW"
+                ],
+                "_category": "place",
+                "_normalized_city": "Schriesheim",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Rhein-Neckar-Kreis",
+                "political_union": "European Union",
+                "postcode": "69198",
+                "state": "Baden-W\u00fcrttemberg",
+                "state_code": "BW",
+                "town": "Schriesheim"
+            },
+            "confidence": 7,
+            "formatted": "69198 Schriesheim, Germany",
+            "geometry": {
+                "lat": 49.4751705,
+                "lng": 8.6611149
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 20:49:35 GMT",
+        "created_unix": 1711831775
+    },
+    "total_results": 1
+}

@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 933,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 25' 33.56868'' N",
+                    "lng": "133\u00b0 14' 49.27488'' E"
+                },
+                "MGRS": "53SLV4086221696",
+                "Maidenhead": "PM65ok92pf",
+                "Mercator": {
+                    "x": 14832990.505,
+                    "y": 4197155.086
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=8045780378#map=17/35.42599/133.24702",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.42599/133.24702&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.42599&mlon=133.24702#map=17/35.42599/133.24702"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wyqc815e2e7vx0bznguc",
+                "qibla": 289.54,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713731340,
+                        "astronomical": 1713725880,
+                        "civil": 1713729720,
+                        "nautical": 1713727860
+                    },
+                    "set": {
+                        "apparent": 1713692640,
+                        "astronomical": 1713698100,
+                        "civil": 1713694200,
+                        "nautical": 1713696120
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "lease.broker.floating"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.4359913,
+                    "lng": 133.2570208
+                },
+                "southwest": {
+                    "lat": 35.4159913,
+                    "lng": 133.2370208
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-32"
+                ],
+                "_category": "place",
+                "_normalized_city": "Yasugi",
+                "_type": "neighbourhood",
+                "city": "Yasugi",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "postcode": "692-8686",
+                "province": "Shimane Prefecture",
+                "quarter": "Yasugicho",
+                "state": "Shimane Prefecture"
+            },
+            "confidence": 7,
+            "formatted": "Yasugicho, Yasugi, Shimane Prefecture 692-8686, Japan",
+            "geometry": {
+                "lat": 35.4259913,
+                "lng": 133.2470208
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 02:13:00 GMT",
+        "created_unix": 1713665580
+    },
+    "total_results": 1
+}

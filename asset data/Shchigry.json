@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2005,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 52' 14.95560'' N",
+                    "lng": "36\u00b0 54' 47.48256'' E"
+                },
+                "MGRS": "37UCT5633448729",
+                "Maidenhead": "KO81ku98nx",
+                "Mercator": {
+                    "x": 4109157.47,
+                    "y": 6743168.488
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1646087#map=17/51.87082/36.91319",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.87082/36.91319&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.87082&mlon=36.91319#map=17/51.87082/36.91319"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "uc4ppfz37tv5ez9kjubu",
+                "qibla": 174.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714701600,
+                        "astronomical": 1714778700,
+                        "civil": 1714699260,
+                        "nautical": 1714696200
+                    },
+                    "set": {
+                        "apparent": 1714755540,
+                        "astronomical": 1714765020,
+                        "civil": 1714757940,
+                        "nautical": 1714761000
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "shelf.smoothly.issued"
+                },
+                "wikidata": "Q146013"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.9028263,
+                    "lng": 37.0528113
+                },
+                "southwest": {
+                    "lat": 51.8545359,
+                    "lng": 36.854449
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-KRS"
+                ],
+                "_category": "place",
+                "_normalized_city": "Shchigry",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Central Federal District",
+                "state": "Kursk Oblast",
+                "town": "Shchigry"
+            },
+            "confidence": 6,
+            "formatted": "Shchigry, Kursk Oblast, Russia",
+            "geometry": {
+                "lat": 51.870821,
+                "lng": 36.9131896
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:29:37 GMT",
+        "created_unix": 1714696177
+    },
+    "total_results": 1
+}

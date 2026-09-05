@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1728,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 5' 25.19556'' N",
+                    "lng": "2\u00b0 58' 42.51432'' E"
+                },
+                "MGRS": "31UDS9849259870",
+                "Maidenhead": "JO11lc71kq",
+                "Mercator": {
+                    "x": 331562.454,
+                    "y": 6604018.36
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE25"
+                    },
+                    "NUTS3": {
+                        "code": "BE252"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1269847#map=17/51.09033/2.97848",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.09033/2.97848&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.09033&mlon=2.97848#map=17/51.09033/2.97848"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u144eu8yg80y47ht77vx",
+                "qibla": 122.11,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714623600,
+                        "astronomical": 1714614720,
+                        "civil": 1714621320,
+                        "nautical": 1714618380
+                    },
+                    "set": {
+                        "apparent": 1714677060,
+                        "astronomical": 1714686060,
+                        "civil": 1714679340,
+                        "nautical": 1714682340
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "ants.worm.divides"
+                },
+                "wikidata": "Q822795"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.133746,
+                    "lng": 3.0145332
+                },
+                "southwest": {
+                    "lat": 51.0418576,
+                    "lng": 2.8993415
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VWV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Koekelare",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Diksmuide",
+                "political_union": "European Union",
+                "postcode": "8680",
+                "region": "Flanders",
+                "state": "West Flanders",
+                "state_code": "VWV",
+                "village": "Koekelare"
+            },
+            "confidence": 7,
+            "formatted": "8680 Koekelare, Belgium",
+            "geometry": {
+                "lat": 51.0903321,
+                "lng": 2.9784762
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:29:48 GMT",
+        "created_unix": 1714692588
+    },
+    "total_results": 1
+}

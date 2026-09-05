@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2487,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "47\u00b0 28' 26.35824'' N",
+                    "lng": "0\u00b0 33' 5.61168'' E"
+                },
+                "MGRS": "30TXT8448660744",
+                "Maidenhead": "IN97rl33ts",
+                "Mercator": {
+                    "x": -61399.245,
+                    "y": 5988282.006
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRG"
+                    },
+                    "NUTS2": {
+                        "code": "FRG0"
+                    },
+                    "NUTS3": {
+                        "code": "FRG02"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=178351#map=17/47.47399/-0.55156",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/47.47399/-0.55156&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=47.47399&mlon=-0.55156#map=17/47.47399/-0.55156"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "gbrw56qk58zgwkufdd7c",
+                "qibla": 114.57,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714538760,
+                        "astronomical": 1714531140,
+                        "civil": 1714536720,
+                        "nautical": 1714534140
+                    },
+                    "set": {
+                        "apparent": 1714590780,
+                        "astronomical": 1714598460,
+                        "civil": 1714592880,
+                        "nautical": 1714595460
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "clocks.rebounds.hardly"
+                },
+                "wikidata": "Q38380"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.5262993,
+                    "lng": -0.5082737
+                },
+                "southwest": {
+                    "lat": 47.4373546,
+                    "lng": -0.6176931
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-PDL",
+                    "FR-49"
+                ],
+                "_category": "place",
+                "_normalized_city": "Angers",
+                "_type": "city",
+                "city": "Angers",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Maine-et-Loire",
+                "municipality": "Angers",
+                "political_union": "European Union",
+                "region": "Metropolitan France",
+                "state": "Pays de la Loire",
+                "state_code": "PDL"
+            },
+            "confidence": 7,
+            "formatted": "Angers, Maine-et-Loire, France",
+            "geometry": {
+                "lat": 47.4739884,
+                "lng": -0.5515588
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 00:00:30 GMT",
+        "created_unix": 1714521630
+    },
+    "total_results": 1
+}

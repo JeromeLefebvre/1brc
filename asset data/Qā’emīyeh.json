@@ -1,0 +1,122 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 596,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 33' 25.70400'' N",
+                    "lng": "52\u00b0 30' 4.53600'' E"
+                },
+                "MGRS": "39SXA3435146794",
+                "Maidenhead": "LM66gn03dr",
+                "Mercator": {
+                    "x": 5844413.529,
+                    "y": 4352104.352
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.55714/52.50126&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.55714&mlon=52.50126#map=17/36.55714/52.50126"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IR": "364",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 98,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#xFDFC;",
+                    "iso_code": "IRR",
+                    "iso_numeric": "364",
+                    "name": "Iranian Rial",
+                    "smallest_denomination": 5000,
+                    "subunit_to_unit": 100,
+                    "symbol": "\ufdfc",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf7",
+                "geohash": "tnmrfxn2b0bf77q504xy",
+                "qibla": 219.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713577860,
+                        "astronomical": 1713572280,
+                        "civil": 1713576240,
+                        "nautical": 1713574320
+                    },
+                    "set": {
+                        "apparent": 1713625680,
+                        "astronomical": 1713631200,
+                        "civil": 1713627300,
+                        "nautical": 1713629220
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tehran",
+                    "now_in_dst": 0,
+                    "offset_sec": 12600,
+                    "offset_string": "+0330",
+                    "short_name": "+0330"
+                },
+                "what3words": {
+                    "words": "clovers.embezzler.foreseeing"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IR",
+                "ISO_3166-1_alpha-3": "IRN",
+                "_category": "place",
+                "_normalized_city": "Q\u0101\u2019em\u012byeh",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Iran",
+                "country_code": "ir",
+                "state": "M\u0101zandar\u0101n",
+                "town": "Q\u0101\u2019em\u012byeh"
+            },
+            "confidence": 9,
+            "formatted": "Q\u0101\u2019em\u012byeh, M\u0101zandar\u0101n, Iran",
+            "geometry": {
+                "lat": 36.55714,
+                "lng": 52.50126
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 21:45:06 GMT",
+        "created_unix": 1713649506
+    },
+    "total_results": 1
+}

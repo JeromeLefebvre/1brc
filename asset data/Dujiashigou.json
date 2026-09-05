@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2366,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 45' 55.97532'' N",
+                    "lng": "110\u00b0 4' 11.63352'' E"
+                },
+                "MGRS": "49SDB1807980209",
+                "Maidenhead": "OM57as83jr",
+                "Mercator": {
+                    "x": 12252925.019,
+                    "y": 4520187.112
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5285227795#map=16/37.76555/110.06990",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/37.76555/110.06990&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.76555&mlon=110.06990#map=16/37.76555/110.06990"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CN": "156",
+                        "EASTERN_ASIA": "030",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 86,
+                "currency": {
+                    "alternate_symbols": [
+                        "CN\u00a5",
+                        "\u5143",
+                        "CN\u5143"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "\uffe5",
+                    "iso_code": "CNY",
+                    "iso_numeric": "156",
+                    "name": "Chinese Renminbi Yuan",
+                    "smallest_denomination": 1,
+                    "subunit": "Fen",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddf3",
+                "geohash": "wqwqben2q88c02yz23n9",
+                "qibla": 276.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1715031600,
+                        "astronomical": 1715025600,
+                        "civil": 1715029860,
+                        "nautical": 1715027820
+                    },
+                    "set": {
+                        "apparent": 1714995180,
+                        "astronomical": 1715001240,
+                        "civil": 1714996920,
+                        "nautical": 1714999020
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Shanghai",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "airships.trawlers.risen"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.8055487,
+                    "lng": 110.1098982
+                },
+                "southwest": {
+                    "lat": 37.7255487,
+                    "lng": 110.0298982
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CN",
+                "ISO_3166-1_alpha-3": "CHN",
+                "ISO_3166-2": [
+                    "CN-SN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Yulin",
+                "_type": "city",
+                "city": "Yulin",
+                "continent": "Asia",
+                "country": "China",
+                "country_code": "cn",
+                "state": "Shaanxi",
+                "town": "Dujiashigou"
+            },
+            "confidence": 7,
+            "formatted": "Yulin, Shaanxi, China",
+            "geometry": {
+                "lat": 37.7655487,
+                "lng": 110.0698982
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:11:53 GMT",
+        "created_unix": 1714954313
+    },
+    "total_results": 1
+}

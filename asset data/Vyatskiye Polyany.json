@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1889,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "56\u00b0 13' 22.78056'' N",
+                    "lng": "51\u00b0 4' 29.65368'' E"
+                },
+                "MGRS": "39VWC0464430901",
+                "Maidenhead": "LO56mf83xm",
+                "Mercator": {
+                    "x": 5685632.283,
+                    "y": 7567390.753
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1257470#map=17/56.22299/51.07490",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/56.22299/51.07490&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=56.22299&mlon=51.07490#map=17/56.22299/51.07490"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v1urf5pdetbddb6nqpx8",
+                "qibla": 198.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713920880,
+                        "astronomical": 1713996720,
+                        "civil": 1713918360,
+                        "nautical": 1714001340
+                    },
+                    "set": {
+                        "apparent": 1713974460,
+                        "astronomical": 1713985200,
+                        "civil": 1713977040,
+                        "nautical": 1713980460
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kirov",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "poems.shuffle.mimic"
+                },
+                "wikidata": "Q134302"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 56.2837446,
+                    "lng": 51.1114075
+                },
+                "southwest": {
+                    "lat": 56.1953011,
+                    "lng": 50.9755233
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-KIR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vyatskiye Polyany",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "region": "Volga Federal District",
+                "state": "Kirov Oblast",
+                "town": "Vyatskiye Polyany"
+            },
+            "confidence": 7,
+            "formatted": "Vyatskiye Polyany, Kirov Oblast, Russia",
+            "geometry": {
+                "lat": 56.2229946,
+                "lng": 51.0749038
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:30:21 GMT",
+        "created_unix": 1713994221
+    },
+    "total_results": 1
+}

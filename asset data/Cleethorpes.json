@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 170,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53\u00b0 33' 25.94448'' N",
+                    "lng": "0\u00b0 1' 44.38884'' E"
+                },
+                "MGRS": "30UXE9678238363",
+                "Maidenhead": "IO93xn63mr",
+                "Mercator": {
+                    "x": -3227.92,
+                    "y": 7052340.718
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=27583967#map=16/53.55721/-0.02900",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/53.55721/-0.02900&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.55721&mlon=-0.02900#map=16/53.55721/-0.02900"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcxbxmfck6fqgh09842q",
+                "qibla": 120.96,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714537560,
+                        "astronomical": 1714527540,
+                        "civil": 1714535100,
+                        "nautical": 1714531860
+                    },
+                    "set": {
+                        "apparent": 1714591800,
+                        "astronomical": 1714602000,
+                        "civil": 1714594260,
+                        "nautical": 1714597500
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "topped.silver.swan"
+                },
+                "wikidata": "Q587765"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.5972068,
+                    "lng": 0.0110031
+                },
+                "southwest": {
+                    "lat": 53.5172068,
+                    "lng": -0.0689969
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-NEL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cleethorpes",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "North East Lincolnshire",
+                "county_code": "NEL",
+                "postcode": "DN35 8HT",
+                "state": "England",
+                "state_code": "ENG",
+                "town": "Cleethorpes"
+            },
+            "confidence": 7,
+            "formatted": "Cleethorpes, DN35 8HT, United Kingdom",
+            "geometry": {
+                "lat": 53.5572068,
+                "lng": -0.0289969
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:34:29 GMT",
+        "created_unix": 1714545269
+    },
+    "total_results": 1
+}

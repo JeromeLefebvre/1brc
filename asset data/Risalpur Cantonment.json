@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1591,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 36' 30.70800'' N",
+                    "lng": "87\u00b0 20' 23.92800'' W"
+                },
+                "FIPS": {
+                    "county": "12033",
+                    "state": "12"
+                },
+                "MGRS": "16RDU6741186267",
+                "Maidenhead": "EM60ho96eb",
+                "Mercator": {
+                    "x": -9722642.099,
+                    "y": 3560260.046
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/30.60853/-87.33998&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=30.60853&mlon=-87.33998#map=16/30.60853/-87.33998"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dj3yhs0gwgw9t2rkm2br",
+                "qibla": 51.0,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713957180,
+                        "astronomical": 1713952020,
+                        "civil": 1713955620,
+                        "nautical": 1713953880
+                    },
+                    "set": {
+                        "apparent": 1713918180,
+                        "astronomical": 1713923340,
+                        "civil": 1713919680,
+                        "nautical": 1713921480
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "bogs.dispose.confining"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 30.6458874,
+                    "lng": -87.3094788
+                },
+                "southwest": {
+                    "lat": 30.5923367,
+                    "lng": -87.3642654
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Cantonment",
+                "_type": "neighbourhood",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Escambia County",
+                "state": "Florida",
+                "state_code": "FL",
+                "suburb": "Cantonment"
+            },
+            "confidence": 7,
+            "formatted": "Cantonment, Escambia County, Florida, United States of America",
+            "geometry": {
+                "lat": 30.60853,
+                "lng": -87.33998
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:40:33 GMT",
+        "created_unix": 1713994833
+    },
+    "total_results": 1
+}

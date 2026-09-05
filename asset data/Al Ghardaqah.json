@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1687,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 15' 26.56800'' N",
+                    "lng": "33\u00b0 48' 46.47600'' E"
+                },
+                "MGRS": "36RWR8047015204",
+                "Maidenhead": "KL67vg71ns",
+                "Mercator": {
+                    "x": 3764035.923,
+                    "y": 3136100.744
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.25738/33.81291&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.25738&mlon=33.81291#map=17/27.25738/33.81291"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EG": "818",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 20,
+                "currency": {
+                    "alternate_symbols": [
+                        "LE",
+                        "E\u00a3",
+                        "L.E."
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "EGP",
+                    "iso_numeric": "818",
+                    "name": "Egyptian Pound",
+                    "smallest_denomination": 25,
+                    "subunit": "Piastre",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062c.\u0645",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddec",
+                "geohash": "sub516jc9zvj5564pthh",
+                "qibla": 135.52,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711683540,
+                        "astronomical": 1711678860,
+                        "civil": 1711682160,
+                        "nautical": 1711680540
+                    },
+                    "set": {
+                        "apparent": 1711728000,
+                        "astronomical": 1711732680,
+                        "civil": 1711729380,
+                        "nautical": 1711731000
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Cairo",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "EET"
+                },
+                "what3words": {
+                    "words": "absolute.ravenously.waft"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.3141708,
+                    "lng": 33.9202881
+                },
+                "southwest": {
+                    "lat": 27.1023026,
+                    "lng": 33.7843323
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "EG",
+                "ISO_3166-1_alpha-3": "EGY",
+                "_category": "place",
+                "_normalized_city": "Hurghada",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Egypt",
+                "country_code": "eg",
+                "state": "Red Sea",
+                "town": "Hurghada"
+            },
+            "confidence": 5,
+            "formatted": "Hurghada, Red Sea, Egypt",
+            "geometry": {
+                "lat": 27.25738,
+                "lng": 33.81291
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 22:16:17 GMT",
+        "created_unix": 1711750577
+    },
+    "total_results": 1
+}

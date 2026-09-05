@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1200,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 37' 46.13196'' N",
+                    "lng": "12\u00b0 33' 50.78052'' E"
+                },
+                "MGRS": "33TUL1012955767",
+                "Maidenhead": "JN65gp71qb",
+                "Mercator": {
+                    "x": 1398629.849,
+                    "y": 5690614.258
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITH"
+                    },
+                    "NUTS2": {
+                        "code": "ITH3"
+                    },
+                    "NUTS3": {
+                        "code": "ITH35"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45426#map=17/45.62948/12.56411",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.62948/12.56411&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.62948&mlon=12.56411#map=17/45.62948/12.56411"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u20gtfsfuzu1p2g998yt",
+                "qibla": 128.25,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714622220,
+                        "astronomical": 1714615020,
+                        "civil": 1714620240,
+                        "nautical": 1714617780
+                    },
+                    "set": {
+                        "apparent": 1714673820,
+                        "astronomical": 1714681080,
+                        "civil": 1714675800,
+                        "nautical": 1714678320
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "dunes.finger.reshape"
+                },
+                "wikidata": "Q47557"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.6976173,
+                    "lng": 12.660154
+                },
+                "southwest": {
+                    "lat": 45.5548965,
+                    "lng": 12.5244043
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-34",
+                    "IT-VE"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Don\u00e0 di Piave",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Venezia",
+                "county_code": "VE",
+                "political_union": "European Union",
+                "postcode": "30027",
+                "state": "Veneto",
+                "state_code": "VEN",
+                "town": "San Don\u00e0 di Piave"
+            },
+            "confidence": 6,
+            "formatted": "30027 San Don\u00e0 di Piave VE, Italy",
+            "geometry": {
+                "lat": 45.6294811,
+                "lng": 12.5641057
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:48:58 GMT",
+        "created_unix": 1714693738
+    },
+    "total_results": 1
+}

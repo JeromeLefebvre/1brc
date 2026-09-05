@@ -1,0 +1,156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 401,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 39' 32.04360'' N",
+                    "lng": "9\u00b0 38' 5.20260'' E"
+                },
+                "MGRS": "32UNC4390823292",
+                "Maidenhead": "JO41tp68ed",
+                "Mercator": {
+                    "x": 1072538.637,
+                    "y": 6705148.591
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "DE"
+                    },
+                    "NUTS1": {
+                        "code": "DE9"
+                    },
+                    "NUTS2": {
+                        "code": "DE91"
+                    },
+                    "NUTS3": {
+                        "code": "DE918"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1397829#map=17/51.65890/9.63478",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.65890/9.63478&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.65890&mlon=9.63478#map=17/51.65890/9.63478"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde9\ud83c\uddea",
+                "geohash": "u1nvghpyft5e9y34qhk3",
+                "qibla": 130.83,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714017900,
+                        "astronomical": 1714009440,
+                        "civil": 1714015680,
+                        "nautical": 1714012860
+                    },
+                    "set": {
+                        "apparent": 1714070100,
+                        "astronomical": 1714078620,
+                        "civil": 1714072320,
+                        "nautical": 1714075200
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "spoil.nosed.instructions"
+                },
+                "wikidata": "Q159814"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.721018,
+                    "lng": 9.7683073
+                },
+                "southwest": {
+                    "lat": 51.551197,
+                    "lng": 9.5227475
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "ISO_3166-2": [
+                    "DE-NI"
+                ],
+                "_category": "place",
+                "_normalized_city": "Uslar",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "county": "Landkreis Northeim",
+                "political_union": "European Union",
+                "postcode": "37170",
+                "state": "Lower Saxony",
+                "state_code": "NI",
+                "town": "Uslar"
+            },
+            "confidence": 5,
+            "formatted": "37170 Uslar, Germany",
+            "geometry": {
+                "lat": 51.658901,
+                "lng": 9.6347785
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:10:30 GMT",
+        "created_unix": 1714011030
+    },
+    "total_results": 1
+}

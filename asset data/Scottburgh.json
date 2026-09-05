@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1493,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 17' 9.74760'' S",
+                    "lng": "30\u00b0 45' 15.71400'' E"
+                },
+                "MGRS": "36JTM8401047382",
+                "Maidenhead": "KF59jr01mi",
+                "Mercator": {
+                    "x": 3423560.251,
+                    "y": -3518825.584
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262722148#map=17/-30.28604/30.75436",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-30.28604/30.75436&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-30.28604&mlon=30.75436#map=17/-30.28604/30.75436"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "kdtgeydeh8u8k9y06y47",
+                "qibla": 10.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714624080,
+                        "astronomical": 1714619220,
+                        "civil": 1714622580,
+                        "nautical": 1714620900
+                    },
+                    "set": {
+                        "apparent": 1714663140,
+                        "astronomical": 1714668060,
+                        "civil": 1714664640,
+                        "nautical": 1714666380
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "insightful.rotates.yields"
+                },
+                "wikidata": "Q933028"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -30.246041,
+                    "lng": 30.794365
+                },
+                "southwest": {
+                    "lat": -30.326041,
+                    "lng": 30.714365
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-KZN"
+                ],
+                "_category": "place",
+                "_normalized_city": "uMdoni Local Municipality",
+                "_type": "city",
+                "city": "uMdoni Local Municipality",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Ugu District Municipality",
+                "postcode": "4180",
+                "state": "KwaZulu-Natal",
+                "state_code": "NL",
+                "town": "Scottburgh"
+            },
+            "confidence": 7,
+            "formatted": "uMdoni Local Municipality, Ugu District Municipality, South Africa",
+            "geometry": {
+                "lat": -30.286041,
+                "lng": 30.754365
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:38:22 GMT",
+        "created_unix": 1714693102
+    },
+    "total_results": 1
+}

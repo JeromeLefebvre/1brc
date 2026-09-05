@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1016,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 49' 28.35912'' N",
+                    "lng": "74\u00b0 25' 1.54992'' W"
+                },
+                "FIPS": {
+                    "county": "34027",
+                    "state": "34"
+                },
+                "MGRS": "18TWL4915219443",
+                "Maidenhead": "FN20st97wv",
+                "Mercator": {
+                    "x": -8284073.367,
+                    "y": 4958556.269
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158821736#map=17/40.82454/-74.41710",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.82454/-74.41710&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.82454&mlon=-74.41710#map=17/40.82454/-74.41710"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr704xgh5yw7zyucvb51",
+                "qibla": 58.2,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713521580,
+                        "astronomical": 1713515580,
+                        "civil": 1713519840,
+                        "nautical": 1713517800
+                    },
+                    "set": {
+                        "apparent": 1713570060,
+                        "astronomical": 1713489660,
+                        "civil": 1713485400,
+                        "nautical": 1713487500
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "rounds.nasal.nights"
+                },
+                "wikidata": "Q1002645"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.8445442,
+                    "lng": -74.3970972
+                },
+                "southwest": {
+                    "lat": 40.8045442,
+                    "lng": -74.4370972
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hanover Township",
+                "_type": "hamlet",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Morris County",
+                "hamlet": "Whippany",
+                "postcode": "07981",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "town": "Hanover Township"
+            },
+            "confidence": 7,
+            "formatted": "Whippany, Hanover Township, NJ 07981, United States of America",
+            "geometry": {
+                "lat": 40.8245442,
+                "lng": -74.4170972
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:09:21 GMT",
+        "created_unix": 1713521361
+    },
+    "total_results": 1
+}

@@ -1,0 +1,128 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 733,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "7\u00b0 44' 17.98800'' N",
+                    "lng": "124\u00b0 4' 42.99600'' E"
+                },
+                "MGRS": "51NXJ1894355520",
+                "Maidenhead": "PJ27ar97ke",
+                "Mercator": {
+                    "x": 13812367.684,
+                    "y": 858308.41
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/7.73833/124.07861&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=7.73833&mlon=124.07861#map=16/7.73833/124.07861"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PH": "608",
+                        "SOUTHEAST_ASIA": "035",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 63,
+                "currency": {
+                    "alternate_symbols": [
+                        "PHP",
+                        "PhP",
+                        "P"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "PHP",
+                    "iso_numeric": "608",
+                    "name": "Philippine Peso",
+                    "smallest_denomination": 1,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b1",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\udded",
+                "geohash": "wc2hp2xr11m2kpb9cf73",
+                "qibla": 290.67,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714599000,
+                        "astronomical": 1714594680,
+                        "civil": 1714597680,
+                        "nautical": 1714596180
+                    },
+                    "set": {
+                        "apparent": 1714557120,
+                        "astronomical": 1714561440,
+                        "civil": 1714558380,
+                        "nautical": 1714559940
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Manila",
+                    "now_in_dst": 0,
+                    "offset_sec": 28800,
+                    "offset_string": "+0800",
+                    "short_name": "PST"
+                },
+                "what3words": {
+                    "words": "gibberish.apples.capping"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PH",
+                "ISO_3166-1_alpha-3": "PHL",
+                "_category": "place",
+                "_normalized_city": "Tatarikan",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Philippines",
+                "country_code": "ph",
+                "county": "Lanao del Sur",
+                "state": "Autonomous Region in Muslim Mindanao",
+                "town": "Tatarikan"
+            },
+            "confidence": 9,
+            "formatted": "Tatarikan, Lanao del Sur, Philippines",
+            "geometry": {
+                "lat": 7.73833,
+                "lng": 124.07861
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 06:10:13 GMT",
+        "created_unix": 1714543813
+    },
+    "total_results": 1
+}

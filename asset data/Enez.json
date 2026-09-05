@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 123,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 43' 30.10080'' N",
+                    "lng": "26\u00b0 5' 4.44156'' E"
+                },
+                "MGRS": "35TMF2269108636",
+                "Maidenhead": "KN30br04da",
+                "Mercator": {
+                    "x": 2903720.727,
+                    "y": 4943983.841
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1834460#map=17/40.72503/26.08457",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.72503/26.08457&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.72503&mlon=26.08457#map=17/40.72503/26.08457"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "TR": "792",
+                        "WESTERN_ASIA": "145",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 90,
+                "currency": {
+                    "alternate_symbols": [
+                        "TL"
+                    ],
+                    "decimal_mark": ",",
+                    "html_entity": "&#8378;",
+                    "iso_code": "TRY",
+                    "iso_numeric": "949",
+                    "name": "Turkish Lira",
+                    "smallest_denomination": 1,
+                    "subunit": "kuru\u015f",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ba",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf9\ud83c\uddf7",
+                "geohash": "sx4x9tf0qrqywwdekqc3",
+                "qibla": 144.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714878600,
+                        "astronomical": 1714872180,
+                        "civil": 1714876800,
+                        "nautical": 1714874580
+                    },
+                    "set": {
+                        "apparent": 1714929300,
+                        "astronomical": 1714935780,
+                        "civil": 1714931100,
+                        "nautical": 1714933320
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Istanbul",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "+03"
+                },
+                "what3words": {
+                    "words": "participant.convergence.riddles"
+                },
+                "wikidata": "Q610751"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.7986719,
+                    "lng": 26.3732171
+                },
+                "southwest": {
+                    "lat": 40.5895255,
+                    "lng": 26.036337
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "TR",
+                "ISO_3166-1_alpha-3": "TUR",
+                "ISO_3166-2": [
+                    "TR-22"
+                ],
+                "_category": "place",
+                "_normalized_city": "Enez",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Turkey",
+                "country_code": "tr",
+                "province": "Edirne",
+                "region": "Marmara Region",
+                "state": "Edirne",
+                "town": "Enez"
+            },
+            "confidence": 4,
+            "formatted": "Enez, Edirne, Turkey",
+            "geometry": {
+                "lat": 40.725028,
+                "lng": 26.0845671
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:58:29 GMT",
+        "created_unix": 1714949909
+    },
+    "total_results": 1
+}

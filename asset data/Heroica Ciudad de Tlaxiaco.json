@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1338,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "17\u00b0 16' 9.99840'' N",
+                    "lng": "97\u00b0 40' 45.00120'' W"
+                },
+                "MGRS": "14QPE4040109843",
+                "Maidenhead": "EK17dg84mq",
+                "Mercator": {
+                    "x": -10873595.132,
+                    "y": 1939534.623
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=458608920#map=17/17.26944/-97.67917",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/17.26944/-97.67917&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=17.26944&mlon=-97.67917#map=17/17.26944/-97.67917"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g4d1rb1y3wn45w1ujs7",
+                "qibla": 48.7,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713442380,
+                        "astronomical": 1713437940,
+                        "civil": 1713441060,
+                        "nautical": 1713439500
+                    },
+                    "set": {
+                        "apparent": 1713401220,
+                        "astronomical": 1713405660,
+                        "civil": 1713402540,
+                        "nautical": 1713404100
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "warhorses.rampages.duos"
+                },
+                "wikidata": "Q2652096"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 17.309444,
+                    "lng": -97.639167
+                },
+                "southwest": {
+                    "lat": 17.229444,
+                    "lng": -97.719167
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-OAX"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tlaxiaco",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Tlaxiaco",
+                "postcode": "69800",
+                "state": "Oaxaca",
+                "state_code": "OAX",
+                "town": "Tlaxiaco"
+            },
+            "confidence": 7,
+            "formatted": "69800 Tlaxiaco, OAX, Mexico",
+            "geometry": {
+                "lat": 17.269444,
+                "lng": -97.679167
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:54:06 GMT",
+        "created_unix": 1713441246
+    },
+    "total_results": 1
+}

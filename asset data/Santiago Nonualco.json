@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 192,
+        "reset": 1714953600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 30' 44.33580'' N",
+                    "lng": "88\u00b0 56' 24.63072'' W"
+                },
+                "MGRS": "16PBV9000894622",
+                "Maidenhead": "EK53mm72ew",
+                "Mercator": {
+                    "x": -9900775.014,
+                    "y": 1508346.68
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=2821114088#map=17/13.51232/-88.94018",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.51232/-88.94018&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.51232&mlon=-88.94018#map=17/13.51232/-88.94018"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "SV": "222",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 503,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfb",
+                "geohash": "d42ub5gdzwntsgb1fvc5",
+                "qibla": 55.91,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714908780,
+                        "astronomical": 1714904340,
+                        "civil": 1714907460,
+                        "nautical": 1714905900
+                    },
+                    "set": {
+                        "apparent": 1714867860,
+                        "astronomical": 1714872360,
+                        "civil": 1714869240,
+                        "nautical": 1714870800
+                    }
+                },
+                "timezone": {
+                    "name": "America/El_Salvador",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "utensil.nonexistent.porcelains"
+                },
+                "wikidata": "Q647944"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.6723155,
+                    "lng": -88.7801752
+                },
+                "southwest": {
+                    "lat": 13.3523155,
+                    "lng": -89.1001752
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SV",
+                "ISO_3166-1_alpha-3": "SLV",
+                "ISO_3166-2": [
+                    "SV-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Santiago Nonualco",
+                "_type": "city",
+                "city": "Santiago Nonualco",
+                "continent": "North America",
+                "country": "El Salvador",
+                "country_code": "sv",
+                "state": "Departamento de La Paz",
+                "state_code": "PA"
+            },
+            "confidence": 3,
+            "formatted": "Santiago Nonualco, Departamento de La Paz, El Salvador",
+            "geometry": {
+                "lat": 13.5123155,
+                "lng": -88.9401752
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 05 May 2024 22:55:39 GMT",
+        "created_unix": 1714949739
+    },
+    "total_results": 1
+}

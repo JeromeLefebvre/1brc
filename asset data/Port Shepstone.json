@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1333,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "30\u00b0 44' 34.00080'' S",
+                    "lng": "30\u00b0 27' 2.00160'' E"
+                },
+                "MGRS": "36JTL5592596127",
+                "Maidenhead": "KF59fg41br",
+                "Mercator": {
+                    "x": 3389740.388,
+                    "y": -3577549.693
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=262721946#map=17/-30.74278/30.45056",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-30.74278/30.45056&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-30.74278&mlon=30.45056#map=17/-30.74278/30.45056"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001",
+                        "ZA": "710"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 27,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x0052;",
+                    "iso_code": "ZAR",
+                    "iso_numeric": "710",
+                    "name": "South African Rand",
+                    "smallest_denomination": 10,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "R",
+                    "symbol_first": 1,
+                    "thousands_separator": " "
+                },
+                "flag": "\ud83c\uddff\ud83c\udde6",
+                "geohash": "kdt9hgmqm6u1zx4wjkjx",
+                "qibla": 10.96,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714624200,
+                        "astronomical": 1714619280,
+                        "civil": 1714622700,
+                        "nautical": 1714620960
+                    },
+                    "set": {
+                        "apparent": 1714663200,
+                        "astronomical": 1714668120,
+                        "civil": 1714664700,
+                        "nautical": 1714666440
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Johannesburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "voting.damp.baseline"
+                },
+                "wikidata": "Q121395"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -30.702778,
+                    "lng": 30.490556
+                },
+                "southwest": {
+                    "lat": -30.782778,
+                    "lng": 30.410556
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ZA",
+                "ISO_3166-1_alpha-3": "ZAF",
+                "ISO_3166-2": [
+                    "ZA-KZN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Hibiscus Coast Local Municipality",
+                "_type": "city",
+                "city": "Hibiscus Coast Local Municipality",
+                "continent": "Africa",
+                "country": "South Africa",
+                "country_code": "za",
+                "county": "Ugu District Municipality",
+                "postcode": "4680",
+                "state": "KwaZulu-Natal",
+                "state_code": "NL",
+                "town": "Port Shepstone"
+            },
+            "confidence": 7,
+            "formatted": "Hibiscus Coast Local Municipality, Ugu District Municipality, South Africa",
+            "geometry": {
+                "lat": -30.742778,
+                "lng": 30.450556
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:44:10 GMT",
+        "created_unix": 1714693450
+    },
+    "total_results": 1
+}

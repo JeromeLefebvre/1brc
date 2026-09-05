@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1051,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 20' 55.59216'' N",
+                    "lng": "82\u00b0 12' 38.74212'' W"
+                },
+                "FIPS": {
+                    "county": "47019",
+                    "state": "47"
+                },
+                "MGRS": "17SLA9135723314",
+                "Maidenhead": "EM86vi43rq",
+                "Mercator": {
+                    "x": -9151660.13,
+                    "y": 4323392.357
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=197169#map=17/36.34878/-82.21076",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.34878/-82.21076&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.34878&mlon=-82.21076#map=17/36.34878/-82.21076"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dnmwc1pfyqvh336t1047",
+                "qibla": 53.36,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714646100,
+                        "astronomical": 1714640280,
+                        "civil": 1714644420,
+                        "nautical": 1714642440
+                    },
+                    "set": {
+                        "apparent": 1714609020,
+                        "astronomical": 1714614840,
+                        "civil": 1714610700,
+                        "nautical": 1714612680
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "blossoms.dummy.prepare"
+                },
+                "wikidata": "Q1389138"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.376684,
+                    "lng": -82.164327
+                },
+                "southwest": {
+                    "lat": 36.295112,
+                    "lng": -82.32279
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Elizabethton",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Carter County",
+                "region": "East Tennessee",
+                "state": "Tennessee",
+                "state_code": "TN",
+                "town": "Elizabethton"
+            },
+            "confidence": 6,
+            "formatted": "Elizabethton, Tennessee, United States of America",
+            "geometry": {
+                "lat": 36.3487756,
+                "lng": -82.2107617
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:54:20 GMT",
+        "created_unix": 1714694060
+    },
+    "total_results": 1
+}

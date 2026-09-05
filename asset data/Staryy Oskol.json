@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1134,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 17' 48.01200'' N",
+                    "lng": "37\u00b0 50' 30.01200'' E"
+                },
+                "MGRS": "37UDS1924183453",
+                "Maidenhead": "KO81wh11ae",
+                "Mercator": {
+                    "x": 4212515.435,
+                    "y": 6640573.535
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.29667/37.84167&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.29667&mlon=37.84167#map=17/51.29667/37.84167"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "uc4gv472yb6795dz51mp",
+                "qibla": 176.29,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713493560,
+                        "astronomical": 1713485640,
+                        "civil": 1713491400,
+                        "nautical": 1713488700
+                    },
+                    "set": {
+                        "apparent": 1713544260,
+                        "astronomical": 1713552180,
+                        "civil": 1713546420,
+                        "nautical": 1713549120
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "umbrella.assume.waddled"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.2757492,
+                    "lng": 37.7659454
+                },
+                "southwest": {
+                    "lat": 51.2463341,
+                    "lng": 37.7432785
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Stary Oskol",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Belgorodskaya Oblast\u2019",
+                "town": "Stary Oskol"
+            },
+            "confidence": 7,
+            "formatted": "Stary Oskol, Belgorodskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 51.29667,
+                "lng": 37.84167
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:05:39 GMT",
+        "created_unix": 1713521139
+    },
+    "total_results": 1
+}

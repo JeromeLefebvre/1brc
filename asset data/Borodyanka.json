@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2147,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "50\u00b0 38' 41.42400'' N",
+                    "lng": "29\u00b0 55' 12.36000'' E"
+                },
+                "MGRS": "35UQS0644514400",
+                "Maidenhead": "KO40xp04js",
+                "Mercator": {
+                    "x": 3330690.296,
+                    "y": 6525649.584
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/50.64484/29.92010&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=50.64484&mlon=29.92010#map=17/50.64484/29.92010"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "UA": "804",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 380,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20B4;",
+                    "iso_code": "UAH",
+                    "iso_numeric": "980",
+                    "name": "Ukrainian Hryvnia",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopiyka",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b4",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\udde6",
+                "geohash": "u9j20ge5sf7w4qsyzx4k",
+                "qibla": 161.46,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713840660,
+                        "astronomical": 1713832680,
+                        "civil": 1713838500,
+                        "nautical": 1713835800
+                    },
+                    "set": {
+                        "apparent": 1713892080,
+                        "astronomical": 1713900060,
+                        "civil": 1713894180,
+                        "nautical": 1713896940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Kyiv",
+                    "now_in_dst": 1,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EEST"
+                },
+                "what3words": {
+                    "words": "hotspots.unlighted.soberly"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 50.6598076,
+                    "lng": 29.9403186
+                },
+                "southwest": {
+                    "lat": 50.6222004,
+                    "lng": 29.9027114
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "UA",
+                "ISO_3166-1_alpha-3": "UKR",
+                "_category": "place",
+                "_normalized_city": "Borodyanka",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Ukraine",
+                "country_code": "ua",
+                "state": "Kyiv Oblast",
+                "town": "Borodyanka"
+            },
+            "confidence": 7,
+            "formatted": "Borodyanka, Kyiv Oblast, Ukraine",
+            "geometry": {
+                "lat": 50.64484,
+                "lng": 29.9201
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 02:42:41 GMT",
+        "created_unix": 1713840161
+    },
+    "total_results": 1
+}

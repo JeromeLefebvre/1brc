@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1793,
+        "reset": 1711929600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 24' 13.37292'' N",
+                    "lng": "76\u00b0 57' 0.92412'' W"
+                },
+                "FIPS": {
+                    "county": "24013",
+                    "state": "24"
+                },
+                "MGRS": "18SUJ3208163393",
+                "Maidenhead": "FM19mj56xv",
+                "Mercator": {
+                    "x": -8566063.392,
+                    "y": 4752538.268
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=158639460#map=17/39.40371/-76.95026",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.40371/-76.95026&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.40371&mlon=-76.95026#map=17/39.40371/-76.95026"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr120vnx30ccgg7w051q",
+                "qibla": 56.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711882440,
+                        "astronomical": 1711876920,
+                        "civil": 1711880820,
+                        "nautical": 1711878900
+                    },
+                    "set": {
+                        "apparent": 1711927800,
+                        "astronomical": 1711846920,
+                        "civil": 1711929480,
+                        "nautical": 1711844940
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "bands.manliness.oils"
+                },
+                "wikidata": "Q754876"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 39.4437147,
+                    "lng": -76.9102567
+                },
+                "southwest": {
+                    "lat": 39.3637147,
+                    "lng": -76.9902567
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-MD"
+                ],
+                "_category": "place",
+                "_normalized_city": "Eldersburg",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Carroll County",
+                "postcode": "21784",
+                "state": "Maryland",
+                "state_code": "MD",
+                "town": "Eldersburg"
+            },
+            "confidence": 7,
+            "formatted": "Eldersburg, MD 21784, United States of America",
+            "geometry": {
+                "lat": 39.4037147,
+                "lng": -76.9502567
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 31 Mar 2024 20:50:32 GMT",
+        "created_unix": 1711918232
+    },
+    "total_results": 1
+}

@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 720,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 0' 17.24400'' N",
+                    "lng": "70\u00b0 50' 6.79200'' E"
+                },
+                "MGRS": "42TXK5664729901",
+                "Maidenhead": "MN50ka01fd",
+                "Mercator": {
+                    "x": 7885340.621,
+                    "y": 4839164.75
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.00479/70.83522&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.00479&mlon=70.83522#map=17/40.00479/70.83522"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "CENTRAL_ASIA": "143",
+                        "KG": "417",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 996,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0441\u043e\u043c"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "KGS",
+                    "iso_numeric": "417",
+                    "name": "Kyrgyzstani Som",
+                    "smallest_denomination": 1,
+                    "subunit": "Tyiyn",
+                    "subunit_to_unit": 100,
+                    "symbol": "som",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddec",
+                "geohash": "tx47efssu3279jbvshzc",
+                "qibla": 244.07,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713832080,
+                        "astronomical": 1713912540,
+                        "civil": 1713830400,
+                        "nautical": 1713914700
+                    },
+                    "set": {
+                        "apparent": 1713880920,
+                        "astronomical": 1713886920,
+                        "civil": 1713882660,
+                        "nautical": 1713884700
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Bishkek",
+                    "now_in_dst": 0,
+                    "offset_sec": 21600,
+                    "offset_string": "+0600",
+                    "short_name": "+06"
+                },
+                "what3words": {
+                    "words": "barrister.honeydew.transmitted"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KG",
+                "ISO_3166-1_alpha-3": "KGZ",
+                "_category": "place",
+                "_normalized_city": "Moskva",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Kyrgyzstan",
+                "country_code": "kg",
+                "state": "Batken",
+                "town": "Moskva"
+            },
+            "confidence": 9,
+            "formatted": "Moskva, Batken, Kyrgyzstan",
+            "geometry": {
+                "lat": 40.00479,
+                "lng": 70.83522
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:15:25 GMT",
+        "created_unix": 1713852925
+    },
+    "total_results": 1
+}

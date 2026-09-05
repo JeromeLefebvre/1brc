@@ -1,0 +1,144 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1830,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 9' 30.60612'' N",
+                    "lng": "37\u00b0 53' 56.52888'' E"
+                },
+                "MGRS": "37PCQ8067954924",
+                "Maidenhead": "KK83wd78va",
+                "Mercator": {
+                    "x": 4218901.367,
+                    "y": 1468125.463
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1150957542#map=17/13.15850/37.89904",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.15850/37.89904&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.15850&mlon=37.89904#map=17/13.15850/37.89904"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "EASTERN_AFRICA": "014",
+                        "ET": "231",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 251,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "ETB",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "ETB",
+                    "iso_numeric": "230",
+                    "name": "Ethiopian Birr",
+                    "smallest_denomination": 1,
+                    "subunit": "Santim",
+                    "subunit_to_unit": 100,
+                    "symbol": "Br",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf9",
+                "geohash": "sf6fy7mjzd9246utet2u",
+                "qibla": 12.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713755580,
+                        "astronomical": 1713751200,
+                        "civil": 1713754260,
+                        "nautical": 1713752760
+                    },
+                    "set": {
+                        "apparent": 1713800460,
+                        "astronomical": 1713804840,
+                        "civil": 1713801780,
+                        "nautical": 1713803280
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Addis_Ababa",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "EAT"
+                },
+                "what3words": {
+                    "words": "suave.tutored.zips"
+                },
+                "wikidata": "Q1067464"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.1985017,
+                    "lng": 37.9390358
+                },
+                "southwest": {
+                    "lat": 13.1185017,
+                    "lng": 37.8590358
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ET",
+                "ISO_3166-1_alpha-3": "ETH",
+                "ISO_3166-2": [
+                    "ET-AM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Debark",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Ethiopia",
+                "country_code": "et",
+                "state": "Amhara Region",
+                "state_district": "North Gondar",
+                "town": "Debark"
+            },
+            "confidence": 7,
+            "formatted": "Debark, North Gondar, Ethiopia",
+            "geometry": {
+                "lat": 13.1585017,
+                "lng": 37.8990358
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 00:34:49 GMT",
+        "created_unix": 1713746089
+    },
+    "total_results": 1
+}

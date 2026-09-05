@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1214,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 25' 0.48396'' N",
+                    "lng": "14\u00b0 17' 29.33484'' E"
+                },
+                "MGRS": "33TVG4170696297",
+                "Maidenhead": "JN72dk40xa",
+                "Mercator": {
+                    "x": 1590920.488,
+                    "y": 5194790.474
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITF"
+                    },
+                    "NUTS2": {
+                        "code": "ITF1"
+                    },
+                    "NUTS3": {
+                        "code": "ITF14"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=41997#map=17/42.41680/14.29148",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.41680/14.29148&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.41680&mlon=14.29148#map=17/42.41680/14.29148"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "srd1m1wxz8v62fyt1f15",
+                "qibla": 126.5,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714449600,
+                        "astronomical": 1714443060,
+                        "civil": 1714447800,
+                        "nautical": 1714445520
+                    },
+                    "set": {
+                        "apparent": 1714500060,
+                        "astronomical": 1714506600,
+                        "civil": 1714501860,
+                        "nautical": 1714504140
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "countries.buskers.undesirable"
+                },
+                "wikidata": "Q51225"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4450747,
+                    "lng": 14.322355
+                },
+                "southwest": {
+                    "lat": 42.3803122,
+                    "lng": 14.2264307
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-65",
+                    "IT-CH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Francavilla al Mare",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Chieti",
+                "county_code": "CH",
+                "political_union": "European Union",
+                "postcode": "66023",
+                "state": "Abruzzo",
+                "state_code": "ABR",
+                "town": "Francavilla al Mare"
+            },
+            "confidence": 7,
+            "formatted": "66023 Francavilla al Mare CH, Italy",
+            "geometry": {
+                "lat": 42.4168011,
+                "lng": 14.2914819
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:59:33 GMT",
+        "created_unix": 1714521573
+    },
+    "total_results": 1
+}

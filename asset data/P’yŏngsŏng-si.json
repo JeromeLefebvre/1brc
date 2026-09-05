@@ -1,0 +1,123 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2014,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 16' 58.00800'' N",
+                    "lng": "125\u00b0 51' 47.98800'' E"
+                },
+                "MGRS": "51SYD4697152066",
+                "Maidenhead": "PM29wg37ou",
+                "Mercator": {
+                    "x": 14011041.805,
+                    "y": 4735200.527
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.28278/125.86333&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.28278&mlon=125.86333#map=17/39.28278/125.86333"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KP": "408",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 850,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KPW",
+                    "iso_numeric": "408",
+                    "name": "North Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit": "Ch\u014fn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a9",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf5",
+                "geohash": "wycx2p4yu0vn3bxnxq3p",
+                "qibla": 284.6,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713473820,
+                        "astronomical": 1713468060,
+                        "civil": 1713472140,
+                        "nautical": 1713470160
+                    },
+                    "set": {
+                        "apparent": 1713435360,
+                        "astronomical": 1713441120,
+                        "civil": 1713437040,
+                        "nautical": 1713439020
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Pyongyang",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "help.gaps.greed"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KP",
+                "ISO_3166-1_alpha-3": "PRK",
+                "_category": "place",
+                "_type": "county",
+                "continent": "Asia",
+                "country": "North Korea",
+                "country_code": "kp",
+                "county": "P\u2019y\u014fngs\u014fng-si",
+                "state": "P\u2019y\u014fngan-namdo"
+            },
+            "confidence": 9,
+            "formatted": "P\u2019y\u014fngs\u014fng-si, North Korea",
+            "geometry": {
+                "lat": 39.28278,
+                "lng": 125.86333
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:31:56 GMT",
+        "created_unix": 1713439916
+    },
+    "total_results": 1
+}

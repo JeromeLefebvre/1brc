@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 123,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41\u00b0 40' 0.01200'' N",
+                    "lng": "2\u00b0 0' 0.00000'' E"
+                },
+                "MGRS": "31TDG1675113251",
+                "Maidenhead": "JN11aq00aa",
+                "Mercator": {
+                    "x": 222638.982,
+                    "y": 5082764.987
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES5"
+                    },
+                    "NUTS2": {
+                        "code": "ES51"
+                    },
+                    "NUTS3": {
+                        "code": "ES511"
+                    }
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.66667/2.00000&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.66667&mlon=2.00000#map=17/41.66667/2.00000"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "sp3mj90mgqk04c5108yy",
+                "qibla": 110.72,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713848400,
+                        "astronomical": 1713842220,
+                        "civil": 1713846660,
+                        "nautical": 1713844500
+                    },
+                    "set": {
+                        "apparent": 1713897660,
+                        "astronomical": 1713903840,
+                        "civil": 1713899400,
+                        "nautical": 1713901560
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "pots.domains.suckled"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.3255539,
+                    "lng": 2.79602
+                },
+                "southwest": {
+                    "lat": 41.1800003,
+                    "lng": 1.383934
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "_category": "place",
+                "_type": "county",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "county": "Barcelona",
+                "county_code": "B",
+                "political_union": "European Union",
+                "state": "Catalonia",
+                "state_code": "CT"
+            },
+            "confidence": 1,
+            "formatted": "Barcelona, Catalonia, Spain",
+            "geometry": {
+                "lat": 41.66667,
+                "lng": 2.0
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 06:39:22 GMT",
+        "created_unix": 1713854362
+    },
+    "total_results": 1
+}

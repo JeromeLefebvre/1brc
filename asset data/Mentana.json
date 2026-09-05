@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 292,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 2' 6.07776'' N",
+                    "lng": "12\u00b0 38' 32.17812'' E"
+                },
+                "MGRS": "33TUG0483956354",
+                "Maidenhead": "JN62ha78bj",
+                "Mercator": {
+                    "x": 1407331.248,
+                    "y": 5137608.59
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITI"
+                    },
+                    "NUTS2": {
+                        "code": "ITI4"
+                    },
+                    "NUTS3": {
+                        "code": "ITI43"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=41730#map=17/42.03502/12.64227",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.03502/12.64227&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.03502&mlon=12.64227#map=17/42.03502/12.64227"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sr2zpsjzdrcnbv28u8pc",
+                "qibla": 123.66,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713932160,
+                        "astronomical": 1713925860,
+                        "civil": 1713930360,
+                        "nautical": 1713928200
+                    },
+                    "set": {
+                        "apparent": 1713981600,
+                        "astronomical": 1713987900,
+                        "civil": 1713983400,
+                        "nautical": 1713985560
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "caged.securing.sketches"
+                },
+                "wikidata": "Q242942"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.0723745,
+                    "lng": 12.7153007
+                },
+                "southwest": {
+                    "lat": 42.0089763,
+                    "lng": 12.6148193
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-62",
+                    "IT-RM"
+                ],
+                "_category": "place",
+                "_normalized_city": "Mentana",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Roma Capitale",
+                "county_code": "RM",
+                "political_union": "European Union",
+                "postcode": "00013",
+                "state": "Lazio",
+                "state_code": "LAZ",
+                "town": "Mentana"
+            },
+            "confidence": 7,
+            "formatted": "00013 Mentana RM, Italy",
+            "geometry": {
+                "lat": 42.0350216,
+                "lng": 12.6422717
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:25:06 GMT",
+        "created_unix": 1713997506
+    },
+    "total_results": 1
+}

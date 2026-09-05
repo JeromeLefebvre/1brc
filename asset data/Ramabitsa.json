@@ -1,0 +1,129 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1274,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "29\u00b0 43' 59.98800'' S",
+                    "lng": "27\u00b0 43' 0.01200'' E"
+                },
+                "MGRS": "35JNH6930610548",
+                "Maidenhead": "KG30ug64aa",
+                "Mercator": {
+                    "x": 3085405.591,
+                    "y": -3448129.612
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/-29.73333/27.71667&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-29.73333&mlon=27.71667#map=17/-29.73333/27.71667"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "LS": "426",
+                        "SOUTHERN_AFRICA": "018",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LDC",
+                        "LEDC",
+                        "LLDC"
+                    ]
+                },
+                "callingcode": 266,
+                "currency": {
+                    "alternate_symbols": [
+                        "M"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "M",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "LSL",
+                    "iso_numeric": "426",
+                    "name": "Lesotho Loti",
+                    "smallest_denomination": 1,
+                    "subunit": "Sente",
+                    "subunit_to_unit": 100,
+                    "symbol": "L",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf1\ud83c\uddf8",
+                "geohash": "kdewyenwv1x1fen1cs3b",
+                "qibla": 14.26,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714451880,
+                        "astronomical": 1714447020,
+                        "civil": 1714450440,
+                        "nautical": 1714448700
+                    },
+                    "set": {
+                        "apparent": 1714491240,
+                        "astronomical": 1714496100,
+                        "civil": 1714492740,
+                        "nautical": 1714494420
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Maseru",
+                    "now_in_dst": 0,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "SAST"
+                },
+                "what3words": {
+                    "words": "nickered.infective.widening"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "LS",
+                "ISO_3166-1_alpha-3": "LSO",
+                "_category": "place",
+                "_normalized_city": "Ramabitsa",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Lesotho",
+                "country_code": "ls",
+                "town": "Ramabitsa"
+            },
+            "confidence": 9,
+            "formatted": "Ramabitsa, Lesotho",
+            "geometry": {
+                "lat": -29.73333,
+                "lng": 27.71667
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:57:02 GMT",
+        "created_unix": 1714521422
+    },
+    "total_results": 1
+}

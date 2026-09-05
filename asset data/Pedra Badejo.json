@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 800,
+        "reset": 1713571200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "15\u00b0 8' 13.89048'' N",
+                    "lng": "23\u00b0 31' 53.63400'' W"
+                },
+                "MGRS": "27PTS2793575070",
+                "Maidenhead": "HK85fd62fw",
+                "Mercator": {
+                    "x": -2619521.833,
+                    "y": 1693864.702
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=254019858#map=17/15.13719/-23.53157",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/15.13719/-23.53157&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=15.13719&mlon=-23.53157#map=17/15.13719/-23.53157"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "CV": "132",
+                        "SUB-SAHARAN_AFRICA": "202",
+                        "WESTERN_AFRICA": "011",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 238,
+                "currency": {
+                    "alternate_symbols": [
+                        "Esc"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "Esc",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "CVE",
+                    "iso_numeric": "132",
+                    "name": "Cape Verdean Escudo",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\uddfb",
+                "geohash": "e6xq0e8udc16k3dbu8pd",
+                "qibla": 73.68,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713511080,
+                        "astronomical": 1713506700,
+                        "civil": 1713509760,
+                        "nautical": 1713508260
+                    },
+                    "set": {
+                        "apparent": 1713556080,
+                        "astronomical": 1713560520,
+                        "civil": 1713557400,
+                        "nautical": 1713558960
+                    }
+                },
+                "timezone": {
+                    "name": "Atlantic/Cape_Verde",
+                    "now_in_dst": 0,
+                    "offset_sec": -3600,
+                    "offset_string": "-0100",
+                    "short_name": "-01"
+                },
+                "what3words": {
+                    "words": "predicament.history.downgrades"
+                },
+                "wikidata": "Q490579"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 15.1771918,
+                    "lng": -23.491565
+                },
+                "southwest": {
+                    "lat": 15.0971918,
+                    "lng": -23.571565
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CV",
+                "ISO_3166-1_alpha-3": "CPV",
+                "ISO_3166-2": [
+                    "CV-CR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Pedra Badejo",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Cape Verde",
+                "country_code": "cv",
+                "county": "Santa Cruz",
+                "postcode": "7410",
+                "town": "Pedra Badejo"
+            },
+            "confidence": 7,
+            "formatted": "7410 Pedra Badejo, Cape Verde",
+            "geometry": {
+                "lat": 15.1371918,
+                "lng": -23.531565
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 19 Apr 2024 10:16:08 GMT",
+        "created_unix": 1713521768
+    },
+    "total_results": 1
+}

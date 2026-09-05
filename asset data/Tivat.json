@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 880,
+        "reset": 1714608000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 25' 49.35432'' N",
+                    "lng": "18\u00b0 41' 55.71744'' E"
+                },
+                "MGRS": "34TCN1070500127",
+                "Maidenhead": "JN92ik33ug",
+                "Mercator": {
+                    "x": 2081542.052,
+                    "y": 5196830.151
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=12492506#map=16/42.43038/18.69881",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/42.43038/18.69881&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.43038&mlon=18.69881#map=16/42.43038/18.69881"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "ME": "499",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 382,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddea",
+                "geohash": "srt33s0ncg7sgnzmzd8v",
+                "qibla": 133.31,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714534860,
+                        "astronomical": 1714528320,
+                        "civil": 1714533000,
+                        "nautical": 1714530780
+                    },
+                    "set": {
+                        "apparent": 1714585440,
+                        "astronomical": 1714592040,
+                        "civil": 1714587300,
+                        "nautical": 1714589580
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Podgorica",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "second.divides.nozzles"
+                },
+                "wikidata": "Q223469"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.4462072,
+                    "lng": 18.7237014
+                },
+                "southwest": {
+                    "lat": 42.4175175,
+                    "lng": 18.6843677
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ME",
+                "ISO_3166-1_alpha-3": "MNE",
+                "ISO_3166-2": [
+                    "ME-19"
+                ],
+                "_category": "place",
+                "_normalized_city": "Tivat",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Montenegro",
+                "country_code": "me",
+                "county": "Tivat Municipality",
+                "town": "Tivat"
+            },
+            "confidence": 7,
+            "formatted": "Tivat, Tivat Municipality, Montenegro",
+            "geometry": {
+                "lat": 42.4303762,
+                "lng": 18.6988104
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 01 May 2024 03:31:30 GMT",
+        "created_unix": 1714534290
+    },
+    "total_results": 1
+}

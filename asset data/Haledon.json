@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 465,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 56' 8.35440'' N",
+                    "lng": "74\u00b0 11' 10.52160'' W"
+                },
+                "FIPS": {
+                    "county": "34031",
+                    "state": "34"
+                },
+                "MGRS": "18TWL6850331932",
+                "Maidenhead": "FN20vw74pn",
+                "Mercator": {
+                    "x": -8258376.242,
+                    "y": 4974852.438
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=170722#map=17/40.93565/-74.18626",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.93565/-74.18626&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.93565&mlon=-74.18626#map=17/40.93565/-74.18626"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dr70zu55qyyptrxd29z3",
+                "qibla": 58.35,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713780420,
+                        "astronomical": 1713774360,
+                        "civil": 1713778680,
+                        "nautical": 1713776580
+                    },
+                    "set": {
+                        "apparent": 1713829440,
+                        "astronomical": 1713749100,
+                        "civil": 1713744780,
+                        "nautical": 1713746880
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "deals.assume.hotels"
+                },
+                "wikidata": "Q1083356"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.946894,
+                    "lng": -74.174688
+                },
+                "southwest": {
+                    "lat": 40.92333,
+                    "lng": -74.203329
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-NJ"
+                ],
+                "_category": "place",
+                "_normalized_city": "Haledon",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Passaic County",
+                "state": "New Jersey",
+                "state_code": "NJ",
+                "village": "Haledon"
+            },
+            "confidence": 7,
+            "formatted": "Haledon, Passaic County, New Jersey, United States of America",
+            "geometry": {
+                "lat": 40.935654,
+                "lng": -74.186256
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:33:18 GMT",
+        "created_unix": 1713781998
+    },
+    "total_results": 1
+}

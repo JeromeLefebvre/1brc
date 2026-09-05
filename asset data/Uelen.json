@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 345,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "66\u00b0 9' 37.90800'' N",
+                    "lng": "169\u00b0 49' 1.20000'' W"
+                },
+                "MGRS": "2WNU5335238307",
+                "Maidenhead": "AP56cd18xm",
+                "Mercator": {
+                    "x": -18903941.968,
+                    "y": 9881792.201
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=215334914#map=17/66.16053/-169.81700",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/66.16053/-169.81700&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=66.16053&mlon=-169.81700#map=17/66.16053/-169.81700"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "b5z0rspj10enhqcvcugn",
+                "qibla": 332.58,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714746180,
+                        "astronomical": 0,
+                        "civil": 1714740600,
+                        "nautical": 0
+                    },
+                    "set": {
+                        "apparent": 1714723920,
+                        "astronomical": 0,
+                        "civil": 1714729740,
+                        "nautical": 0
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Anadyr",
+                    "now_in_dst": 0,
+                    "offset_sec": 43200,
+                    "offset_string": "+1200",
+                    "short_name": "+12"
+                },
+                "what3words": {
+                    "words": "enraging.insults.shred"
+                },
+                "wikidata": "Q860712"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 66.1648226,
+                    "lng": -169.7960491
+                },
+                "southwest": {
+                    "lat": 66.1566187,
+                    "lng": -169.8473206
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-CHU"
+                ],
+                "_category": "place",
+                "_normalized_city": "Uelen",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Chukotsky District",
+                "municipality": "\u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0423\u044d\u043b\u0435\u043d",
+                "region": "Far Eastern Federal District",
+                "state": "Chukotka Autonomous Okrug",
+                "village": "Uelen"
+            },
+            "confidence": 8,
+            "formatted": "Uelen, \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0423\u044d\u043b\u0435\u043d, Chukotsky District, Russia",
+            "geometry": {
+                "lat": 66.16053,
+                "lng": -169.817
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 01:31:07 GMT",
+        "created_unix": 1714699867
+    },
+    "total_results": 1
+}

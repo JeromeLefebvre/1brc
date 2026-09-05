@@ -1,0 +1,153 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1275,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 29' 29.94612'' N",
+                    "lng": "15\u00b0 52' 45.89076'' E"
+                },
+                "MGRS": "33TWM6748949051",
+                "Maidenhead": "JN76wl57mx",
+                "Mercator": {
+                    "x": 1767688.292,
+                    "y": 5828485.92
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "SI"
+                    },
+                    "NUTS1": {
+                        "code": "SI0"
+                    },
+                    "NUTS2": {
+                        "code": "SI03"
+                    },
+                    "NUTS3": {
+                        "code": "SI032"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1676348#map=17/46.49165/15.87941",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.49165/15.87941&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.49165&mlon=15.87941#map=17/46.49165/15.87941"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "SI": "705",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 386,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddee",
+                "geohash": "u2723re190j2gp7rsvst",
+                "qibla": 134.06,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714793880,
+                        "astronomical": 1714786380,
+                        "civil": 1714791900,
+                        "nautical": 1714789320
+                    },
+                    "set": {
+                        "apparent": 1714846140,
+                        "astronomical": 1714853700,
+                        "civil": 1714848180,
+                        "nautical": 1714850760
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Ljubljana",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "resolutions.omnivore.truces"
+                },
+                "wikidata": "Q570618"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.5086526,
+                    "lng": 15.9420549
+                },
+                "southwest": {
+                    "lat": 46.4490762,
+                    "lng": 15.8169041
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SI",
+                "ISO_3166-1_alpha-3": "SVN",
+                "ISO_3166-2": [
+                    "SI-018"
+                ],
+                "_category": "place",
+                "_normalized_city": "Destrnik",
+                "_type": "municipality",
+                "continent": "Europe",
+                "country": "Slovenia",
+                "country_code": "si",
+                "municipality": "Destrnik",
+                "political_union": "European Union",
+                "postcode": "2253"
+            },
+            "confidence": 7,
+            "formatted": "2253 Destrnik, Slovenia",
+            "geometry": {
+                "lat": 46.4916517,
+                "lng": 15.8794141
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:03:09 GMT",
+        "created_unix": 1714788189
+    },
+    "total_results": 1
+}

@@ -1,0 +1,149 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1708,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 57' 8.22672'' N",
+                    "lng": "86\u00b0 40' 9.98868'' W"
+                },
+                "FIPS": {
+                    "county": "47187",
+                    "state": "47"
+                },
+                "MGRS": "16SEE2981078706",
+                "Maidenhead": "EM65pw98qn",
+                "Mercator": {
+                    "x": -9647998.073,
+                    "y": 4268970.278
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=197477#map=16/35.95229/-86.66944",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/35.95229/-86.66944&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.95229&mlon=-86.66944#map=16/35.95229/-86.66944"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dn6kebcjpxswfjf3x1eg",
+                "qibla": 50.33,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714647180,
+                        "astronomical": 1714641480,
+                        "civil": 1714645560,
+                        "nautical": 1714643580
+                    },
+                    "set": {
+                        "apparent": 1714610040,
+                        "astronomical": 1714615800,
+                        "civil": 1714611720,
+                        "nautical": 1714613700
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "tensing.poem.refreshing"
+                },
+                "wikidata": "Q2518793"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.974249,
+                    "lng": -86.6368
+                },
+                "southwest": {
+                    "lat": 35.934904,
+                    "lng": -86.681947
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nolensville",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Williamson County",
+                "postcode": "37135",
+                "region": "Middle Tennessee",
+                "state": "Tennessee",
+                "state_code": "TN",
+                "town": "Nolensville"
+            },
+            "confidence": 7,
+            "formatted": "Nolensville, TN 37135, United States of America",
+            "geometry": {
+                "lat": 35.9522852,
+                "lng": -86.6694413
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:30:32 GMT",
+        "created_unix": 1714692632
+    },
+    "total_results": 1
+}

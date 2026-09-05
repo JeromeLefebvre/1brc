@@ -1,0 +1,160 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 995,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42\u00b0 3' 19.88280'' N",
+                    "lng": "1\u00b0 36' 28.52604'' W"
+                },
+                "MGRS": "30TXM1518956878",
+                "Maidenhead": "IN92eb73bh",
+                "Mercator": {
+                    "x": -178993.27,
+                    "y": 5140670.408
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "ES"
+                    },
+                    "NUTS1": {
+                        "code": "ES2"
+                    },
+                    "NUTS2": {
+                        "code": "ES22"
+                    },
+                    "NUTS3": {
+                        "code": "ES220"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=139072869#map=17/42.05552/-1.60792",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.05552/-1.60792&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.05552&mlon=-1.60792#map=17/42.05552/-1.60792"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ES": "724",
+                        "EUROPE": "150",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 34,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddea\ud83c\uddf8",
+                "geohash": "ezqz5rvphttn92cy15sr",
+                "qibla": 107.68,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Calle Basa\u00f3n",
+                    "road_type": "residential",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713417720,
+                        "astronomical": 1713411600,
+                        "civil": 1713415980,
+                        "nautical": 1713413820
+                    },
+                    "set": {
+                        "apparent": 1713466200,
+                        "astronomical": 1713472380,
+                        "civil": 1713468000,
+                        "nautical": 1713470100
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Madrid",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "supplier.bland.expect"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.0559813,
+                    "lng": -1.6065148
+                },
+                "southwest": {
+                    "lat": 42.0549633,
+                    "lng": -1.6090874
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "ES",
+                "ISO_3166-1_alpha-3": "ESP",
+                "ISO_3166-2": [
+                    "ES-NC",
+                    "ES-NA"
+                ],
+                "_category": "road",
+                "_normalized_city": "Tudela",
+                "_type": "road",
+                "continent": "Europe",
+                "country": "Spain",
+                "country_code": "es",
+                "county": "Erribera / Ribera",
+                "political_union": "European Union",
+                "postcode": "31500",
+                "province": "Navarre",
+                "road": "Calle Basa\u00f3n",
+                "road_type": "residential",
+                "state": "Navarre",
+                "town": "Tudela"
+            },
+            "confidence": 9,
+            "formatted": "Calle Basa\u00f3n, 31500 Tudela, Spain",
+            "geometry": {
+                "lat": 42.055523,
+                "lng": -1.6079239
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 12:04:59 GMT",
+        "created_unix": 1713441899
+    },
+    "total_results": 1
+}

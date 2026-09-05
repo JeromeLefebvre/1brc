@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1371,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36\u00b0 58' 30.17424'' N",
+                    "lng": "136\u00b0 53' 56.94972'' E"
+                },
+                "MGRS": "53SPA6904293789",
+                "Maidenhead": "PM86kx74va",
+                "Mercator": {
+                    "x": 15239543.969,
+                    "y": 4409927.416
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4800228#map=17/36.97505/136.89915",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.97505/136.89915&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.97505&mlon=136.89915#map=17/36.97505/136.89915"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn9675ngm2wghd11mw73",
+                "qibla": 291.33,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713471360,
+                        "astronomical": 1713465840,
+                        "civil": 1713469740,
+                        "nautical": 1713467820
+                    },
+                    "set": {
+                        "apparent": 1713432480,
+                        "astronomical": 1713438060,
+                        "civil": 1713434100,
+                        "nautical": 1713436020
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "reframe.chins.curates"
+                },
+                "wikidata": "Q1349436"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.028579,
+                    "lng": 136.985898
+                },
+                "southwest": {
+                    "lat": 36.913148,
+                    "lng": 136.822829
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-17"
+                ],
+                "_category": "place",
+                "_normalized_city": "Nakanoto",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "county": "Kashima County",
+                "province": "Ishikawa Prefecture",
+                "state": "Ishikawa Prefecture",
+                "town": "Nakanoto"
+            },
+            "confidence": 6,
+            "formatted": "Nakanoto, Kashima County, Japan",
+            "geometry": {
+                "lat": 36.9750484,
+                "lng": 136.8991527
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:53:02 GMT",
+        "created_unix": 1713441182
+    },
+    "total_results": 1
+}

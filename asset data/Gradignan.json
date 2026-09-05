@@ -1,0 +1,159 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1041,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44\u00b0 46' 26.29236'' N",
+                    "lng": "0\u00b0 36' 50.06520'' E"
+                },
+                "MGRS": "30TXQ8879960611",
+                "Maidenhead": "IN94qs65hs",
+                "Mercator": {
+                    "x": -68339.815,
+                    "y": 5555901.789
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "FR"
+                    },
+                    "NUTS1": {
+                        "code": "FRI"
+                    },
+                    "NUTS2": {
+                        "code": "FRI1"
+                    },
+                    "NUTS3": {
+                        "code": "FRI12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=105268#map=17/44.77397/-0.61391",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.77397/-0.61391&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.77397&mlon=-0.61391#map=17/44.77397/-0.61391"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "FR": "250",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 33,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddeb\ud83c\uddf7",
+                "geohash": "ezzwdnbgqbvz0khf4zfr",
+                "qibla": 111.65,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714021320,
+                        "astronomical": 1714014600,
+                        "civil": 1714019460,
+                        "nautical": 1714017120
+                    },
+                    "set": {
+                        "apparent": 1714071540,
+                        "astronomical": 1714078320,
+                        "civil": 1714073460,
+                        "nautical": 1714075800
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "coupler.grumble.biggest"
+                },
+                "wikidata": "Q234769"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.7938687,
+                    "lng": -0.5854508
+                },
+                "southwest": {
+                    "lat": 44.7423986,
+                    "lng": -0.6471483
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "FR",
+                "ISO_3166-1_alpha-3": "FRA",
+                "ISO_3166-2": [
+                    "FR-NAQ",
+                    "FR-33"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gradignan",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "France",
+                "country_code": "fr",
+                "county": "Gironde",
+                "municipality": "Bordeaux",
+                "political_union": "European Union",
+                "postcode": "33170",
+                "region": "Metropolitan France",
+                "state": "Nouvelle-Aquitaine",
+                "state_code": "NAQ",
+                "town": "Gradignan"
+            },
+            "confidence": 7,
+            "formatted": "33170 Gradignan, France",
+            "geometry": {
+                "lat": 44.7739701,
+                "lng": -0.613907
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 01:05:29 GMT",
+        "created_unix": 1714007129
+    },
+    "total_results": 1
+}

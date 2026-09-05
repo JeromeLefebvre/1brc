@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2141,
+        "reset": 1713916800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 23' 0.03084'' N",
+                    "lng": "71\u00b0 10' 49.76256'' W"
+                },
+                "MGRS": "19QBA6962633980",
+                "Maidenhead": "FK48jj82ia",
+                "Mercator": {
+                    "x": -7923775.857,
+                    "y": 2068998.527
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=7151616#map=16/18.38334/-71.18049",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/18.38334/-71.18049&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.38334&mlon=-71.18049#map=16/18.38334/-71.18049"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "DO": "214",
+                        "LATIN_AMERICA": "419",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "RD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "RD$",
+                    "html_entity": "&#x20B1;",
+                    "iso_code": "DOP",
+                    "iso_numeric": "214",
+                    "name": "Dominican Peso",
+                    "smallest_denomination": 100,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde9\ud83c\uddf4",
+                "geohash": "d7m2s4xfwrk1ckvqc4ux",
+                "qibla": 62.53,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713867780,
+                        "astronomical": 1713863220,
+                        "civil": 1713866460,
+                        "nautical": 1713864840
+                    },
+                    "set": {
+                        "apparent": 1713913380,
+                        "astronomical": 1713831540,
+                        "civil": 1713914760,
+                        "nautical": 1713916320
+                    }
+                },
+                "timezone": {
+                    "name": "America/Santo_Domingo",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "sliders.remarked.televising"
+                },
+                "wikidata": "Q1770645"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.4974789,
+                    "lng": -70.9777253
+                },
+                "southwest": {
+                    "lat": 18.3227865,
+                    "lng": -71.2068961
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DO",
+                "ISO_3166-1_alpha-3": "DOM",
+                "ISO_3166-2": [
+                    "DO-04"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vicente Noble",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Dominican Republic",
+                "country_code": "do",
+                "state": "Barahona",
+                "town": "Vicente Noble"
+            },
+            "confidence": 4,
+            "formatted": "Vicente Noble, Barahona, Dominican Republic",
+            "geometry": {
+                "lat": 18.3833419,
+                "lng": -71.1804896
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 23 Apr 2024 02:42:55 GMT",
+        "created_unix": 1713840175
+    },
+    "total_results": 1
+}

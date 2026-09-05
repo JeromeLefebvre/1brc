@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2283,
+        "reset": 1713484800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "25\u00b0 32' 11.90760'' N",
+                    "lng": "103\u00b0 31' 30.88992'' W"
+                },
+                "MGRS": "13RFJ4817425193",
+                "Maidenhead": "DL85fm68xt",
+                "Mercator": {
+                    "x": -11524377.803,
+                    "y": 2923390.107
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=4143721270#map=16/25.53664/-103.52525",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/25.53664/-103.52525&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=25.53664&mlon=-103.52525#map=16/25.53664/-103.52525"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9sw3k0z1wyutphssfhet",
+                "qibla": 40.46,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713443340,
+                        "astronomical": 1713438540,
+                        "civil": 1713441900,
+                        "nautical": 1713440280
+                    },
+                    "set": {
+                        "apparent": 1713403080,
+                        "astronomical": 1713407880,
+                        "civil": 1713404520,
+                        "nautical": 1713406140
+                    }
+                },
+                "timezone": {
+                    "name": "America/Monterrey",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "belonged.captures.punchy"
+                },
+                "wikidata": "Q1961329"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 25.576641,
+                    "lng": -103.4852472
+                },
+                "southwest": {
+                    "lat": 25.496641,
+                    "lng": -103.5652472
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-DUR"
+                ],
+                "_category": "place",
+                "_normalized_city": "Ciudad Lerdo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Lerdo",
+                "postcode": "35150",
+                "state": "Durango",
+                "state_code": "DUR",
+                "town": "Ciudad Lerdo"
+            },
+            "confidence": 7,
+            "formatted": "35150 Ciudad Lerdo, DUR, Mexico",
+            "geometry": {
+                "lat": 25.536641,
+                "lng": -103.5252472
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 18 Apr 2024 11:23:30 GMT",
+        "created_unix": 1713439410
+    },
+    "total_results": 1
+}

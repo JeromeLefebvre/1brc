@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1918,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "37\u00b0 59' 1.14360'' N",
+                    "lng": "13\u00b0 41' 43.99440'' E"
+                },
+                "MGRS": "33SUC8544504803",
+                "Maidenhead": "JM67ux36lb",
+                "Mercator": {
+                    "x": 1524582.097,
+                    "y": 4550816.551
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITG"
+                    },
+                    "NUTS2": {
+                        "code": "ITG1"
+                    },
+                    "NUTS3": {
+                        "code": "ITG12"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=39437#map=17/37.98365/13.69555",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/37.98365/13.69555&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=37.98365&mlon=13.69555#map=17/37.98365/13.69555"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "sqc8pdsyc99pzmst9du8",
+                "qibla": 118.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714018620,
+                        "astronomical": 1714012860,
+                        "civil": 1714016940,
+                        "nautical": 1714014960
+                    },
+                    "set": {
+                        "apparent": 1714067400,
+                        "astronomical": 1714073220,
+                        "civil": 1714069080,
+                        "nautical": 1714071060
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "dogs.scraper.duke"
+                },
+                "wikidata": "Q490851"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 37.9990015,
+                    "lng": 13.8438389
+                },
+                "southwest": {
+                    "lat": 37.9099597,
+                    "lng": 13.6213918
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-82",
+                    "IT-PA"
+                ],
+                "_category": "place",
+                "_normalized_city": "Termini Imerese",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Palermo",
+                "county_code": "PA",
+                "political_union": "European Union",
+                "postcode": "90018",
+                "state": "Sicily",
+                "town": "Termini Imerese"
+            },
+            "confidence": 5,
+            "formatted": "90018 Termini Imerese PA, Italy",
+            "geometry": {
+                "lat": 37.983651,
+                "lng": 13.695554
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 00:26:20 GMT",
+        "created_unix": 1714004780
+    },
+    "total_results": 1
+}

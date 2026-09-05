@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 705,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "49\u00b0 12' 24.38136'' N",
+                    "lng": "122\u00b0 54' 39.17448'' W"
+                },
+                "MGRS": "10UEV0649150445",
+                "Maidenhead": "CN89ne09qp",
+                "Mercator": {
+                    "x": -13682376.775,
+                    "y": 6277652.821
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5319478193#map=17/49.20677/-122.91088",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/49.20677/-122.91088&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=49.20677&mlon=-122.91088#map=17/49.20677/-122.91088"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udde6",
+                "geohash": "c28xgjg40z7bh0udwekq",
+                "qibla": 16.86,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714136280,
+                        "astronomical": 1714128480,
+                        "civil": 1714134180,
+                        "nautical": 1714131540
+                    },
+                    "set": {
+                        "apparent": 1714101660,
+                        "astronomical": 1714109520,
+                        "civil": 1714103760,
+                        "nautical": 1714106460
+                    }
+                },
+                "timezone": {
+                    "name": "America/Vancouver",
+                    "now_in_dst": 1,
+                    "offset_sec": -25200,
+                    "offset_string": "-0700",
+                    "short_name": "PDT"
+                },
+                "what3words": {
+                    "words": "blushes.defended.pushed"
+                },
+                "wikidata": "Q876122"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 49.3667726,
+                    "lng": -122.7508818
+                },
+                "southwest": {
+                    "lat": 49.0467726,
+                    "lng": -123.0708818
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "ISO_3166-2": [
+                    "CA-BC"
+                ],
+                "_category": "place",
+                "_normalized_city": "New Westminster",
+                "_type": "city",
+                "city": "New Westminster",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Metro Vancouver Regional District",
+                "postcode": "V3L 1K3",
+                "state": "British Columbia",
+                "state_code": "BC"
+            },
+            "confidence": 3,
+            "formatted": "New Westminster, BC, Canada",
+            "geometry": {
+                "lat": 49.2067726,
+                "lng": -122.9108818
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 23:04:12 GMT",
+        "created_unix": 1714172652
+    },
+    "total_results": 1
+}

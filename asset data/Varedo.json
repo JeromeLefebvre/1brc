@@ -1,0 +1,157 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1345,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "45\u00b0 35' 50.79732'' N",
+                    "lng": "9\u00b0 9' 22.65336'' E"
+                },
+                "MGRS": "32TNR1218949334",
+                "Maidenhead": "JN45no83sj",
+                "Mercator": {
+                    "x": 1019273.83,
+                    "y": 5685532.502
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "IT"
+                    },
+                    "NUTS1": {
+                        "code": "ITC"
+                    },
+                    "NUTS2": {
+                        "code": "ITC4"
+                    },
+                    "NUTS3": {
+                        "code": "ITC4D"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=45427#map=17/45.59744/9.15629",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/45.59744/9.15629&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=45.59744&mlon=9.15629#map=17/45.59744/9.15629"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "IT": "380",
+                        "SOUTHERN_EUROPE": "039",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 39,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf9",
+                "geohash": "u0ne2kg2m5dd7rxvtgb6",
+                "qibla": 123.68,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714795680,
+                        "astronomical": 1714788360,
+                        "civil": 1714793640,
+                        "nautical": 1714791180
+                    },
+                    "set": {
+                        "apparent": 1714847580,
+                        "astronomical": 1714854960,
+                        "civil": 1714849620,
+                        "nautical": 1714852080
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Rome",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "strapped.slower.thin"
+                },
+                "wikidata": "Q40815"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 45.609263,
+                    "lng": 9.1885417
+                },
+                "southwest": {
+                    "lat": 45.5881834,
+                    "lng": 9.142644
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IT",
+                "ISO_3166-1_alpha-3": "ITA",
+                "ISO_3166-2": [
+                    "IT-25",
+                    "IT-MB"
+                ],
+                "_category": "place",
+                "_normalized_city": "Varedo",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Italy",
+                "country_code": "it",
+                "county": "Monza and Brianza",
+                "county_code": "MB",
+                "political_union": "European Union",
+                "postcode": "20814",
+                "state": "Lombardy",
+                "town": "Varedo"
+            },
+            "confidence": 7,
+            "formatted": "20814 Varedo MB, Italy",
+            "geometry": {
+                "lat": 45.5974437,
+                "lng": 9.1562926
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:00:55 GMT",
+        "created_unix": 1714788055
+    },
+    "total_results": 1
+}

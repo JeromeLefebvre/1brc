@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2455,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 28' 53.29200'' N",
+                    "lng": "53\u00b0 28' 15.70800'' E"
+                },
+                "MGRS": "39UXA6008339902",
+                "Maidenhead": "LO64rl65mn",
+                "Mercator": {
+                    "x": 5952367.832,
+                    "y": 7227069.134
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.48147/53.47103&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.48147&mlon=53.47103#map=17/54.48147/53.47103"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v1wjby03t61g8gyv4thy",
+                "qibla": 202.73,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714955940,
+                        "astronomical": 1715030400,
+                        "civil": 1715039700,
+                        "nautical": 1715036160
+                    },
+                    "set": {
+                        "apparent": 1715011680,
+                        "astronomical": 1715023980,
+                        "civil": 1715014320,
+                        "nautical": 1715017920
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Yekaterinburg",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "+05"
+                },
+                "what3words": {
+                    "words": "goggles.cursing.latches"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.5021667,
+                    "lng": 53.538166
+                },
+                "southwest": {
+                    "lat": 54.4493599,
+                    "lng": 53.4335289
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Oktyabr\u2019skiy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Bashkortostan",
+                "town": "Oktyabr\u2019skiy"
+            },
+            "confidence": 7,
+            "formatted": "Oktyabr\u2019skiy, Bashkortostan, Russia",
+            "geometry": {
+                "lat": 54.48147,
+                "lng": 53.47103
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:07:45 GMT",
+        "created_unix": 1714954065
+    },
+    "total_results": 1
+}

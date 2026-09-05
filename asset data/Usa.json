@@ -1,0 +1,135 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1429,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "39\u00b0 47' 1.42944'' N",
+                    "lng": "100\u00b0 26' 45.17520'' W"
+                },
+                "MGRS": "14SLK7618904753",
+                "Maidenhead": "DM99ss68lc",
+                "Mercator": {
+                    "x": -11181584.437,
+                    "y": 4807217.278
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=148838#map=17/39.78373/-100.44588",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/39.78373/-100.44588&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=39.78373&mlon=-100.44588#map=17/39.78373/-100.44588"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "9z0d663t12cgfcg41kt9",
+                "qibla": 38.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714132140,
+                        "astronomical": 1714126080,
+                        "civil": 1714130400,
+                        "nautical": 1714128300
+                    },
+                    "set": {
+                        "apparent": 1714095060,
+                        "astronomical": 1714101120,
+                        "civil": 1714096800,
+                        "nautical": 1714098900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Chicago",
+                    "now_in_dst": 1,
+                    "offset_sec": -18000,
+                    "offset_string": "-0500",
+                    "short_name": "CDT"
+                },
+                "what3words": {
+                    "words": "lapses.ranted.fairly"
+                },
+                "wikidata": "Q30"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 71.5889534,
+                    "lng": 180.0
+                },
+                "southwest": {
+                    "lat": -14.7608358,
+                    "lng": -180.0
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "country",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "confidence": 1,
+            "formatted": "United States",
+            "geometry": {
+                "lat": 39.7837304,
+                "lng": -100.445882
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:36:14 GMT",
+        "created_unix": 1714170974
+    },
+    "total_results": 1
+}

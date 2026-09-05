@@ -1,0 +1,148 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 29,
+        "reset": 1711843200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "12\u00b0 6' 36.91656'' N",
+                    "lng": "79\u00b0 14' 43.44576'' E"
+                },
+                "MGRS": "44PLU0904639358",
+                "Maidenhead": "MK92oc96kl",
+                "Mercator": {
+                    "x": 8821557.754,
+                    "y": 1349300.089
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=245602559#map=17/12.11025/79.24540",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/12.11025/79.24540&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=12.11025&mlon=79.24540#map=17/12.11025/79.24540"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "tf0kgk8eren4wd7eeyxn",
+                "qibla": 289.23,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711759320,
+                        "astronomical": 1711841460,
+                        "civil": 1711758060,
+                        "nautical": 1711842960
+                    },
+                    "set": {
+                        "apparent": 1711803180,
+                        "astronomical": 1711807440,
+                        "civil": 1711804440,
+                        "nautical": 1711805940
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "mastermind.ascend.tiled"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 12.1302546,
+                    "lng": 79.2654016
+                },
+                "southwest": {
+                    "lat": 12.0902546,
+                    "lng": 79.2254016
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "ISO_3166-2": [
+                    "IN-TN"
+                ],
+                "_category": "place",
+                "_normalized_city": "Vettavalam",
+                "_type": "village",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Kilpennathur",
+                "postcode": "606754",
+                "state": "Tamil Nadu",
+                "state_code": "TN",
+                "state_district": "Tiruvannamalai District",
+                "village": "Vettavalam"
+            },
+            "confidence": 7,
+            "formatted": "Tiruvannamalai District, Vettavalam - 606754, Tamil Nadu, India",
+            "geometry": {
+                "lat": 12.1102546,
+                "lng": 79.2454016
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 30 Mar 2024 21:50:24 GMT",
+        "created_unix": 1711835424
+    },
+    "total_results": 1
+}

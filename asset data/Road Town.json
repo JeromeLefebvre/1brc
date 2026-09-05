@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1663,
+        "reset": 1713744000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "18\u00b0 25' 32.75760'' N",
+                    "lng": "64\u00b0 37' 23.12904'' W"
+                },
+                "MGRS": "20QLF2857338059",
+                "Maidenhead": "FK78qk52fe",
+                "Mercator": {
+                    "x": -7193809.628,
+                    "y": 2073945.718
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=280972174#map=16/18.42577/-64.62309",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/18.42577/-64.62309&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=18.42577&mlon=-64.62309#map=16/18.42577/-64.62309"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CARIBBEAN": "029",
+                        "LATIN_AMERICA": "419",
+                        "VG": "092",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC",
+                        "SIDS"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfb\ud83c\uddec",
+                "geohash": "de60c6qcugdx909gs1wp",
+                "qibla": 65.02,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713693480,
+                        "astronomical": 1713688980,
+                        "civil": 1713692160,
+                        "nautical": 1713690540
+                    },
+                    "set": {
+                        "apparent": 1713738960,
+                        "astronomical": 1713743520,
+                        "civil": 1713740340,
+                        "nautical": 1713741900
+                    }
+                },
+                "timezone": {
+                    "name": "America/Tortola",
+                    "now_in_dst": 0,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "AST"
+                },
+                "what3words": {
+                    "words": "gaskets.drapes.icicles"
+                },
+                "wikidata": "Q179431"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 18.585766,
+                    "lng": -64.4630914
+                },
+                "southwest": {
+                    "lat": 18.265766,
+                    "lng": -64.7830914
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "VG",
+                "ISO_3166-1_alpha-3": "VGB",
+                "_category": "place",
+                "_normalized_city": "Road Town",
+                "_type": "city",
+                "city": "Road Town",
+                "continent": "North America",
+                "country": "British Virgin Islands",
+                "country_code": "vg",
+                "district": "Tortola",
+                "postcode": "VG1110"
+            },
+            "confidence": 3,
+            "formatted": "Road Town, Tortola, British Virgin Islands",
+            "geometry": {
+                "lat": 18.425766,
+                "lng": -64.6230914
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 21 Apr 2024 01:43:50 GMT",
+        "created_unix": 1713663830
+    },
+    "total_results": 1
+}

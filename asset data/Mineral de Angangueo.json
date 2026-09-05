@@ -1,0 +1,138 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 713,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 37' 14.01600'' N",
+                    "lng": "100\u00b0 17' 3.69600'' W"
+                },
+                "MGRS": "14QLG6532170000",
+                "Maidenhead": "DK99uo58vw",
+                "Mercator": {
+                    "x": -11163603.89,
+                    "y": 2213793.766
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.62056/-100.28436&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.62056&mlon=-100.28436#map=17/19.62056/-100.28436"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g2xtgz4j13r7gh6ktdh",
+                "qibla": 45.64,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713788340,
+                        "astronomical": 1713783780,
+                        "civil": 1713786960,
+                        "nautical": 1713785400
+                    },
+                    "set": {
+                        "apparent": 1713747600,
+                        "astronomical": 1713752220,
+                        "civil": 1713748980,
+                        "nautical": 1713750600
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "economics.resulting.greatness"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.6378713,
+                    "lng": -100.2724003
+                },
+                "southwest": {
+                    "lat": 19.60798,
+                    "lng": -100.3068891
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "_category": "place",
+                "_normalized_city": "Mineral de Angangueo",
+                "_type": "city",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "state": "Michoac\u00e1n de Ocampo",
+                "state_code": "MIC",
+                "town": "Mineral de Angangueo"
+            },
+            "confidence": 7,
+            "formatted": "Mineral de Angangueo, Michoac\u00e1n de Ocampo, Mexico",
+            "geometry": {
+                "lat": 19.62056,
+                "lng": -100.28436
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:23:50 GMT",
+        "created_unix": 1713781430
+    },
+    "total_results": 1
+}

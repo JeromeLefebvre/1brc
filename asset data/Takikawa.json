@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 385,
+        "reset": 1714089600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "43\u00b0 33' 28.06416'' N",
+                    "lng": "141\u00b0 54' 37.33092'' E"
+                },
+                "MGRS": "54TWP7352823162",
+                "Maidenhead": "QN03wn93fu",
+                "Mercator": {
+                    "x": 15797390.093,
+                    "y": 5367809.516
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4085203#map=17/43.55780/141.91037",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/43.55780/141.91037&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=43.55780&mlon=141.91037#map=17/43.55780/141.91037"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xpszv1ryx395esy1mu3x",
+                "qibla": 293.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714073760,
+                        "astronomical": 1714067220,
+                        "civil": 1714071900,
+                        "nautical": 1714069680
+                    },
+                    "set": {
+                        "apparent": 1714037160,
+                        "astronomical": 1714043700,
+                        "civil": 1714039020,
+                        "nautical": 1714041240
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "domestic.multiple.spotty"
+                },
+                "wikidata": "Q842286"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 43.672616,
+                    "lng": 142.086161
+                },
+                "southwest": {
+                    "lat": 43.532465,
+                    "lng": 141.877879
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-01"
+                ],
+                "_category": "place",
+                "_normalized_city": "Takikawa",
+                "_type": "city",
+                "city": "Takikawa",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Hokkaido Prefecture",
+                "region": "Sorachi Subprefecture",
+                "state": "Hokkaido Prefecture"
+            },
+            "confidence": 5,
+            "formatted": "Takikawa, Hokkaido Prefecture, Japan",
+            "geometry": {
+                "lat": 43.5577956,
+                "lng": 141.9103697
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Apr 2024 02:11:06 GMT",
+        "created_unix": 1714011066
+    },
+    "total_results": 1
+}

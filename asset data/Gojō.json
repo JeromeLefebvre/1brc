@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1450,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "34\u00b0 21' 6.98040'' N",
+                    "lng": "135\u00b0 41' 36.94560'' E"
+                },
+                "MGRS": "53SNU6378701397",
+                "Maidenhead": "PM74ui34fl",
+                "Mercator": {
+                    "x": 15105342.011,
+                    "y": 4052046.945
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3248173#map=17/34.35194/135.69360",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/34.35194/135.69360&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=34.35194&mlon=135.69360#map=17/34.35194/135.69360"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "xn07rv949cw9vpywb6vr",
+                "qibla": 290.99,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713989820,
+                        "astronomical": 1713984360,
+                        "civil": 1713988200,
+                        "nautical": 1713986340
+                    },
+                    "set": {
+                        "apparent": 1713951300,
+                        "astronomical": 1713956700,
+                        "civil": 1713952860,
+                        "nautical": 1713954720
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "among.dress.clings"
+                },
+                "wikidata": "Q602571"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 34.408325,
+                    "lng": 135.910772
+                },
+                "southwest": {
+                    "lat": 34.082856,
+                    "lng": 135.651129
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-29"
+                ],
+                "_category": "place",
+                "_normalized_city": "Gojo",
+                "_type": "city",
+                "city": "Gojo",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Nara Prefecture",
+                "state": "Nara Prefecture"
+            },
+            "confidence": 3,
+            "formatted": "Gojo, Nara Prefecture, Japan",
+            "geometry": {
+                "lat": 34.351939,
+                "lng": 135.693596
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 21:45:21 GMT",
+        "created_unix": 1713995121
+    },
+    "total_results": 1
+}

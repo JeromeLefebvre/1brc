@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 568,
+        "reset": 1713830400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "13\u00b0 39' 52.76772'' N",
+                    "lng": "88\u00b0 12' 29.91780'' W"
+                },
+                "MGRS": "16PCA6931710965",
+                "Maidenhead": "EK53vp59am",
+                "Mercator": {
+                    "x": -9819304.209,
+                    "y": 1525683.324
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3432704422#map=17/13.66466/-88.20831",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/13.66466/-88.20831&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=13.66466&mlon=-88.20831#map=17/13.66466/-88.20831"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "SV": "222",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 503,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf8\ud83c\uddfb",
+                "geohash": "d43m8z8dmkud0xwt6upr",
+                "qibla": 56.22,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713785760,
+                        "astronomical": 1713781380,
+                        "civil": 1713784440,
+                        "nautical": 1713782940
+                    },
+                    "set": {
+                        "apparent": 1713744360,
+                        "astronomical": 1713748740,
+                        "civil": 1713745680,
+                        "nautical": 1713747240
+                    }
+                },
+                "timezone": {
+                    "name": "America/El_Salvador",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "identifying.crook.hours"
+                },
+                "wikidata": "Q3778448"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 13.7046577,
+                    "lng": -88.1683105
+                },
+                "southwest": {
+                    "lat": 13.6246577,
+                    "lng": -88.2483105
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "SV",
+                "ISO_3166-1_alpha-3": "SLV",
+                "ISO_3166-2": [
+                    "SV-MO"
+                ],
+                "_category": "place",
+                "_normalized_city": "Guatajiagua",
+                "_type": "city",
+                "continent": "North America",
+                "country": "El Salvador",
+                "country_code": "sv",
+                "state": "Departamento de Moraz\u00e1n",
+                "state_code": "MO",
+                "town": "Guatajiagua"
+            },
+            "confidence": 7,
+            "formatted": "Guatajiagua, Departamento de Moraz\u00e1n, El Salvador",
+            "geometry": {
+                "lat": 13.6646577,
+                "lng": -88.2083105
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 22 Apr 2024 10:29:22 GMT",
+        "created_unix": 1713781762
+    },
+    "total_results": 1
+}

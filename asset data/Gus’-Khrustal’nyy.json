@@ -1,0 +1,137 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1586,
+        "reset": 1713657600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "55\u00b0 36' 40.06800'' N",
+                    "lng": "40\u00b0 39' 6.69600'' E"
+                },
+                "MGRS": "37UFB0404964038",
+                "Maidenhead": "LO05ho86fq",
+                "Mercator": {
+                    "x": 4525344.355,
+                    "y": 7446100.13
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/55.61113/40.65186&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=55.61113&mlon=40.65186#map=16/55.61113/40.65186"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "ucuum59y2fpb424vnk09",
+                "qibla": 181.37,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713578460,
+                        "astronomical": 1713655320,
+                        "civil": 1713576060,
+                        "nautical": 1713572880
+                    },
+                    "set": {
+                        "apparent": 1713630780,
+                        "astronomical": 1713640440,
+                        "civil": 1713633240,
+                        "nautical": 1713636420
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "now_in_dst": 0,
+                    "offset_sec": 10800,
+                    "offset_string": "+0300",
+                    "short_name": "MSK"
+                },
+                "what3words": {
+                    "words": "belly.sensible.messing"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 55.6306114,
+                    "lng": 40.7023048
+                },
+                "southwest": {
+                    "lat": 55.5859184,
+                    "lng": 40.6235008
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "_category": "place",
+                "_normalized_city": "Gus\u2019-Khrustal\u2019nyy",
+                "_type": "city",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "state": "Vladimirskaya Oblast\u2019",
+                "town": "Gus\u2019-Khrustal\u2019nyy"
+            },
+            "confidence": 7,
+            "formatted": "Gus\u2019-Khrustal\u2019nyy, Vladimirskaya Oblast\u2019, Russia",
+            "geometry": {
+                "lat": 55.61113,
+                "lng": 40.65186
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 20 Apr 2024 11:47:19 GMT",
+        "created_unix": 1713613639
+    },
+    "total_results": 1
+}

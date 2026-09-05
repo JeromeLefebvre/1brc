@@ -1,0 +1,155 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1963,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 58' 46.76232'' N",
+                    "lng": "9\u00b0 6' 31.72320'' E"
+                },
+                "MGRS": "32TNT0827502909",
+                "Maidenhead": "JN46nx35bc",
+                "Mercator": {
+                    "x": 1013988.314,
+                    "y": 5907500.004
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "CH"
+                    },
+                    "NUTS1": {
+                        "code": "CH0"
+                    },
+                    "NUTS2": {
+                        "code": "CH05"
+                    },
+                    "NUTS3": {
+                        "code": "CH051"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1685673#map=17/46.97966/9.10881",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.97966/9.10881&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.97966&mlon=9.10881#map=17/46.97966/9.10881"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "CH": "756",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 41,
+                "currency": {
+                    "alternate_symbols": [
+                        "SFr",
+                        "Fr"
+                    ],
+                    "decimal_mark": ".",
+                    "format": "%u%n",
+                    "html_entity": "",
+                    "iso_code": "CHF",
+                    "iso_numeric": "756",
+                    "name": "Swiss Franc",
+                    "smallest_denomination": 5,
+                    "subunit": "Rappen",
+                    "subunit_to_unit": 100,
+                    "symbol": "CHF",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\udde8\ud83c\udded",
+                "geohash": "u0q7r22u6dwt0qbn667n",
+                "qibla": 125.24,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714709160,
+                        "astronomical": 1714701540,
+                        "civil": 1714707120,
+                        "nautical": 1714704540
+                    },
+                    "set": {
+                        "apparent": 1714761360,
+                        "astronomical": 1714768980,
+                        "civil": 1714763400,
+                        "nautical": 1714765980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Zurich",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "gurgling.unafraid.decorator"
+                },
+                "wikidata": "Q11922"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 47.1739901,
+                    "lng": 9.2525772
+                },
+                "southwest": {
+                    "lat": 46.796471,
+                    "lng": 8.8712284
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CH",
+                "ISO_3166-1_alpha-3": "CHE",
+                "ISO_3166-2": [
+                    "CH-GL"
+                ],
+                "_category": "place",
+                "_type": "state",
+                "continent": "Europe",
+                "country": "Switzerland",
+                "country_code": "ch",
+                "state": "Glarus",
+                "state_code": "GL"
+            },
+            "confidence": 3,
+            "formatted": "Glarus, Switzerland",
+            "geometry": {
+                "lat": 46.9796562,
+                "lng": 9.108812
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:31:10 GMT",
+        "created_unix": 1714696270
+    },
+    "total_results": 1
+}

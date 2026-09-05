@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2475,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "33\u00b0 27' 46.07388'' N",
+                    "lng": "132\u00b0 25' 24.67488'' E"
+                },
+                "MGRS": "53SKT6054805564",
+                "Maidenhead": "PM63fl01tb",
+                "Mercator": {
+                    "x": 14741318.905,
+                    "y": 3933335.753
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=4051176#map=17/33.46280/132.42352",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/33.46280/132.42352&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=33.46280&mlon=132.42352#map=17/33.46280/132.42352"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvynm7eygttz5shcds54",
+                "qibla": 289.43,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1715026740,
+                        "astronomical": 1715021160,
+                        "civil": 1715025120,
+                        "nautical": 1715023200
+                    },
+                    "set": {
+                        "apparent": 1714989360,
+                        "astronomical": 1714994940,
+                        "civil": 1714990920,
+                        "nautical": 1714992900
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "fixtures.agreeing.locator"
+                },
+                "wikidata": "Q200603"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 33.6449241,
+                    "lng": 132.502246
+                },
+                "southwest": {
+                    "lat": 33.3215896,
+                    "lng": 132.2495874
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-38"
+                ],
+                "_category": "place",
+                "_normalized_city": "Yawatahama",
+                "_type": "city",
+                "city": "Yawatahama",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Ehime Prefecture",
+                "state": "Ehime Prefecture"
+            },
+            "confidence": 3,
+            "formatted": "Yawatahama, Ehime Prefecture, Japan",
+            "geometry": {
+                "lat": 33.4627983,
+                "lng": 132.4235208
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:06:52 GMT",
+        "created_unix": 1714954012
+    },
+    "total_results": 1
+}

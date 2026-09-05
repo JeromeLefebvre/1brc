@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1238,
+        "reset": 1714867200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 47' 43.22400'' N",
+                    "lng": "81\u00b0 28' 24.42000'' W"
+                },
+                "FIPS": {
+                    "county": "39151",
+                    "state": "39"
+                },
+                "MGRS": "17TMF6005916146",
+                "Maidenhead": "EN90gt30ev",
+                "Mercator": {
+                    "x": -9069582.967,
+                    "y": 4954277.537
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.79534/-81.47345&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.79534&mlon=-81.47345#map=17/40.79534/-81.47345"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dpq0448f5486pgbqz7t5",
+                "qibla": 53.32,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714818060,
+                        "astronomical": 1714811640,
+                        "civil": 1714816260,
+                        "nautical": 1714814040
+                    },
+                    "set": {
+                        "apparent": 1714782300,
+                        "astronomical": 1714788720,
+                        "civil": 1714784100,
+                        "nautical": 1714786320
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "consoled.traced.likes"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.812904,
+                    "lng": -81.446001
+                },
+                "southwest": {
+                    "lat": 40.784286,
+                    "lng": -81.486944
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-OH"
+                ],
+                "_category": "place",
+                "_normalized_city": "Perry Heights",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States of America",
+                "country_code": "us",
+                "county": "Stark County",
+                "state": "Ohio",
+                "state_code": "OH",
+                "town": "Perry Heights"
+            },
+            "confidence": 7,
+            "formatted": "Perry Heights, Ohio, United States of America",
+            "geometry": {
+                "lat": 40.79534,
+                "lng": -81.47345
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sat, 04 May 2024 02:04:22 GMT",
+        "created_unix": 1714788262
+    },
+    "total_results": 1
+}

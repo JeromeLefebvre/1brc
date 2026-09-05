@@ -1,0 +1,141 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 18,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "31\u00b0 48' 48.31560'' N",
+                    "lng": "130\u00b0 18' 14.32404'' E"
+                },
+                "MGRS": "52RFA2342120495",
+                "Maidenhead": "PM51dt65lf",
+                "Mercator": {
+                    "x": 14505372.579,
+                    "y": 3716321.816
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3962263#map=17/31.81342/130.30398",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/31.81342/130.30398&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=31.81342&mlon=130.30398#map=17/31.81342/130.30398"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "JP": "392",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 81,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u5186",
+                        "\u5713"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A5;",
+                    "iso_code": "JPY",
+                    "iso_numeric": "392",
+                    "name": "Japanese Yen",
+                    "smallest_denomination": 1,
+                    "subunit_to_unit": 1,
+                    "symbol": "\u00a5",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddef\ud83c\uddf5",
+                "geohash": "wvssvpkqwg8b7cqcnf77",
+                "qibla": 288.67,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713991320,
+                        "astronomical": 1713986100,
+                        "civil": 1713989760,
+                        "nautical": 1713987960
+                    },
+                    "set": {
+                        "apparent": 1713952380,
+                        "astronomical": 1713957600,
+                        "civil": 1713953880,
+                        "nautical": 1713955740
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Tokyo",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "JST"
+                },
+                "what3words": {
+                    "words": "headed.acrobat.decent"
+                },
+                "wikidata": "Q15720"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 32.1753186,
+                    "lng": 130.5900481
+                },
+                "southwest": {
+                    "lat": 31.4696203,
+                    "lng": 129.2100012
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "JP",
+                "ISO_3166-1_alpha-3": "JPN",
+                "ISO_3166-2": [
+                    "JP-46"
+                ],
+                "_category": "place",
+                "_normalized_city": "Satsumasendai",
+                "_type": "city",
+                "city": "Satsumasendai",
+                "continent": "Asia",
+                "country": "Japan",
+                "country_code": "jp",
+                "province": "Kagoshima Prefecture",
+                "state": "Kagoshima Prefecture"
+            },
+            "confidence": 1,
+            "formatted": "Satsumasendai, Kagoshima Prefecture, Japan",
+            "geometry": {
+                "lat": 31.813421,
+                "lng": 130.3039789
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:35:21 GMT",
+        "created_unix": 1713998121
+    },
+    "total_results": 1
+}

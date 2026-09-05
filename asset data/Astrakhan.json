@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2496,
+        "reset": 1715040000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "46\u00b0 20' 59.39088'' N",
+                    "lng": "48\u00b0 1' 57.43308'' E"
+                },
+                "MGRS": "39TTM7168537197",
+                "Maidenhead": "LN46ai33vx",
+                "Mercator": {
+                    "x": 5346966.833,
+                    "y": 5805657.35
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=1853866#map=17/46.34983/48.03262",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/46.34983/48.03262&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=46.34983&mlon=48.03262#map=17/46.34983/48.03262"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EASTERN_EUROPE": "151",
+                        "EUROPE": "150",
+                        "RU": "643",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 7,
+                "currency": {
+                    "alternate_symbols": [
+                        "\u0440\u0443\u0431.",
+                        "\u0440."
+                    ],
+                    "decimal_mark": ",",
+                    "format": "%n %u",
+                    "html_entity": "&#x20BD;",
+                    "iso_code": "RUB",
+                    "iso_numeric": "643",
+                    "name": "Russian Ruble",
+                    "smallest_denomination": 1,
+                    "subunit": "Kopeck",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20bd",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\uddf7\ud83c\uddfa",
+                "geohash": "v04ptj8r34tw6gw5mk6r",
+                "qibla": 197.77,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714958880,
+                        "astronomical": 1715037660,
+                        "civil": 1714956840,
+                        "nautical": 1714954260
+                    },
+                    "set": {
+                        "apparent": 1715011320,
+                        "astronomical": 1715018940,
+                        "civil": 1715013360,
+                        "nautical": 1715015940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Astrakhan",
+                    "now_in_dst": 0,
+                    "offset_sec": 14400,
+                    "offset_string": "+0400",
+                    "short_name": "+04"
+                },
+                "what3words": {
+                    "words": "vibe.rinse.coder"
+                },
+                "wikidata": "Q3927"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 46.4708482,
+                    "lng": 48.201888
+                },
+                "southwest": {
+                    "lat": 46.259716,
+                    "lng": 47.8711165
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "RU",
+                "ISO_3166-1_alpha-3": "RUS",
+                "ISO_3166-2": [
+                    "RU-AST"
+                ],
+                "_category": "place",
+                "_normalized_city": "Astrakhan",
+                "_type": "city",
+                "city": "Astrakhan",
+                "continent": "Europe",
+                "country": "Russia",
+                "country_code": "ru",
+                "county": "Astrakhan",
+                "postcode": "414000",
+                "region": "Southern Federal District",
+                "state": "Astrakhan Oblast"
+            },
+            "confidence": 4,
+            "formatted": "Astrakhan, Russia",
+            "geometry": {
+                "lat": 46.3498308,
+                "lng": 48.0326203
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 06 May 2024 00:05:58 GMT",
+        "created_unix": 1714953958
+    },
+    "total_results": 1
+}

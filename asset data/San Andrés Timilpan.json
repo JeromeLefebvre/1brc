@@ -1,0 +1,143 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 413,
+        "reset": 1714003200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "19\u00b0 52' 36.37776'' N",
+                    "lng": "99\u00b0 44' 4.85124'' W"
+                },
+                "MGRS": "14QMG2308798012",
+                "Maidenhead": "EK09dv10uk",
+                "Mercator": {
+                    "x": -11102413.892,
+                    "y": 2243917.647
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=3455808433#map=17/19.87677/-99.73468",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/19.87677/-99.73468&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=19.87677&mlon=-99.73468#map=17/19.87677/-99.73468"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CENTRAL_AMERICA": "013",
+                        "LATIN_AMERICA": "419",
+                        "MX": "484",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 52,
+                "currency": {
+                    "alternate_symbols": [
+                        "MEX$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "MEX$",
+                    "html_entity": "$",
+                    "iso_code": "MXN",
+                    "iso_numeric": "484",
+                    "name": "Mexican Peso",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\uddfd",
+                "geohash": "9g9146rqt6zc4474596s",
+                "qibla": 45.94,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1713960900,
+                        "astronomical": 1713956280,
+                        "civil": 1713959520,
+                        "nautical": 1713957900
+                    },
+                    "set": {
+                        "apparent": 1713920340,
+                        "astronomical": 1713924960,
+                        "civil": 1713921720,
+                        "nautical": 1713923340
+                    }
+                },
+                "timezone": {
+                    "name": "America/Mexico_City",
+                    "now_in_dst": 0,
+                    "offset_sec": -21600,
+                    "offset_string": "-0600",
+                    "short_name": "CST"
+                },
+                "what3words": {
+                    "words": "lineage.barmaids.marquees"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 19.8967716,
+                    "lng": -99.7146809
+                },
+                "southwest": {
+                    "lat": 19.8567716,
+                    "lng": -99.7546809
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MX",
+                "ISO_3166-1_alpha-3": "MEX",
+                "ISO_3166-2": [
+                    "MX-MEX"
+                ],
+                "_category": "place",
+                "_normalized_city": "San Andr\u00e9s Timilpan",
+                "_type": "village",
+                "continent": "North America",
+                "country": "Mexico",
+                "country_code": "mx",
+                "county": "Timilpan",
+                "state": "State of Mexico",
+                "state_code": "MEX",
+                "village": "San Andr\u00e9s Timilpan"
+            },
+            "confidence": 7,
+            "formatted": "San Andr\u00e9s Timilpan, Timilpan, Mexico",
+            "geometry": {
+                "lat": 19.8767716,
+                "lng": -99.7346809
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Wed, 24 Apr 2024 22:20:59 GMT",
+        "created_unix": 1713997259
+    },
+    "total_results": 1
+}

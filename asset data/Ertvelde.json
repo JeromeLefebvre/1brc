@@ -1,0 +1,158 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2223,
+        "reset": 1714176000
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 10' 45.66180'' N",
+                    "lng": "3\u00b0 44' 49.84404'' E"
+                },
+                "MGRS": "31UES5222670034",
+                "Maidenhead": "JO11ue93pb",
+                "Mercator": {
+                    "x": 417134.047,
+                    "y": 6619768.834
+                },
+                "NUTS": {
+                    "NUTS0": {
+                        "code": "BE"
+                    },
+                    "NUTS1": {
+                        "code": "BE2"
+                    },
+                    "NUTS2": {
+                        "code": "BE23"
+                    },
+                    "NUTS3": {
+                        "code": "BE234"
+                    }
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=8834425#map=17/51.17935/3.74718",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.17935/3.74718&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.17935&mlon=3.74718#map=17/51.17935/3.74718"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "BE": "056",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 32,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "\u20ac",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20ac",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "\ud83c\udde7\ud83c\uddea",
+                "geohash": "u14ejkbt7d7je30rzeq8",
+                "qibla": 123.09,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714105680,
+                        "astronomical": 1714097340,
+                        "civil": 1714103460,
+                        "nautical": 1714100640
+                    },
+                    "set": {
+                        "apparent": 1714157940,
+                        "astronomical": 1714166340,
+                        "civil": 1714160160,
+                        "nautical": 1714162980
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Brussels",
+                    "now_in_dst": 1,
+                    "offset_sec": 7200,
+                    "offset_string": "+0200",
+                    "short_name": "CEST"
+                },
+                "what3words": {
+                    "words": "wrenched.cranky.combed"
+                },
+                "wikidata": "Q2026366"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.1987046,
+                    "lng": 3.7989682
+                },
+                "southwest": {
+                    "lat": 51.1579922,
+                    "lng": 3.6894107
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BE",
+                "ISO_3166-1_alpha-3": "BEL",
+                "ISO_3166-2": [
+                    "BE-VLG",
+                    "BE-VOV"
+                ],
+                "_category": "place",
+                "_normalized_city": "Evergem",
+                "_type": "village",
+                "continent": "Europe",
+                "country": "Belgium",
+                "country_code": "be",
+                "county": "Gent",
+                "political_union": "European Union",
+                "region": "Flanders",
+                "state": "East Flanders",
+                "state_code": "VOV",
+                "town": "Evergem",
+                "village": "Ertvelde"
+            },
+            "confidence": 7,
+            "formatted": "Evergem, Gent, Belgium",
+            "geometry": {
+                "lat": 51.1793505,
+                "lng": 3.7471789
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 26 Apr 2024 22:05:40 GMT",
+        "created_unix": 1714169140
+    },
+    "total_results": 1
+}

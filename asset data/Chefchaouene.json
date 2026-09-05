@@ -1,0 +1,134 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 969,
+        "reset": 1714694400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "35\u00b0 10' 7.60800'' N",
+                    "lng": "5\u00b0 15' 48.96000'' W"
+                },
+                "MGRS": "30STD9384994106",
+                "Maidenhead": "IM75ie80im",
+                "Mercator": {
+                    "x": -585941.272,
+                    "y": 4162229.858
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/35.16878/-5.26360&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=35.16878&mlon=-5.26360#map=17/35.16878/-5.26360"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AFRICA": "002",
+                        "MA": "504",
+                        "NORTHERN_AFRICA": "015",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 212,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "",
+                    "iso_code": "MAD",
+                    "iso_numeric": "504",
+                    "name": "Moroccan Dirham",
+                    "smallest_denomination": 1,
+                    "subunit": "Centime",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u062f.\u0645.",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf2\ud83c\udde6",
+                "geohash": "eyk204r0vpz27gsd4du5",
+                "qibla": 96.92,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714627800,
+                        "astronomical": 1714622100,
+                        "civil": 1714626120,
+                        "nautical": 1714624200
+                    },
+                    "set": {
+                        "apparent": 1714676820,
+                        "astronomical": 1714682520,
+                        "civil": 1714678440,
+                        "nautical": 1714680420
+                    }
+                },
+                "timezone": {
+                    "name": "Africa/Casablanca",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "+01"
+                },
+                "what3words": {
+                    "words": "lawyer.water.surpasses"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 35.265526,
+                    "lng": -5.174903
+                },
+                "southwest": {
+                    "lat": 35.120789,
+                    "lng": -5.324935
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "MA",
+                "ISO_3166-1_alpha-3": "MAR",
+                "_category": "place",
+                "_normalized_city": "Chefchaouene",
+                "_type": "city",
+                "continent": "Africa",
+                "country": "Morocco",
+                "country_code": "ma",
+                "state": "R\u00e9gion de Tanger-T\u00e9touan",
+                "town": "Chefchaouene"
+            },
+            "confidence": 6,
+            "formatted": "Chefchaouene, R\u00e9gion de Tanger-T\u00e9touan, Morocco",
+            "geometry": {
+                "lat": 35.16878,
+                "lng": -5.2636
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 02 May 2024 23:57:18 GMT",
+        "created_unix": 1714694238
+    },
+    "total_results": 1
+}

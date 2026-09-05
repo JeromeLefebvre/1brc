@@ -1,0 +1,127 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1748,
+        "reset": 1714521600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 51' 27.14400'' N",
+                    "lng": "68\u00b0 49' 58.51200'' E"
+                },
+                "MGRS": "42RVR8355081432",
+                "Maidenhead": "ML47ju95wt",
+                "Mercator": {
+                    "x": 7662445.604,
+                    "y": 3211063.412
+                },
+                "OSM": {
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/27.85754/68.83292&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.85754&mlon=68.83292#map=17/27.85754/68.83292"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "PK": "586",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 92,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "PKR",
+                    "html_entity": "&#x20A8;",
+                    "iso_code": "PKR",
+                    "iso_numeric": "586",
+                    "name": "Pakistani Rupee",
+                    "smallest_denomination": 100,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a8",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf5\ud83c\uddf0",
+                "geohash": "tsbyqr69gmc4yn93nd9v",
+                "qibla": 262.74,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714438020,
+                        "astronomical": 1714519380,
+                        "civil": 1714436520,
+                        "nautical": 1714521180
+                    },
+                    "set": {
+                        "apparent": 1714485420,
+                        "astronomical": 1714490460,
+                        "civil": 1714486920,
+                        "nautical": 1714488660
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Karachi",
+                    "now_in_dst": 0,
+                    "offset_sec": 18000,
+                    "offset_string": "+0500",
+                    "short_name": "PKT"
+                },
+                "what3words": {
+                    "words": "overviews.effort.dietician"
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "PK",
+                "ISO_3166-1_alpha-3": "PAK",
+                "_category": "place",
+                "_normalized_city": "Chak",
+                "_type": "city",
+                "continent": "Asia",
+                "country": "Pakistan",
+                "country_code": "pk",
+                "state": "Sindh",
+                "state_code": "SD",
+                "town": "Chak"
+            },
+            "confidence": 9,
+            "formatted": "Chak, Sindh, Pakistan",
+            "geometry": {
+                "lat": 27.85754,
+                "lng": 68.83292
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 30 Apr 2024 23:19:03 GMT",
+        "created_unix": 1714519143
+    },
+    "total_results": 1
+}

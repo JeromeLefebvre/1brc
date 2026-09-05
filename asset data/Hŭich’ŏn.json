@@ -1,0 +1,139 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 1560,
+        "reset": 1714780800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40\u00b0 10' 16.60440'' N",
+                    "lng": "126\u00b0 16' 33.69756'' E"
+                },
+                "MGRS": "52TBK6804950326",
+                "Maidenhead": "PN30de31cc",
+                "Mercator": {
+                    "x": 14056983.036,
+                    "y": 4863294.575
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=5475706#map=17/40.17128/126.27603",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.17128/126.27603&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.17128&mlon=126.27603#map=17/40.17128/126.27603"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "EASTERN_ASIA": "030",
+                        "KP": "408",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 850,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "format": "%n %u",
+                    "html_entity": "&#x20A9;",
+                    "iso_code": "KPW",
+                    "iso_numeric": "408",
+                    "name": "North Korean Won",
+                    "smallest_denomination": 1,
+                    "subunit": "Ch\u014fn",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20a9",
+                    "symbol_first": 0,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddf0\ud83c\uddf5",
+                "geohash": "wz1u92zqstnm625kbnvj",
+                "qibla": 284.59,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1714768440,
+                        "astronomical": 1714762140,
+                        "civil": 1714766640,
+                        "nautical": 1714764480
+                    },
+                    "set": {
+                        "apparent": 1714732260,
+                        "astronomical": 1714738500,
+                        "civil": 1714734000,
+                        "nautical": 1714736160
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Pyongyang",
+                    "now_in_dst": 0,
+                    "offset_sec": 32400,
+                    "offset_string": "+0900",
+                    "short_name": "KST"
+                },
+                "what3words": {
+                    "words": "deacon.rusted.lollipops"
+                },
+                "wikidata": "Q698719"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.3521096,
+                    "lng": 126.5704185
+                },
+                "southwest": {
+                    "lat": 39.9903817,
+                    "lng": 125.9778845
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "KP",
+                "ISO_3166-1_alpha-3": "PRK",
+                "ISO_3166-2": [
+                    "KP-04"
+                ],
+                "_category": "place",
+                "_normalized_city": "Huichon-si",
+                "_type": "city",
+                "city": "Huichon-si",
+                "continent": "Asia",
+                "country": "North Korea",
+                "country_code": "kp",
+                "state": "Chagang"
+            },
+            "confidence": 2,
+            "formatted": "Huichon-si, Chagang, North Korea",
+            "geometry": {
+                "lat": 40.171279,
+                "lng": 126.2760271
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 03 May 2024 00:45:55 GMT",
+        "created_unix": 1714697155
+    },
+    "total_results": 1
+}

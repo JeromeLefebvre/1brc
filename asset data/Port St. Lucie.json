@@ -1,0 +1,147 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 283,
+        "reset": 1711756800
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "27\u00b0 17' 38.15988'' N",
+                    "lng": "80\u00b0 21' 1.18188'' W"
+                },
+                "FIPS": {
+                    "county": "12111",
+                    "state": "12"
+                },
+                "MGRS": "17RNL6428919158",
+                "Maidenhead": "EL97th70xn",
+                "Mercator": {
+                    "x": -8944557.631,
+                    "y": 3140654.626
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=117973#map=16/27.29393/-80.35033",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/27.29393/-80.35033&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=27.29393&mlon=-80.35033#map=16/27.29393/-80.35033"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddfa\ud83c\uddf8",
+                "geohash": "dhyg78dwttuwp3h0q3qg",
+                "qibla": 56.18,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1711710900,
+                        "astronomical": 1711706220,
+                        "civil": 1711709520,
+                        "nautical": 1711707900
+                    },
+                    "set": {
+                        "apparent": 1711755420,
+                        "astronomical": 1711673700,
+                        "civil": 1711670400,
+                        "nautical": 1711672020
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "solder.basket.itself"
+                },
+                "wikidata": "Q667749"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 27.3744233,
+                    "lng": -80.2442686
+                },
+                "southwest": {
+                    "lat": 27.2055643,
+                    "lng": -80.481303
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "ISO_3166-2": [
+                    "US-FL"
+                ],
+                "_category": "place",
+                "_normalized_city": "Port Saint Lucie",
+                "_type": "city",
+                "city": "Port Saint Lucie",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Saint Lucie County",
+                "state": "Florida",
+                "state_code": "FL"
+            },
+            "confidence": 4,
+            "formatted": "Port Saint Lucie, Florida, United States of America",
+            "geometry": {
+                "lat": 27.2939333,
+                "lng": -80.3503283
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Fri, 29 Mar 2024 23:02:05 GMT",
+        "created_unix": 1711753325
+    },
+    "total_results": 1
+}
