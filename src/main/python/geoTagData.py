@@ -20,7 +20,7 @@ def build_weather_station_name_list():
     #return sorted(list(set(station_names)))
 
 def downloadDetails(city):
-    api_key = '05af1d27b3324168827c9bca0a294c3e'
+    api_key = '' # add API key
     url = f'https://api.opencagedata.com/geocode/v1/json?q={city}&key={api_key}'
     path = f'/Users/jeromelefebvre/GitHub/python-1brc/asset data/{city}.json'
     if os.path.exists(path):
